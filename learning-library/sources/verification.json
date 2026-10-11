@@ -1,0 +1,95 @@
+{
+  "total_books": 7,
+  "total_pages": 1369,
+  "ocr_pages": 371,
+  "native_pages": 998,
+  "errors": [],
+  "books": [
+    {
+      "id": "grammar",
+      "source_file": "English Grammar in Use Book with Answers -- A self-study reference and practice book for intermediate learners of English (Raymond Murphy) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 392,
+      "native_pages": 390,
+      "ocr_pages": 2,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 65,
+      "low_text_pages": [
+        2,
+        13
+      ],
+      "mean_ocr_page_confidence": 96.13
+    },
+    {
+      "id": "phrasal-verbs",
+      "source_file": "English Phrasal Verbs in Use (Michael McCarthy, Felicity ODell) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 210,
+      "native_pages": 210,
+      "ocr_pages": 0,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 43,
+      "low_text_pages": [],
+      "mean_ocr_page_confidence": null
+    },
+    {
+      "id": "phrasal-verbs-advanced",
+      "source_file": "English Phrasal Verbs in Use Advanced (Vocabulary in Use) (McCarthy, Michael, ODell, Felicity) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 189,
+      "native_pages": 0,
+      "ocr_pages": 189,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 38,
+      "low_text_pages": [],
+      "mean_ocr_page_confidence": 93.75
+    },
+    {
+      "id": "pronunciation-introduction",
+      "source_file": "English Pronunciation In Use - Introduction (Mark Hancock) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 19,
+      "native_pages": 7,
+      "ocr_pages": 12,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 5,
+      "low_text_pages": [
+        1
+      ],
+      "mean_ocr_page_confidence": 80.13
+    },
+    {
+      "id": "pronunciation-elementary",
+      "source_file": "English Pronunciation in Use - Elementary (Jonathan Marks) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 168,
+      "native_pages": 0,
+      "ocr_pages": 168,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 25,
+      "low_text_pages": [
+        1
+      ],
+      "mean_ocr_page_confidence": 88.75
+    },
+    {
+      "id": "pronunciation-advanced",
+      "source_file": "English Pronunciation in Use Advanced (Martin Hewings) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 191,
+      "native_pages": 191,
+      "ocr_pages": 0,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 42,
+      "low_text_pages": [],
+      "mean_ocr_page_confidence": null
+    },
+    {
+      "id": "oxford-idioms",
+      "source_file": "Oxford Word Skills Advanced Idioms  Phrasal Verbs Student Book with Key (Ruth Gairns, Stuart Redman) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "pdf_pages": 200,
+      "native_pages": 200,
+      "ocr_pages": 0,
+      "conversion_status": "automatic-extraction-needs-review",
+      "pages_with_layout_tables": 77,
+      "low_text_pages": [],
+      "mean_ocr_page_confidence": null
+    }
+  ],
+  "scope": "file coverage and integrity; not a human proofread",
+  "passed": true
+}

@@ -1,0 +1,820 @@
+{
+  "book_id": "french-stories",
+  "source_file": "Learn French for Beginners - 3 in 1 Bundle 40 Exciting French Short Stories to Easily Learn French  Improve Your Vocabulary… (Language Learning, Touri) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+  "spine_documents": 313,
+  "blocks": 4892,
+  "units": 40,
+  "volumes": [
+    10,
+    10,
+    20
+  ],
+  "lessons": 40,
+  "original_examples": 120,
+  "original_exercises": 80,
+  "reader_unit_blocks": 4557,
+  "fr_story_blocks": 1332,
+  "non_story_spine_documents": 43,
+  "validation": {
+    "lesson_schema": "40 lessons parsed by build_site.parse_lesson; exactly 9 sections, 120 examples and 80 quizzes",
+    "source_text": "All 313 spine documents compared to original XML body text after whitespace normalization; list labels retained from EPUB upper-alpha style with source_text for comparison",
+    "local_links": "All local links and images in book.md checked against extracted raw members",
+    "reader_partition": "All 4892 text blocks occur exactly once in reader units or front_matter"
+  },
+  "source_note": "Full EPUB spine, raw XHTML/assets, source vocabulary/exercises/keys retained. English summaries are summaries, not full translations. Source-derived text and new Chinese editorial material are distinct.",
+  "issues": [
+    {
+      "unit": 4,
+      "message": "原书第2题仅四个选项，答案却写E；按题面“成人吃很多难吃的东西”应对应A。原答案照存。"
+    },
+    {
+      "unit": 12,
+      "message": "正文主人名为Alice，原题第1题选项却无Alice，答案A对应Alison；英语摘要还把Oxy代词变成she。以法语正文辨认角色，原版照存。"
+    },
+    {
+      "unit": 16,
+      "message": "原书第3题正文为Monocle（B），答案却D；第4题正文奶是Chaud（D），答案却B（Coloré）。原答案照存。"
+    },
+    {
+      "unit": 21,
+      "message": "人物对骨骼、肌肉与武术训练的断言属于原作叙述，未作为可靠健康知识校核。本课不将其用作训练指导或正确知识测验。"
+    },
+    {
+      "unit": 26,
+      "message": "原文营养讨论存在简化断言，不能作为个体饮食或补充剂指导；原文把pâtes（面食）多处拼成pattes（爪/腿），新编例句使用规范拼写。"
+    },
+    {
+      "unit": 27,
+      "message": "原作声称锁图标能保证网站和下载安全，此结论不成立；HTTPS连接加密不保证网站可信或文件安全，见Chromium官方说明。词表还把rhume与grippe英译颠倒：rhume是感冒，grippe是流感。"
+    },
+    {
+      "unit": 29,
+      "message": "原文家庭处理受伤情节未作医疗方法校核；只用于理解人物感受与语言，不作伤情处理指引。"
+    },
+    {
+      "unit": 37,
+      "message": "原书第1–4题答案与正文/题面冲突：正文与法题应为A、D、D、A，原答案为D、A、A、C；第5题A一致。原答案照存。"
+    },
+    {
+      "unit": 40,
+      "message": "原作清洁用品、口罩与家务操作描述属于故事情节，未作为产品安全使用说明校核。"
+    },
+    {
+      "unit": 0,
+      "message": "原作多处法语拼写、变位、配合及英文词表译义存在问题；完整来源照存，课程自编例句另行规范编辑。level为本项目教学建议，故事虽标“初学者”仍大量使用简单过去时与复杂句，按B1带读。"
+    }
+  ],
+  "records": [
+    {
+      "source_book": "french-stories",
+      "source_unit": 1,
+      "lesson_ids": [
+        "S01"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0011.xhtml",
+        "OEBPS/part0012.xhtml",
+        "OEBPS/part0013.xhtml",
+        "OEBPS/part0014.xhtml",
+        "OEBPS/part0015.xhtml",
+        "OEBPS/part0016.xhtml"
+      ],
+      "title": "Ça Roule !",
+      "volume": 1,
+      "chapter": 1
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 2,
+      "lesson_ids": [
+        "S02"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0017.xhtml",
+        "OEBPS/part0018.xhtml",
+        "OEBPS/part0019.xhtml",
+        "OEBPS/part0020.xhtml",
+        "OEBPS/part0021.xhtml",
+        "OEBPS/part0022.xhtml"
+      ],
+      "title": "Sauvons le village!",
+      "volume": 1,
+      "chapter": 2
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 3,
+      "lesson_ids": [
+        "S03"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0024.xhtml",
+        "OEBPS/part0025.xhtml",
+        "OEBPS/part0026.xhtml",
+        "OEBPS/part0027.xhtml",
+        "OEBPS/part0028.xhtml",
+        "OEBPS/part0029.xhtml"
+      ],
+      "title": "Un nouvel ami",
+      "volume": 1,
+      "chapter": 3
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 4,
+      "lesson_ids": [
+        "S04"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0030.xhtml",
+        "OEBPS/part0031.xhtml",
+        "OEBPS/part0032.xhtml",
+        "OEBPS/part0033.xhtml",
+        "OEBPS/part0034.xhtml",
+        "OEBPS/part0035.xhtml"
+      ],
+      "title": "Ce n’est pas bon!",
+      "volume": 1,
+      "chapter": 4
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 5,
+      "lesson_ids": [
+        "S05"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0036.xhtml",
+        "OEBPS/part0037.xhtml",
+        "OEBPS/part0038.xhtml",
+        "OEBPS/part0039.xhtml",
+        "OEBPS/part0040.xhtml",
+        "OEBPS/part0041.xhtml"
+      ],
+      "title": "Fugue",
+      "volume": 1,
+      "chapter": 5
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 6,
+      "lesson_ids": [
+        "S06"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0042.xhtml",
+        "OEBPS/part0043.xhtml",
+        "OEBPS/part0044.xhtml",
+        "OEBPS/part0045.xhtml",
+        "OEBPS/part0046.xhtml",
+        "OEBPS/part0047.xhtml"
+      ],
+      "title": "Au royaume du damier",
+      "volume": 1,
+      "chapter": 6
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 7,
+      "lesson_ids": [
+        "S07"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0048.xhtml",
+        "OEBPS/part0049.xhtml",
+        "OEBPS/part0050.xhtml",
+        "OEBPS/part0051.xhtml",
+        "OEBPS/part0052.xhtml",
+        "OEBPS/part0053.xhtml"
+      ],
+      "title": "Au royaume du damier (continuation)",
+      "volume": 1,
+      "chapter": 7
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 8,
+      "lesson_ids": [
+        "S08"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0054.xhtml",
+        "OEBPS/part0055.xhtml",
+        "OEBPS/part0056.xhtml",
+        "OEBPS/part0057.xhtml",
+        "OEBPS/part0058.xhtml",
+        "OEBPS/part0059.xhtml"
+      ],
+      "title": "Une randonnée un peu spéciale",
+      "volume": 1,
+      "chapter": 8
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 9,
+      "lesson_ids": [
+        "S09"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0060.xhtml",
+        "OEBPS/part0061.xhtml",
+        "OEBPS/part0062.xhtml",
+        "OEBPS/part0063.xhtml",
+        "OEBPS/part0064.xhtml",
+        "OEBPS/part0065.xhtml"
+      ],
+      "title": "Hissez-ho! Matelots!",
+      "volume": 1,
+      "chapter": 9
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 10,
+      "lesson_ids": [
+        "S10"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0066.xhtml",
+        "OEBPS/part0067.xhtml",
+        "OEBPS/part0068.xhtml",
+        "OEBPS/part0069.xhtml",
+        "OEBPS/part0070.xhtml",
+        "OEBPS/part0071.xhtml"
+      ],
+      "title": "Coloriage spatiale",
+      "volume": 1,
+      "chapter": 10
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 11,
+      "lesson_ids": [
+        "S11"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0082.xhtml",
+        "OEBPS/part0083.xhtml",
+        "OEBPS/part0084.xhtml",
+        "OEBPS/part0085.xhtml",
+        "OEBPS/part0086.xhtml",
+        "OEBPS/part0087.xhtml",
+        "OEBPS/part0088.xhtml"
+      ],
+      "title": "Les choses géantes sont faites dans une usine !",
+      "volume": 2,
+      "chapter": 1
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 12,
+      "lesson_ids": [
+        "S12"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0089.xhtml",
+        "OEBPS/part0090.xhtml",
+        "OEBPS/part0091.xhtml",
+        "OEBPS/part0092.xhtml",
+        "OEBPS/part0093.xhtml",
+        "OEBPS/part0094.xhtml",
+        "OEBPS/part0095.xhtml"
+      ],
+      "title": "Paré au décollage!",
+      "volume": 2,
+      "chapter": 2
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 13,
+      "lesson_ids": [
+        "S13"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0097.xhtml",
+        "OEBPS/part0098.xhtml",
+        "OEBPS/part0099.xhtml",
+        "OEBPS/part0100.xhtml",
+        "OEBPS/part0101.xhtml",
+        "OEBPS/part0102.xhtml",
+        "OEBPS/part0103.xhtml"
+      ],
+      "title": "Meilleures amies",
+      "volume": 2,
+      "chapter": 3
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 14,
+      "lesson_ids": [
+        "S14"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0104.xhtml",
+        "OEBPS/part0105.xhtml",
+        "OEBPS/part0106.xhtml",
+        "OEBPS/part0107.xhtml",
+        "OEBPS/part0108.xhtml",
+        "OEBPS/part0109.xhtml",
+        "OEBPS/part0110.xhtml"
+      ],
+      "title": "La volière",
+      "volume": 2,
+      "chapter": 4
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 15,
+      "lesson_ids": [
+        "S15"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0111.xhtml",
+        "OEBPS/part0112.xhtml",
+        "OEBPS/part0113.xhtml",
+        "OEBPS/part0114.xhtml",
+        "OEBPS/part0115.xhtml",
+        "OEBPS/part0116.xhtml",
+        "OEBPS/part0117.xhtml"
+      ],
+      "title": "Galazio",
+      "volume": 2,
+      "chapter": 5
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 16,
+      "lesson_ids": [
+        "S16"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0118.xhtml",
+        "OEBPS/part0119.xhtml",
+        "OEBPS/part0120.xhtml",
+        "OEBPS/part0121.xhtml",
+        "OEBPS/part0122.xhtml",
+        "OEBPS/part0123.xhtml",
+        "OEBPS/part0124.xhtml"
+      ],
+      "title": "Voie lactée",
+      "volume": 2,
+      "chapter": 6
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 17,
+      "lesson_ids": [
+        "S17"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0125.xhtml",
+        "OEBPS/part0126.xhtml",
+        "OEBPS/part0127.xhtml",
+        "OEBPS/part0128.xhtml",
+        "OEBPS/part0129.xhtml",
+        "OEBPS/part0130.xhtml",
+        "OEBPS/part0131.xhtml"
+      ],
+      "title": "Esprits différents",
+      "volume": 2,
+      "chapter": 7
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 18,
+      "lesson_ids": [
+        "S18"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0132.xhtml",
+        "OEBPS/part0133.xhtml",
+        "OEBPS/part0134.xhtml",
+        "OEBPS/part0135.xhtml",
+        "OEBPS/part0136.xhtml",
+        "OEBPS/part0137.xhtml",
+        "OEBPS/part0138.xhtml"
+      ],
+      "title": "La forêt quatre-saisons",
+      "volume": 2,
+      "chapter": 8
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 19,
+      "lesson_ids": [
+        "S19"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0139.xhtml",
+        "OEBPS/part0140.xhtml",
+        "OEBPS/part0141.xhtml",
+        "OEBPS/part0142.xhtml",
+        "OEBPS/part0143.xhtml",
+        "OEBPS/part0144.xhtml",
+        "OEBPS/part0145.xhtml"
+      ],
+      "title": "Je connais tous les mots !",
+      "volume": 2,
+      "chapter": 9
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 20,
+      "lesson_ids": [
+        "S20"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0146.xhtml",
+        "OEBPS/part0147.xhtml",
+        "OEBPS/part0148.xhtml",
+        "OEBPS/part0149.xhtml",
+        "OEBPS/part0150.xhtml",
+        "OEBPS/part0151.xhtml",
+        "OEBPS/part0152.xhtml"
+      ],
+      "title": "Argent de poche",
+      "volume": 2,
+      "chapter": 10
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 21,
+      "lesson_ids": [
+        "S21"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0167.xhtml",
+        "OEBPS/part0168.xhtml",
+        "OEBPS/part0169.xhtml",
+        "OEBPS/part0170.xhtml",
+        "OEBPS/part0171.xhtml",
+        "OEBPS/part0172.xhtml",
+        "OEBPS/part0173.xhtml"
+      ],
+      "title": "Arts martiaux",
+      "volume": 3,
+      "chapter": 1
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 22,
+      "lesson_ids": [
+        "S22"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0174.xhtml",
+        "OEBPS/part0175.xhtml",
+        "OEBPS/part0176.xhtml",
+        "OEBPS/part0177.xhtml",
+        "OEBPS/part0178.xhtml",
+        "OEBPS/part0179.xhtml",
+        "OEBPS/part0180.xhtml"
+      ],
+      "title": "Mais c'est quoi, cette idée?",
+      "volume": 3,
+      "chapter": 2
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 23,
+      "lesson_ids": [
+        "S23"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0181.xhtml",
+        "OEBPS/part0182.xhtml",
+        "OEBPS/part0183.xhtml",
+        "OEBPS/part0184.xhtml",
+        "OEBPS/part0185.xhtml",
+        "OEBPS/part0186.xhtml",
+        "OEBPS/part0187.xhtml"
+      ],
+      "title": "Quelle chance !",
+      "volume": 3,
+      "chapter": 3
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 24,
+      "lesson_ids": [
+        "S24"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0188.xhtml",
+        "OEBPS/part0189.xhtml",
+        "OEBPS/part0190.xhtml",
+        "OEBPS/part0191.xhtml",
+        "OEBPS/part0192.xhtml",
+        "OEBPS/part0193.xhtml",
+        "OEBPS/part0194.xhtml"
+      ],
+      "title": "La vie n'est pas un jeu",
+      "volume": 3,
+      "chapter": 4
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 25,
+      "lesson_ids": [
+        "S25"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0195.xhtml",
+        "OEBPS/part0196.xhtml",
+        "OEBPS/part0197.xhtml",
+        "OEBPS/part0198.xhtml",
+        "OEBPS/part0199.xhtml",
+        "OEBPS/part0200.xhtml",
+        "OEBPS/part0201.xhtml"
+      ],
+      "title": "Bateau en bouteille",
+      "volume": 3,
+      "chapter": 5
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 26,
+      "lesson_ids": [
+        "S26"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0202.xhtml",
+        "OEBPS/part0203.xhtml",
+        "OEBPS/part0204.xhtml",
+        "OEBPS/part0205.xhtml",
+        "OEBPS/part0206.xhtml",
+        "OEBPS/part0207.xhtml",
+        "OEBPS/part0208.xhtml"
+      ],
+      "title": "Des Bonbons Pour Chaque Repas?",
+      "volume": 3,
+      "chapter": 6
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 27,
+      "lesson_ids": [
+        "S27"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0209.xhtml",
+        "OEBPS/part0210.xhtml",
+        "OEBPS/part0211.xhtml",
+        "OEBPS/part0212.xhtml",
+        "OEBPS/part0213.xhtml",
+        "OEBPS/part0214.xhtml",
+        "OEBPS/part0215.xhtml"
+      ],
+      "title": "Sûr et sécurisé",
+      "volume": 3,
+      "chapter": 7
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 28,
+      "lesson_ids": [
+        "S28"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0216.xhtml",
+        "OEBPS/part0217.xhtml",
+        "OEBPS/part0218.xhtml",
+        "OEBPS/part0219.xhtml",
+        "OEBPS/part0220.xhtml",
+        "OEBPS/part0221.xhtml",
+        "OEBPS/part0222.xhtml"
+      ],
+      "title": "Minuscule",
+      "volume": 3,
+      "chapter": 8
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 29,
+      "lesson_ids": [
+        "S29"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0223.xhtml",
+        "OEBPS/part0224.xhtml",
+        "OEBPS/part0225.xhtml",
+        "OEBPS/part0226.xhtml",
+        "OEBPS/part0227.xhtml",
+        "OEBPS/part0228.xhtml",
+        "OEBPS/part0229.xhtml"
+      ],
+      "title": "Ce n'est pas grave de pleurer",
+      "volume": 3,
+      "chapter": 9
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 30,
+      "lesson_ids": [
+        "S30"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0230.xhtml",
+        "OEBPS/part0231.xhtml",
+        "OEBPS/part0232.xhtml",
+        "OEBPS/part0233.xhtml",
+        "OEBPS/part0234.xhtml",
+        "OEBPS/part0235.xhtml",
+        "OEBPS/part0236.xhtml"
+      ],
+      "title": "Photos et souvenirs",
+      "volume": 3,
+      "chapter": 10
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 31,
+      "lesson_ids": [
+        "S31"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0237.xhtml",
+        "OEBPS/part0238.xhtml",
+        "OEBPS/part0239.xhtml",
+        "OEBPS/part0240.xhtml",
+        "OEBPS/part0241.xhtml",
+        "OEBPS/part0242.xhtml",
+        "OEBPS/part0243.xhtml"
+      ],
+      "title": "Parle avec moi",
+      "volume": 3,
+      "chapter": 11
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 32,
+      "lesson_ids": [
+        "S32"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0244.xhtml",
+        "OEBPS/part0245.xhtml",
+        "OEBPS/part0246.xhtml",
+        "OEBPS/part0247.xhtml",
+        "OEBPS/part0248.xhtml",
+        "OEBPS/part0249.xhtml",
+        "OEBPS/part0250.xhtml"
+      ],
+      "title": "Sorcière métamorphe!",
+      "volume": 3,
+      "chapter": 12
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 33,
+      "lesson_ids": [
+        "S33"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0251.xhtml",
+        "OEBPS/part0252.xhtml",
+        "OEBPS/part0253.xhtml",
+        "OEBPS/part0254.xhtml",
+        "OEBPS/part0255.xhtml",
+        "OEBPS/part0256.xhtml",
+        "OEBPS/part0257.xhtml"
+      ],
+      "title": "Météo",
+      "volume": 3,
+      "chapter": 13
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 34,
+      "lesson_ids": [
+        "S34"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0258.xhtml",
+        "OEBPS/part0259.xhtml",
+        "OEBPS/part0260.xhtml",
+        "OEBPS/part0261.xhtml",
+        "OEBPS/part0262.xhtml",
+        "OEBPS/part0263.xhtml",
+        "OEBPS/part0264.xhtml"
+      ],
+      "title": "Collection",
+      "volume": 3,
+      "chapter": 14
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 35,
+      "lesson_ids": [
+        "S35"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0265.xhtml",
+        "OEBPS/part0266.xhtml",
+        "OEBPS/part0267.xhtml",
+        "OEBPS/part0268.xhtml",
+        "OEBPS/part0269.xhtml",
+        "OEBPS/part0270.xhtml",
+        "OEBPS/part0271.xhtml"
+      ],
+      "title": "Tout le monde est un enseignant",
+      "volume": 3,
+      "chapter": 15
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 36,
+      "lesson_ids": [
+        "S36"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0272.xhtml",
+        "OEBPS/part0273.xhtml",
+        "OEBPS/part0274.xhtml",
+        "OEBPS/part0275.xhtml",
+        "OEBPS/part0276.xhtml",
+        "OEBPS/part0277.xhtml",
+        "OEBPS/part0278.xhtml"
+      ],
+      "title": "Qui a pris l’agneau ?",
+      "volume": 3,
+      "chapter": 16
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 37,
+      "lesson_ids": [
+        "S37"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0279.xhtml",
+        "OEBPS/part0280.xhtml",
+        "OEBPS/part0281.xhtml",
+        "OEBPS/part0282.xhtml",
+        "OEBPS/part0283.xhtml",
+        "OEBPS/part0284.xhtml",
+        "OEBPS/part0285.xhtml"
+      ],
+      "title": "Devine-moi ça!",
+      "volume": 3,
+      "chapter": 17
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 38,
+      "lesson_ids": [
+        "S38"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0286.xhtml",
+        "OEBPS/part0287.xhtml",
+        "OEBPS/part0288.xhtml",
+        "OEBPS/part0289.xhtml",
+        "OEBPS/part0290.xhtml",
+        "OEBPS/part0291.xhtml",
+        "OEBPS/part0292.xhtml"
+      ],
+      "title": "Marché d'enfants",
+      "volume": 3,
+      "chapter": 18
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 39,
+      "lesson_ids": [
+        "S39"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0293.xhtml",
+        "OEBPS/part0294.xhtml",
+        "OEBPS/part0295.xhtml",
+        "OEBPS/part0296.xhtml",
+        "OEBPS/part0297.xhtml",
+        "OEBPS/part0298.xhtml",
+        "OEBPS/part0299.xhtml"
+      ],
+      "title": "L’île tortue",
+      "volume": 3,
+      "chapter": 19
+    },
+    {
+      "source_book": "french-stories",
+      "source_unit": 40,
+      "lesson_ids": [
+        "S40"
+      ],
+      "source_hrefs": [
+        "OEBPS/part0300.xhtml",
+        "OEBPS/part0301.xhtml",
+        "OEBPS/part0302.xhtml",
+        "OEBPS/part0303.xhtml",
+        "OEBPS/part0304.xhtml",
+        "OEBPS/part0305.xhtml",
+        "OEBPS/part0306.xhtml"
+      ],
+      "title": "Nettoyons ça!",
+      "volume": 3,
+      "chapter": 20
+    }
+  ]
+}

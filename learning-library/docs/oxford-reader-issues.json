@@ -1,0 +1,11 @@
+[
+  {"unit":0,"message":"原书为双页扫描，PDF6右页对应印刷1页；课中页码均指印刷页。法英混排、地图、表格及手写内容的OCR不保证逐字准确，遇疑点请核原图。原CD未提供；原答案附录及合成朗读不能代替原录音听辨。"},
+  {"unit":0,"message":"法郎/欧元价格、人口与旅游统计、历史SNCF票务说明等保留原书年代语境；原创中文课不据此推断今天的价格、统计或规则。"},
+  {"unit":6,"message":"印刷67页原图已核：se lever说明句把词干重音写成é，但紧接的je me lève等例子正确使用è；中文教学采用规范的lève/levons。此处为原书说明误植，非仅OCR识别问题。"},
+  {"unit":11,"message":"印刷128–129页为原书顺势疗法症状表。保留用于理解原阅读任务；中文辅助仅教症状语言与读表，不把原表作为疗效证据或用药推荐。"},
+  {"unit":14,"message":"印刷160页两封感谢便条为手写文字，已对原图阅读：Sophie/Pierre使用tu和Grosses bises，Brigitte/Philippe使用vous和Amicalement。机器转录多处不可靠，具体拼写以原图为准。"},
+  {"unit":19,"message":"Answers中Example通常是开放题示例，不代表唯一正确句子；听力题答案/文字稿可阅读核对，但缺原CD时不能记为已完成原音听辨。紧凑字母数字题号须与单元及Activity/Test/Summary标题同时核对。"},
+  {"unit":20,"message":"印刷233–234页原图已核：prendre现在时印作je prend；partir将来复数印作ils/elles partirent；croire将来复数印作ils/elles croirons。规范形式分别为je prends、ils/elles partiront、ils/elles croiront。源文原样保留，T20明确纠正这些原书印刷误植。"},
+  {"unit":20,"message":"原语法总表有教学简化：tu命令式并非一律去-s（parle，但finis、prends）；代词式动词分词配合须看宾语结构，不能无条件随主语加-e/-s；不定式词尾也不能决定全部不规则变位。T20及相关课说明适用范围。"},
+  {"unit":22,"message":"印刷248页原索引确列en 79,109与y 109；109页主讲地点代词y，数量代词en重点在79页。请以正文讲解为准。245–247为术语表、248为索引；249页出版物广告与后续封底放在版本背景资料。"}
+]
