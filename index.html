@@ -1,0 +1,1432 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>英法汉对比研究</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@400;500;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a study edition — sticky chapter rail on the left, one reading column, trilingual tables keyed FR / EN / ZH. */
+:root {
+  --paper: #F6F7F5;
+  --sheet: #FFFFFF;
+  --ink: #18211E;
+  --muted: #5B6863;
+  --faint: #8A9690;
+  --rule: #DCE2DE;
+  --tint: #ECF0ED;
+  --accent: #1E5A6E;
+  --fr: #2A4E9B;
+  --en: #5B5F6E;
+  --zh: #A8372B;
+  --s-a: #2F7A4D;
+  --s-b: #A86A12;
+  --s-c: #7B8580;
+  --s-d: #2A63A0;
+  --kid: #7A5410;
+  --kid-bg: #FBF4E4;
+  --f-display: "Noto Serif SC", "Songti SC", "STSong", serif;
+  --f-body: "Noto Sans SC", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --f-latin: "Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --measure: 40em;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #121816; --sheet: #182020; --ink: #E3E9E6; --muted: #A1ADA8; --faint: #76837E;
+    --rule: #2A3532; --tint: #1D2725; --accent: #79B9CC;
+    --fr: #8EA9EC; --en: #B3B7C4; --zh: #F08E7F;
+    --s-a: #6CC48F; --s-b: #E3AA52; --s-c: #98A39E; --s-d: #78AEE6; --kid: #EBC27A; --kid-bg: #2A2519;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #121816; --sheet: #182020; --ink: #E3E9E6; --muted: #A1ADA8; --faint: #76837E;
+  --rule: #2A3532; --tint: #1D2725; --accent: #79B9CC;
+  --fr: #8EA9EC; --en: #B3B7C4; --zh: #F08E7F;
+  --s-a: #6CC48F; --s-b: #E3AA52; --s-c: #98A39E; --s-d: #78AEE6; --kid: #EBC27A; --kid-bg: #2A2519;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 1.25rem; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 400 16px/1.85 var(--f-body);
+  -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;
+}
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+::selection { background: color-mix(in srgb, var(--accent) 22%, transparent); }
+code { font-family: var(--f-mono); font-size: .86em; background: var(--tint); padding: .08em .35em; border-radius: 4px; overflow-wrap: anywhere; }
+pre { background: var(--tint); padding: .9rem 1rem; border-radius: 6px; overflow-x: auto; }
+pre code { background: none; padding: 0; }
+
+.shell {
+  display: grid; grid-template-columns: 17rem minmax(0, 1fr); gap: 3.5rem;
+  max-width: 76rem; margin: 0 auto; padding-inline: 2rem;
+}
+
+/* ---------- rail ---------- */
+.rail { position: sticky; top: env(safe-area-inset-top, 0px); align-self: start; max-height: 100vh; overflow-y: auto; padding-block: 2.25rem 3rem; scrollbar-width: thin; }
+.rail .brand { font: 700 1.05rem/1.3 var(--f-display); color: var(--ink); text-decoration: none; display: block; margin-bottom: .2rem; }
+.rail .brand-sub { font-size: .75rem; color: var(--faint); margin: 0 0 1.5rem; }
+.rail ol { list-style: none; margin: 0; padding: 0; }
+.rail .doc { border-top: 1px solid var(--rule); }
+.rail .dl { display: block; padding: .55rem 0; font-weight: 500; font-size: .9rem; color: var(--ink); text-decoration: none; }
+.rail .gl { display: block; font: 500 .72rem/1 var(--f-body); letter-spacing: .14em; color: var(--faint); text-decoration: none; padding: .7rem 0 .35rem; }
+.rail .parts { padding-bottom: .6rem; }
+.rail .grp ol a { display: flex; gap: .6rem; padding: .2rem .5rem; margin-left: -.5rem; border-radius: 4px; font-size: .84rem; line-height: 1.5; color: var(--muted); text-decoration: none; }
+.rail .grp ol a:hover, .rail .dl:hover { color: var(--accent); }
+.rail .nn { flex: 0 0 2.1em; font-family: var(--f-mono); font-size: .74rem; color: var(--faint); padding-top: .12em; }
+.rail a.on { color: var(--accent); background: var(--tint); }
+.rail a.on .nn { color: var(--accent); }
+.menu-btn { display: none; }
+
+/* ---------- main ---------- */
+main { min-width: 0; padding-block: 2.25rem 6rem; }
+.hero { padding-bottom: 2.5rem; border-bottom: 1px solid var(--rule); margin-bottom: 1rem; }
+.hero .over { font: 500 .75rem/1 var(--f-body); letter-spacing: .18em; color: var(--accent); margin: 0 0 1.1rem; }
+.hero h1 { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1rem; font: 900 clamp(2.1rem, 5.5vw, 3.4rem)/1.12 var(--f-display); margin: 0; letter-spacing: .02em; }
+.hero h1 .langs { display: inline-flex; gap: .45rem; }
+.hero h1 .langs span { font: 500 .8rem/1 var(--f-mono); letter-spacing: .04em; padding: .3rem .42rem; border: 1px solid currentColor; border-radius: 3px; }
+.hero .dek { max-width: var(--measure); color: var(--muted); font-size: 1.05rem; margin: 1rem 0 1.75rem; }
+.facts { display: flex; flex-wrap: wrap; gap: .5rem 2.25rem; margin: 0; padding: 0; }
+.facts div { display: grid; gap: .1rem; }
+.facts dt { font-size: .72rem; letter-spacing: .1em; color: var(--faint); }
+.facts dd { margin: 0; font: 500 .95rem/1.4 var(--f-body); font-variant-numeric: tabular-nums; }
+.caveat { margin: 1.75rem 0 0; max-width: var(--measure); font-size: .87rem; color: var(--muted); padding: .8rem 1rem; background: var(--tint); border-radius: 6px; }
+.caveat b { color: var(--ink); font-weight: 500; }
+
+.legend { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem 2rem; padding: 1.25rem 0 2rem; border-bottom: 1px solid var(--rule); font-size: .82rem; color: var(--muted); }
+.legend h2 { font: 500 .72rem/1 var(--f-body); letter-spacing: .14em; color: var(--faint); margin: 0 0 .6rem; }
+.legend ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .3rem; }
+.legend li { display: flex; align-items: baseline; gap: .55rem; line-height: 1.5; }
+
+.doc-sec { padding-top: 3.5rem; }
+.doc-sec + .doc-sec { margin-top: 2rem; border-top: 3px double var(--rule); }
+.doc-head { max-width: var(--measure); margin-bottom: 1.5rem; }
+.doc-head .eyebrow { font: 500 .75rem/1 var(--f-body); letter-spacing: .18em; color: var(--accent); margin: 0 0 .7rem; }
+.doc-head h1 { font: 700 1.65rem/1.35 var(--f-display); margin: 0 0 .6rem; text-wrap: balance; }
+.doc-sec#draft .doc-head h1 { font-size: 1.35rem; color: var(--muted); font-weight: 500; }
+.src { font-size: .78rem; color: var(--faint); }
+
+.prose { max-width: var(--measure); }
+.prose > p, .prose li { overflow-wrap: break-word; }
+.prose p { margin: 0 0 1.05em; }
+.prose h2 { font: 700 1.3rem/1.4 var(--f-display); margin: 2.6rem 0 1rem; text-wrap: balance; }
+.prose h3 { font: 700 1.1rem/1.45 var(--f-display); margin: 2rem 0 .8rem; text-wrap: balance; }
+.prose ul, .prose ol { padding-left: 1.3em; margin: 0 0 1.1em; }
+.prose li { margin-bottom: .35em; }
+.prose li::marker { color: var(--faint); }
+.prose strong { font-weight: 700; }
+.prose em { font-family: var(--f-latin); }
+a.ext::after { content: "↗"; font-size: .75em; margin-left: .1em; color: var(--faint); }
+a.file { text-decoration-style: dotted; }
+
+/* part openers */
+.prose h2.part { display: grid; gap: .35rem; margin: 3.5rem 0 1.5rem; padding: 1.5rem 0 0; border-top: 1px solid var(--ink); }
+.part .pn { font: 500 .75rem/1 var(--f-body); letter-spacing: .3em; color: var(--accent); }
+.part .pz { font: 900 2rem/1.25 var(--f-display); letter-spacing: .04em; }
+.part .pe { font: italic 400 1.05rem/1.4 var(--f-latin); color: var(--muted); }
+
+/* chapter */
+.chap { margin-top: 3rem; scroll-margin-top: 1rem; }
+.prose h3.ch { display: grid; grid-template-columns: 3rem minmax(0, 1fr); column-gap: .5rem; margin: 0 0 .5rem; align-items: baseline; }
+.ch .no { grid-row: span 2; font: 700 1.9rem/1 var(--f-display); color: var(--accent); }
+.ch .no.txt { font-size: 1rem; letter-spacing: .1em; padding-top: .4rem; }
+.ch .zh { font: 700 1.35rem/1.35 var(--f-display); }
+.ch .en { font: italic 400 .95rem/1.4 var(--f-latin); color: var(--muted); }
+.folio { display: flex; flex-wrap: wrap; gap: .3rem 1rem; margin: 0 0 1.4rem 3.5rem !important; font: 400 .74rem/1.4 var(--f-mono); color: var(--faint); font-variant-numeric: tabular-nums; }
+
+.lead .k { display: inline-block; font: 500 .74rem/1.4 var(--f-body); letter-spacing: .08em; padding: .1rem .45rem; border-radius: 3px; margin-right: .55rem; vertical-align: .12em; border: 1px solid currentColor; }
+.lead[data-k="book"] .k { color: var(--muted); }
+.lead[data-k="fr"] .k { color: var(--fr); }
+.lead[data-k="lit"] .k { color: var(--accent); }
+.lead[data-k="judge"] .k { color: var(--ink); }
+.lead[data-k="data"] .k { color: var(--s-d); }
+.lead[data-k="open"] .k { color: var(--s-b); border-style: dashed; }
+.lead[data-k="find"] .k { color: var(--sheet); background: var(--ink); border-color: var(--ink); }
+.lead[data-k="misc"] .k { color: var(--muted); }
+.chap .lead[data-k="book"] { color: var(--muted); }
+
+/* citations */
+.cites { white-space: nowrap; }
+.cite { display: inline-block; font: 500 .7rem/1 var(--f-mono); padding: .22rem .32rem .18rem; margin-left: .18rem; border-radius: 3px; text-decoration: none; vertical-align: .14em; color: var(--c); background: color-mix(in srgb, var(--c) 11%, transparent); }
+.cite:hover { background: color-mix(in srgb, var(--c) 22%, transparent); }
+.s-a { --c: var(--s-a); } .s-b { --c: var(--s-b); } .s-c { --c: var(--s-c); } .s-d { --c: var(--s-d); } .s-\? { --c: var(--muted); }
+
+/* tables */
+.tw { overflow-x: auto; margin: 1.2rem 0 1.6rem; -webkit-overflow-scrolling: touch; }
+.prose table { border-collapse: collapse; width: 100%; font-size: .9rem; line-height: 1.6; }
+.prose th { text-align: left; font-weight: 500; font-size: .76rem; letter-spacing: .04em; color: var(--muted); padding: .5rem .8rem .5rem 0; border-bottom: 1px solid var(--ink); vertical-align: bottom; }
+.prose td { padding: .65rem .8rem .65rem 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.tri { min-width: 36rem; }
+.tri th .lang { display: inline-block; font: 500 .66rem/1 var(--f-mono); padding: .2rem .3rem; border-radius: 2px; margin-right: .45rem; color: var(--sheet); background: var(--lc); }
+.tri .l-fr { --lc: var(--fr); } .tri .l-en { --lc: var(--en); } .tri .l-zh { --lc: var(--zh); }
+.tri td { width: 33.3%; box-shadow: inset 2px 0 0 color-mix(in srgb, var(--lc) 55%, transparent); padding-left: .75rem; }
+.tri th { padding-left: .75rem; }
+.tri td.l-fr, .tri td.l-en { font-family: var(--f-latin); font-size: .98rem; }
+.tri td.l-fr { color: var(--ink); }
+.verdict { min-width: 34rem; }
+.verdict td:first-child { font-family: var(--f-display); font-weight: 700; white-space: nowrap; }
+.verdict td:nth-child(3) { color: var(--muted); }
+.verdict td:nth-child(2)::before { content: "✓ "; color: var(--s-a); font-weight: 700; }
+.verdict td:nth-child(3)::before { content: "✕ "; color: var(--zh); font-weight: 700; }
+.stats { min-width: 32rem; font-variant-numeric: tabular-nums; }
+.stats th.num { text-align: right; }
+.stats td.num { position: relative; text-align: right; white-space: nowrap; padding-left: .8rem; }
+.stats .bar { position: absolute; left: .8rem; right: .8rem; bottom: .3rem; height: 3px; background: var(--rule); border-radius: 2px; }
+.stats .bar::after { content: ""; position: absolute; inset: 0 auto 0 0; width: var(--p); background: var(--accent); border-radius: 2px; }
+.stats .v { font-weight: 500; }
+.stats .pc { display: inline-block; min-width: 3.6em; color: var(--faint); font-size: .8rem; margin-left: .35rem; }
+
+/* bibliography */
+.entry { padding: 1.25rem 0 .4rem; border-top: 1px solid var(--rule); scroll-margin-top: 1rem; }
+.entry:target { background: linear-gradient(var(--tint), var(--tint)) no-repeat; background-size: 100% 100%; box-shadow: -1rem 0 0 var(--tint), 1rem 0 0 var(--tint); }
+.prose h3.bib { display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem .6rem; margin: 0 0 .5rem; font-size: 1.02rem; }
+.bib .rid { font: 500 .85rem/1 var(--f-mono); color: var(--faint); }
+.bib .st { font: 500 .72rem/1 var(--f-body); padding: .22rem .4rem; border-radius: 3px; color: var(--c); background: color-mix(in srgb, var(--c) 12%, transparent); }
+.entry p { font-size: .92rem; }
+.entry ul { font-size: .88rem; color: var(--muted); }
+
+
+
+/* kid-level analogy */
+.kid { margin: 1.4rem 0 1.6rem; padding: 1rem 1.15rem .3rem; background: var(--kid-bg); border-radius: 10px; font-size: .95rem; }
+.kid-k { font: 500 .74rem/1 var(--f-body) !important; letter-spacing: .12em; color: var(--kid); margin: 0 0 .7rem !important; }
+.kid p { margin: 0 0 .8em; }
+.kid code { background: color-mix(in srgb, var(--kid) 10%, transparent); }
+.terms { margin: 1rem 0 1.5rem; padding: .9rem 1.1rem .5rem; border: 1px dashed color-mix(in srgb, var(--kid) 55%, transparent); border-radius: 10px; font-size: .92rem; }
+.terms ul { list-style: none; padding: 0; margin: 0; display: grid; gap: .55rem; }
+.terms li { margin: 0; line-height: 1.75; }
+.terms li strong { color: var(--kid); font-weight: 700; margin-right: .1rem; }
+.terms code { background: color-mix(in srgb, var(--kid) 10%, transparent); }
+.kid-sum b { font-weight: 700; color: var(--kid); margin-right: .5rem; }
+
+/* pronunciation */
+.w { cursor: pointer; border-radius: 2px; transition: background-color .12s ease-out; }
+.w:hover { background: color-mix(in srgb, var(--fr) 14%, transparent); }
+.w.on { background: color-mix(in srgb, var(--fr) 28%, transparent); }
+code .fr .w { color: var(--fr); text-decoration: underline dotted color-mix(in srgb, var(--fr) 60%, transparent); text-underline-offset: 3px; padding: .1em .15em; margin: 0 -.05em; }
+code .fr .w:hover { text-decoration-style: solid; }
+.no-tts code .fr .w { color: inherit; text-decoration: none; }
+.say { display: inline-flex; align-items: center; justify-content: center; width: 1.6rem; height: 1.6rem; margin: 0 0 0 .25rem; padding: 0; vertical-align: -.35em; border: 0; border-radius: 50%; background: transparent; color: var(--fr); cursor: pointer; }
+.say:hover, .say.on { background: color-mix(in srgb, var(--fr) 14%, transparent); }
+.say svg { width: .95rem; height: .95rem; }
+.no-tts .say { display: none; }
+.no-tts .w { cursor: auto; }
+.no-tts .w:hover { background: none; }
+@media (prefers-reduced-motion: reduce) { .w { transition: none; } }
+
+/* ---------- narrow ---------- */
+@media (max-width: 960px) {
+  .shell { grid-template-columns: minmax(0, 1fr); gap: 0; padding-inline: 1rem; }
+  .rail { position: fixed; inset: 0 auto 0 0; width: min(20rem, 86vw); max-height: none; z-index: 20; background: var(--paper); padding: calc(1.5rem + env(safe-area-inset-top, 0px)) 1.25rem 2rem; border-right: 1px solid var(--rule); transform: translateX(-102%); transition: transform .22s ease-out; }
+  body.nav-open .rail { transform: none; }
+  .menu-btn { display: inline-flex; align-items: center; gap: .45rem; position: fixed; right: 1rem; bottom: calc(1rem + env(safe-area-inset-bottom, 0px)); z-index: 30; font: 500 .85rem/1 var(--f-body); color: var(--sheet); background: var(--ink); border: 0; border-radius: 999px; padding: .75rem 1.1rem; cursor: pointer; box-shadow: 0 4px 14px rgba(0,0,0,.18); }
+  .folio { margin-left: 0 !important; }
+  .prose h3.ch { grid-template-columns: 2.4rem minmax(0, 1fr); }
+  .ch .no { font-size: 1.5rem; }
+}
+@media (prefers-reduced-motion: reduce) { .rail { transition: none; } }
+</style>
+</head>
+<body>
+<div class="shell">
+  <nav class="rail" id="rail" aria-label="目录">
+    <a class="brand" href="#top">英法汉对比研究</a>
+    <p class="brand-sub">第一轮研究文件 · 2026-10-11</p>
+    <ol><li class="doc"><a href="#draft" class="dl">研究稿</a><ol class="parts"><li class="grp"><a href="#draft-2" class="gl">上篇</a><ol><li><a href="#draft-3"><span class="nn">绪论</span>语言与文化</a></li><li><a href="#draft-4"><span class="nn">1</span>综合语与分析语</a></li><li><a href="#draft-5"><span class="nn">2</span>刚性与柔性</a></li><li><a href="#draft-6"><span class="nn">3</span>形合与意合</a></li><li><a href="#draft-7"><span class="nn">4</span>繁复与简短</a></li><li><a href="#draft-8"><span class="nn">5</span>物称与人称</a></li><li><a href="#draft-9"><span class="nn">6</span>被动与主动</a></li><li><a href="#draft-10"><span class="nn">7</span>静态与动态</a></li><li><a href="#draft-11"><span class="nn">8</span>抽象与具体</a></li><li><a href="#draft-12"><span class="nn">9</span>间接与直接</a></li><li><a href="#draft-13"><span class="nn">10</span>替换与重复</a></li><li><a href="#draft-14"><span class="nn">综述</span>英汉语言常用的表达方式</a></li></ol></li><li class="grp"><a href="#draft-15" class="gl">下篇</a><ol><li><a href="#draft-16"><span class="nn">绪论</span>思维方式</a></li><li><a href="#draft-17"><span class="nn">1</span>伦理型与认知型</a></li><li><a href="#draft-18"><span class="nn">2</span>整体性与分析性</a></li><li><a href="#draft-19"><span class="nn">3</span>意向性与对象性</a></li><li><a href="#draft-20"><span class="nn">4</span>直觉性与逻辑性</a></li><li><a href="#draft-21"><span class="nn">5</span>意象性与实证性</a></li><li><a href="#draft-22"><span class="nn">6</span>模糊性与精确性</a></li><li><a href="#draft-23"><span class="nn">7</span>求同性与求异性</a></li><li><a href="#draft-24"><span class="nn">8</span>后馈性与前瞻性</a></li><li><a href="#draft-25"><span class="nn">9</span>内向性与外向性</a></li><li><a href="#draft-26"><span class="nn">10</span>归纳型与演绎型</a></li><li><a href="#draft-27"><span class="nn">综述</span>悟性与理性</a></li></ol></li></ol></li><li class="doc"><a href="#lit" class="dl">文献与证据</a></li><li class="doc"><a href="#corpus" class="dl">平行语料核验</a></li><li class="doc"><a href="#method" class="dl">检索方法</a></li><li class="doc"><a href="#toc" class="dl">原书目录</a></li><li class="doc"><a href="#qa" class="dl">质量检查</a></li></ol>
+  </nav>
+
+  <main id="top">
+    <header class="hero">
+      <p class="over">连淑能《英汉对比研究（增订本）》· 法语增补</p>
+      <h1>英法汉对比研究<span class="langs" aria-hidden="true"><span style="color:var(--fr)">FR</span><span style="color:var(--en)">EN</span><span style="color:var(--zh)">ZH</span></span></h1>
+      <p class="dek">沿用原书两篇、二十章、两篇绪论与两篇综述的章序，在每章加入法语例证、英法和中法文献，以及三语平行语料的初步检验。原书论域、法语补充、文献判断与待验证问题分开标注。</p>
+      <dl class="facts">
+        <div><dt>底本</dt><dd>高等教育出版社 · 2010 · 373 页</dd></div>
+        <div><dt>结构</dt><dd>2 篇 · 24 个研究章节</dd></div>
+        <div><dt>新增文献</dt><dd>25 条编号记录</dd></div>
+        <div><dt>平行语料</dt><dd>UD-PUD r2.16 · 3 × 1,000 句段</dd></div>
+      </dl>
+      <p class="caveat"><b>这是第一轮研究稿，不是定稿。</b>原书逐字和逐小节校勘尚未完成；OCR 有错识风险；部分文献只核查了摘要或书目；下篇各认知维度缺少直接三语证据。</p>
+    </header>
+
+    <section class="legend" aria-label="阅读说明">
+      <div>
+        <h2>段落标签</h2>
+        <ul>
+          <li class="lead" data-k="book"><b class="k">原书论域</b>连淑能原书的讨论范围</li>
+          <li class="lead" data-k="fr"><b class="k">法语补充</b>本次新增，非原书内容</li>
+          <li class="lead" data-k="lit"><b class="k">文献发现</b>来自新增文献，带证据状态</li>
+          <li class="lead" data-k="judge"><b class="k">研究判断</b>本次研究的推论</li>
+          <li class="lead" data-k="data"><b class="k">独立核验</b>平行语料统计</li>
+          <li class="lead" data-k="open"><b class="k">待验证</b>证据缺口与下一步</li>
+          <li><span class="cite" style="--c:var(--kid);background:var(--kid-bg)">比喻</span>每章开头“先弄懂这些词”，法语补充后“讲给小朋友听”</li>
+        </ul>
+      </div>
+      <div>
+        <h2>引用的证据状态</h2>
+        <ul>
+          <li><span class="cite s-a">A</span>取得全文，已读相关部分 · 11 条</li>
+          <li><span class="cite s-b">B</span>只核查摘要、页面或预览 · 10 条</li>
+          <li><span class="cite s-c">C</span>书目或线索，不作结果证据 · 3 条</li>
+          <li><span class="cite s-d">D</span>数据与本次计算，可复现 · 1 条</li>
+        </ul>
+      </div>
+      <div>
+        <h2>例句表</h2>
+        <ul>
+          <li><span class="cite" style="--c:var(--fr)">FR</span>法语，多为自拟</li>
+          <li><span class="cite" style="--c:var(--en)">EN</span>英语对应</li>
+          <li><span class="cite" style="--c:var(--zh)">ZH</span>汉语对应</li>
+          <li>点击法语单词发音；<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" style="color:var(--fr);vertical-align:-2px" aria-hidden="true"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg> 朗读整句</li>
+          <li>自拟例句只说明可能性，不证明频率</li>
+        </ul>
+      </div>
+    </section>
+
+<section class="doc-sec" id="draft" data-doc="draft"><header class="doc-head"><p class="eyebrow">研究稿</p><h1>英法汉对比研究：按《英汉对比研究（增订本）》原章序的研究稿</h1><a class="src file" href="docs/research/英法汉对比研究-研究稿.md">Markdown 原文</a></header><div class="prose">
+<p>研究日期：2026-10-11。底本：连淑能《英汉对比研究：增订本》，高等教育出版社，2010。阶段：第一轮文献研究与三语例证分析；不是完成逐句校勘、代表性语料验证的定稿。</p>
+<p>本稿保留原书两篇、二十章、两篇绪论和两篇综述的名称、次序及页码。章节中新增的“法语补充”均为本次研究，不是连淑能原文；原书完整机器转录见 <span title="本地研究档案">结构化 OCR（本地档案）</span>。本稿按原书章级结构展开；原书章内所有小节及论证仍保留于 OCR，尚未逐小节插入法语研究。不能把本稿视作逐节补齐的新版原书。</p>
+<p>引用用 <code>[Rxx]</code> 对应 <a href="#lit">文献目录与证据状态</a>；<code><span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></code> 对应 <a href="#corpus">三语平行语料核验</a>。标为“自拟”的句子只说明语法或语用可能性，不证明频率；标为“文献发现”的内容只在所述样本和任务内成立。除特别说明外，法语指当代标准法语，英语指当代标准英语，汉语指现代标准汉语；口语和正式书面语分开讨论。“中西”是沿用底本的分类，不把所有法语地区或英语地区视为同一个文化群体。</p>
+<h2 id="draft-2" class="part"><span class="pn">上篇</span><span class="pz">英汉语言文化</span><span class="pe">Language &amp; Culture: English vs. Chinese</span></h2>
+<section class="chap"><h3 id="draft-3" class="ch"><span class="no txt">绪论</span><span class="zh">语言与文化</span><span class="en">Language and Culture</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 3–24</span><span>PDF pp. 12–33</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>对比语言研究、语言与文化的关系、研究对象与研究方法。把法语加入后，研究单位不能只是三个单词或三个句子的表面对应，应同时记录表达的功能、语体、说话者关系和翻译方向。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>对比语言研究</strong>：把两种语言放在一起，找哪里一样、哪里不一样，像把两个小朋友的玩具箱倒出来比一比。</li>
+<li><strong>语言与文化</strong>：语言是一家人说话的习惯，文化是这家人怎么过日子。怎么过日子会影响怎么说话，说话的方式也会带着生活习惯。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>三语比较以“相同情境下有哪些表达资源”为起点。法语 <code><span class="fr" lang="fr">vous</span></code>、英语 <code>you</code>、汉语“您”并非一对一对应。<code><span class="fr" lang="fr">vous</span></code> 同时涉及复数与敬称，英语常以称呼和缓和结构表达关系，汉语还可以省略称谓或用职务称呼。译成同一个“您”，会隐藏原语中的数和礼貌差别。</p>
+<p>自拟情境：陌生人向一位成年人询问姓名。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Comment vous appelez-vous ?</td><td class="l-en" lang="en">What is your name?</td><td class="l-zh" lang="zh-CN">请问您怎么称呼？</td></tr>
+<tr><td class="l-fr" lang="fr">Tu t'appelles comment ?（换成对熟人）</td><td class="l-en" lang="en">What's your name?（需靠情境区分）</td><td class="l-zh" lang="zh-CN">你叫什么名字？</td></tr>
+</tbody>
+</table></div>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>说话像穿衣服：见爷爷和跟好朋友玩，穿的不一样。法语有两件衣服：<code><span class="fr" lang="fr">tu</span></code> 给好朋友和小孩，<code><span class="fr" lang="fr">vous</span></code> 给大人、陌生人，或者同时对好几个人说。英语只有一件 <code>you</code>，靠语气和称呼分场合。中文的“您”像一件礼服，但它没有“好几个人”的意思。三件衣服都翻成“您”，就丢了信息。</p>
+<p class="kid-sum"><b>一句话</b> 比较语言，要先看对谁说、在什么场合说，不能只对单词。</p></aside><p class="lead" data-k="lit"><b class="k">文献与研究判断</b>英法比较修辞传统提供翻译操作框架，但不能替代当代语料检验。<span class="cites"><a class="cite s-b" href="#r15" title="R15 · B · 英法比较修辞经典">R15</a></span> 中法研究既有翻译教学，也有自然/诱发互动和标注语篇等方法，所得结论的适用范围不同。<span class="cites"><a class="cite s-b" href="#r01" title="R01 · B · 话题与语篇话题">R01</a><a class="cite s-a" href="#r09" title="R09 · A · 中法分歧表达（最终博士论文）">R09</a><a class="cite s-a" href="#r11" title="R11 · A · 主题与主语的翻译教学">R11</a></span> 本研究据此分四层：形式约束、语篇分布、互动功能、认知假说。前三层不能自动推出第四层。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>正式扩充须采用三语可比原生语料与双向译文，而不只依靠英语原文的法汉译本；同时标注法国、魁北克等地区，避免把地区差别归为语言差别。</p>
+</section><section class="chap"><h3 id="draft-4" class="ch"><span class="no">1</span><span class="zh">综合语与分析语</span><span class="en">Synthetic vs. Analytic</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 25–50</span><span>PDF pp. 34–59</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>形态变化、语序、虚词以及语调与声调。原书已把现代英语称为综合—分析语，不能把本章理解成“英语纯综合、汉语纯分析”。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>综合语</strong>：一个词自己会变样子，把“几个”“什么时候”“谁做的”都装在词身上。像变形玩具，同一个玩具能变出好几种样子：英语 go 变成 went，就知道是过去。</li>
+<li><strong>分析语</strong>：词自己不变样子，靠排队顺序和小帮手词来说清楚。像积木，每块积木不变，靠怎么摆：中文“去”不变，加个“了”或者“昨天”就知道是过去。</li>
+<li><strong>形态变化</strong>：词换衣服，比如 book 变 books、go 变 went。中文的词基本不换衣服。</li>
+<li><strong>虚词</strong>：没有实在东西的“胶水词”，把别的词粘起来，比如“的、了、在、把”，法语的 <code><span class="fr" lang="fr">de</span></code>、<code><span class="fr" lang="fr">à</span></code>。</li>
+<li><strong>语序</strong>：词排队的顺序。“狗咬人”和“人咬狗”词一样，排队不一样，意思就完全不同。</li>
+<li><strong>综合—分析语</strong>：英语两样都有，一半是变形玩具，一半是积木，所以不能说英语“纯综合”。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充：形态</b>法语具有名词语法性、数及广泛的一致关系，动词表达时、式、人称等；同时大量使用冠词、介词、助动词和固定语序。它也不是纯粹依靠词尾的语言。尤其书写与语音不对称：<code><span class="fr" lang="fr">petite</span>/<span class="fr" lang="fr">petites</span></code> 常同音，<code><span class="fr" lang="fr">parle</span>/<span class="fr" lang="fr">parles</span>/<span class="fr" lang="fr">parlent</span></code> 在常见读法中同音。不能按字面词尾数给口语排“综合程度”。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟例句</th>
+<th class="l-en"><span class="lang">EN</span>英语对应</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语对应</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Les petites filles sont arrivées.</td><td class="l-en" lang="en">The little girls have arrived.</td><td class="l-zh" lang="zh-CN">那几个小女孩已经到了。</td></tr>
+<tr><td class="l-fr" lang="fr">Hier, je travaillais quand il a téléphoné.</td><td class="l-en" lang="en">Yesterday, I was working when he called.</td><td class="l-zh" lang="zh-CN">昨天他打电话来的时候，我正在工作。</td></tr>
+<tr><td class="l-fr" lang="fr">Demain, je pars. / Demain, je partirai.</td><td class="l-en" lang="en">I'm leaving tomorrow. / I will leave tomorrow.</td><td class="l-zh" lang="zh-CN">我明天走。／我明天会走。</td></tr>
+</tbody>
+</table></div>
+<p>第一例中，法语多个书写成分协同表达性、数和一致；汉语的“那几个”并不是复数词尾。第二例中，法语 <code><span class="fr" lang="fr">imparfait</span>/<span class="fr" lang="fr">passé composé</span></code>、英语过去进行式/一般过去式与汉语“正在”、事件顺序和时间词形成不同组合；不能用“了=过去时”“imparfait=正在”替换。</p>
+<p class="lead" data-k="fr"><b class="k">语序与虚词</b><code><span class="fr" lang="fr">Je le lui donne</span></code> 的代词序列有严格约束；<code><span class="fr" lang="fr">je donne le livre à Marie</span></code> 与英语 <code>I give Marie the book</code> 的论元安排不同。法语的 <code><span class="fr" lang="fr">de</span>/<span class="fr" lang="fr">à</span></code> 与汉语“的/给”只有部分功能重叠。汉语缺少法语式冠词范畴，不代表不能表达定指、类指或数量。<span class="cites"><a class="cite s-a" href="#r13" title="R13 · A · 冠词教学">R13</a><a class="cite s-b" href="#r18" title="R18 · B · 法汉冠词/量化功能不对称">R18</a></span></p>
+<p class="lead" data-k="fr"><b class="k">声调与语调</b>汉语既有词汇声调也有句调；法语有短语层面的重音、节奏与语调；英语的词重音与法语的重音组织也不同。原书二分适合引出问题，不能理解成汉语“没有语调”。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>想象给句子贴贴纸。法语爱在词身上贴小贴纸：<code><span class="fr" lang="fr">Les petites filles</span></code> 里，每个词都贴着“女孩子的”“好几个”。中文不贴贴纸，而是另外放一块积木“那几个”。英语一半贴纸、一半积木。有个小秘密：法语很多贴纸看得见、听不见，<code><span class="fr" lang="fr">petite</span></code> 和 <code><span class="fr" lang="fr">petites</span></code> 读起来一样。</p>
+<p class="kid-sum"><b>一句话</b> 三种语言的区别是“信息放在哪里”，不是谁的语言更聪明。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现与核验</b>时体比较须区分时间定位、事件内部结构与语境推断。[R12；R05 为待全文阅读线索] PUD 中带 <code>Tense</code> 标注的句子为英 958、法 997、汉 0；这首先反映形态与标注方案，不表示汉语缺乏时间表达。<span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>本章最稳定的三语差异是“某项信息必须在哪个形式位置表达”，而不是哪种语言拥有某种思想。</p>
+</section><section class="chap"><h3 id="draft-5" class="ch"><span class="no">2</span><span class="zh">刚性与柔性</span><span class="en">Rigid vs. Supple</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 51–72</span><span>PDF pp. 60–81</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>主谓骨架、主语和谓语的关系、汉语话题结构及句法弹性。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>刚性</strong>：句子像用钢条搭的架子，一定要有主语和谓语，而且要配对，比如 I am、he is，不能乱配。</li>
+<li><strong>柔性</strong>：句子像橡皮泥，可以先说要聊的东西，再说关于它的话，缺的部分也能省掉：“这本书，我看过了。”</li>
+<li><strong>主语和谓语</strong>：主语是“谁”或“什么”，谓语是“做什么、怎么样”。“小猫睡觉了”：小猫是主语，睡觉了是谓语。</li>
+<li><strong>话题</strong>：这句话要聊的那个东西。“这本书，我看过了”的话题是“这本书”。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>普通陈述句一般要求显性主语，限定动词受一致约束；但法语口语常用左置、右置、主位突出、分裂句。它在“限定句骨架”上较固定，在“信息如何挂接到骨架”上具有多种选择。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟例句</th>
+<th class="l-en"><span class="lang">EN</span>英语对应</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语对应</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Ce livre, je l'ai déjà lu.</td><td class="l-en" lang="en">This book, I've already read it.</td><td class="l-zh" lang="zh-CN">这本书，我已经看过了。</td></tr>
+<tr><td class="l-fr" lang="fr">Moi, mon frère, il habite à Lyon.（口语）</td><td class="l-en" lang="en">My brother lives in Lyon.（中性对应）</td><td class="l-zh" lang="zh-CN">我嘛，我哥哥住在里昂。</td></tr>
+<tr><td class="l-fr" lang="fr">Il pleut.</td><td class="l-en" lang="en">It is raining.</td><td class="l-zh" lang="zh-CN">下雨了。</td></tr>
+<tr><td class="l-fr" lang="fr">C'est Marie qui a appelé.</td><td class="l-en" lang="en">It was Marie who called.</td><td class="l-zh" lang="zh-CN">是玛丽打来的电话。</td></tr>
+</tbody>
+</table></div>
+<p>第一例法语左置宾语在分句内用 <code><span class="fr" lang="fr">l&#x27;</span></code> 复现；汉语可留空。第二例显示法语并非只能有整齐的一层主谓结构，但也不能把此种口语堆叠直接用作正式文章的中性句式。天气句的 <code><span class="fr" lang="fr">il</span>/it</code> 是虚主语，不是施事人物。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>法语句子像一列火车，一定要有车头（主语）。连下雨也要找个假车头：<code><span class="fr" lang="fr">Il pleut</span></code>，那个 <code><span class="fr" lang="fr">il</span></code> 不是谁，只是占位置的。中文直接说“下雨了”。不过法语也会先把东西举高给你看：<code><span class="fr" lang="fr">Ce livre</span>, <span class="fr" lang="fr">je l&#x27;ai déjà lu</span></code>，先举起“这本书”，后面再用小小的 <code><span class="fr" lang="fr">l&#x27;</span></code> 指回去。中文举起来以后可以不再指。</p>
+<p class="kid-sum"><b>一句话</b> 三种语言都能先说话题；法语后面通常还要伸出一根小手指指回去。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>中法话题—语篇话题相关研究发现两种语言均有正相关，而组间相关强度差异未达显著；类型区别不能直接预测所有语篇指标。<span class="cites"><a class="cite s-b" href="#r01" title="R01 · B · 话题与语篇话题">R01</a></span> 法语和汉语都存在无代词复现的左置名词组，宜结合构式和语体讨论。[R04，当前以摘要为证]</p>
+<p class="lead" data-k="fr"><b class="k">与英语的区别</b>三语都有话题化资源；法语宾语弱代词的形态和位置、英语宾语前置以及汉语话题链不是同一机制。汉语也有次序限制，如把字句不能任意排列所有成分。</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>“刚/柔”宜拆成显性主语需求、代词复现、主谓一致、话题位置四项；不宜按语言给一个总分。[R11 可作教学对照，需与 R01 的实证限定合读]</p>
+</section><section class="chap"><h3 id="draft-6" class="ch"><span class="no">3</span><span class="zh">形合与意合</span><span class="en">Hypotactic vs. Paratactic</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 73–88</span><span>PDF pp. 82–97</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>关联词、关系词、介词等形式接应，与语义、逻辑、语境的联系。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>形合</strong>：用看得见的连接词把句子连起来，比如“因为……所以……”、英语的 which、that。像用胶水和钉子把木块钉在一起。</li>
+<li><strong>意合</strong>：不用连接词，靠意思自己连上：“下雨了，我们没出去。”像拼图，靠形状自己咬合。</li>
+<li><strong>关联词、关系词、介词</strong>：都是连接用的小零件。关联词连句子（因为、虽然），关系词把一句话挂到名字后面（which、who），介词说位置和关系（在、对、of、in）。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>法语可显式标记因果、条件和让步，也允许并置；汉语同样有显式从属资源。必须区分“连接词是否出现”“分句是否从属”“篇章关系是否可推断”。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Comme il pleuvait, nous sommes restés chez nous.</td><td class="l-en" lang="en">As it was raining, we stayed at home.</td><td class="l-zh" lang="zh-CN">因为下雨，我们就待在家里。</td></tr>
+<tr><td class="l-fr" lang="fr">Il pleuvait ; nous sommes restés chez nous.</td><td class="l-en" lang="en">It was raining; we stayed at home.</td><td class="l-zh" lang="zh-CN">下雨了，我们待在家里。</td></tr>
+<tr><td class="l-fr" lang="fr">Puisque tu es là, aide-moi.</td><td class="l-en" lang="en">Since you're here, help me.</td><td class="l-zh" lang="zh-CN">既然你在这儿，就帮帮我。</td></tr>
+<tr><td class="l-fr" lang="fr">Bien qu'il soit fatigué, il continue.</td><td class="l-en" lang="en">Although he is tired, he carries on.</td><td class="l-zh" lang="zh-CN">虽然累，他还在继续。</td></tr>
+</tbody>
+</table></div>
+<p>第二例因果解释需情境支持：分号或逗号本身不等于“因为”。第四例法语让步从句用虚拟式，英语和汉语不以相同方式配套标记。法语 <code><span class="fr" lang="fr">parce que</span>/<span class="fr" lang="fr">puisque</span>/<span class="fr" lang="fr">car</span></code> 分别涉及不同的原因说明和话语功能，不能统一译成“因为”后就认定同义。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>两颗珠子可以用线串起来，也可以并排摆着让你自己猜关系。“因为下雨，我们待在家里”是串起来的；“下雨了，我们待在家里”是摆在一起的。三种语言都能串，也都能摆。法语的线还分好几种：<code><span class="fr" lang="fr">parce que</span></code> 是“就是因为”，<code><span class="fr" lang="fr">puisque</span></code> 是“既然你也知道”，<code><span class="fr" lang="fr">car</span></code> 是补一句理由。它们不能都叫“因为”。</p>
+<p class="kid-sum"><b>一句话</b> 没有串线，不等于珠子之间没有关系。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>Wang 比较了 <code><span class="fr" lang="fr">parce que</span>, <span class="fr" lang="fr">puisque</span>, <span class="fr" lang="fr">car</span></code> 与“因为、由于、既然”的句法和语义；当前已核查摘要与书目，具体分布限制仍须阅读全文后引用。<span class="cites"><a class="cite s-b" href="#r03" title="R03 · B · 中法因果连接词">R03</a></span> Zufferey 从法语连接词在英、德、西译文中的显隐处理考察隐化因素；此设计不能直接证明“法语比英语更形合”。<span class="cites"><a class="cite s-b" href="#r06" title="R06 · B · 连接词翻译显隐">R06</a></span></p>
+<p class="lead" data-k="data"><b class="k">独立核验</b>PUD 中含 <code>SCONJ</code> 的句子英 236、法 192、汉 25，含 <code>advcl</code> 的句子却为英 240、法 192、汉 386。两指标量的不是同一件事；标注差异尤其大，不能由前者推出汉语没有从属结构。<span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>保留本章框架，但三语比较的解释单位应是具体关系、构式与语体。</p>
+</section><section class="chap"><h3 id="draft-7" class="ch"><span class="no">4</span><span class="zh">繁复与简短</span><span class="en">Complex vs. Simplex</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 89–103</span><span>PDF pp. 98–112</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>长句、层级结构、非限定结构和表达的简练。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>繁复</strong>：一个大句子里套着小句子，像俄罗斯套娃，一层套一层。</li>
+<li><strong>简短</strong>：用好几个短句一个接一个说，像一节一节的小火车厢。</li>
+<li><strong>层级结构</strong>：句子里谁套在谁里面、谁管着谁，像家谱一样分层。</li>
+<li><strong>非限定结构</strong>：动词不带“什么时候、谁做的”的样子，比如 to do、doing、done。像把一整句话压成一个小零件，塞进大句子里。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>三语都能用长句或短句表达同一信息。复杂度至少区分字词长度、分句数、嵌套深度、依存距离和信息密度。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Le rapport que Marie a rédigé après son retour a été publié hier.</td><td class="l-en" lang="en">The report that Marie wrote after her return was published yesterday.</td><td class="l-zh" lang="zh-CN">玛丽回来后写的那份报告昨天发表了。</td></tr>
+<tr><td class="l-fr" lang="fr">Marie est revenue. Elle a rédigé un rapport. Il a été publié hier.</td><td class="l-en" lang="en">Marie came back. She wrote a report. It was published yesterday.</td><td class="l-zh" lang="zh-CN">玛丽回来了，写了一份报告，昨天发表了。</td></tr>
+</tbody>
+</table></div>
+<p>两组不是严格等义：第一组未断言写报告紧接在返回后；第二组通过叙事顺序更容易引出先后解读。汉语关系修饰放在中心名词前；法语、英语常放在后。法语形容词也并非统一后置：<code><span class="fr" lang="fr">un grand homme</span></code>（伟人）与 <code><span class="fr" lang="fr">un homme grand</span></code>（高个子男人） 不能只按“长句拆短”处理。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>同一块蛋糕可以整块端上来（一个长句），也可以切成三小块（三个短句）。中文把说明放在名字前面：“玛丽回来后写的那份报告”；法语和英语放在后面：<code><span class="fr" lang="fr">le rapport que Marie a rédigé</span></code>。法语形容词换个位置还会变意思：<code><span class="fr" lang="fr">un grand homme</span></code> 是伟人，<code><span class="fr" lang="fr">un homme grand</span></code> 是高个子。</p>
+<p class="kid-sum"><b>一句话</b> 比长短，要拿同一块蛋糕来比。</p></aside><p class="lead" data-k="lit"><b class="k">文献与核验</b>英法翻译研究提供结构转置和信息安排的讨论起点。<span class="cites"><a class="cite s-b" href="#r15" title="R15 · B · 英法比较修辞经典">R15</a></span> PUD 三语逐句对齐，但总句法词数法语最多；它只说明这个翻译样本在该分词口径下的长度，不能说明所有法语都更啰嗦。<span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>汉语“短而意合”、法语“长而形合”的直观印象须在同体裁和同内容下测量。处理长前置定语时，法语拆句可能比逐层译成关系从句更清楚；反方向翻译也可能如此。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>对齐文本按原文方向、句子合并/拆分、关系从句类型和信息结构分层；树库对齐往往已固定句界，不能拿来直接检验自然写作中的拆句偏好。</p>
+</section><section class="chap"><h3 id="draft-8" class="ch"><span class="no">5</span><span class="zh">物称与人称</span><span class="en">Impersonal vs. Personal</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 104–117</span><span>PDF pp. 113–126</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>非人称主语、人称主语和无人称表达。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>物称</strong>：让东西当主语，好像东西在做事：“这个发现让我们明白了问题。”</li>
+<li><strong>人称</strong>：让人当主语：“我们通过这个发现明白了问题。”</li>
+<li><strong>无人称</strong>：句子里不说具体是谁：“据说明天下雨”，英语 It is said…。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>要分清四种现象：非生命主语、虚主语、隐去施事、泛指人称。法语 <code><span class="fr" lang="fr">on</span></code> 是泛指人称资源，<code><span class="fr" lang="fr">il</span></code> 可以是虚主语；两者不能统一译成“它”。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Cette découverte nous permet de mieux comprendre le problème.</td><td class="l-en" lang="en">This discovery helps us understand the problem better.</td><td class="l-zh" lang="zh-CN">通过这个发现，我们能更好地理解这个问题。</td></tr>
+<tr><td class="l-fr" lang="fr">Il est difficile de répondre.</td><td class="l-en" lang="en">It is difficult to answer.</td><td class="l-zh" lang="zh-CN">很难回答。</td></tr>
+<tr><td class="l-fr" lang="fr">On parle français ici.</td><td class="l-en" lang="en">French is spoken here. / People speak French here.</td><td class="l-zh" lang="zh-CN">这里说法语。</td></tr>
+<tr><td class="l-fr" lang="fr">Je pense que cette solution convient.</td><td class="l-en" lang="en">I think this solution works.</td><td class="l-zh" lang="zh-CN">我觉得这个办法可行。</td></tr>
+</tbody>
+</table></div>
+<p>第一例也可以译为“这一发现有助于我们……”，汉语非生命主语并非不合法。第三例英法采用不同主语和语态仍可完成相近的泛指功能，中文零施事也不代表心理上“重人”。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>句子里“谁在做事”有好几种玩具。法语有个“大家” <code><span class="fr" lang="fr">on</span></code>：<code><span class="fr" lang="fr">On parle français ici</span></code>，这里大家说法语。还有个空壳 <code><span class="fr" lang="fr">il</span></code>：<code><span class="fr" lang="fr">Il est difficile de répondre</span></code> 不是“他很难”，<code><span class="fr" lang="fr">il</span></code> 只是占位置。中文常常干脆不说是谁：“这里说法语”“很难回答”。</p>
+<p class="kid-sum"><b>一句话</b> <code><span class="fr" lang="fr">on</span></code>、<code><span class="fr" lang="fr">il</span></code> 和中文的“不说”是三种不同玩具，不能都翻成“它”。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>主题/主语转换的翻译教学研究能帮助辨认把汉语话题误作法语主语的问题。<span class="cites"><a class="cite s-a" href="#r11" title="R11 · A · 主题与主语的翻译教学">R11</a></span> 实际指称选择还受句法、语义和篇章显著性影响，不能仅按有生/无生主语解释。<span class="cites"><a class="cite s-b" href="#r02" title="R02 · B · 指称显著性的多因素分析">R02</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>法语与英语共享无人称结构，但法语 <code><span class="fr" lang="fr">on</span></code> 的使用扩展了主动式泛指表达；法语口语 <code><span class="fr" lang="fr">on</span></code> 还可能指“我们”，须单独编码。三语比较应记录主语的语法地位与指称类别，不把主动=人称、被动=物称。</p>
+</section><section class="chap"><h3 id="draft-9" class="ch"><span class="no">6</span><span class="zh">被动与主动</span><span class="en">Passive vs. Active</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 118–132</span><span>PDF pp. 127–141</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>被动使用动因、施受事安排及汉语表达被动意义的多种方式。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>主动</strong>：做事的人站在前面：“小明打碎了杯子。”</li>
+<li><strong>被动</strong>：被做事的东西站在前面：“杯子被小明打碎了。”</li>
+<li><strong>施事和受事</strong>：施事是动手的那个（小明），受事是被动手的那个（杯子）。</li>
+<li><strong>汉语表达被动的多种方式</strong>：可以用“被、叫、让、给”，也可以什么都不加：“杯子打碎了。”</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>法语包括 <code><span class="fr" lang="fr">être + participe passé</span></code>、某些 <code><span class="fr" lang="fr">se faire + infinitif</span></code> 和具有中动/被动功能的代词式；各构式并非可自由替换。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Le livre a été traduit par Marie.</td><td class="l-en" lang="en">The book was translated by Marie.</td><td class="l-zh" lang="zh-CN">这本书是玛丽翻译的。／这本书由玛丽翻译。</td></tr>
+<tr><td class="l-fr" lang="fr">Paul s'est fait arrêter.</td><td class="l-en" lang="en">Paul got arrested.</td><td class="l-zh" lang="zh-CN">保罗被捕了。</td></tr>
+<tr><td class="l-fr" lang="fr">Ce livre se vend bien.</td><td class="l-en" lang="en">This book sells well.</td><td class="l-zh" lang="zh-CN">这本书卖得很好。</td></tr>
+<tr><td class="l-fr" lang="fr">La porte est fermée.</td><td class="l-en" lang="en">The door is closed.</td><td class="l-zh" lang="zh-CN">门关着。</td></tr>
+</tbody>
+</table></div>
+<p>第二例在该语境下具有受事解释，但 <code><span class="fr" lang="fr">se faire couper les cheveux</span></code> 可以涉及主动安排，不能把 <code><span class="fr" lang="fr">se faire</span></code> 一律当成被动助动词。第三例描述可销售性，不能等同一次销售事件。第四例可能是状态，不能把所有 <code><span class="fr" lang="fr">être + 分词</span></code> 自动计作事件被动。汉语“被”也不是只用于坏事：“他被选为代表”可以中性或正面。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>被动就像“书被人拿走了”。法语有几种长得像的说法：<code><span class="fr" lang="fr">Le livre a été traduit par Marie</span></code> 是真被动；<code><span class="fr" lang="fr">Paul s&#x27;est fait arrêter</span></code> 是保罗被抓了，可 <code><span class="fr" lang="fr">se faire couper les cheveux</span></code> 是自己去理发，是主动安排的；<code><span class="fr" lang="fr">Ce livre se vend bien</span></code> 是书好卖，不是说某一次被卖；<code><span class="fr" lang="fr">La porte est fermée</span></code> 是门关着的样子，不一定刚被关上。中文“被”也不只用于坏事：“他被选为代表”。</p>
+<p class="kid-sum"><b>一句话</b> 长得像被动的，不一定是被动；机器粗数英语被动最多，但这只是初步数数。</p></aside><p class="lead" data-k="lit"><b class="k">文献状态</b>英法被动构式研究 Raineri、汉法被动比较 Yuan 已检出，书目信息见 R22、R23；当前未以全文结论支持本章任何频率排行。此处三语例句与构式辨析为本研究自拟分析。</p>
+<p class="lead" data-k="data"><b class="k">独立核验</b>在 1,000 句平行 PUD 中，含被动相关标注的句子英 242、法 206、汉 93。此为自动标注诊断，非人工确认的事件被动率；汉语无标记受事句和法语 <code><span class="fr" lang="fr">se faire</span></code> 等可能漏计，状态分词也可能混入。<span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>本轮样本与“英语被动较多”相容，但不足以得出稳定的英&gt;法&gt;汉普遍次序。相同事件的语态变化还改变话题、施事可见性和责任归属。</p>
+</section><section class="chap"><h3 id="draft-10" class="ch"><span class="no">7</span><span class="zh">静态与动态</span><span class="en">Static vs. Dynamic</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 133–158</span><span>PDF pp. 142–167</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>名词化、施事名词、介词优势、动词弱化，与汉语动词连用、重复等。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>静态</strong>：多用名词和介词，像拍一张照片：“他的到来让大家很高兴。”</li>
+<li><strong>动态</strong>：多用动词，像拍一段视频：“他来了，大家都很高兴。”</li>
+<li><strong>名词化</strong>：把动作变成名词，像把视频截成一张图：arrive 变 arrival，“到”变“到来”。</li>
+<li><strong>动词连用</strong>：中文一句话里排好几个动词：“出去买菜回来做饭。”</li>
+<li><strong>介词优势</strong>：英语爱用 in、on、with 这类小词表示动作和关系，中文更常直接用动词。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>要把“表达事件的词类”与“事件是否运动”分开。法语名词化可以高度动态，动词句也可以描述状态。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Après son arrivée, nous avons commencé.</td><td class="l-en" lang="en">After her arrival, we began.</td><td class="l-zh" lang="zh-CN">她到了以后，我们就开始了。</td></tr>
+<tr><td class="l-fr" lang="fr">Après qu'elle est arrivée, nous avons commencé.</td><td class="l-en" lang="en">After she arrived, we began.</td><td class="l-zh" lang="zh-CN">她到以后，我们开始了。</td></tr>
+<tr><td class="l-fr" lang="fr">Il est entré dans la pièce en courant.</td><td class="l-en" lang="en">He ran into the room.</td><td class="l-zh" lang="zh-CN">他跑进了房间。</td></tr>
+<tr><td class="l-fr" lang="fr">Il est resté immobile.</td><td class="l-en" lang="en">He remained motionless.</td><td class="l-zh" lang="zh-CN">他一直没动。</td></tr>
+</tbody>
+</table></div>
+<p>第二例 <code><span class="fr" lang="fr">après que</span></code> 的规范搭配使用直陈式，此处不是 <code><span class="fr" lang="fr">avant que</span></code> 的虚拟式。第三例法语以路径动词 <code><span class="fr" lang="fr">entrer</span></code> 为核心、另说方式，英语动词常表达方式、路径另编码，汉语“跑进”压缩了方式和路径。这比笼统的静态/动态排行更可检验。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>小狗跑进房间。英语说“跑”再加“进”：<code>ran into</code>；法语说“进入”再加“跑着”：<code><span class="fr" lang="fr">est entré en courant</span></code>；中文“跑进”一个词就把两样装下。说“她的到来”用的是名词，可那件事照样是在动的。</p>
+<p class="kid-sum"><b>一句话</b> 用名词还是动词，不等于事情动不动。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>运动事件类型研究指出，语言可同时允许多种编码模式；词汇、形态、句法和语用共同决定选择，法语不能被当作禁止“方式动词+路径”的纯粹类型。[R08，重点见 pp. 331–336、法语目标路径讨论 pp. 363–365] 中法二语空间表达研究还提醒，学习者表达不直接代表母语者的分布。<span class="cites"><a class="cite s-a" href="#r14" title="R14 · A · 汉语母语者法语空间表达习得">R14</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>三语的名词化能力、运动事件包装和正式语体偏好是三条不同轴线。现有文献与本轮数据不支持把“法语比英语更静态”写成已证结论；它应作为分体裁验证的假设。</p>
+</section><section class="chap"><h3 id="draft-11" class="ch"><span class="no">8</span><span class="zh">抽象与具体</span><span class="en">Abstract vs. Concrete</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 159–187</span><span>PDF pp. 168–196</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>抽象词语、词义虚化、具体形象表达及其文化解释。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>抽象</strong>：说看不见、摸不着的东西：自由、责任、幸福。</li>
+<li><strong>具体</strong>：说看得见、摸得着的东西：苹果、跑步、红色。</li>
+<li><strong>词义虚化</strong>：一个词本来很实在，慢慢变得很虚。“打”本来是打人，后来有了“打电话、打车、打酱油”。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>法语 <code><span class="fr" lang="fr">liberté</span>, <span class="fr" lang="fr">égalité</span>, <span class="fr" lang="fr">responsabilité</span></code>、英语 <code>freedom, equality, responsibility</code>、汉语“自由、平等、责任”均可用于抽象论证。词源是否形象、词形是否派生、当前语义是否抽象，是不同问题。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">La responsabilité doit être clairement définie.</td><td class="l-en" lang="en">Responsibility must be clearly defined.</td><td class="l-zh" lang="zh-CN">应当明确界定责任。</td></tr>
+<tr><td class="l-fr" lang="fr">Il faut préciser qui répond de cette décision.</td><td class="l-en" lang="en">We need to specify who is accountable for this decision.</td><td class="l-zh" lang="zh-CN">要说清楚谁对这个决定负责。</td></tr>
+<tr><td class="l-fr" lang="fr">Elle a le cœur sur la main.（惯用语）</td><td class="l-en" lang="en">She is very generous.</td><td class="l-zh" lang="zh-CN">她很慷慨。</td></tr>
+</tbody>
+</table></div>
+<p>前两例展示同一语言内部从概念到参与者的表达变化，不能把不同内容当作纯句法转换。第三例法语也能使用形象化习语；跨语直译可能导致误解。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“责任”“自由”是看不见摸不着的词，三种语言都有：<code><span class="fr" lang="fr">liberté</span></code>、<code>freedom</code>、自由。法语也有很像图画的说法：<code><span class="fr" lang="fr">Elle a le cœur sur la main</span></code>，“她把心放在手上”，意思是她很大方。</p>
+<p class="kid-sum"><b>一句话</b> 每种语言都能说看不见的，也能说看得见的；汉字有图画来源，不代表我们只会想图画。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>英法比较修辞可作为词义调节、具体化与概括化的研究线索，但本轮只读到该经典的预览，不把其全书论断当作全文已核。<span class="cites"><a class="cite s-b" href="#r15" title="R15 · B · 英法比较修辞经典">R15</a></span> 英法名词补语从句研究表明，抽象名词与立场/情态有关；这是具体句法—语义关系，不是抽象思维能力排行。[R21，摘要级]</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>汉字有形声成分不等于汉语使用者以图像处理所有现代抽象词；法语有派生后缀也不证明使用者更善于抽象推理。三语比较应使用可复核的抽象度标注，控制主题与体裁。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>对“责任”类词分别标注词项、事件名词、命题名词和论元显隐；否则名词比例既不是抽象度也不是责任弱化程度。</p>
+</section><section class="chap"><h3 id="draft-12" class="ch"><span class="no">9</span><span class="zh">间接与直接</span><span class="en">Indirect vs. Direct</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 188–220</span><span>PDF pp. 197–229</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>委婉、曲言、迂回，与汉语敬辞、谦辞和婉言。语义否定、修辞曲言、间接言语行为须分开。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>直接</strong>：想要什么就说什么：“关窗。”</li>
+<li><strong>间接</strong>：绕个弯让你自己明白：“好冷呀。”（其实想让你关窗）</li>
+<li><strong>委婉</strong>：把不好听的话说得好听点，比如用“走了”代替“死了”。</li>
+<li><strong>曲言</strong>：用“不”来说“是”，比如“不错”其实是“挺好”。</li>
+<li><strong>敬辞和谦辞</strong>：敬辞把对方抬高（贵姓、令尊），谦辞把自己放低（寒舍、拙作）。</li>
+<li><strong>言语行为</strong>：说话也是在做事，比如请求、道歉、答应。“好冷呀”字面在说天气，其实在请求。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Fermez la fenêtre, s'il vous plaît.</td><td class="l-en" lang="en">Please close the window.</td><td class="l-zh" lang="zh-CN">请关一下窗户。</td></tr>
+<tr><td class="l-fr" lang="fr">Pourriez-vous fermer la fenêtre ?</td><td class="l-en" lang="en">Could you close the window?</td><td class="l-zh" lang="zh-CN">您能把窗户关一下吗？</td></tr>
+<tr><td class="l-fr" lang="fr">Il fait froid ici.（具体情境下可暗示请求）</td><td class="l-en" lang="en">It's cold in here.</td><td class="l-zh" lang="zh-CN">这里有点冷。</td></tr>
+<tr><td class="l-fr" lang="fr">Ce n'est pas mauvais.</td><td class="l-en" lang="en">It's not bad.</td><td class="l-zh" lang="zh-CN">还不错。／不算差。</td></tr>
+<tr><td class="l-fr" lang="fr">Je crains qu'il ne vienne.</td><td class="l-en" lang="en">I fear he may come.</td><td class="l-zh" lang="zh-CN">我怕他来。</td></tr>
+</tbody>
+</table></div>
+<p>前三例的间接程度变化，不自动等于礼貌程度变化；紧急状况下直接请求可能最合适。第四例的褒贬强弱依语调和情境。第五例中的 <code><span class="fr" lang="fr">ne</span></code> 是赘词否定，不能译成“我怕他不来”；若说 <code><span class="fr" lang="fr">Je crains qu&#x27;il ne vienne pas</span></code> 则涉及真正否定。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>想让妈妈关窗：可以直接说“关窗”，客气一点说“您能关一下窗吗”，绕个弯说“好冷呀”。三种语言都能这样说。绕弯也不一定更有礼貌，着火的时候就该直接喊。法语还有个调皮的 <code><span class="fr" lang="fr">ne</span></code>：<code><span class="fr" lang="fr">Je crains qu&#x27;il ne vienne</span></code> 是“我怕他来”，这里的 <code><span class="fr" lang="fr">ne</span></code> 不是“不”。</p>
+<p class="kid-sum"><b>一句话</b> 说得直不直，看场合，不看是哪国话。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>Jin 与 Koenig 比较三语赘词否定的触发环境，提供了超越“两个否定等于肯定”的语义分析路径。[R07，pp. 157–162 及后续触发环境分析]</p>
+<p>Chen 的中法互动博士论文包含 48 名大学生、72 次对话，主要为熟人之间的非正式情境。冲突性电影讨论中法语使用更多直接性指示，但作者明确限制了概括范围；非冲突情境还有共同的显性表达偏好。[R09，摘要与印刷 pp. 271–273 / PDF pp. 295–297] 其 2023 年会议摘要与 2024 年最终论文的材料规模和结论精细度不同，本稿以最终论文为准。</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>法语既有显式争辩也有缓和请求；英语和汉语同样如此。不能给三个语言排统一的“最直接/最委婉”次序。研究应分别标注言语行为、社会距离、权力、场景、缓和标记和语调。</p>
+</section><section class="chap"><h3 id="draft-13" class="ch"><span class="no">10</span><span class="zh">替换与重复</span><span class="en">Substitutive vs. Repetitive</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 221–271</span><span>PDF pp. 230–280</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>替代、省略、词汇复现、重叠、对偶与排比。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>替换</strong>：不想重复，就换个词或用个小代号：he、it、one、do。</li>
+<li><strong>重复</strong>：再说一遍同样的词：“学习，学习，再学习。”</li>
+<li><strong>替代</strong>：用小代号代替前面说过的东西，比如用“他”代替“小明”。</li>
+<li><strong>省略</strong>：干脆不说，大家也懂：“你去吗？——去。”</li>
+<li><strong>重叠</strong>：字叠字：看看、高高兴兴。</li>
+<li><strong>对偶和排比</strong>：对偶是两句对称（天对地，雨对风）；排比是三句以上用同样的格式一路排下去。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>法语有主语/宾语弱代词、<code><span class="fr" lang="fr">en</span>/<span class="fr" lang="fr">y</span></code>、指示代词、零冠词构式和省略；它们不能与英语 <code>one/do/so</code> 或汉语零回指一一替换。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">J'ai acheté trois livres. J'en ai lu deux.</td><td class="l-en" lang="en">I bought three books. I've read two of them.</td><td class="l-zh" lang="zh-CN">我买了三本书，已经看了两本。</td></tr>
+<tr><td class="l-fr" lang="fr">Tu vas à Paris ? — Oui, j'y vais demain.</td><td class="l-en" lang="en">Are you going to Paris? — Yes, I'm going there tomorrow.</td><td class="l-zh" lang="zh-CN">你去巴黎吗？——去，明天去。</td></tr>
+<tr><td class="l-fr" lang="fr">Marie est entrée. Elle s'est assise et a ouvert son livre.</td><td class="l-en" lang="en">Marie came in. She sat down and opened her book.</td><td class="l-zh" lang="zh-CN">玛丽进来了，坐下，打开了书。</td></tr>
+<tr><td class="l-fr" lang="fr">Liberté, égalité, fraternité.（固定格言）</td><td class="l-en" lang="en">Liberty, equality, fraternity.</td><td class="l-zh" lang="zh-CN">自由、平等、博爱。</td></tr>
+</tbody>
+</table></div>
+<p>第三例法语并列谓语可以共享主语，不必每个谓语前重复 <code><span class="fr" lang="fr">elle</span></code>；汉语的零回指也受可恢复性与歧义约束。第一例汉语“本”是量词，法语 <code><span class="fr" lang="fr">en</span></code> 是回指资源，不能因都减少重复而等同范畴。第四例显示法语也使用平行结构；它不是“替换”语言就排斥重复。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>一直说“那本书”太累，就用小代号。法语的小代号很多：<code><span class="fr" lang="fr">en</span></code> 是“其中的”，<code><span class="fr" lang="fr">J&#x27;en ai lu deux</span></code> 是我读了其中两本；<code><span class="fr" lang="fr">y</span></code> 是“那里”，<code><span class="fr" lang="fr">j&#x27;y vais</span></code> 是我去那儿。中文常常直接空着：“你去巴黎吗？——去，明天去。”</p>
+<p class="kid-sum"><b>一句话</b> 大家都在省力气，但工具不一样，不能一个换一个；法语也会故意重复，比如“自由、平等、博爱”。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>中法指称显著性研究采用多因素框架，提醒回指选择不能只看上句出现过什么词。<span class="cites"><a class="cite s-b" href="#r02" title="R02 · B · 指称显著性的多因素分析">R02</a></span> R01 的话题研究对零回指、显性代词及更丰富名词表达的讨论，为本章提供证据连接，但不推出汉语无条件省略主语。</p>
+<p class="lead" data-k="data"><b class="k">独立核验</b>PUD 中含 <code>PRON</code> 的句子英 614、法 610、汉 473；此指标包括多种代词，且法语 <code><span class="fr" lang="fr">on</span></code>、汉语零回指与省略不等价。因此只能作为后续人工标注的入口。<span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>“避免重复”是语体选择，某些技术文本反而应重复同一术语，以免近义替换让读者误认为对象变了。法语重复也可承担强调和连贯功能。</p>
+</section><section class="chap"><h3 id="draft-14" class="ch"><span class="no txt">综述</span><span class="zh">英汉语言常用的表达方式</span><span class="en">Modes of Expression: English vs. Chinese</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 272–282</span><span>PDF pp. 281–291</span></p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>综述</strong>：把前面十章的十组对比放在一起总结，像把十张照片放进一本相册，看整体是什么样。</li>
+<li><strong>表达方式</strong>：一种语言平时习惯怎么说话，比如爱用长句还是短句、爱用名词还是动词。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充后的综合判断</b>法语在一致与限定句形式上与英语有相似处；在话题左置、宾语弱代词、泛指 <code><span class="fr" lang="fr">on</span></code>、运动事件包装和式的使用上又不能直接并入英语。汉语有显式逻辑连接、抽象名词与严密论证；法语有并置、形象习语和高情境依赖的口语。三语之间是多维交叉关系。</p>
+<div class="tw"><table class="verdict">
+<thead>
+<tr>
+<th>原书维度</th>
+<th>本轮可以保留的发现</th>
+<th>本轮不能直接推出的结论</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>综合／分析</td>
+<td>法语一致和时式形态较多；汉语不按相同方式屈折</td>
+<td>法语所有表达都更精确</td>
+</tr>
+<tr>
+<td>刚性／柔性</td>
+<td>限定句骨架与话题组织存在构式差异</td>
+<td>法语不能以话题为中心</td>
+</tr>
+<tr>
+<td>形合／意合</td>
+<td>三语显式关联资源与标注分布有别</td>
+<td>连接词少意味着没有逻辑</td>
+</tr>
+<tr>
+<td>繁复／简短</td>
+<td>长度、嵌套与信息密度须分别测量</td>
+<td>所有汉语都比法语短</td>
+</tr>
+<tr>
+<td>物称／人称</td>
+<td><code><span class="fr" lang="fr">on</span>/<span class="fr" lang="fr">il</span>/it/零施事</code> 分工不同</td>
+<td>非生命主语说明非人本思维</td>
+</tr>
+<tr>
+<td>被动／主动</td>
+<td>语态构式和施事显隐不同</td>
+<td>三语被动频率有永恒次序</td>
+</tr>
+<tr>
+<td>静态／动态</td>
+<td>名词化、路径和方式的包装不同</td>
+<td>动词多少等于思想动静</td>
+</tr>
+<tr>
+<td>抽象／具体</td>
+<td>三语均可概念化和形象化表达</td>
+<td>汉字使现代汉语无法抽象</td>
+</tr>
+<tr>
+<td>间接／直接</td>
+<td>行为与情境制约表达选择</td>
+<td>一个语言整体最委婉</td>
+</tr>
+<tr>
+<td>替换／重复</td>
+<td>回指和省略系统不同</td>
+<td>汉语只重复、法语只替换</td>
+</tr>
+</tbody>
+</table></div>
+<p class="lead" data-k="fr"><b class="k">自拟三语收束例</b><code><span class="fr" lang="fr">Cette décision a été prise après une longue discussion.</span></code> / <code>This decision was made after a long discussion.</code> / “经过长时间讨论，大家作出了这个决定。”中文版本增显施事“大家”；若原文不容确定施事，应译“经过长时间讨论，作出了这一决定”。所谓自然转换也必须受事实忠实性约束。</p>
+<p>本篇可供下篇使用的是具体语言机制和有范围的分布证据；不能直接由它们证明民族思维本质。<span class="cites"><a class="cite s-a" href="#r08" title="R08 · A · 运动事件类型重审">R08</a><a class="cite s-a" href="#r09" title="R09 · A · 中法分歧表达（最终博士论文）">R09</a><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>三种语言像三个小朋友，玩不同游戏会换队友。说到词身上贴贴纸、句子要有车头，法语和英语一队；说到先把话题举起来，法语有时和中文一队；<code><span class="fr" lang="fr">on</span></code>、<code><span class="fr" lang="fr">en</span></code>、<code><span class="fr" lang="fr">y</span></code> 这些，法语自己一队。所以没法排成“英语—法语—中文”一条直线。</p>
+<p class="kid-sum"><b>一句话</b> 三语之间是交叉关系；翻译时原文没说是谁做的，就别替它编出“大家”。</p></aside></section><h2 id="draft-15" class="part"><span class="pn">下篇</span><span class="pz">中西思维方式</span><span class="pe">Modes of Thinking: Chinese vs. Western</span></h2>
+<section class="chap"><h3 id="draft-16" class="ch"><span class="no txt">绪论</span><span class="zh">思维方式</span><span class="en">Modes of Thinking</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 283–287</span><span>PDF pp. 292–296</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>思维、语言、文化的联系及其基本特征。本篇保持原章名，但把宏观二分转为可检验的问题。语言形式差异、文化习惯差异和个体认知任务表现不是同一层次。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>思维方式</strong>：想事情的习惯路线。像每个小朋友去幼儿园都有自己习惯走的那条路。</li>
+<li><strong>中西</strong>：原书的分法，“中”指中国，“西”指西方。研究稿会检查这样分是否站得住。</li>
+<li><strong>二分</strong>：把一大群人或一大堆东西分成两边。下篇每章标题都是一个二分，比如“整体性与分析性”。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>自拟三语命题：<code><span class="fr" lang="fr">Si j&#x27;avais le temps, je voyagerais davantage.</span></code> / <code>If I had time, I would travel more.</code> / “要是有时间，我就多出去旅行。”法语和英语以动词形式组合标记非现实/假设，汉语可依靠条件结构与语境。这个差异本身不能证明谁更能想象反事实。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“要是我有时间，我就多去旅行。”法语和英语会给动词换上“假装模式”的衣服：<code><span class="fr" lang="fr">voyagerais</span></code>、<code>would travel</code>。中文不换衣服，说一句“要是……就”。好比玩假装游戏，有的小朋友换戏服，有的小朋友说“我们来假装吧”，大家都在假装。</p>
+<p class="kid-sum"><b>一句话</b> 说法不同，不代表脑子想得不同；中法推理实验也没发现预期的差别。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>中法充分条件与必要条件推理实验未发现研究预期的组间显著差异；该结果反对把特定连接词资源直接等同推理能力，但不证明语言绝无认知作用。<span class="cites"><a class="cite s-a" href="#r19" title="R19 · A · 中法条件推理实验">R19</a></span> 文化心理学的整体/分析框架提出文化与认知过程有关，属于相关领域理论背景；它不是完整的法英汉三语实验证据。<span class="cites"><a class="cite s-a" href="#r10" title="R10 · A · 整体/分析认知理论背景">R10</a></span></p>
+<p class="lead" data-k="open"><b class="k">研究边界</b>后面各章将明确区分：已有的中法比较证据；本研究的三语构式分析；尚无直接证据的文化解释。下篇多数宏观二分目前仍有明显文献缺口，不应靠几个例句“填满”后宣布成立。</p>
+</section><section class="chap"><h3 id="draft-17" class="ch"><span class="no">1</span><span class="zh">伦理型与认知型</span><span class="en">Ethical vs. Cognitive</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 288–295</span><span>PDF pp. 297–304</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>伦理、人伦取向与认知、求知取向的比较。加入法语时必须拆分“道德命题的内容”“义务表达方式”“科学认识方式”。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>伦理型</strong>：想事情先想“对不对、该不该”，关心人和人怎么相处。像做事前先想“这样做妈妈会不会高兴”。</li>
+<li><strong>认知型</strong>：想事情先想“是什么、为什么”，关心认识世界。像把玩具拆开，看看里面的齿轮怎么转。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Il faut respecter les autres.</td><td class="l-en" lang="en">We should respect others.</td><td class="l-zh" lang="zh-CN">应当尊重他人。</td></tr>
+<tr><td class="l-fr" lang="fr">Les données indiquent une différence.</td><td class="l-en" lang="en">The data indicate a difference.</td><td class="l-zh" lang="zh-CN">数据显示存在差异。</td></tr>
+<tr><td class="l-fr" lang="fr">Il doit être chez lui.</td><td class="l-en" lang="en">He must be at home.</td><td class="l-zh" lang="zh-CN">他一定在家。</td></tr>
+<tr><td class="l-fr" lang="fr">Il doit rentrer chez lui avant dix heures.</td><td class="l-en" lang="en">He must return home before ten.</td><td class="l-zh" lang="zh-CN">他必须十点前回家。</td></tr>
+</tbody>
+</table></div>
+<p>后两例都用 <code><span class="fr" lang="fr">devoir</span>/must</code>，却可分别偏认识情态与义务情态。汉语也区分“一定/必须”，但实际词义和语境并非这样完全分割。道德话题出现频繁也不等于语言只有伦理功能。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>法语 <code><span class="fr" lang="fr">devoir</span></code> 一个词有两种意思。<code><span class="fr" lang="fr">Il doit être chez lui</span></code> 是“他一定在家”，这是猜；<code><span class="fr" lang="fr">Il doit rentrer chez lui avant dix heures</span></code> 是“他必须十点前回家”，这是规矩。三种语言都能讲规矩、讲道理、讲科学。</p>
+<p class="kid-sum"><b>一句话</b> 一种语言讲道德多不多，要拿同类文章来数；现在没有证据说法国人是“认知型”。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>英法名词补语从句研究把名词和情态立场联系起来，为辨别“必要性/可能性”等不同语义提供局部切口。[R21，摘要级；不把其结论扩展到全部助动词]</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>法语既有伦理论证，也有认识论和实验科学文本；英语与汉语同样如此。要比较伦理倾向，应选择同体裁的论说材料，统计伦理评价词、认知证据标记、义务/认识情态的功能，而不能按一个词的有无给语言分类。</p>
+<p class="lead" data-k="open"><b class="k">证据缺口</b>本轮未找到足以把法语群体整体判为“认知型”的直接三语研究。本章三语例句证明表达资源的存在，不证明各资源的使用率或文化起源。</p>
+</section><section class="chap"><h3 id="draft-18" class="ch"><span class="no">2</span><span class="zh">整体性与分析性</span><span class="en">Holistic vs. Analytic</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 296–306</span><span>PDF pp. 305–315</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>从整体关联把握对象与分解对象、明确关系的思考方式。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>整体性</strong>：先看全局和各部分的关系，像先看拼好的整幅拼图画的是什么。</li>
+<li><strong>分析性</strong>：把东西拆成小块，一块一块仔细看，像把拼图拆开研究每一块的形状。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>可以把整体/分析具体化为“叙事中是否明说指称对象及其关系”，但这只是语言任务，不等于一般智力或非语言认知风格。</p>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Marie a posé le livre sur la table. Elle l'a ensuite ouvert.</td><td class="l-en" lang="en">Marie put the book on the table. She then opened it.</td><td class="l-zh" lang="zh-CN">玛丽把书放在桌上，然后翻开了。</td></tr>
+<tr><td class="l-fr" lang="fr">La chambre était petite, mais lumineuse.</td><td class="l-en" lang="en">The room was small but bright.</td><td class="l-zh" lang="zh-CN">房间不大，倒很亮。</td></tr>
+</tbody>
+</table></div>
+<p>第一例法语明说主语与宾语回指，汉语可以不说；这不表示汉语读者不能区分玛丽、书、桌子。第二例三语都把对象属性组织成让步/对照关系，汉语关系也有标记。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>讲故事：“玛丽把书放在桌上，然后翻开了。”中文没说翻开“它”，法语要说 <code><span class="fr" lang="fr">Elle l&#x27;a ensuite ouvert</span></code>。像画画，法语把每条线都画出来，中文留点白，可看画的人都知道是谁翻开了什么。</p>
+<p class="kid-sum"><b>一句话</b> 少画几笔不等于没看清；要测脑子，得让大家看同一段视频讲故事，再玩图片游戏。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>Nisbett 等提出整体与分析认知差异，适合作为待检验的理论背景；其跨文化对象与本研究三语边界并不重合。<span class="cites"><a class="cite s-a" href="#r10" title="R10 · A · 整体/分析认知理论背景">R10</a></span> 更直接的中法语篇研究发现，两种语言的话题关联并非在相关强度上显著不同。<span class="cites"><a class="cite s-b" href="#r01" title="R01 · B · 话题与语篇话题">R01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>本章应同时保留两种解释：形式资源约束导致表达不同；情境关注和叙事任务导致表达不同。仅有省略比例不足以选择其一。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>同一视频刺激分别收集三语叙事，同时记录人物、背景、因果链和指称形式；再增加非语言图片任务，才可能讨论表达习惯是否关联一般认知。</p>
+</section><section class="chap"><h3 id="draft-19" class="ch"><span class="no">3</span><span class="zh">意向性与对象性</span><span class="en">Subjective vs. Objective</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 307–309</span><span>PDF pp. 316–318</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>主体意向和对象事实在观察、表达中的位置。这里的“意向性”沿用底本，不直接等同当代哲学中专门意义的 intentionality。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>意向性</strong>：从“我”的感受和想法出发看世界，比如“我觉得这朵花好看”。这里沿用原书的用法，不是哲学课上那个专门术语。</li>
+<li><strong>对象性</strong>：把东西当作外面的对象来观察，比如“这朵花有五片花瓣”。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Je pense que les résultats sont fiables.</td><td class="l-en" lang="en">I think the results are reliable.</td><td class="l-zh" lang="zh-CN">我认为这些结果可靠。</td></tr>
+<tr><td class="l-fr" lang="fr">Les résultats semblent fiables.</td><td class="l-en" lang="en">The results seem reliable.</td><td class="l-zh" lang="zh-CN">这些结果似乎可靠。</td></tr>
+<tr><td class="l-fr" lang="fr">Les résultats sont fiables à certaines conditions.</td><td class="l-en" lang="en">The results are reliable under certain conditions.</td><td class="l-zh" lang="zh-CN">在一定条件下，这些结果可靠。</td></tr>
+</tbody>
+</table></div>
+<p>三种结构都可保留立场，只是立场来源与确信度显隐不同。法语 <code><span class="fr" lang="fr">il semble que</span></code> 还涉及句法和式的选择，不能机械地作为“客观无立场”的标签。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“我认为结果可靠”“结果似乎可靠”“在一定条件下结果可靠”。三句话后面都有人在判断，只是有的人站到台前，有的人躲在幕后。</p>
+<p class="kid-sum"><b>一句话</b> 把“我”藏起来，不等于没人在评价；客观要靠别人能复查的证据。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>R21 对英法名词补语的研究指出，名词本身可能承担情态立场功能，提醒“去掉我认为”并不等于去掉主体评价。中法指称显著性研究则提供对象追踪的多因素分析，未测量所谓“客观民族性”。<span class="cites"><a class="cite s-b" href="#r02" title="R02 · B · 指称显著性的多因素分析">R02</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>“客观性”需要拆为证据可追溯、测量可复现、立场形式是否显化三项。语言可以隐去第一人称而仍然强烈评价，也可以显说“我们”并提供可重复数据。</p>
+<p class="lead" data-k="open"><b class="k">证据缺口</b>没有直接依据把法语的无人称表达与法语使用者的心理对象性建立因果联系。下一轮应在三语同类研究论文中区分作者自称、认识情态、证据来源及评价对象。</p>
+</section><section class="chap"><h3 id="draft-20" class="ch"><span class="no">4</span><span class="zh">直觉性与逻辑性</span><span class="en">Intuitive vs. Logical</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 310–315</span><span>PDF pp. 319–324</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>直觉把握、经验领悟与明确推理规则。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>直觉性</strong>：一下子就感觉到答案，说不出步骤。像闻到香味，就知道妈妈在做饭。</li>
+<li><strong>逻辑性</strong>：按规则一步一步推出来。像做数学题，每一步都写清楚。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充：充分与必要条件</b>三语都能区分 <code>if</code> 与 <code>only if</code>，但分句次序、限定词和信息焦点不同。</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>自拟法语</th>
+<th>英语</th>
+<th>汉语</th>
+<th>逻辑关系</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Si tu travailles régulièrement, tu progresseras.</td>
+<td>If you work regularly, you will improve.</td>
+<td>只要坚持练习，就会进步。</td>
+<td>P → Q</td>
+</tr>
+<tr>
+<td>Tu ne progresseras que si tu travailles régulièrement.</td>
+<td>You will improve only if you work regularly.</td>
+<td>只有坚持练习，才会进步。</td>
+<td>Q → P</td>
+</tr>
+</tbody>
+</table></div>
+<p>法语 <code><span class="fr" lang="fr">ne…que</span></code> 表限制，并非普通否定；英语 <code>only if</code> 与汉语“只有……才”都不能换成第一行。现实世界中“坚持练习”未必是进步的充分或必要条件，表中只分析说话者所断言的条件关系。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“只要练习，就会进步”和“只有练习，才会进步”不一样。第一句说练了就会进步；第二句说不练就别想进步。法语用 <code><span class="fr" lang="fr">ne…que</span></code> 说第二种，那里的 <code><span class="fr" lang="fr">ne</span></code> 是“只”，不是“不”。三种语言都分得清。</p>
+<p class="kid-sum"><b>一句话</b> 中国和法国的参与者做这类推理题，没有出现预期的明显差别。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>Shao、Tikiri Banda 与 Baratgin 比较中法充分、必要条件的不确定推理，未发现预期的两组显著差异。作者对连接词资源的描述应限于其操作定义，不能读成“法语表达不了必要条件”。[R19，摘要、实验设计与讨论]</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>连接词显式化可以方便教学，但语法形式和正确推理不是同一能力。本章找到直接中法实验，因此最适合用来检验原书宏观解释，而非顺着二分补一个法语例子。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>若扩成三语研究，须加入英语匹配组、平衡教育和熟练度、采用人工确认的等义材料，并区分逻辑任务与日常语用推理。</p>
+</section><section class="chap"><h3 id="draft-21" class="ch"><span class="no">5</span><span class="zh">意象性与实证性</span><span class="en">Imagic vs. Positive</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 316–318</span><span>PDF pp. 325–327</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>意象、类比、比喻与以事实检验结论的方式。原章英文 <code>Positive</code> 原样保留，不把它误读为情绪积极。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>意象性</strong>：用图画和比方来想、来说：“时间像流水。”</li>
+<li><strong>实证性</strong>：拿证据和实验来证明：“我们来量一量、试一试。”</li>
+<li><strong>Positive</strong>：这里是“实证”的意思，不是“开心、积极”。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Le temps, c'est de l'argent.（常见格言）</td><td class="l-en" lang="en">Time is money.</td><td class="l-zh" lang="zh-CN">时间就是金钱。</td></tr>
+<tr><td class="l-fr" lang="fr">Cette hypothèse doit être testée.</td><td class="l-en" lang="en">This hypothesis must be tested.</td><td class="l-zh" lang="zh-CN">这个假说需要检验。</td></tr>
+<tr><td class="l-fr" lang="fr">Son argument ne tient pas debout.（惯用表达）</td><td class="l-en" lang="en">His argument does not hold up.</td><td class="l-zh" lang="zh-CN">他的论点站不住脚。</td></tr>
+</tbody>
+</table></div>
+<p>三语都可以依赖空间/身体隐喻进行抽象论证，也都可以要求验证。比喻与实证可以在同一段科学解释中共存；它们不是互斥的语言属性。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“时间就是金钱”是打比方，“这个假说需要检验”是要证据。“他的论点站不住脚”，论点没长脚也能这么说，法语也说 <code><span class="fr" lang="fr">ne tient pas debout</span></code>。三种语言都爱打比方，也都要讲证据。</p>
+<p class="kid-sum"><b>一句话</b> 打比方和做实验可以出现在同一个科学故事里。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>R08 的运动事件研究说明空间意义的表达受具体词汇和构式资源影响，不宜从一个隐喻推出整个文化的科学认识方式。R14 的法语二语研究提供空间表达材料，但不直接检验“意象思维”。</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>应分别标注比喻性、类比论证、观察陈述、实验报告和证据强度。“汉字有形象来源”不是汉语现代词项只能按图像解释的证据。法语字母书写也不排除意象和联想。</p>
+<p class="lead" data-k="open"><b class="k">证据缺口</b>本轮检出的中法时空隐喻资料尚未完成全文核查，不将其摘要当作认知因果证据。下一轮需要比较同类型文本中的隐喻功能，以及读者是否把隐喻当成论据。</p>
+</section><section class="chap"><h3 id="draft-22" class="ch"><span class="no">6</span><span class="zh">模糊性与精确性</span><span class="en">Fuzzy vs. Precise</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 319–322</span><span>PDF pp. 328–331</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>定性与定量、概念界定、模糊表达和明确表达。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>模糊性</strong>：说个大概：“一会儿”“差不多”“好多人”。</li>
+<li><strong>精确性</strong>：说得很准：“3分钟”“刚好100人”。</li>
+<li><strong>定性和定量</strong>：定性是说“是什么样”（很多、很大）；定量是说“是多少”（52个、3米）。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Il y avait environ cent personnes.</td><td class="l-en" lang="en">There were about a hundred people.</td><td class="l-zh" lang="zh-CN">大约有一百人。</td></tr>
+<tr><td class="l-fr" lang="fr">Il y avait exactement cent personnes.</td><td class="l-en" lang="en">There were exactly one hundred people.</td><td class="l-zh" lang="zh-CN">恰好有一百人。</td></tr>
+<tr><td class="l-fr" lang="fr">Il arrivera bientôt.</td><td class="l-en" lang="en">He will arrive soon.</td><td class="l-zh" lang="zh-CN">他很快就到。</td></tr>
+<tr><td class="l-fr" lang="fr">Il arrivera à 14 h 03.</td><td class="l-en" lang="en">He will arrive at 2:03 p.m.</td><td class="l-zh" lang="zh-CN">他会在14点03分到。</td></tr>
+</tbody>
+</table></div>
+<p>三语都可以表达近似量和精确量。时间精确到分钟也不代表预测可靠；明确数值与认识确定性不同。法语名词的语法性标记只是类别要求，不是数量或事实的精度。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“大约一百人”和“刚好一百人”，三种语言都会说。说“14点03分到”也不代表他真会准时。法语名词分阴性阳性，像给玩具贴颜色标签，是分类规则，不是更准确。</p>
+<p class="kid-sum"><b>一句话</b> 会说精确数字，不等于这个人或这种语言更精确。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>中法冠词比较提醒，汉语没有法语冠词范畴，不等于没有定指和数量功能。[R18，摘要级] 教学讨论可作为研究入口，但不应把“定冠词”解释成确定无疑。<span class="cites"><a class="cite s-a" href="#r13" title="R13 · A · 冠词教学">R13</a></span></p>
+<p class="lead" data-k="data"><b class="k">独立核验</b>PUD 中法语 <code>Gender/Number</code> 标注更普遍，汉语相关标注较少；这个差别不测量数值误差、概念边界或事实判断精度。<span class="cites"><a class="cite s-d" href="#r20" title="D01 · D · 三语 Parallel Universal Dependencies">D01</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>把“模糊”拆成词义边界、指称不明、近似数量、预测不确定性四类，才能得到有意义的三语对照。研究应记录不确定性是否适配实际证据；不必要的精确数字也可能造成误导。</p>
+<p class="lead" data-k="open"><b class="k">证据缺口</b>目前没有直接三语证据支持“汉语群体较不精确、法语群体较精确”。后续可做相同数量刺激的报告任务，分别测绝对误差与缓和词使用率。</p>
+</section><section class="chap"><h3 id="draft-23" class="ch"><span class="no">7</span><span class="zh">求同性与求异性</span><span class="en">Convergent vs. Divergent</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 323–325</span><span>PDF pp. 332–334</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>和谐、统一取向与差异、争鸣取向。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>求同性</strong>：喜欢找大家一样的地方，追求和和气气、意见统一。像大家一起唱同一首歌。</li>
+<li><strong>求异性</strong>：喜欢找不一样的地方，提出不同意见。像每个人都想编一首新歌。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Je suis d'accord avec toi sur ce point.</td><td class="l-en" lang="en">I agree with you on this point.</td><td class="l-zh" lang="zh-CN">这一点我同意你。</td></tr>
+<tr><td class="l-fr" lang="fr">Je comprends ton point de vue, mais je ne partage pas ta conclusion.</td><td class="l-en" lang="en">I understand your point, but I do not share your conclusion.</td><td class="l-zh" lang="zh-CN">我理解你的看法，但不同意你的结论。</td></tr>
+<tr><td class="l-fr" lang="fr">On peut aussi envisager une autre solution.</td><td class="l-en" lang="en">We can also consider another solution.</td><td class="l-zh" lang="zh-CN">也可以考虑另一种办法。</td></tr>
+</tbody>
+</table></div>
+<p>第二例可同时维持关系与表达分歧；第三例可能是补充建议，也可能是间接反对，须看前文。不同意内容、打断对方、公开冲突是不同变量。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>一起搭积木时，可以说“我同意”，可以说“我懂你的想法，但我不同意”，也可以温和地说“也可以试试别的办法”。中法对话研究发现，争论电影和随便聊天时，大家说话的直接程度不一样。</p>
+<p class="kid-sum"><b>一句话</b> 吵不吵要看场合和关系，不看国籍。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>R09 的最终论文发现差异随冲突/非冲突情境而变化，也观察到两组共享的互动组织方式，不能把局部直接性差异写成“汉语不争论、法语必争论”。这里不重复其统计结果，详见上篇第9章与文献卡。</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>法语辩论和汉语协商都可以求共识或提出异议。群体目标、熟悉程度、权力关系和任务设置必须进入解释。文化标签不能先于观察成为编码结论。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>对同一议题分别设置共同完成任务、竞争辩论与朋友闲谈；比较建议数、反驳数、共同结论和关系修复，而非只数 <code><span class="fr" lang="fr">mais</span>/but/但是</code>。</p>
+</section><section class="chap"><h3 id="draft-24" class="ch"><span class="no">8</span><span class="zh">后馈性与前瞻性</span><span class="en">Retrospective vs. Prospective</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 326–329</span><span>PDF pp. 335–338</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>传统、经验与历史取向，预测、创造与未来取向。章名“后馈性”按底本目录保留，不改为“反馈性”。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>后馈性</strong>：往回看，重视过去的经验和传统：“上次这样做成功了，这次还这样做。”“后馈”是原书的写法，不是“反馈”。</li>
+<li><strong>前瞻性</strong>：往前看，重视预测和创新：“下次我们试个新办法。”</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Demain, je pars à huit heures.</td><td class="l-en" lang="en">I leave at eight tomorrow.</td><td class="l-zh" lang="zh-CN">我明天八点走。</td></tr>
+<tr><td class="l-fr" lang="fr">Demain, je partirai à huit heures.</td><td class="l-en" lang="en">I will leave at eight tomorrow.</td><td class="l-zh" lang="zh-CN">我明天会在八点出发。</td></tr>
+<tr><td class="l-fr" lang="fr">L'an prochain, nous allons lancer le projet.</td><td class="l-en" lang="en">Next year, we're going to launch the project.</td><td class="l-zh" lang="zh-CN">明年我们打算启动项目。</td></tr>
+</tbody>
+</table></div>
+<p>法语现在时可表达已安排未来；有未来时也不表示只用未来时。汉语可以用“明年、打算、将”等明确前瞻，不能从不屈折推出“不面向未来”。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>“明天我八点走。”法语可以用现在时 <code><span class="fr" lang="fr">je pars</span></code>，也可以用将来时 <code><span class="fr" lang="fr">je partirai</span></code>。中文动词没有将来词尾，但有“明天、打算、将”。</p>
+<p class="kid-sum"><b>一句话</b> 动词变不变，不代表会不会计划未来；“有将来时的人存钱少”这个说法，控制更严格后不太站得住。</p></aside><p class="lead" data-k="lit"><b class="k">文献发现</b>Chen 提出未来时表达与储蓄等行为相关的假说；本地保存的是工作论文版本，须与正式发表版本区别。<span class="cites"><a class="cite s-a" href="#r16" title="R16 · A · 未来表达与行为的假说">R16</a></span> Roberts、Winters、Chen 随后控制文化演化相关性，发现相关强度和显著性依赖控制方式，一些严格检验下不显著。<span class="cites"><a class="cite s-b" href="#r25" title="R25 · B · 文化演化相关性的控制">R25</a></span> 此处只用于说明因果与样本非独立性问题，不据此给用户经济建议。</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>历史引用频率、未来时语法、计划行为和创新倾向是四种变量。语言研究可以测时间指称和叙事跨度，无法仅靠动词变位测一个民族的创造性。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>三语未来事件描写要标注确定性、计划性、时间距离及表达形式；认知/行为研究另需匹配人群和实验任务。</p>
+</section><section class="chap"><h3 id="draft-25" class="ch"><span class="no">9</span><span class="zh">内向性与外向性</span><span class="en">Introversive vs. Extroversive</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 330–339</span><span>PDF pp. 339–348</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>内在体验、内向探索与外部世界、对象探索。原章术语不是现代人格量表的 introversion/extraversion，不能混用。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>内向性</strong>：往心里看，关心自己的体会和修养。像安静地想想自己今天做得好不好。</li>
+<li><strong>外向性</strong>：往外面看，去探索外面的世界。像跑出去看蚂蚁怎么搬家。</li>
+<li><strong>注意</strong>：这里不是说一个人性格害羞还是活泼，和心理学的“内向/外向性格”不是一回事。</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Je me demande si cette explication est juste.</td><td class="l-en" lang="en">I wonder whether this explanation is right.</td><td class="l-zh" lang="zh-CN">我在想这个解释是否正确。</td></tr>
+<tr><td class="l-fr" lang="fr">Nous avons observé le phénomène pendant trois jours.</td><td class="l-en" lang="en">We observed the phenomenon for three days.</td><td class="l-zh" lang="zh-CN">我们连续观察了这个现象三天。</td></tr>
+<tr><td class="l-fr" lang="fr">Je me suis aperçu de mon erreur.</td><td class="l-en" lang="en">I noticed my mistake.</td><td class="l-zh" lang="zh-CN">我意识到了自己的错误。</td></tr>
+</tbody>
+</table></div>
+<p>法语代词式可以表达内省；其中的 <code><span class="fr" lang="fr">me</span></code> 有语法作用，不等于内向人格。汉语使用“自己”也不能证明思维局限于内部。英语 <code>I</code>、法语 <code><span class="fr" lang="fr">je</span></code> 的显式出现受语法条件约束，不能直接与中文“我”的频次比较自我中心程度。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p><code><span class="fr" lang="fr">Je me demande</span></code> 字面上是“我问我自己”，意思是“我在想”。这里的 <code><span class="fr" lang="fr">me</span></code> 是语法要求的小零件，像玩具上必须拧的螺丝，不是说这个人害羞。</p>
+<p class="kid-sum"><b>一句话</b> 句子里多说“我”或“自己”，不代表人内向或外向。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>指称选择应结合句法和显著性解释。<span class="cites"><a class="cite s-b" href="#r02" title="R02 · B · 指称显著性的多因素分析">R02</a></span> R10 的文化认知框架可作为历史理论背景，但本轮没有找到把本章宏观分类与法语群体人格测量直接连接的证据。</p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b>可执行的语言问题是：认识动词、感知动词、反身构式和证据来源怎样组织观察者与对象。不能从单个反身代词或第一人称计数推断地区群体的内外向。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>同一体裁下区分内省报告、外部观察报告、交往行为；若确要讨论人格，还须独立量表与样本，避免用语言特征既定义人格又证明人格。</p>
+</section><section class="chap"><h3 id="draft-26" class="ch"><span class="no">10</span><span class="zh">归纳型与演绎型</span><span class="en">Inductive vs. Deductive</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 340–345</span><span>PDF pp. 349–354</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>从经验与个别到概括，以及从一般前提到结论的论证方式。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>归纳</strong>：从很多例子里总结出规律。吃了好几个青苹果都是酸的，就说“青苹果是酸的”。</li>
+<li><strong>演绎</strong>：从规律推到一个例子。“青苹果都是酸的，这个是青苹果，所以它是酸的。”</li>
+</ul></aside>
+<div class="tw"><table class="tri">
+<thead>
+<tr>
+<th class="l-fr"><span class="lang">FR</span>自拟法语</th>
+<th class="l-en"><span class="lang">EN</span>英语</th>
+<th class="l-zh"><span class="lang">ZH</span>汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="l-fr" lang="fr">Tous les mammifères sont des animaux. Les baleines sont des mammifères. Donc, les baleines sont des animaux.</td><td class="l-en" lang="en">All mammals are animals. Whales are mammals. Therefore, whales are animals.</td><td class="l-zh" lang="zh-CN">所有哺乳动物都是动物。鲸是哺乳动物。因此，鲸是动物。</td></tr>
+<tr><td class="l-fr" lang="fr">Ces trois échantillons ont réagi de la même façon ; d'autres essais sont nécessaires avant de généraliser.</td><td class="l-en" lang="en">These three samples reacted alike; further tests are needed before generalizing.</td><td class="l-zh" lang="zh-CN">这三个样本反应相同，但推广结论之前还需要更多试验。</td></tr>
+</tbody>
+</table></div>
+<p>第一例是有效的类别演绎；第二例提示归纳的范围限制。三语都能表达这两种推理。文章把主题句放前面还是后面，只是修辞组织，不充分证明推理类型。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>演绎像套规则：所有哺乳动物都是动物，鲸是哺乳动物，所以鲸是动物。归纳像攒例子：看到三个样本反应一样，还要多试几次才能说“都这样”。三种语言都能说这两种。<code><span class="fr" lang="fr">donc</span></code>、therefore、“因此”只是“所以”这根线，看不出是哪种推理。</p>
+<p class="kid-sum"><b>一句话</b> 结论放在前面还是后面，是写作习惯，不是推理方式。</p></aside><p class="lead" data-k="lit"><b class="k">文献联系</b>法国教育部门的哲学作文评价材料要求问题化、连贯论证和概念分析，可证明一种教育体裁的规范，不能证明全部法语写作采用单一演绎模式。<span class="cites"><a class="cite s-b" href="#r26" title="R26 · B · 法国哲学作文规范">R26</a></span> 中国法语学习者论说写作的论文摘要把教学、体裁和跨文化能力纳入问题，提醒学习者困难不能全归母语思维。<span class="cites"><a class="cite s-a" href="#r24" title="R24 · A · 中国法语学习者论证写作">R24</a></span></p>
+<p class="lead" data-k="judge"><b class="k">研究判断</b><code><span class="fr" lang="fr">donc</span>/therefore/因此</code> 只标示某种推论关系，不能自动标记为演绎。归纳、演绎、类比、溯因和举例应分别编码。所谓固定“三段式”也不能替代对真实论证的分析。</p>
+<p class="lead" data-k="open"><b class="k">待验证</b>同一任务分别采集法语母语、英语母语、汉语母语文本及中国法语学习者文本；编码前提是否显式、结论位置、论证有效性和反例处理，区分母语、教育与外语熟练度影响。</p>
+</section><section class="chap"><h3 id="draft-27" class="ch"><span class="no txt">综述</span><span class="zh">悟性与理性</span><span class="en">Wuxing vs. Rationality</span></h3>
+<p class="folio"><span>底本 · 印刷 pp. 346–355</span><span>PDF pp. 355–364</span></p>
+<p class="lead" data-k="book"><b class="k">原书论域</b>对下篇各对特征的哲学归纳。标题原样保留；本研究不把这些标题预先当成已确证的人群事实。</p><aside class="terms" aria-label="术语解释"><p class="kid-k">先弄懂这些词</p><ul>
+<li><strong>悟性</strong>：靠体会和领悟一下子明白，像突然“啊，我懂了”。</li>
+<li><strong>理性</strong>：靠概念、推理和证明来弄明白，每一步都能说出道理。</li>
+</ul></aside>
+<p class="lead" data-k="fr"><b class="k">法语补充</b>法语既可表达直觉：<code><span class="fr" lang="fr">J&#x27;ai l&#x27;intuition que cette piste est prometteuse.</span></code> / <code>I have a hunch that this approach is promising.</code> / “我直觉这个方向有希望。”也可检验直觉：<code><span class="fr" lang="fr">Vérifions cette intuition par une expérience.</span></code> / <code>Let's test this hunch with an experiment.</code> / “用实验检验一下这个直觉。”两者可以构成同一个研究过程。</p>
+<aside class="kid" aria-label="通俗比喻"><p class="kid-k">讲给小朋友听</p><p>像一个小侦探：先有直觉“我觉得宝藏在这边”（<code><span class="fr" lang="fr">J&#x27;ai l&#x27;intuition…</span></code>），再去挖一挖检查（<code><span class="fr" lang="fr">Vérifions…</span></code>）。直觉和检查是同一个侦探的两步，不是两种人。</p>
+<p class="kid-sum"><b>一句话</b> 法语像第三位裁判，帮我们看英汉二分哪些成立、哪些要拆小、哪些还说不准。</p></aside><p class="lead" data-k="find"><b class="k">本轮研究发现</b>三语形式差异中，法语的屈折一致、弱代词与式、汉语的零回指和事件组合、英语的运动方式包装等，能够提出具体比较问题。对“法语理性、汉语悟性”的整体认知归类，本轮没有得到直接三语证据。中法条件推理研究还给出了对简单映射不利的结果。<span class="cites"><a class="cite s-a" href="#r19" title="R19 · A · 中法条件推理实验">R19</a></span></p>
+<p class="lead" data-k="judge"><b class="k">证据分层</b>已有的文化认知理论可保留作理论背景，但必须核对其对象与方法。<span class="cites"><a class="cite s-a" href="#r10" title="R10 · A · 整体/分析认知理论背景">R10</a></span> 构式分析不证明频率；翻译语料不直接代表自然产出；语篇差异不直接证明民族人格；相关性不证明语言造成行为。后续三语语料与认知实验应分别检验，再讨论两者联系。</p>
+<p class="lead" data-k="find"><b class="k">研究结论</b>沿用原书结构后，法语最有价值的作用，是让英汉二分接受第三语言的检验：有些差异得到支持，有些需要拆成更小维度，有些文化解释必须保持未决。这既保留底本的研究路线，也避免为了填入法语而制造并不存在的确定性。</p>
+</section><h2 id="draft-28">参考文献 (Bibliography)</h2>
+<p>底本参考文献：印刷 pp. 356–364；PDF pp. 365–373，原样机器转录保留于源文件。本研究新增文献独立编号，完整作者、年份、题名、网址、可用页码和阅读状态见 <a href="#lit">文献目录与证据状态</a>。</p>
+<p>第一轮尚未完成：原书逐字及逐小节校勘、各原小节内法语材料的全面插入、全部候选论文全文阅读、自然产出三语可比语料、下篇各认知维度的直接三语实验验证。上面的“待验证/证据缺口”是研究记录，不是已得到的结果。</p></div></section>
+<section class="doc-sec" id="lit" data-doc="lit"><header class="doc-head"><p class="eyebrow">文献与证据</p><h1>新增文献目录与证据状态</h1><a class="src file" href="docs/research/文献目录与证据状态.md">Markdown 原文</a></header><div class="prose">
+<p>检索/核查日期：2026-10-11。此目录列出进入研究稿的证据及保留的候选线索，不宣称穷尽互联网。原书参考文献另保存在原书 OCR，不能与本次新增文献混合计数。</p>
+<p>状态说明：<strong>A</strong>＝取得全文，已阅读与本稿有关的部分，未必逐页精读；<strong>B</strong>＝只核查出版社/期刊页面、摘要或预览，不能引用全文中的未知细节；<strong>C</strong>＝书目信息或研究线索，未完成原始全文核查，不作结果证据；<strong>D</strong>＝数据和本次计算，可复现，结论仍受数据来源和标注限制。<code>A</code> 不是质量评级，<code>B/C</code> 也不说明文献质量低。</p>
+<h2 id="lit-2">直接中法比较及三语研究</h2>
+<article class="entry"><h3 id="r01" class="bib"><span class="rid">R01</span><span class="st s-b">B</span><span class="bt">话题与语篇话题</span></h3>
+<p>Hou, Jiaqi, &amp; Landragin, Frédéric. (2023). <strong>Correlation between sentence topic and discourse topic in French and Chinese: annotation issues and contrastive analysis.</strong> <em>Studia Linguistica</em>, 77(3), 515–560. DOI：<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/stul.12215" class="ext" target="_blank" rel="noopener">10.1111/stul.12215</a>。<a href="https://shs.hal.science/halshs-04198320" class="ext" target="_blank" rel="noopener">HAL 记录</a>。</p>
+<ul>
+<li>已核查：出版社摘要与书目；检索工具还返回部分正文，但本地未成功取得论文 PDF。精确数据表不按已完成全文核查处理。</li>
+<li>可引用发现：两语句子话题与语篇话题正相关，组间相关强度差异未显著；作者提出指称形式和话题连接方式的解释。</li>
+<li>对应：上篇2、10；下篇2。局限：特定标注文本，不是整个语言的代表性抽样，也没有直接测量非语言认知。</li>
+</ul>
+</article><article class="entry"><h3 id="r02" class="bib"><span class="rid">R02</span><span class="st s-b">B</span><span class="bt">指称显著性的多因素分析</span></h3>
+<p>Hou, Jiaqi, &amp; Landragin, Frédéric. (2024). <strong>Referential Salience in French and Mandarin Chinese: Influence of Syntactic, Semantic and Textual Factors.</strong> <em>Languages</em>, 9(2), 40. DOI：<a href="https://doi.org/10.3390/languages9020040" class="ext" target="_blank" rel="noopener">10.3390/languages9020040</a>。<a href="https://www.mdpi.com/2226-471X/9/2/40" class="ext" target="_blank" rel="noopener">期刊页</a>。</p>
+<ul>
+<li>已核查：期刊索引内容、摘要与作者元数据；直接网页访问曾触发限流。研究稿只采用多因素方法这一层结论。</li>
+<li>可用内容：比较句法、语义和文本因素与显著性的关联，不把回指形式只解释成“爱重复/不爱重复”。</li>
+<li>对应：上篇5、10；下篇3、9。局限：显著性是语篇指称概念，不能直接等于人格或客观性。</li>
+</ul>
+</article><article class="entry"><h3 id="r03" class="bib"><span class="rid">R03</span><span class="st s-b">B</span><span class="bt">中法因果连接词</span></h3>
+<p>Wang, Zhichao. (2024). <strong>Analyse contrastive de connecteurs de cause en français et en mandarin standard. Point de vue syntactico-sémantique.</strong> <em>Thélème. Revista Complutense de Estudios Franceses</em>, 39(2), 333–349. DOI：<a href="https://doi.org/10.5209/thel.94107" class="ext" target="_blank" rel="noopener">10.5209/thel.94107</a>。<a href="https://revistas.ucm.es/index.php/THEL/es/article/view/94107" class="ext" target="_blank" rel="noopener">期刊原页</a>。</p>
+<ul>
+<li>已核查：期刊摘要、作者、卷期、页码及发布日期 2024-12-19；PDF 下载重定向失败。</li>
+<li>可用内容：研究对象包括 <code>parce que/puisque/car</code> 与“因为/由于/既然”，方法为句法—语义对比。当前不据摘要虚构逐项限制或统计频次。</li>
+<li>对应：上篇3。后续：阅读全文后提取具体例号和语境条件。</li>
+</ul>
+</article><article class="entry"><h3 id="r04" class="bib"><span class="rid">R04</span><span class="st s-b">B</span><span class="bt">无回指的左置名词组</span></h3>
+<p>Rossi-Gensane, Nathalie, &amp; Kong, Fanguang. (2022). <strong>Les syntagmes nominaux détachés à gauche sans rappel pronominal en français et en chinois : éléments de comparaison.</strong> <em>SHS Web of Conferences</em>, 138, 13005（17页）. DOI：<a href="https://doi.org/10.1051/shsconf/202213813005" class="ext" target="_blank" rel="noopener">10.1051/shsconf/202213813005</a>。<a href="https://icar.cnrs.fr/membre/nrossigensane/publications/" class="ext" target="_blank" rel="noopener">作者所属实验室书目</a>。</p>
+<ul>
+<li>已核查：摘要与 CNRS 实验室书目；出版社 PDF 403。13005 是文章号，不是页码；“17”是篇幅。</li>
+<li>可用内容：两语都有相关左置结构，不能把法语概括为不存在此类组织。</li>
+<li>对应：上篇2。未核查：全文例证、频率与详细音系分析，不将这些当作本轮已读结果。</li>
+</ul>
+</article><article class="entry"><h3 id="r05" class="bib"><span class="rid">R05</span><span class="st s-c">C</span><span class="bt">时体硕士论文</span></h3>
+<p>Sun, Haijin. (2012). <strong>La temporalité et l’aspectualité en français et en chinois (étude contrastive).</strong> Mémoire de master 2 recherche, Université Stendhal Grenoble 3. <a href="https://dumas.ccsd.cnrs.fr/dumas-00743387" class="ext" target="_blank" rel="noopener">DUMAS 原始存档标识 dumas-00743387</a>。</p>
+<ul>
+<li>检索发现作者、题名、学位层级和存档号；原存档访问遇到验证页面。第三方镜像不作为本稿事实依据。</li>
+<li>对应：上篇1。用于下一轮阅读，不将硕士论文标为博士论文或期刊文献。</li>
+</ul>
+</article><article class="entry"><h3 id="r07" class="bib"><span class="rid">R07</span><span class="st s-a">A</span><span class="bt">英法汉赘词否定</span></h3>
+<p>Jin, Yanwei, &amp; Koenig, Jean-Pierre. (2019). <strong>Expletive Negation in English, French, and Mandarin: A Semantic and Language Production Model.</strong> In Christopher Piñón (Ed.), <em>Empirical Issues in Syntax and Semantics 12</em>, 157–186. Paris: CSSP. <a href="http://www.cssp.cnrs.fr/eiss12/eiss12_jin-and-koenig.pdf" class="ext" target="_blank" rel="noopener">原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：pp. 157–162 的定义、前人分析及语义解释，结合后续三语触发环境段落。</li>
+<li>可引用发现：形式否定不一定改变所在命题的极性；讨论三语的共通触发机制。</li>
+<li>对应：上篇9。局限：不是三语所有否定构式的穷尽描写，不能把赘词否定等同礼貌或双重否定。</li>
+</ul>
+</article><article class="entry"><h3 id="r09" class="bib"><span class="rid">R09</span><span class="st s-a">A</span><span class="bt">中法分歧表达（最终博士论文）</span></h3>
+<p>Chen, Rou. (2024). <strong>Exprimer son désaccord en français et en chinois dans des échanges informels : Analyse contrastive d’interactions verbales.</strong> Thèse de doctorat, Université de Lille, soutenue le 18 novembre 2024. <a href="https://pepite-depot.univ-lille.fr/LIBRE/EDSHS/2024/2024ULILH039.pdf" class="ext" target="_blank" rel="noopener">大学原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：法/中摘要（PDF pp. 7、11）；结论印刷 pp. 271–280 / PDF pp. 295–304，特别是 pp. 272–273。</li>
+<li>样本：48名大学生，24名汉语、24名法语母语者；熟人结对；72次对话，总时长约5小时20分。</li>
+<li>可引用发现：冲突性电影讨论中法语直接性标记较多，但共同特征和情境差异同样存在；不能推广到所有交际。2023年会议摘要是较早阶段材料，不能替代最终论文。</li>
+<li>对应：上篇9；下篇7。局限：半实验、熟人、大学生样本；法语样本不代表所有法语地区。</li>
+</ul>
+</article><article class="entry"><h3 id="r11" class="bib"><span class="rid">R11</span><span class="st s-a">A</span><span class="bt">主题与主语的翻译教学</span></h3>
+<p>Li, Junkai. (2017). <strong>Traduction du thème et du sujet dans une perspective de typologie linguistique.</strong> <em>Synergies Chine</em>, 12, 99–111. <a href="https://gerflint.fr/Base/Chine12/li_junkai.pdf" class="ext" target="_blank" rel="noopener">期刊原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：摘要及类型对照、翻译教学部分；讨论汉语主题向法语主语组织转换。</li>
+<li>对应：上篇2、5。局限：教学与偏误分析，不代表三语全部自然语篇；其类型概括须与 R01 的实证限定合读。</li>
+</ul>
+</article><article class="entry"><h3 id="r12" class="bib"><span class="rid">R12</span><span class="st s-a">A</span><span class="bt">中法时体比较与教学</span></h3>
+<p>Wang, Caixia. (2017). <strong>L’étude contrastive fondée sur la conception « anti-anti-relativiste » : un atout pour la traduction et l’enseignement de la temporalité des langues étrangères.</strong> <em>Synergies Chine</em>, 12, 113–123. <a href="https://gerflint.fr/Base/Chine12/wang_caixia.pdf" class="ext" target="_blank" rel="noopener">期刊原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：摘要与开篇理论、时体范畴比较及结语。</li>
+<li>可用内容：跨语言时体教学应建立在两语语言机制的理解上，不只凭教师直觉。</li>
+<li>对应：上篇1。局限：理论与教学论证不是习得效果随机实验；不支持把法语各时态与汉语助词一对一配对。</li>
+</ul>
+</article><article class="entry"><h3 id="r13" class="bib"><span class="rid">R13</span><span class="st s-a">A</span><span class="bt">冠词教学</span></h3>
+<p>Zhou, Wei. <strong>Les articles du français et leur enseignement aux Chinois — À la recherche d’un discours métalinguistique opérationnel en classe de langue.</strong> <em>Synergies Chine</em>, 2, 187–189. <a href="https://gerflint.fr/Base/Chine2/zhou_wei.pdf" class="ext" target="_blank" rel="noopener">期刊原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>年份：本轮取得的3页 PDF 未显式标示年份，暂不凭卷号猜测；待核对期刊卷期总页。</li>
+<li>已读：全文3页。以法语冠词和汉语相关表达之间的教学联系为问题。</li>
+<li>对应：上篇1；下篇6。局限：汉语相关结构不是法语冠词的范畴等价物。</li>
+</ul>
+</article><article class="entry"><h3 id="r14" class="bib"><span class="rid">R14</span><span class="st s-a">A</span><span class="bt">汉语母语者法语空间表达习得</span></h3>
+<p>Tan, Jia. (2011). <strong>L’acquisition de la spatialité en français chez les étudiants chinois : étude longitudinale.</strong> Thèse de doctorat, Université Paris Ouest Nanterre La Défense, soutenue le 8 décembre 2011. <a href="https://bdr.parisnanterre.fr/theses/internet/2011PA100177.pdf" class="ext" target="_blank" rel="noopener">大学原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：摘要与方法、空间事件及汉语连动的讨论，特别是印刷 p. 76（以文本页内印刷标记定位）。</li>
+<li>可用内容：三年纵向研究法语学习者空间表达；跨语比较必须考虑学习阶段和事件包装。</li>
+<li>对应：上篇7；下篇5。局限：二语产出不能直接作为法语母语的典型分布。</li>
+</ul>
+</article><article class="entry"><h3 id="r18" class="bib"><span class="rid">R18</span><span class="st s-b">B</span><span class="bt">法汉冠词/量化功能不对称</span></h3>
+<p>Ma, Chunyuan. (2023). <strong>L’Absence d’article en français et sa solution en chinois.</strong> <em>Corela</em>, HS-38. DOI：<a href="https://doi.org/10.4000/corela.15644" class="ext" target="_blank" rel="noopener">10.4000/corela.15644</a>。<a href="https://journals.openedition.org/corela/15644" class="ext" target="_blank" rel="noopener">期刊原页</a>。</p>
+<ul>
+<li>已核查：索引摘要、作者、年份、DOI；原页反机器人验证。当前只采用范畴不等价与功能可比较这一层问题。</li>
+<li>对应：上篇1；下篇6。后续需核查理论假设，避免把一种冠词理论当作唯一分析。</li>
+</ul>
+</article><article class="entry"><h3 id="r19" class="bib"><span class="rid">R19</span><span class="st s-a">A（网页全文）</span><span class="bt">中法条件推理实验</span></h3>
+<p>Shao, Jing, Tikiri Banda, Dilane, &amp; Baratgin, Jean. (2022). <strong>A Study on the Sufficient Conditional and the Necessary Conditional With Chinese and French Participants.</strong> <em>Frontiers in Psychology</em>, 13, 787588. DOI：<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.787588/full" class="ext" target="_blank" rel="noopener">10.3389/fpsyg.2022.787588</a>。</p>
+<ul>
+<li>已核查：期刊网页全文，摘要、理论问题与结果/讨论；网页无稳定印刷页码，以节名定位。</li>
+<li>可引用发现：总体结果未支持假设预期的中法组间优势；个别任务条件仍有显著差异，不能概括为全部条件无差别，更不能视为等效性检验。</li>
+<li>对应：下篇绪论、4、综述。对作者关于必要条件连接词的描述应按其任务定义阅读，不能称法语不能表达必要条件。</li>
+</ul>
+</article><h2 id="lit-3">英法比较、理论背景与方法</h2>
+<article class="entry"><h3 id="r06" class="bib"><span class="rid">R06</span><span class="st s-b">B</span><span class="bt">连接词翻译显隐</span></h3>
+<p>Zufferey, Sandrine. (2016). <strong>Discourse connectives across languages: Factors influencing their explicit or implicit translation.</strong> <em>Languages in Contrast</em>, 16(2), 264–279. DOI：<a href="https://www.benjamins.com/catalog/lic.16.2.05zuf" class="ext" target="_blank" rel="noopener">10.1075/lic.16.2.05zuf</a>。</p>
+<ul>
+<li>已核查：出版社摘要与书目；全文需授权。</li>
+<li>研究设计：法语连接词的德、英、西语译文；不能误记成中法比较。</li>
+<li>对应：上篇3。限制：只用于提出显隐翻译的变量，未引述具体频数。</li>
+</ul>
+</article><article class="entry"><h3 id="r08" class="bib"><span class="rid">R08</span><span class="st s-a">A</span><span class="bt">运动事件类型重审</span></h3>
+<p>Beavers, John, Levin, Beth, &amp; Tham, Shiao Wei. (2010). <strong>The typology of motion expressions revisited.</strong> <em>Journal of Linguistics</em>, 46(2), 331–377. DOI：<a href="https://doi.org/10.1017/S0022226709990272" class="ext" target="_blank" rel="noopener">10.1017/S0022226709990272</a>。<a href="https://web.stanford.edu/~bclevin/jofl10mot.pdf" class="ext" target="_blank" rel="noopener">作者保存的原文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：引言与方法 pp. 331–336；法语方式动词及目标位置解释 pp. 363–365。期刊卷期2010，在线首发2009，二者不能混淆。</li>
+<li>可引用发现：多种词汇、形态、句法资源与语用偏好共同作用，语言经常跨越单一运动类型。</li>
+<li>对应：上篇7；下篇5。限制：不据此给三语“动态程度”排总榜。</li>
+</ul>
+</article><article class="entry"><h3 id="r10" class="bib"><span class="rid">R10</span><span class="st s-a">A</span><span class="bt">整体/分析认知理论背景</span></h3>
+<p>Nisbett, Richard E., Peng, Kaiping, Choi, Incheol, &amp; Norenzayan, Ara. (2001). <strong>Culture and systems of thought: Holistic versus analytic cognition.</strong> <em>Psychological Review</em>, 108(2), 291–310. DOI：<a href="https://doi.org/10.1037/0033-295X.108.2.291" class="ext" target="_blank" rel="noopener">10.1037/0033-295X.108.2.291</a>。<a href="https://culcog.studentorg.berkeley.edu/Publications/2001PsyRev_Nisbettetal.pdf" class="ext" target="_blank" rel="noopener">研究团队全文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读重点：摘要、理论命题与总体论证；本轮未复核其每一项所引实验。</li>
+<li>对应：下篇绪论、2、9、综述。限制：它是理论综合文章，不能替代直接法英汉比较或因果实验。</li>
+</ul>
+</article><article class="entry"><h3 id="r15" class="bib"><span class="rid">R15</span><span class="st s-b">B（预览已取得）</span><span class="bt">英法比较修辞经典</span></h3>
+<p>Vinay, Jean-Paul, &amp; Darbelnet, Jean. (1995). <strong>Comparative Stylistics of French and English: A Methodology for Translation.</strong> Translated and edited by Juan C. Sager and Marie-Josée Hamel. Amsterdam/Philadelphia: John Benjamins. Benjamins Translation Library, 11. DOI：<a href="https://benjamins.com/catalog/btl.11" class="ext" target="_blank" rel="noopener">10.1075/btl.11</a>。<a href="https://api.pageplace.de/preview/DT0400.9789027291134_A24761567/preview-9789027291134_A24761567.pdf" class="ext" target="_blank" rel="noopener">出版社授权预览</a>。<span title="本地研究档案">本地预览文本（本地档案）</span>。</p>
+<ul>
+<li>原法语著作：<em>Stylistique comparée du français et de l’anglais : méthode de traduction</em>（1958）；本条引用版本为1995英译本。</li>
+<li>已读：38页预览中的目录、序言与开篇。全文未取得，不引用预览以外的具体论断或页码。</li>
+<li>对应：上篇绪论、4、8。限制：翻译方法不能单独证明当代语言的总体频率或民族心理。</li>
+</ul>
+</article><article class="entry"><h3 id="r16" class="bib"><span class="rid">R16</span><span class="st s-a">A（工作论文）</span><span class="bt">未来表达与行为的假说</span></h3>
+<p>Chen, M. Keith. <strong>The Effect of Language on Economic Behavior: Evidence from Savings Rates, Health Behaviors, and Retirement Assets.</strong> <a href="https://www.anderson.ucla.edu/faculty/keith.chen/papers/LanguageWorkingPaper.pdf" class="ext" target="_blank" rel="noopener">作者工作论文 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>本地是56页作者工作版本，版本日期需进一步核对；不能将此文件的页码冒充正式期刊版页码。</li>
+<li>正式发表版本：2013，<em>American Economic Review</em>, 103(2), 690–731，DOI <code>10.1257/aer.103.2.690</code>（正式版元数据后续再独立复核，本轮不作具体页内引用）。</li>
+<li>已读重点：摘要及未来时间表达分类；只作为相关性假说，不作法英汉行为排行依据。</li>
+<li>对应：下篇8。须与 R25 合读。</li>
+</ul>
+</article><article class="entry"><h3 id="r21" class="bib"><span class="rid">R21</span><span class="st s-b">B</span><span class="bt">英法名词补语中的情态</span></h3>
+<p>Kanté, Issa. (2012). <strong>Mood and modality in finite noun complement clauses: A French-English contrastive study.</strong> In Stefania Marzo, Kris Heylen, &amp; Gert De Sutter (Eds.), <em>Corpus Studies in Contrastive Linguistics</em>, 117–140. Benjamins Current Topics, 43. DOI：<a href="https://www.benjamins.com/catalog/bct.43.06kan" class="ext" target="_blank" rel="noopener">10.1075/bct.43.06kan</a>。</p>
+<ul>
+<li>已核查：出版社章摘要与书目。更早的期刊版本不在本条重复计数。</li>
+<li>可用内容：支配补语的名词与情态、立场及直陈/虚拟式交替有关；不把它扩成所有法语抽象名词均如此。</li>
+<li>对应：上篇8；下篇1、3。限制：全文未读，不引用具体样本数据。</li>
+</ul>
+</article><article class="entry"><h3 id="r22" class="bib"><span class="rid">R22</span><span class="st s-c">C</span><span class="bt">英法被动博士论文</span></h3>
+<p>Raineri, Sophie. (2010). <strong>Analyse contrastive français-anglais du passif dans une perspective constructionnelle : Sens et fonction de BE Ven, ETRE Vé, GET Ven et SE FAIRE Ver.</strong> Thèse de doctorat, Université Sorbonne Nouvelle – Paris III. NNT <code>2010PA030059</code>，HAL <code>tel-00841659</code>。<a href="https://cv.hal.science/sophie-raineri" class="ext" target="_blank" rel="noopener">作者 HAL 简历与书目</a>。</p>
+<ul>
+<li>作者原始书目确认题名、学校与存档号；未取得论文全文。先前猜测的其他 NNT 页面访问结果不作证据。</li>
+<li>对应：上篇6的下一轮重点阅读。研究稿自拟构式例句不冒充论文原例。</li>
+</ul>
+</article><article class="entry"><h3 id="r23" class="bib"><span class="rid">R23</span><span class="st s-c">C</span><span class="bt">汉法被动博士论文</span></h3>
+<p>Yuan, Meiyu. (2003). <strong>Le passif en français et en chinois : étude comparative d’après cinq œuvres chinoises publiées entre 1975 et 1996.</strong> Thèse de doctorat, Université de Provence. NNT <code>2003AIX10074</code>。<a href="https://theses.fr/2003AIX10074" class="ext" target="_blank" rel="noopener">书目入口</a>。</p>
+<ul>
+<li>本轮由图书馆/论文发行书目和后续文献检出；原始存档未成功访问。学校、学位及全文结论须下一轮核查。</li>
+<li>对应：上篇6。不是已读实证证据，不引用其未知频率或结论。</li>
+</ul>
+</article><article class="entry"><h3 id="r24" class="bib"><span class="rid">R24</span><span class="st s-a">A（论文摘要，仅1页）</span><span class="bt">中国法语学习者论证写作</span></h3>
+<p>Wang, Yongkang. (2018). <strong>Argumentation et interculturel : analyse de la dissertation des étudiants chinois de français.</strong> Résumé de thèse. <em>Synergies Chine</em>, 13, 271. <a href="https://gerflint.fr/Base/Chine13/wang_yongkang.pdf" class="ext" target="_blank" rel="noopener">期刊摘要 PDF</a>。<span title="本地研究档案">本地文本（本地档案）</span>。</p>
+<ul>
+<li>已读的是期刊刊出的学位论文摘要，学位论文全文未取得；<code>A</code> 只适用于这一页摘要本身。</li>
+<li>对应：下篇10。用于指出论证教学/体裁问题；不能把学习者困难推广为汉语母语者没有逻辑能力。</li>
+</ul>
+</article><article class="entry"><h3 id="r25" class="bib"><span class="rid">R25</span><span class="st s-b">B（期刊摘要及开篇）</span><span class="bt">文化演化相关性的控制</span></h3>
+<p>Roberts, Seán G., Winters, James, &amp; Chen, Keith. (2015). <strong>Future Tense and Economic Decisions: Controlling for Cultural Evolution.</strong> <em>PLOS ONE</em>, 10(7), e0132145. DOI：<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132145" class="ext" target="_blank" rel="noopener">10.1371/journal.pone.0132145</a>。</p>
+<ul>
+<li>已核查：期刊摘要、作者和书目；未独立复算模型。不同控制下的关联稳健性不同，最严格的一些检验未达显著。</li>
+<li>对应：下篇8。方法意义：语言/文化样本不独立时不能把相关直接解释成语言导致行为。</li>
+</ul>
+</article><article class="entry"><h3 id="r26" class="bib"><span class="rid">R26</span><span class="st s-b">B（官方教育材料）</span><span class="bt">法国哲学作文规范</span></h3>
+<p>Ministère de l’Éducation nationale / Éduscol. (2020). <strong>Philosophie : évaluations</strong>（终年级教学与评价支持材料）. <a href="https://eduscol.education.gouv.fr/sites/default/files/document/ra20lyceegtterphiloevaluations1318475pdf-83655.pdf" class="ext" target="_blank" rel="noopener">官方 PDF</a>。</p>
+<ul>
+<li>已核查：官方检索摘要中的问题化、论证和概念分析要求；本轮未下载全文逐页核对。</li>
+<li>对应：下篇10。性质：制度化写作评价规范，不能当作全部法语人的认知实验。</li>
+</ul>
+</article><h2 id="lit-4">数据</h2>
+<article class="entry"><h3 id="r20" class="bib"><span class="rid">R20 / D01</span><span class="st s-d">D</span><span class="bt">三语 Parallel Universal Dependencies</span></h3>
+<p>Universal Dependencies contributors. <strong>UD English-PUD, French-PUD, Chinese-PUD</strong>, release <code>r2.16</code>（本次固定版本）。各1,000句，新闻/百科体裁。<a href="https://universaldependencies.org/treebanks/en_pud/index.html" class="ext" target="_blank" rel="noopener">英语说明</a>、<a href="https://universaldependencies.org/treebanks/fr_pud/index.html" class="ext" target="_blank" rel="noopener">法语说明</a>、<a href="https://universaldependencies.org/treebanks/zh_pud/index.html" class="ext" target="_blank" rel="noopener">汉语说明</a>。CC BY-SA 3.0，贡献者名单见相应树库说明及仓库。</p>
+<ul>
+<li>本轮数据文件及 SHA-256：<a href="docs/research/corpus/manifest.json" class="file"><code>corpus/manifest.json</code></a>。当前网页可能显示较新版本，实际计算固定在 manifest 的 <code>r2.16</code> 原始文件。</li>
+<li>结果与方法：<a href="#corpus">三语平行语料核验</a>；<a href="docs/research/corpus/stats.json" class="file">统计 JSON</a>；<a href="docs/research/corpus/sentence-flags.csv" class="file">逐句标记 CSV</a>；<a href="docs/scripts/analyze_pud.py" class="file">脚本</a>。</li>
+<li>对应：上篇1、3、4、6、10；下篇6。标注规则不完全相同、中文分词与英法不同、译文效应及英文枢轴等均限制推广。</li>
+</ul>
+</article><h2 id="lit-5">其他保留线索，不计入结果证据</h2>
+<ul>
+<li>Zhang, Yijie（2021），<em>Étude contrastive des connecteurs interphrastiques entre le français et le chinois</em>。已检出题名与摘要，原始学位存档和全文尚未核查；对上篇3有价值。注意某次搜索返回的 <code>CHEN_2021_archivage.pdf</code> 不能因题目相近就归到 Zhang 名下。</li>
+<li>法语形容词位置、汉法指示词、时空隐喻等检索结果保留在日志中；未在本稿据此作频率/认知结论。</li>
+<li>搜索命中的 Marsily（2018）比较的是<strong>西班牙语与法语</strong>请求，不是中法或英法；已排除为本研究直接证据。</li>
+<li>Amazonian 数量认知研究虽可提供方法启发，却不直接检验法英汉，本轮未纳入结论。</li>
+</ul></div></section>
+<section class="doc-sec" id="corpus" data-doc="corpus"><header class="doc-head"><p class="eyebrow">平行语料核验</p><h1>三语平行语料初步核验 D01</h1><a class="src file" href="docs/research/三语平行语料核验.md">Markdown 原文</a></header><div class="prose">
+<p>日期：2026-10-11。性质：本次独立执行的探索性描述统计，检查研究问题与指标是否对应；不作为三语普遍规律或认知差异的证明。</p>
+<h2 id="corpus-2">数据与可复现性</h2>
+<p>采用 Universal Dependencies 的 English-PUD、French-PUD、Chinese-PUD，固定 tag <code>r2.16</code>。三语各1,000个对齐单元；本次核对了全部 <code>sent_id</code> 的顺序完全一致。官方 README 提醒，一个对齐单元偶尔可能实际包含两个句子，因此表中“句子”应理解为树库句段。</p>
+<p>官方说明：前750句原始语言是英语，后250句原始语言包括德、法、意、西，经英语中转译向其他语言。文本来自新闻和维基百科，通常只抽取每个文档少量句子，非连续篇章。于是它适合控制大致命题内容，不适合直接研究完整话题链，也不是三语独立自然产出的可比语料。</p>
+<p>来源：<a href="https://universaldependencies.org/treebanks/en_pud/index.html" class="ext" target="_blank" rel="noopener">English-PUD</a>、<a href="https://universaldependencies.org/treebanks/fr_pud/index.html" class="ext" target="_blank" rel="noopener">French-PUD</a>、<a href="https://universaldependencies.org/treebanks/zh_pud/index.html" class="ext" target="_blank" rel="noopener">Chinese-PUD</a>。本地保留三个固定版本 README、CoNLL-U 文件、<a href="docs/research/corpus/manifest.json" class="file">下载 URL 与 SHA-256</a>。许可为 CC BY-SA 3.0；作者与贡献者信息见各 README。网页当前版本可能已更新，本报告计算版本由本地 manifest 确定。</p>
+<p>执行：</p>
+<pre><code class="language-sh">python3 docs/scripts/analyze_pud.py
+</code></pre>
+<p><a href="docs/scripts/analyze_pud.py" class="file">脚本</a>仅读取整数 ID 的句法词，忽略多词词元行和空节点；<code>syntactic_words</code> 包含标点。各指标按“一个句段至少出现一次符合条件的词/关系”计数，不是结构出现总次数。</p>
+<h2 id="corpus-3">结果</h2>
+<div class="tw"><table class="stats">
+<thead>
+<tr>
+<th>句段指标（每语1,000句段）</th>
+<th class="num">英语</th>
+<th class="num">法语</th>
+<th class="num">汉语</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>至少有被动相关标注</td>
+<td class="num"><span class="bar" style="--p:24.2%"></span><span class="v">242</span><span class="pc">24.2%</span></td>
+<td class="num"><span class="bar" style="--p:20.6%"></span><span class="v">206</span><span class="pc">20.6%</span></td>
+<td class="num"><span class="bar" style="--p:9.3%"></span><span class="v">93</span><span class="pc">9.3%</span></td>
+</tr>
+<tr>
+<td>至少有 PRON</td>
+<td class="num"><span class="bar" style="--p:61.4%"></span><span class="v">614</span><span class="pc">61.4%</span></td>
+<td class="num"><span class="bar" style="--p:61.0%"></span><span class="v">610</span><span class="pc">61.0%</span></td>
+<td class="num"><span class="bar" style="--p:47.3%"></span><span class="v">473</span><span class="pc">47.3%</span></td>
+</tr>
+<tr>
+<td>至少有 SCONJ</td>
+<td class="num"><span class="bar" style="--p:23.6%"></span><span class="v">236</span><span class="pc">23.6%</span></td>
+<td class="num"><span class="bar" style="--p:19.2%"></span><span class="v">192</span><span class="pc">19.2%</span></td>
+<td class="num"><span class="bar" style="--p:2.5%"></span><span class="v">25</span><span class="pc">2.5%</span></td>
+</tr>
+<tr>
+<td>至少有 advcl（含子类型）</td>
+<td class="num"><span class="bar" style="--p:24.0%"></span><span class="v">240</span><span class="pc">24.0%</span></td>
+<td class="num"><span class="bar" style="--p:19.2%"></span><span class="v">192</span><span class="pc">19.2%</span></td>
+<td class="num"><span class="bar" style="--p:38.6%"></span><span class="v">386</span><span class="pc">38.6%</span></td>
+</tr>
+<tr>
+<td>至少有 acl:relcl</td>
+<td class="num"><span class="bar" style="--p:19.3%"></span><span class="v">193</span><span class="pc">19.3%</span></td>
+<td class="num"><span class="bar" style="--p:20.6%"></span><span class="v">206</span><span class="pc">20.6%</span></td>
+<td class="num"><span class="bar" style="--p:36.4%"></span><span class="v">364</span><span class="pc">36.4%</span></td>
+</tr>
+<tr>
+<td>至少有 Tense 特征</td>
+<td class="num"><span class="bar" style="--p:95.8%"></span><span class="v">958</span><span class="pc">95.8%</span></td>
+<td class="num"><span class="bar" style="--p:99.7%"></span><span class="v">997</span><span class="pc">99.7%</span></td>
+<td class="num"><span class="bar" style="--p:0.0%"></span><span class="v">0</span><span class="pc">0.0%</span></td>
+</tr>
+<tr>
+<td>至少有 Gender 特征</td>
+<td class="num"><span class="bar" style="--p:34.9%"></span><span class="v">349</span><span class="pc">34.9%</span></td>
+<td class="num"><span class="bar" style="--p:99.9%"></span><span class="v">999</span><span class="pc">99.9%</span></td>
+<td class="num"><span class="bar" style="--p:0.0%"></span><span class="v">0</span><span class="pc">0.0%</span></td>
+</tr>
+<tr>
+<td>至少有 Number 特征</td>
+<td class="num"><span class="bar" style="--p:100.0%"></span><span class="v">1,000</span><span class="pc">100.0%</span></td>
+<td class="num"><span class="bar" style="--p:100.0%"></span><span class="v">1,000</span><span class="pc">100.0%</span></td>
+<td class="num"><span class="bar" style="--p:13.0%"></span><span class="v">130</span><span class="pc">13.0%</span></td>
+</tr>
+<tr>
+<td>句法词总数（含标点）</td>
+<td class="num">21,180</td>
+<td class="num">24,726</td>
+<td class="num">21,415</td>
+</tr>
+</tbody>
+</table></div>
+<p>机器结果：<a href="docs/research/corpus/stats.json" class="file">stats.json</a>；逐句检视入口：<a href="docs/research/corpus/sentence-flags.csv" class="file">sentence-flags.csv</a>。</p>
+<h2 id="corpus-4">指标定义及解释限制</h2>
+<p class="lead" data-k="misc"><b class="k">被动相关标注</b>依存关系字符串含 <code>:pass</code>，或 FEATS 含 <code>Voice=Pass</code> 即命中。它是便于筛查的操作定义，不是完整被动构式识别器。可能漏掉法语某些 <code>se faire</code>、中动式和汉语无标记受事句，也可能纳入形容词性或状态分词。不能把24.2%直接称为“英语事件被动率”。</p>
+<p class="lead" data-k="misc"><b class="k">代词</b><code>UPOS=PRON</code>，包括不同功能的代词。显式代词不同于回指次数；不能测量汉语零回指，也不能由法英近似的数字推出回指系统相同。</p>
+<p class="lead" data-k="misc"><b class="k">连接与从属</b><code>SCONJ</code> 是词类；<code>advcl</code> 是依存关系，二者不互相等价。汉语 SCONJ 很少但 advcl 较多，正好展示为什么“连接词频率”不能直接衡量“逻辑明确程度”。不同树库怎样分词、怎样标注汉语连动/状语及关联词，会直接影响结果。</p>
+<p class="lead" data-k="misc"><b class="k">关系从句</b><code>acl:relcl</code> 是树库标签，不等于三语都具有同样形式的关系代词。汉语“的”字修饰及相关分析会扩大该标签范围，不能将36.4%与英法比例当成纯粹自然使用差异。</p>
+<p class="lead" data-k="misc"><b class="k">形态特征</b><code>Tense/Gender/Number</code> 是标注信息，不测量语义表达能力。汉语 Tense=0不表示不能表达时间；英语 Gender 往往与特定代词有关，不等于法语名词语法性。英法 Number 达100%也可能由一个复数或单数特征触发，不能表示每个词都标数。</p>
+<p class="lead" data-k="misc"><b class="k">句法词总数</b>法语比英语多约16.7%，但包含冠词、介词、代词拆分、标点等因素；中文分词粒度又不同。这里只报告长度，不据此评价简洁程度，更不用汉字数与法语空格词直接比。</p>
+<h2 id="corpus-5">人工回查的两个诊断点</h2>
+<ol>
+<li><code>n01020004</code>：英语为 <em>Previously the jets had only been seen by bloggers.</em>；法语也采用被动组织，汉语把见到飞机的人放到前景。这说明同一命题内容可能改变语态与信息结构，需人工辨别翻译对应，而不是一见标注不同就判数据错误。</li>
+<li><code>n01016019</code>：英语“最适于从某事件获利”的分词形式会触发被动相关标注，未必是本研究要数的事件被动。另有 <code>n01013005</code> 的中文词义对应值得复核，提示平行文本本身也可能有翻译瑕疵。</li>
+</ol>
+<p>这里只做了少量诊断性人工回查，<strong>没有</strong>完成被动、从属或回指的全样本人工校验，也没有计算识别准确率。</p>
+<h2 id="corpus-6">能支持的研究发现</h2>
+<ul>
+<li>这份对齐样本的形式标签分布不同，适合找到后续人工研究的案例。</li>
+<li>同一“语言倾向”用不同指标衡量会出现不同排序，因此原书宏观维度需要明确操作定义。</li>
+<li>译文会改变语态、显性成分和句法包装，平行语料能揭示转换，但不能直接代表原生写作偏好。</li>
+</ul>
+<p>尚不能支持：普遍的被动频率排名、语言复杂度排名、主体/话题重要性排名，或任何民族思维/理性程度排名。本轮不做显著性检验；同一句段的语言版本是配对观察，即使后续计算统计显著性，也必须先解决标注可比性与翻译方向的问题。</p></div></section>
+<section class="doc-sec" id="method" data-doc="method"><header class="doc-head"><p class="eyebrow">检索方法</p><h1>检索方法、范围与后续研究</h1><a class="src file" href="docs/research/检索方法与后续研究.md">Markdown 原文</a></header><div class="prose">
+<p>本轮日期：2026-10-11。目标是在底本章级框架内建立三语研究问题、搜集直接比较文献，并记录初步分析。用户要求的“全网所有资料”作为广泛检索方向；本轮没有条件声称覆盖所有数据库、纸本或付费全文。</p>
+<h2 id="method-2">实际检索</h2>
+<p>先使用 agent-reach 的 Exa 网页搜索，检索中、英、法关键词。Exa 返回免费额度/HTTP 429 后改用可用网页搜索。保留 <span title="本地研究档案"><code>search-logs/</code>（本地档案）</span> 中原始检索返回、查询词和失败记录；其中的搜索工具内部引用编号不用于正式文献引用。</p>
+<p>初始20组查询见 <span title="本地研究档案"><code>queries.json</code>（本地档案）</span>，覆盖：话题、被动、时体、运动事件、连接词、名词化、回指、礼貌、认知、修辞、左置、冠词、否定、未来表达、整体/分析、数量、隐喻、词序、论证和语料库。后续查询集中于准确题名、作者、DOI、原始大学/出版社页面及数据说明。并非每组 Exa 查询均成功，失败不能计成已完成检索。</p>
+<p>主要发现渠道包括 HAL/DUMAS、法国学位论文目录、大学论文库、期刊官网、出版社目录、研究团队网页及 UD 数据仓库。未以社交平台讨论作为学术结论证据，也未访问 CNKI、万方、Scopus、Web of Science 的付费/登录检索界面。因此这不是这些数据库的系统综述。</p>
+<h2 id="method-3">纳入与排除</h2>
+<p>优先直接中法、英法比较和真正三语研究；其次是帮助检验原书推断的认知实验、方法论文与官方语料。保留经典书作理论背景，但区分全文和预览。每条书目记录阅读状态，未知页码、样本和结果留空，不能补猜。</p>
+<p>排除：商业聚合页作为独立学术结论、无可追踪出处的学习笔记、把西法误当中法的结果、重复版本重复计数、只有检索命中而没有核查的“支持结论”。学位摘要与学位全文、工作论文与正式版、早期会议摘要与最终博士论文分别标明。</p>
+<p>本轮不是注册的系统综述，没有双人筛查、预注册协议或数据库去重后的完整流转图。下载保存全文不等于逐页精读；取到的 PDF 和机器文本在 <span title="本地研究档案"><code>literature/</code>（本地档案）</span>，下载失败记录在 <span title="本地研究档案"><code>download-manifest.json</code>（本地档案）</span>。</p>
+<h2 id="method-4">原书处理与范围</h2>
+<p>原扫描本373页没有文本层。Tesseract <code>chi_sim+eng</code>、220 DPI、PSM 3，六个本地 OCR 工作线程；页级缓存可续跑。使用 PDF 第9页目录图像人工核对章名、章序和起始页。PDF 第10页对应印刷第1页；正文与参考文献采用印刷页+9定位。</p>
+<p>产物包括：全373页的逐页 OCR；正文与参考文献按目录组成的结构化 OCR；人工确认的章目录；机器提取的内部节标题候选。后者可能漏识/跨行，不宣称逐小节结构已校勘完成。OCR 保留原文，新增法语研究独立存放，避免被误认成原作者文字。</p>
+<p>未解决的转录问题：中文错字、英文断行/错拼、脚注序号、特殊符号、表格和原书引用书目中的 OCR 错识。正式逐字引用前须回看原 PDF，不能把机器转录当校勘本。</p>
+<h2 id="method-5">研究发现及优先补强</h2>
+<ol>
+<li><strong>主语/话题与回指</strong>：直接中法文献较丰富；优先取得 R01、R02、R04 全文，并按原书2、10章的小节补证。</li>
+<li><strong>被动构式</strong>：优先取得 R22、R23 原始全文；对 PUD 的英法汉标注样本做人工构式分类，区分事件、状态、中动、无标记受事表达。</li>
+<li><strong>连接关系</strong>：取得 R03、R06 全文，加入 Zhang 的学位论文；分因果、条件、让步、追加和对照，不用一个连接词总数概括“形合”。</li>
+<li><strong>名词化与抽象度</strong>：现有本轮资料不足以作三语频率排行。需找同体裁原生文本与术语功能标注，避免只依赖比较修辞经典。</li>
+<li><strong>口语语用</strong>：以 R09 的最终论文为起点，区分情境和人际关系；接着补充英法、英汉等价任务，避免把两个双语研究硬拼成统一三语排行。</li>
+<li><strong>下篇认知解释</strong>：R19可直接检验某项中法推理假说，其余章多数仍只有语言分析或理论背景。需要三语匹配实验，不能用自拟例句替代认知证据。</li>
+</ol>
+<h2 id="method-6">后续工作顺序</h2>
+<p>先校勘原书全部内部小节与关键原例；随后逐小节把法语例证、英法比较、汉法比较、文献结论和反例放入相应位置。保持原书标题，新增材料使用明确标记。</p>
+<p>每个新例句记录：三语文本、情境、原生或翻译、原作者/本次自拟、来源页码/例号、构式点、可接受性及歧义。每项频率结论记录：样本、分母、标注单位、翻译方向与体裁。认知结论另外记录：参与者、任务、效应大小、统计控制与可推广范围。</p>
+<p>完成这些研究工作后，再讨论面向阅读、检索或教学的呈现形式；本轮只提供可回查的研究文件，没有制作网站或演示稿。</p></div></section>
+<section class="doc-sec" id="toc" data-doc="toc"><header class="doc-head"><p class="eyebrow">原书目录</p><h1>原书目录与页码映射</h1><a class="src file" href="docs/source/原书目录与页码.md">Markdown 原文</a></header><div class="prose">
+<blockquote>
+<p>按 PDF 第 9 页目录图像人工核对。原书章名、次序不改。标题英文沿用原书。</p>
+</blockquote>
+<h2 id="toc-2">上篇 英汉语言文化 Language &amp; Culture: English vs. Chinese</h2>
+<ul>
+<li><strong>绪论 语言与文化 (Language and Culture)</strong>：印刷 pp. 3–24；PDF pp. 12–33。</li>
+<li><strong>1 综合语与分析语 (Synthetic vs. Analytic)</strong>：印刷 pp. 25–50；PDF pp. 34–59。</li>
+<li><strong>2 刚性与柔性 (Rigid vs. Supple)</strong>：印刷 pp. 51–72；PDF pp. 60–81。</li>
+<li><strong>3 形合与意合 (Hypotactic vs. Paratactic)</strong>：印刷 pp. 73–88；PDF pp. 82–97。</li>
+<li><strong>4 繁复与简短 (Complex vs. Simplex)</strong>：印刷 pp. 89–103；PDF pp. 98–112。</li>
+<li><strong>5 物称与人称 (Impersonal vs. Personal)</strong>：印刷 pp. 104–117；PDF pp. 113–126。</li>
+<li><strong>6 被动与主动 (Passive vs. Active)</strong>：印刷 pp. 118–132；PDF pp. 127–141。</li>
+<li><strong>7 静态与动态 (Static vs. Dynamic)</strong>：印刷 pp. 133–158；PDF pp. 142–167。</li>
+<li><strong>8 抽象与具体 (Abstract vs. Concrete)</strong>：印刷 pp. 159–187；PDF pp. 168–196。</li>
+<li><strong>9 间接与直接 (Indirect vs. Direct)</strong>：印刷 pp. 188–220；PDF pp. 197–229。</li>
+<li><strong>10 替换与重复 (Substitutive vs. Repetitive)</strong>：印刷 pp. 221–271；PDF pp. 230–280。</li>
+<li><strong>综述 英汉语言常用的表达方式 (Modes of Expression: English vs. Chinese)</strong>：印刷 pp. 272–282；PDF pp. 281–291。</li>
+</ul>
+<h2 id="toc-3">下篇 中西思维方式 Modes of Thinking: Chinese vs. Western</h2>
+<ul>
+<li><strong>绪论 思维方式 (Modes of Thinking)</strong>：印刷 pp. 283–287；PDF pp. 292–296。</li>
+<li><strong>1 伦理型与认知型 (Ethical vs. Cognitive)</strong>：印刷 pp. 288–295；PDF pp. 297–304。</li>
+<li><strong>2 整体性与分析性 (Holistic vs. Analytic)</strong>：印刷 pp. 296–306；PDF pp. 305–315。</li>
+<li><strong>3 意向性与对象性 (Subjective vs. Objective)</strong>：印刷 pp. 307–309；PDF pp. 316–318。</li>
+<li><strong>4 直觉性与逻辑性 (Intuitive vs. Logical)</strong>：印刷 pp. 310–315；PDF pp. 319–324。</li>
+<li><strong>5 意象性与实证性 (Imagic vs. Positive)</strong>：印刷 pp. 316–318；PDF pp. 325–327。</li>
+<li><strong>6 模糊性与精确性 (Fuzzy vs. Precise)</strong>：印刷 pp. 319–322；PDF pp. 328–331。</li>
+<li><strong>7 求同性与求异性 (Convergent vs. Divergent)</strong>：印刷 pp. 323–325；PDF pp. 332–334。</li>
+<li><strong>8 后馈性与前瞻性 (Retrospective vs. Prospective)</strong>：印刷 pp. 326–329；PDF pp. 335–338。</li>
+<li><strong>9 内向性与外向性 (Introversive vs. Extroversive)</strong>：印刷 pp. 330–339；PDF pp. 339–348。</li>
+<li><strong>10 归纳型与演绎型 (Inductive vs. Deductive)</strong>：印刷 pp. 340–345；PDF pp. 349–354。</li>
+<li><strong>综述 悟性与理性 (Wuxing vs. Rationality)</strong>：印刷 pp. 346–355；PDF pp. 355–364。</li>
+</ul>
+<h2 id="toc-4">参考文献</h2>
+<ul>
+<li><strong>参考文献 (Bibliography)</strong>：印刷 pp. 356–364；PDF pp. 365–373。</li>
+</ul></div></section>
+<section class="doc-sec" id="qa" data-doc="qa"><header class="doc-head"><p class="eyebrow">质量检查</p><h1>质量检查记录</h1><a class="src file" href="docs/research/质量检查记录.md">Markdown 原文</a></header><div class="prose">
+<p>日期：2026-10-11。执行：<code>python3 docs/scripts/check_artifacts.py</code>。</p>
+<ul>
+<li>PDF 页级缓存：373/373，逐页 Markdown 的页边界数一致。</li>
+<li>目录：25个节点（24个研究章节/绪论/综述，加参考文献），起始页与人工目录转录一致。</li>
+<li>研究稿：24个原书研究标题全部覆盖，标题及顺序按底本；参考文献另列。</li>
+<li>合并增补版：24处新增研究，原章序一致；PDF 第12–373页的原OCR文本均完整保留。</li>
+<li>研究稿字符数（含 Markdown）：21,986。</li>
+<li>正文引用编号均能在新增文献目录找到，共25条编号记录（含候选与数据，不都是全文已读文献）。</li>
+<li>自编 Markdown 本地链接检查通过；远程链接访问状态见文献目录，不能据 URL 存在推断远程全文可访问。</li>
+<li>三语数据各1,000句段；脚本执行时检查逐句ID对齐；文件 SHA-256 与清单一致。</li>
+</ul>
+<p>这是结构和数据一致性检查，不是原书逐字校勘、法语母语者审校、文献同行评审或全样本人工标注。原书内部小节仍需完整核对。</p></div></section>
+  </main>
+</div>
+<button class="menu-btn" id="menuBtn" type="button" aria-controls="rail" aria-expanded="false">目录</button>
+<script>
+(function () {
+  var body = document.body, btn = document.getElementById('menuBtn'), rail = document.getElementById('rail');
+  function setOpen(open) { body.classList.toggle('nav-open', open); btn.setAttribute('aria-expanded', open); btn.textContent = open ? '关闭' : '目录'; }
+  btn.addEventListener('click', function () { setOpen(!body.classList.contains('nav-open')); });
+  rail.addEventListener('click', function (e) { if (e.target.closest('a')) setOpen(false); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setOpen(false); });
+
+  // highlight the chapter currently in view
+  var links = {};
+  rail.querySelectorAll('a[href^="#"]').forEach(function (a) { links[a.getAttribute('href').slice(1)] = a; });
+  var targets = Array.prototype.filter.call(document.querySelectorAll('.chap h3[id], .doc-sec[id]'), function (el) { return links[el.id]; });
+  if (!('IntersectionObserver' in window)) return;
+  var current = null;
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (!en.isIntersecting) return;
+      if (current) current.classList.remove('on');
+      current = links[en.target.id]; current.classList.add('on');
+    });
+  }, { rootMargin: '0px 0px -75% 0px' });
+  targets.forEach(function (t) { io.observe(t); });
+})();
+</script>
+
+<script>
+(function () {
+  var WORD = /[A-Za-zÀ-ÖØ-öø-ÿŒœ]+(?:['’][A-Za-zÀ-ÖØ-öø-ÿŒœ]+)*(?:-[A-Za-zÀ-ÖØ-öø-ÿŒœ]+)*/g;
+  var ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg>';
+  var synth = window.speechSynthesis;
+  if (!synth || typeof SpeechSynthesisUtterance === 'undefined') { document.documentElement.classList.add('no-tts'); }
+  var voice = null;
+  function pickVoice() {
+    if (!synth) return;
+    var vs = synth.getVoices().filter(function (v) { return /^fr/i.test(v.lang); });
+    var prefer = [/^Thomas/, /^Audrey/, /^Google fran/i, /Microsoft .*(Denise|Henri|Julie)/, /^Am[ée]lie/];
+    voice = null;
+    for (var i = 0; i < prefer.length && !voice; i++) voice = vs.filter(function (v) { return prefer[i].test(v.name); })[0] || null;
+    voice = voice || vs.filter(function (v) { return /fr[-_]FR/i.test(v.lang) && !/Grand|Rocko|Eddy|Flo|Reed|Sandy|Shelley/.test(v.name); })[0] || vs[0] || null;
+  }
+  if (synth) { pickVoice(); synth.addEventListener && synth.addEventListener('voiceschanged', pickVoice); }
+
+  var active = null;
+  function speak(text, el) {
+    if (!synth) return;
+    text = text.replace(/[（(][^）)]*[）)]/g, ' ').replace(/[\u3000-\u9fff\uff00-\uffef]+/g, ' ').trim();
+    if (!text) return;
+    synth.cancel();
+    if (active) active.classList.remove('on');
+    var u = new SpeechSynthesisUtterance(text);
+    u.lang = 'fr-FR'; u.rate = 0.9;
+    if (voice) u.voice = voice;
+    active = el; el.classList.add('on');
+    u.onend = u.onerror = function () { el.classList.remove('on'); if (active === el) active = null; };
+    synth.speak(u);
+  }
+
+  function wrapWords(root) {
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT), nodes = [], n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    var count = 0;
+    nodes.forEach(function (node) {
+      var s = node.nodeValue, last = 0, frag = document.createDocumentFragment(), m;
+      WORD.lastIndex = 0;
+      while ((m = WORD.exec(s))) {
+        if (m.index > last) frag.appendChild(document.createTextNode(s.slice(last, m.index)));
+        var w = document.createElement('span');
+        w.className = 'w'; w.textContent = m[0]; frag.appendChild(w);
+        last = m.index + m[0].length; count++;
+      }
+      if (!count) return;
+      if (last < s.length) frag.appendChild(document.createTextNode(s.slice(last)));
+      node.parentNode.replaceChild(frag, node);
+    });
+    return count;
+  }
+
+  document.querySelectorAll('td.l-fr, span.fr').forEach(function (el) {
+    var n = wrapWords(el);
+    if (n > 1) {
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'say'; b.innerHTML = ICON;
+      b.setAttribute('aria-label', '朗读整句');
+      b.dataset.text = el.textContent;
+      if (el.tagName === 'TD') el.appendChild(b); else el.closest('code').after(b);
+    }
+  });
+
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('.say');
+    if (b) { speak(b.dataset.text, b); return; }
+    var w = e.target.closest('.w');
+    if (w) speak(w.textContent, w);
+  });
+})();
+</script>
+</body>
+</html>

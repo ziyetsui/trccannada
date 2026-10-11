@@ -1,0 +1,17 @@
+{
+  "en": {
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_English-PUD/r2.16/en_pud-ud-test.conllu",
+    "release": "r2.16",
+    "sha256": "8c23ea47522ca67cca7d1783e536aaa11e01a4b28465b9c40b7d222bf64863d2"
+  },
+  "fr": {
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_French-PUD/r2.16/fr_pud-ud-test.conllu",
+    "release": "r2.16",
+    "sha256": "d305b524a3f14c5f7e397ab0e2e3dca351acf5bb2f4233d721040cf4b28fc03c"
+  },
+  "zh": {
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Chinese-PUD/r2.16/zh_pud-ud-test.conllu",
+    "release": "r2.16",
+    "sha256": "d3393dd44eb9ae71a6eaa626581c1f760db6148f0d2c6378c2200835e2ede37a"
+  }
+}
