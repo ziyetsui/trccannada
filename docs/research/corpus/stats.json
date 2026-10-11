@@ -1,0 +1,41 @@
+{
+  "en": {
+    "language": "en",
+    "sentences": 1000,
+    "syntactic_words": 21180,
+    "sent_with_passive_annotation": 242,
+    "sent_with_pronoun": 614,
+    "sent_with_subordinator": 236,
+    "sent_with_advcl": 240,
+    "sent_with_relative_clause": 193,
+    "sent_with_tense_feature": 958,
+    "sent_with_gender_feature": 349,
+    "sent_with_number_feature": 1000
+  },
+  "fr": {
+    "language": "fr",
+    "sentences": 1000,
+    "syntactic_words": 24726,
+    "sent_with_passive_annotation": 206,
+    "sent_with_pronoun": 610,
+    "sent_with_subordinator": 192,
+    "sent_with_advcl": 192,
+    "sent_with_relative_clause": 206,
+    "sent_with_tense_feature": 997,
+    "sent_with_gender_feature": 999,
+    "sent_with_number_feature": 1000
+  },
+  "zh": {
+    "language": "zh",
+    "sentences": 1000,
+    "syntactic_words": 21415,
+    "sent_with_passive_annotation": 93,
+    "sent_with_pronoun": 473,
+    "sent_with_subordinator": 25,
+    "sent_with_advcl": 386,
+    "sent_with_relative_clause": 364,
+    "sent_with_tense_feature": 0,
+    "sent_with_gender_feature": 0,
+    "sent_with_number_feature": 130
+  }
+}

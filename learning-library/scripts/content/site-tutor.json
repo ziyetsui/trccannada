@@ -1,0 +1,3682 @@
+{
+  "G01": [
+    {
+      "fr": "Je suis étudiant.",
+      "mnemonic": "声音梗：热水（Je suis），诶，玉奖（étudiant）——我戴学生帽领奖！ 脑内电影：我打开热水杯，“诶！”里面蹦出一块玉奖章；我戴好学生帽把奖章别在胸前，介绍自己：我是学生。按热水→诶玉奖回忆整句。",
+      "rule_memory": "étudiant /etydjɑ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Elle est à Montréal.",
+      "mnemonic": "声音梗：艾儿，诶啊，蒙特利尔（Montréal）。 脑内电影：她先把艾草夹在耳边，惊呼“诶啊”，接着滑进蒙特利尔的雪堆，探出头说自己就在这里。",
+      "rule_memory": "Montréal /mɔ̃ʁeal/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Nous sommes prêts.",
+      "mnemonic": "声音梗：努，松，prêts：努力松绑，准备出发。 脑内电影：我们一起努力解开行李的松绑绳，绳子一落，三人立刻戴好头盔举起背包，表示全都准备好了。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    },
+    {
+      "fr": "Il y a une pharmacie ici.",
+      "mnemonic": "声音梗：一粒呀，une，发儿吗西，一席（ici）。 脑内电影：一粒药丸大喊“呀”，滚到一个小药箱旁，药师边发药边洗手；眼前这一席地方原来有家药店。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "C’est une pharmacie.",
+      "mnemonic": "声音梗：塞，une，发儿吗西（pharmacie）。 脑内电影：我把一个药箱塞进门口，里面的药师忙着发药、洗手，我指着整间店说：这是一家药店。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G02": [
+    {
+      "fr": "J’ai trente ans.",
+      "mnemonic": "声音梗：这，trente，昂：三十根蜡烛昂起头。 脑内电影：我捧着蛋糕喊“这”，三十根蜡烛一起昂起头唱生日歌，我吹得满脸奶油，庆祝自己三十岁。",
+      "rule_memory": "trente /tʁɑ̃t/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 ans /ɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous avons soif.",
+      "mnemonic": "声音梗：努，啊风，刷夫（soif）：努力找水喝。 脑内电影：我们努力追着一阵风跑，刷牙师傅递来三个空杯子，大家渴得舌头贴杯底，一滴水也喝不到。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 soif /swaf/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Elle a un rhume.",
+      "mnemonic": "声音梗：艾儿啊，un，rhume：她揉鼻子。 脑内电影：她耳边夹着艾草，张嘴“啊”了一声，抱住一个软枕揉鼻子，接连打喷嚏，把感冒的自己裹成粽子。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G03": [
+    {
+      "fr": "J’habite à Québec.",
+      "mnemonic": "声音梗：扎比特啊，魁北克（Québec）：扎帐篷住下。 脑内电影：我用特别粗的针扎好帐篷，喊声“啊”，把它安在魁北克城的小屋里，天天从帐篷门出去买早餐。",
+      "rule_memory": "Québec /kebɛk/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Tu parles français.",
+      "mnemonic": "声音梗：Tu（玉兔），parles français：玉兔说话，法兰饼飞。 脑内电影：你抱着玉兔张嘴说话，法兰形状的饼干从嘴边飞出，落地排成法国小旗，原来你说的是法语。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous travaillons ensemble.",
+      "mnemonic": "声音梗：努，travaillons ensemble：努力工作，昂头一起扛布。 脑内电影：我们努力搬木板，再抬起一整匹布，一起扛着布做工；谁也不松手，工作台像小火车一样往前跑。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 travaillons /tʁavajɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 ensemble /ɑ̃sɑ̃bl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G04": [
+    {
+      "fr": "Je prends le bus.",
+      "mnemonic": "声音梗：Je prends，勒，bus：背包一勒，玉色巴士坐上去。 脑内电影：我伸手抓住扶杆，勒紧书包带，坐进一辆玉色公交车；车像装上小翅膀一样轻轻一晃，我正乘公交去目的地。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous finissons à cinq heures.",
+      "mnemonic": "声音梗：努，finissons à cinq heures：松鼠收工，五点钟响。 脑内电影：我们努力把最后一只松鼠送进窝，五点闹钟一响就合上工具箱，松鼠用五个松果庆祝完工。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 finissons /finisɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 cinq /sɛ̃k/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ils vont au travail.",
+      "mnemonic": "声音梗：一儿，vont au travail：他们乘风，哦，上班去。 脑内电影：他们排成一列被风吹走，“哦”地落进工作间，每人准确落在自己的椅子上，领带还在头顶飘。",
+      "rule_memory": "vont /vɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G05": [
+    {
+      "fr": "Je me lève à sept heures.",
+      "mnemonic": "声音梗：Je me lève à sept heures：这，摸，来扶我，七点起。 脑内电影：我困得只会说“这、么”，七点闹钟伸出手来扶我坐起，再把拖鞋套到脚上，准时把我从床上拔起来。",
+      "rule_memory": "lève /lɛv/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Elle s’appelle Lina.",
+      "mnemonic": "声音梗：艾儿，撒佩儿，莉娜（Lina）。 脑内电影：她摘下耳边的艾草，撒出一串小贝壳，每个贝壳都叫“莉娜”，她笑着指自己，告诉大家她叫莉娜。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous ne nous couchons pas tard.",
+      "mnemonic": "声音梗：Nous ne nous couchons pas tard：努，讷，努，苦熊怕熬晚。 脑内电影：我们努力把熬夜的苦脸熊哄上床，自己也在合适的时间盖好被子；月亮刚升起一会儿，大家都没有睡得太晚。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 couchons /kuʃɔ̃/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "G06": [
+    {
+      "fr": "Je ne comprends pas.",
+      "mnemonic": "声音梗：这，讷，空盆（comprends），啪。 脑内电影：我捧着这只空盆发愣，别人讲了半天，我仍把盆“啪”地倒扣在头上：我一点也没明白。",
+      "rule_memory": "comprends /kɔ̃pʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle n’a pas de voiture.",
+      "mnemonic": "声音梗：艾儿，拿，啪，的，voiture：她没车。 脑内电影：她摘下艾草想拿汽车钥匙，手掌却啪地拍空，停车位只有一双鞋，她摇头说自己没有汽车。",
+      "rule_memory": "voiture /vwatyʁ/：oi 为 /wa/，u 为 /y/，r 发音。"
+    },
+    {
+      "fr": "Ce n’est pas un problème.",
+      "mnemonic": "声音梗：瑟，奶，啪，un，problème：奶洒了不算问题。 脑内电影：这瓶奶啪地洒出来，一个小拖把立刻滑来擦干，我轻松摆手，眼前这件事并不是问题。",
+      "rule_memory": "problème /pʁɔblɛm/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "G07": [
+    {
+      "fr": "Où habitez-vous ?",
+      "mnemonic": "声音梗：呜，阿比特乌（habitez-vous）：您住哪儿？ 脑内电影：我对着会“呜”叫的小门铃问，您那栋特别的小屋在哪里，门铃转着指南针，等您指出住所。",
+      "rule_memory": "habitez-vous /abitevu/：h 不发音；-ez 为 /e/，vous 为 /vu/；倒装不用额外 /t/。"
+    },
+    {
+      "fr": "Est-ce que tu viens ?",
+      "mnemonic": "声音梗：Est-ce que Tu viens：S饼干敲门，玉兔你来吗？ 脑内电影：我拿着S形饼干敲门，克服害羞问骑玉兔的你来不来，玉兔把一只蹄子悬在门外，等你回答。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Qui travaille ici ?",
+      "mnemonic": "声音梗：奇，travaille，一席：谁在这一席工作？ 脑内电影：一只好奇的小鸡巡视工作桌，桌上工具自己跳动；小鸡探头问，到底是谁在这里工作？",
+      "rule_memory": "Qui /ki/：qu 为 /k/，u 不另读；i 为 /i/。"
+    }
+  ],
+  "G08": [
+    {
+      "fr": "Je lis tous les soirs.",
+      "mnemonic": "声音梗：这，梨，兔，勒，soir：每晚读书。 脑内电影：我抱着这只梨形书枕，小兔勒好睡帽带，每个晚上都来陪我读书，窗外一轮轮月亮轮流值班。",
+      "rule_memory": "tous /tus/：ou 在这个词里读 /u/，是后圆唇音。 soirs /swaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "En ce moment, je lis un roman.",
+      "mnemonic": "声音梗：昂，瑟，摸忙，这，梨，un，roman：现在读小说。 脑内电影：时钟昂着头瑟瑟抖，我摸着忙乱的秒针让它慢下来，这时抱起梨枕和一本小说，正在读故事。",
+      "rule_memory": "moment /momɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 roman /ʁomɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle est en train de cuisiner.",
+      "mnemonic": "声音梗：Elle est en train de cuisiner：艾草，昂头火车进厨房。 脑内电影：她耳边夹着艾草，惊呼后昂起头，一列小火车把食材运进厨房，她正拿锅铲炒饭，蒸汽还在冒。",
+      "rule_memory": "train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G09": [
+    {
+      "fr": "J’ai réservé une table.",
+      "mnemonic": "声音梗：借（J’ai），réservé，une table：绕绳订好桌。 脑内电影：我借来一条绕成圈的预订绳，把它系在一张会跑的餐桌脚上；桌子停住等我来用，我已经订好一张桌。",
+      "rule_memory": "réservé /ʁezɛʁve/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Nous avons fini le travail.",
+      "mnemonic": "声音梗：努，啊风，菲尼，勒，travail：工作完成啦。 脑内电影：我们努力顶着风做完最后一道工序，松鼠勒紧工具袋，全部工作已经完成，大家一起把手套抛高。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    },
+    {
+      "fr": "Elle a pris le train.",
+      "mnemonic": "声音梗：艾儿啊，pris le train：拿票勒好包，她坐过火车。 脑内电影：她耳边夹着艾草喊“啊”，拿起车票，勒好背包带跳进小火车；车已经开走，留下飘动的艾草叶。",
+      "rule_memory": "train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G10": [
+    {
+      "fr": "Elle est arrivée tôt.",
+      "mnemonic": "声音梗：艾儿，诶，阿里韦，偷（tôt）：早到偷看。 脑内电影：她耳边夹着艾草“诶”地落地，来人挥手迎接；她早早就到了，还能偷偷看见早餐面包出炉。",
+      "rule_memory": "arrivée /aʁive/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Ils sont partis ensemble.",
+      "mnemonic": "声音梗：Ils sont partis ensemble：一儿，松，派对，一起扛布离开。 脑内电影：他们排成一列，松开聚会气球的绳子，扛起同一匹布作行李，一起离开了热闹的派对。",
+      "rule_memory": "sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 ensemble /ɑ̃sɑ̃bl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’ai marché une heure.",
+      "mnemonic": "声音梗：借（J’ai），马儿歇（marché），une heure：走足一小时。 脑内电影：我借来一匹马却让马儿歇着，自己沿钟面走路；足足一小时走完，马还在原地嚼草等我回来。",
+      "rule_memory": "marché /maʁʃe/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "G11": [
+    {
+      "fr": "Quand j’étais enfant, je lisais beaucoup.",
+      "mnemonic": "声音梗：看，这忒，昂方，这，梨贼，播酷：小时候书读很多。 脑内电影：看照片里的小小我，昂头坐在方凳上，像偷梨的贼一样搬来一大摞书，小时候总读个不停。",
+      "rule_memory": "Quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 j’étais /ʒetɛ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 enfant /ɑ̃fɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il faisait froid.",
+      "mnemonic": "声音梗：一儿，fəzɛ，弗哇：冷得哇哇叫。 脑内电影：旧照片里一只耳罩抖个不停，我想扶住它却冻得“哇”了一声，想起那时候天气一直很冷。",
+      "rule_memory": "froid /fʁwa/：oi 为 /wa/；词尾 d 不读。"
+    },
+    {
+      "fr": "Nous habitions près du lac.",
+      "mnemonic": "声音梗：Nous habitions près du lac：努力亮小屋，小驴去湖边。 脑内电影：我们努力搭过一座特别的亮屋，准备骑驴去看湖；旧屋门一开就是湖水，那时我们就住在湖边。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 habitions /abisjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。 près /pʁɛ/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "G12": [
+    {
+      "fr": "Il pleuvait quand je suis sorti.",
+      "mnemonic": "声音梗：一儿，pleuvait，看，这，随，sorti：我出门时雨正下。 脑内电影：雨滴扑在耳罩上，我一看窗外便说“这回随我出去”，推门那刻雨还在落，鞋子马上溅起水花。",
+      "rule_memory": "quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Je préparais le dîner quand elle est arrivée.",
+      "mnemonic": "声音梗：Je préparais le dîner quand elle est arrivée：这锅晚饭还在煮，看，艾草女孩已到。 脑内电影：我正准备晚饭，勒住围裙带搅汤；一看门口，她带着艾草已经到了，锅里的汤仍在咕嘟冒泡。",
+      "rule_memory": "préparais /pʁepaʁɛ/：é 对应较闭的前元音 /e/。 quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 arrivée /aʁive/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Hier, j’ai travaillé trois heures.",
+      "mnemonic": "声音梗：耶儿，这，travaillé，trois heures：昨天忙三小时。 脑内电影：昨天我高喊“耶”，开始搬工作桌，桌子转完三个钟面才停；我已经实实在在工作了三个小时。",
+      "rule_memory": "travaillé /tʁavaje/：é 对应较闭的前元音 /e/。 trois /tʁwa/：oi 为 /wa/，词尾 s 单独不读。"
+    }
+  ],
+  "G13": [
+    {
+      "fr": "Quand je suis arrivé, elle était déjà partie.",
+      "mnemonic": "声音梗：Quand je suis arrivé，elle était déjà partie：看，我随箱到，她早离开派对。 脑内电影：我一看门便随行李到了，找耳边夹艾草的她；地上只有她丢下的派对帽，她在我来前已经离开。",
+      "rule_memory": "Quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 arrivé /aʁive/：é 对应较闭的前元音 /e/。 était /etɛ/：é 为 /e/，-ait 为 /ɛ/，词尾 t 单独不读。"
+    },
+    {
+      "fr": "J’avais oublié mon billet.",
+      "mnemonic": "声音梗：扎围（J’avais），oublié，蒙，毕业（billet）：扎围巾，忘了票。 脑内电影：我扎好围巾，蒙着头来到车站才摸到空口袋；毕业回家那张票，早已被我忘在桌上，出门前就忘带了。",
+      "rule_memory": "oublié /ublie/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Nous avions réservé avant de partir.",
+      "mnemonic": "声音梗：Nous avions réservé avant de partir：努力预订，啊汪，出发前订好。 脑内电影：我们努力把机翼形行李摆好，先用绳预订座位，再向汪汪小狗挥手出发；起程之前预订就已经完成。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 avions /avjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 réservé /ʁezɛʁve/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "G14": [
+    {
+      "fr": "J’étudie le français depuis un an.",
+      "mnemonic": "声音梗：J’étudie le français depuis un an：这玉笛陪学法语，一年还没收。 脑内电影：我把书递给小驴，勒好书包学法语，一整年的日历落成小山，新的一页上我仍坐着练习。",
+      "rule_memory": "J’étudie /ʒetydi/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "J’ai travaillé pendant deux heures.",
+      "mnemonic": "声音梗：J’ai travaillé pendant deux heures：这工作，胖钟当当，两小时。 脑内电影：我指着这张工作桌认真做工，胖胖的钟摆当当响两小时，然后我合上工具盒，这段工作做完了。",
+      "rule_memory": "travaillé /tʁavaje/：é 对应较闭的前元音 /e/。 pendant /pɑ̃dɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je pars dans trois jours.",
+      "mnemonic": "声音梗：这，par，挡，trois jours：三天后出发。 脑内电影：我把这只背包放门口，却被三张日历挡住；每天抽掉一张，三天过去我才背起它出发。",
+      "rule_memory": "trois /tʁwa/：oi 为 /wa/，词尾 s 单独不读。 jours /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "G15": [
+    {
+      "fr": "Je vais appeler le médecin.",
+      "mnemonic": "声音梗：Je vais appeler le médecin：这，喂，啊扑了，没得闲，打给医生。 脑内电影：我举起这根电话线喂了一声，啊地扑向药箱旁的听筒；准备给医生打电话，让他帮我看看不舒服的鼻子。",
+      "rule_memory": "médecin /medəsɛ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Elle vient de rentrer.",
+      "mnemonic": "声音梗：艾儿，viens，的，rentrer：她刚刚进门。 脑内电影：她摘下耳边艾草，风还粘在头发上，刚把脚跨进回家的门，鞋底的小水滴仍滴在门垫上。",
+      "rule_memory": "vient /vjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 rentrer /ʁɑ̃tʁe/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous allons déménager cet été.",
+      "mnemonic": "声音梗：Nous allons déménager cet été：努，啊龙，今夏搬家。 脑内电影：我们努力叫来龙形搬家车，准备把家具装进大箱子；今年夏天太阳晒着西瓜时，我们就搬去新家。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 déménager /demenaʒe/：é 对应较闭的前元音 /e/。 été /ete/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "G16": [
+    {
+      "fr": "Je vous écrirai demain.",
+      "mnemonic": "声音梗：Je vous écrirai demain：这乌鸦，笔先睡，德曼明天再写。 脑内电影：我让这只乌鸦含好笔，却先给它盖上笔帽；等明天太阳升起，我会写好信请乌鸦送给您。",
+      "rule_memory": "vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 écrirai /ekʁiʁe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Quand tu arriveras, nous dînerons.",
+      "mnemonic": "声音梗：Quand Tu arriveras，nous dînerons：看，玉兔你到，我们端晚饭。 脑内电影：我看着你抱玉兔走来的路，我们努力摆好晚饭碗筷；等你到了，大家就一起端碗开吃。",
+      "rule_memory": "Quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 dînerons /dinʁɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’aurai fini avant midi.",
+      "mnemonic": "声音梗：J’aurai fini avant midi：粥热，菲尼收工，咪滴中午之前。 脑内电影：我把粥热好，让松鼠看守工作；小狗刚要敲中午的咪滴闹钟，我会在钟响之前把最后一步完成。",
+      "rule_memory": "avant /avɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G17": [
+    {
+      "fr": "Je peux vous aider.",
+      "mnemonic": "声音梗：这，peux，乌，诶的：乌鸦帮您抬。 脑内电影：我指着这只喷气背包，招来乌鸦说“诶，递给我”，我有力气替您抬起重箱，可以帮您的忙。",
+      "rule_memory": "vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Nous voulons apprendre.",
+      "mnemonic": "声音梗：努，乌龙，apprendre：乌龙茶旁想学习。 脑内电影：我们努力坐到乌龙茶杯旁，茶叶竟折成小书；我们都想学新知识，把书页展开准备认真学。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 voulons /vulɔ̃/：ou 在这个词里读 /u/，是后圆唇音。 apprendre /apʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il faut réserver.",
+      "mnemonic": "声音梗：Il faut réserver：一儿，佛手打电话，先预订。 脑内电影：一只耳罩挂在佛手形电话旁，想吃饭得先预订座位，佛手伸出手指按号码，提醒必须先订好。",
+      "rule_memory": "réserver /ʁezɛʁve/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "G18": [
+    {
+      "fr": "Je voudrais un café, s’il vous plaît.",
+      "mnemonic": "声音梗：Je voudrais un café，s’il vous plaît：这乌托盘，咖啡，丝乌礼帽请。 脑内电影：我拿着这只乌色茶托，礼貌要一杯咖啡，再系上丝带递给服务员，请他把热咖啡放到托盘上。",
+      "rule_memory": "voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。 café /kafe/：c 在 a 前读 /k/；é 为 /e/。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Vous pourriez répéter ?",
+      "mnemonic": "声音梗：Vous pourriez répéter：乌鸦佩好领结，热佩忒，再说一次？ 脑内电影：我把手放到乌鸦耳边，第一遍没听清，便礼貌请求；乌鸦重新佩好小领结，准备再说一遍。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 pourriez /puʁje/：ou 在这个词里读 /u/，是后圆唇音。 répéter /ʁepete/：两个 é 与动词 -er 都为 /e/。"
+    },
+    {
+      "fr": "Tu aurais dû te reposer.",
+      "mnemonic": "声音梗：Tu aurais dû te reposer：玉色靠枕，哦，你本该休息。 脑内电影：你抱着玉色靠枕跑得太累，我哦地摇头，指指你本该躺下的床；实际没有好好休息，现在才累成这样。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G19": [
+    {
+      "fr": "S’il pleut, je resterai ici.",
+      "mnemonic": "声音梗：丝儿，pleut，这，resterai，一席：雨下就坐这里。 脑内电影：一根丝带伸到窗外试雨，如果雨滴扑来，我就把这把椅子搬回屋里，留在眼前这一席坐着。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Si j’avais le temps, je viendrais.",
+      "mnemonic": "声音梗：西，扎韦，勒，temps，这，viendrais：有时间就来。 脑内电影：西瓜钟旁我扎好围巾，勒住乱跑的钟摆；假如我能空出时间，就能拿起这条围巾来见你。",
+      "rule_memory": "viendrais /vjɛ̃dʁɛ/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Si j’avais su, je serais venu.",
+      "mnemonic": "声音梗：Si j’avais su，je serais venu：西瓜钟，扎围巾，早知就已来。 脑内电影：西瓜钟已经停了，我扎着围巾抱着玉兔后悔：若早知道你的聚会，我这个男生当时就来参加了。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Il parle comme s’il savait tout.",
+      "mnemonic": "声音梗：一儿，parle，空，丝儿，撒韦，兔：像啥都懂。 脑内电影：他戴着耳罩滔滔说话，空茶杯上绕着丝带；连撒进杯里的小兔怎么想，他都说得像全知道一样。",
+      "rule_memory": "tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。"
+    }
+  ],
+  "G20": [
+    {
+      "fr": "Il faut que tu viennes.",
+      "mnemonic": "声音梗：Il faut que Tu viennes：一儿，佛手敲门，玉兔你得来。 脑内电影：耳罩旁的佛手敲开门，克服门槛拉住你的玉兔，说这里需要你到场，玉兔赶紧把你往门口送。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Je veux qu’elle soit heureuse.",
+      "mnemonic": "声音梗：这，veux，qu’elle soit heureuse：刷（soit）出她的幸福。 脑内电影：我把一束花送给她，希望小刷子把她每天的生活刷成阳光色；她幸福地笑是我的心愿，花瓣也跟着轻轻摇。",
+      "rule_memory": "qu’elle /kɛl/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 soit /swa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Je sais qu’il est ici.",
+      "mnemonic": "声音梗：这，塞，奇儿，诶，一席：我知道他在这。 脑内电影：我举着这块塞子当望远镜，看见奇妙的小耳罩在眼前这一席跳舞，立刻知道他就在这里。",
+      "rule_memory": "qu’il /kil/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je viendrai à moins qu’il pleuve.",
+      "mnemonic": "声音梗：Je viendrai à moins qu’il pleuve：这伞要来，雨扑才不来。 脑内电影：我举着这把伞准备来，啊地望一眼天：只有雨水扑下来才取消，天气只要不下雨我就到场。",
+      "rule_memory": "viendrai /vjɛ̃dʁe/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 moins /mwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 qu’il /kil/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "G21": [
+    {
+      "fr": "On a réparé la porte.",
+      "mnemonic": "声音梗：昂啊，réparé，拉，porte：门已经修好。 脑内电影：一只工具箱昂头“啊”地打开，有人修理完铰链，拉开曾经歪斜的门；门现在顺滑得能跳舞。",
+      "rule_memory": "réparé /ʁepaʁe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "La porte a été réparée.",
+      "mnemonic": "声音梗：拉，porte，啊，été，réparée：这门被修好了。 脑内电影：我拉着门把，门“啊”地转过身，给我看已经装好的新铰链；这扇门被修好，再也不歪着走。",
+      "rule_memory": "été /ete/：é 对应较闭的前元音 /e/。 réparée /ʁepaʁe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Ce livre est lu par beaucoup d’élèves.",
+      "mnemonic": "声音梗：Ce livre est lu par beaucoup d’élèves：这书连驴也读，播出很多学生读。 脑内电影：这本书抖了抖，连小驴也探头；一大群学生轮流捧它读，书页忙得像播出很多节目的小舞台。",
+      "rule_memory": "beaucoup /boku/：eau 为 /o/、ou 为 /u/；词尾 p 不读。 d’élèves /delɛv/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je fais réparer ma voiture.",
+      "mnemonic": "声音梗：这，菲，réparer，妈，voiture：让师傅修我的车。 脑内电影：我把这只扳手交给修车师傅，请他修理我的汽车；妈妈坐旁边看，车的轮子终于重新转起来。",
+      "rule_memory": "réparer /ʁepaʁe/：é 对应较闭的前元音 /e/。 voiture /vwatyʁ/：oi 为 /wa/，u 为 /y/，r 发音。"
+    }
+  ],
+  "G22": [
+    {
+      "fr": "Elle dit qu’elle est fatiguée.",
+      "mnemonic": "声音梗：艾儿，滴，凯儿，诶，法提给：她说她累。 脑内电影：她耳边艾草滴着水，指指自己喊“诶，乏得很”，说完就瘫到沙发上，连鞋带都懒得解。",
+      "rule_memory": "qu’elle /kɛl/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 fatiguée /fatiɡe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Il demande si je viens.",
+      "mnemonic": "声音梗：一儿，的忙的，西，这，viens：他问我来不来。 脑内电影：他摘下耳罩，忙得把西瓜当电话，打给我问“这回你来不来”，我对着瓜皮正准备回答。",
+      "rule_memory": "demande /dəmɑ̃d/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle m’a demandé de patienter.",
+      "mnemonic": "声音梗：艾儿，妈，的忙的，的，patienter：请我耐心等。 脑内电影：她把耳边艾草递给妈妈，忙着处理柜台的事，再给我一把小椅子，请我耐心坐着等一会儿。",
+      "rule_memory": "demandé /dəmɑ̃de/：é 对应较闭的前元音 /e/。 patienter /pasjɑ̃te/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G23": [
+    {
+      "fr": "J’apprends à conduire.",
+      "mnemonic": "声音梗：扎prends，啊，conduire：扎好安全带学开车。 脑内电影：我扎好安全带，啊地握住方向盘，教练用一只玩具鸭演示转弯，我正在认真学开车。",
+      "rule_memory": "J’apprends /ʒapʁɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 conduire /kɔ̃dyiʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle essaie de comprendre.",
+      "mnemonic": "声音梗：艾儿，诶塞，的，comprendre：试着理解。 脑内电影：她把艾草塞到耳边，诶地端起一个空盆反复观察，想弄懂盆底的谜题，正在努力试着理解。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "J’écoute la radio en cuisinant.",
+      "mnemonic": "声音梗：这裤，拉，radio，昂，cuisinant：边听广播边炒菜。 脑内电影：我围裙像大裤子，拉开收音机开关，广播里的歌声昂起来；我一边听广播，一边用锅铲炒菜。",
+      "rule_memory": "J’écoute /ʒekut/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 cuisinant /kyizinɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je suis habitué à travailler tôt.",
+      "mnemonic": "声音梗：Je suis habitué à travailler tôt：这随身钟，习惯早起，偷偷先开工。 脑内电影：我把这只随身闹钟放床头，已经习惯它一叫就起；啊地背起工具，太阳还没露头我便开始工作。",
+      "rule_memory": "habitué /abitye/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Il est inutile de répéter.",
+      "mnemonic": "声音梗：Il est inutile de répéter：一儿，诶，耳罩重复十遍也没用。 脑内电影：一个耳罩诶地弹起来，同一句话重复十遍，打不开的罐头仍打不开，大家发现继续重复没有用。",
+      "rule_memory": "répéter /ʁepete/：两个 é 与动词 -er 都为 /e/。"
+    },
+    {
+      "fr": "Je vois les enfants jouer.",
+      "mnemonic": "声音梗：这，哇，勒，昂方，jouer：看见孩子们玩。 脑内电影：我指着这边“哇”地笑了，勒好滑梯绳子，一群孩子昂头爬上去又滑下来，我亲眼看他们玩耍。",
+      "rule_memory": "vois /vwa/：oi 为 /wa/，最后 s 不读。 jouer /ʒwe/：词尾 er 这里读 /e/，r 不另外发声。"
+    }
+  ],
+  "G24": [
+    {
+      "fr": "Entrez, s’il vous plaît.",
+      "mnemonic": "声音梗：Entrez，s’il vous plaît：昂头来，丝乌礼帽，请进。 脑内电影：我昂起头把门推开，门口乌鸦举着丝带礼帽，我礼貌伸手请它进来，它收起翅膀跨过门槛。",
+      "rule_memory": "Entrez /ɑ̃tʁe/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Allons au parc.",
+      "mnemonic": "声音梗：Allons au parc：啊龙，哦，一起去公园吧。 脑内电影：我拉起龙形小拖车，哦地指向公园里的秋千，招呼大家一起去；我们抱着野餐垫欢快走向公园。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Ne me téléphone pas ce soir.",
+      "mnemonic": "声音梗：讷，么，téléphone，啪，瑟，soir：今晚别打。 脑内电影：我拿起电话又啪地放下，让夜色给听筒盖小被子，特意叮嘱你，今天晚上别给我打电话。",
+      "rule_memory": "téléphone /telefɔn/：两个 é 为 /e/，ph 为 /f/，最后 on 后有 e，所以 /ɔn/ 不鼻化。 soir /swaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "G25": [
+    {
+      "fr": "J’ai un livre. Le livre est intéressant.",
+      "mnemonic": "声音梗：J’ai un livre；le livre est intéressant：这本书勒住，诶，里面滑梯真有趣。 脑内电影：我拿出这一本书，勒住书页不让它跑；书里突然弹出一座滑梯，我笑着往下滑，这本书真有意思。",
+      "rule_memory": "intéressant /ɛ̃teʁɛsɑ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "J’aime les chats.",
+      "mnemonic": "声音梗：J’aime les chats：gem宝石，勒，沙，喜欢猫咪玩沙。 脑内电影：我把宝石般的毛线球勒成沙包，小猫一扑就滚进沙堆，我笑得合不拢嘴，特别喜欢这些猫。",
+      "rule_memory": "chats /ʃa/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Je vais au marché.",
+      "mnemonic": "声音梗：这，韦，哦，马儿歇（marché）。 脑内电影：我拿着这只菜篮说“喂”，哦地往市场走，马儿在摊边歇脚，帮我用尾巴挑一根最大胡萝卜。",
+      "rule_memory": "marché /maʁʃe/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "G26": [
+    {
+      "fr": "Je bois de l’eau.",
+      "mnemonic": "声音梗：Je bois de l’eau：玻璃杯举高，水落（l’eau）进喉。 脑内电影：我把玻璃杯举到嘴边，清水像小瀑布落进喉咙，杯里的纸船绕一圈；正在喝的是水，喝完还想再倒半杯。",
+      "rule_memory": "bois /bwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Nous achetons un kilo de pommes.",
+      "mnemonic": "声音梗：Nous achetons un kilo de pommes：阿嚏（achetons），一公斤苹果砰进袋。 脑内电影：我们买苹果时有人阿嚏一声，苹果吓得跳上秤；一公斤砝码把秤压平，苹果砰地落袋，我们买下一公斤苹果。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 achetons /aʃtɔ̃/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Elle n’a pas de pain.",
+      "mnemonic": "声音梗：艾儿，拿，啪，的，pain：面包拿了个空。 脑内电影：她耳边夹着艾草去拿面包，啪地摸到空盘，连一块面包屑也没有，只好举起空盘摇摇头。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G27": [
+    {
+      "fr": "Une table et un bureau.",
+      "mnemonic": "声音梗：une，table，诶，un，bureau：两张不同的桌。 脑内电影：一张餐桌端着盘子走来，诶地碰上一张抱文件的办公桌，两张桌并排站，一张吃饭一张办公。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Les enfants sont petits.",
+      "mnemonic": "声音梗：勒，昂方，松，petits：小孩像松果小。 脑内电影：我勒好一根细绳，孩子们昂头站在绳下，个个只有松果那么高，跳起来也摸不到低低的横杆。",
+      "rule_memory": "sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Un journal, des journaux.",
+      "mnemonic": "声音梗：un，journal，的，journaux：报纸一份变多份。 脑内电影：我先抱起一份卷成朱红喇叭的报纸，再的的一抖，它变成好多份，每份都张开纸嘴报新闻。",
+      "rule_memory": "journal /ʒuʁnal/：ou 在这个词里读 /u/，是后圆唇音。 journaux /ʒuʁno/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "C’est une salle de réunion.",
+      "mnemonic": "声音梗：塞，une，sal，的，réunion：塞满椅子的会议室。 脑内电影：我把一把椅子塞进房间，沙拉碗也来占座，大家围桌准备开会；我指着这间屋说它是会议室。",
+      "rule_memory": "réunion /ʁeynjɔ̃/：é、u 分别为 /e/、/y/；ion 为 /jɔ̃/。"
+    }
+  ],
+  "G28": [
+    {
+      "fr": "Voici ma sœur.",
+      "mnemonic": "声音梗：哇西，妈，sœur：哇，我的姐妹来了。 脑内电影：我“哇”地端出西瓜，妈妈推来一辆小车，车上坐着我的姐妹；我向大家介绍，车上这位就是她。",
+      "rule_memory": "Voici /vwasi/：oi 为 /wa/，c 在 i 前为 /s/。"
+    },
+    {
+      "fr": "Mon amie arrive.",
+      "mnemonic": "声音梗：Mon amie arrive：蒙，阿米，啊立稳，她来了。 脑内电影：我蒙着眼等惊喜，耳边忽然传来搬米袋的声音；啊地站稳摘下眼罩，我的女性朋友已经到门口。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Cet appartement est lumineux.",
+      "mnemonic": "声音梗：塞特，appartement，诶，lumineux：亮亮的公寓。 脑内电影：我把特大太阳塞进公寓客厅，诶地拉开窗帘，每间房都亮到连拖鞋发光，这套公寓十分明亮。",
+      "rule_memory": "appartement /apaʁtəmɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le livre de Léa est ici.",
+      "mnemonic": "声音梗：勒，livre，的，莉娅，诶，一席：她的书在这。 脑内电影：我勒好一本书的书带，还给莉娅；诶，书却留在眼前这一席凳子上，莉娅的书就在这里。",
+      "rule_memory": "Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。"
+    },
+    {
+      "fr": "C’est un ami à moi.",
+      "mnemonic": "声音梗：塞，un，阿米，啊，moi：这是我的朋友。 脑内电影：我塞给阿米一块饼干，“啊”地拍拍自己的胸口，再介绍他给大家：这是我自己的一个朋友。",
+      "rule_memory": "moi /mwa/：oi 为 /wa/，不是 o、i 两个分离元音。"
+    }
+  ],
+  "G29": [
+    {
+      "fr": "Je vois Léa. Je la vois.",
+      "mnemonic": "声音梗：这，哇，莉娅；这，拉，哇：我看见她。 脑内电影：我指着这边哇地叫出莉娅的名字，又拉开遮眼的窗帘再哇一次，两次看见的都是同一个她。",
+      "rule_memory": "vois /vwa/：oi 为 /wa/，最后 s 不读。 Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。"
+    },
+    {
+      "fr": "Tu connais ces mots ? Je les connais.",
+      "mnemonic": "声音梗：Tu connais ces mots？Je les connais：玉兔摸脑袋，这些词我认识。 脑内电影：你抱玉兔指着这些词，摸摸脑袋问认不认识；我勒住跳动的词卡点头，说这些词我都认识。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je veux le lire.",
+      "mnemonic": "声音梗：这，veux，勒，lire：我想勒住它读。 脑内电影：我指着这本长腿的书，想把它拿来读，便轻轻勒住书带；书乖乖坐下，我终于能翻开第一页。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G30": [
+    {
+      "fr": "Je téléphone à Nora. Je lui téléphone.",
+      "mnemonic": "声音梗：Je téléphone à Nora；je lui téléphone：这电话，啊诺拉，绿听筒还打给她。 脑内电影：我把这只电话拨给诺拉，啊地等她接听；再让绿色听筒贴着耳朵，同一个电话就是打给她的。",
+      "rule_memory": "téléphone /telefɔn/：两个 é 为 /e/，ph 为 /f/，最后 on 后有 e，所以 /ɔn/ 不鼻化。"
+    },
+    {
+      "fr": "Je leur écris demain.",
+      "mnemonic": "声音梗：这，leur，écris，德曼：明天给他们写。 脑内电影：我把这只信封拉到桌上，笔却戴着睡帽说明天再写；明天我会写信给他们，信封先排队等着。",
+      "rule_memory": "écris /ekʁi/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je pense à elle.",
+      "mnemonic": "声音梗：这，pense，啊，艾儿：想着她。 脑内电影：我抱着这只胖丝枕，啊地盯着耳边夹艾草的她的照片，连云朵也变成她的笑脸，我心里正想着她。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G31": [
+    {
+      "fr": "Tu vas à Paris ? J’y vais.",
+      "mnemonic": "声音梗：Tu vas à Paris？J’y vais：玉兔哇，巴黎？鸡，喂，我去那里。 脑内电影：你抱玉兔哇地指着巴黎问去不去，我抱起小鸡“喂”了一声跟上，目的地也是你刚说的巴黎。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Tu as des pommes ? J’en ai deux.",
+      "mnemonic": "声音梗：Tu as des pommes？J’en ai deux：玉兔啊，苹果？让开，诶，我有两个。 脑内电影：你抱玉兔问有没有苹果，我让开围裙“诶”地露出两个圆苹果，它们像双胞胎在口袋里挥手。",
+      "rule_memory": "J’en /ʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Ces fleurs, je les ai achetées.",
+      "mnemonic": "声音梗：塞，fleurs，这，勒，诶，achetées：这些花我买过。 脑内电影：我把这束花塞进花瓶，勒好花茎；诶，购物袋里还有收据，这些花正是我先前亲自买下的。",
+      "rule_memory": "achetées /aʃte/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "G32": [
+    {
+      "fr": "Viens avec moi.",
+      "mnemonic": "声音梗：Viens avec moi：来，啊，喂颗糖，跟我走。 脑内电影：我先挥手叫你来，啊地喂自己一颗糖，再拍拍胸口走到小桥前，请你跟着我一起过桥。",
+      "rule_memory": "moi /mwa/：oi 为 /wa/，不是 o、i 两个分离元音。"
+    },
+    {
+      "fr": "Ils se téléphonent souvent.",
+      "mnemonic": "声音梗：一儿，瑟，téléphonent，苏旺：常常互相打。 脑内电影：他们各戴一只耳罩，电话铃瑟瑟响，苏旺的日历几乎天天画着电话，他们经常给对方打电话。",
+      "rule_memory": "téléphonent /telefon/：é 对应较闭的前元音 /e/。 souvent /suvɑ̃/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Tout le monde est prêt.",
+      "mnemonic": "声音梗：Tout le monde est prêt：兔勒帽带，蒙眼也准备好。 脑内电影：小兔勒好大家的帽带，连蒙着眼的人也“诶”地站好，所有人的背包都扣紧了，大家都准备妥当。",
+      "rule_memory": "Tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。 monde /mɔ̃d/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Chacun a une clé.",
+      "mnemonic": "声音梗：沙坑啊，une，clé：每人一把钥匙。 脑内电影：大家走出沙坑，“啊”地张开手，一把把钥匙飞进每个人手心，谁也没少，连小孩也分到一把。",
+      "rule_memory": "Chacun /ʃakœ̃/：ch 在这个词里读 /ʃ/，持续送气。 clé /kle/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je ne prends ni thé ni café.",
+      "mnemonic": "声音梗：这，讷，prends，妮，忒，妮，咖啡：两样都不要。 脑内电影：我摆手挡住这只托盘，妮妮先递茶又递咖啡，我两杯都没有拿起，桌上只留下一杯白水。",
+      "rule_memory": "thé /te/：th 在这个词中为 /t/，不读英语 /θ/；é 为 /e/。 café /kafe/：c 在 a 前读 /k/；é 为 /e/。"
+    }
+  ],
+  "G33": [
+    {
+      "fr": "C’est un livre qui aide beaucoup.",
+      "mnemonic": "声音梗：C’est un livre qui aide beaucoup：塞本书，小鸡诶地帮很多忙。 脑内电影：我塞好一本书，小鸡“诶”地打开它，书伸出好多纸手，帮我搬箱、找钥匙，给了我很多帮助。",
+      "rule_memory": "qui /ki/：qu 为 /k/，u 不另读；i 为 /i/。 beaucoup /boku/：eau 为 /o/、ou 为 /u/；词尾 p 不读。"
+    },
+    {
+      "fr": "Voilà la personne que je connais.",
+      "mnemonic": "声音梗：哇啦，拉，personne，克，这，connais：那位我认识。 脑内电影：我哇啦叫着拉开人群，克制地指向远处那位戴大帽子的人，笑着挥手，那正是我认识的人。",
+      "rule_memory": "Voilà /vwala/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Le film qu’elle regarde est drôle.",
+      "mnemonic": "声音梗：Le film qu’elle regarde est drôle：勒住胶片，她看得咯咯笑。 脑内电影：胶片被轻轻勒住，银幕里的雨伞却追着人满街跑；她盯着自己看的电影，咯咯笑弯了腰，这电影很有趣。",
+      "rule_memory": "qu’elle /kɛl/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "G34": [
+    {
+      "fr": "C’est le sujet dont je parle.",
+      "mnemonic": "声音梗：塞，勒，sujet，咚，这，parle：这就是我谈的话题。 脑内电影：我把一颗水珠塞进勒好的小袋，它咚地跳到桌上；我正在讲的正是雨水，这就是我谈的话题。",
+      "rule_memory": "dont /dɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le jour où tu viendras, appelle-moi.",
+      "mnemonic": "声音梗：Le jour où Tu viendras，appelle-moi：勒日历，呜，玉兔你来那天给我打。 脑内电影：我勒好日历，呜地吹响小哨，圈出你抱玉兔来的那天；请你到了就拿起电话给我打来。",
+      "rule_memory": "jour /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。 viendras /vjɛ̃dʁa/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 appelle-moi /apɛlmwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Je comprends ce que tu veux.",
+      "mnemonic": "声音梗：Je comprends ce que Tu veux：这空盆，玉兔你要什么我懂。 脑内电影：我端着这只空盆，看你瑟瑟抱着玉兔，立刻明白你想要温水，把热水壶递给你正好合心意。",
+      "rule_memory": "comprends /kɔ̃pʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Ma sœur, qui vit à Lyon, arrive demain.",
+      "mnemonic": "声音梗：Ma sœur，qui vit à Lyon，arrive demain：妈指姐妹，里昂住，明天到。 脑内电影：妈妈把我的姐妹照片夹好，她一直住在里昂；小鸡叼着车票啊地飞来，她明天就会到这儿。",
+      "rule_memory": "qui /ki/：qu 为 /k/，u 不另读；i 为 /i/。 Lyon /ljɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "G35": [
+    {
+      "fr": "Une petite maison blanche.",
+      "mnemonic": "声音梗：Une petite maison blanche：豌豆小房子，白兰花一样白。 脑内电影：一颗小豌豆蹦到迷你房子旁，房子只有玩具那么大，外墙白得像白兰花，门口还能挂一只小铃铛。",
+      "rule_memory": "blanche /blɑ̃ʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Des enfants heureux.",
+      "mnemonic": "声音梗：的，昂方，heureux：孩子昂头笑呵呵。 脑内电影：孩子们的气球把他们轻轻提起来，他们昂着头笑呵呵，脚尖踢来踢去，每个孩子都开心极了。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Un ancien collègue vient.",
+      "mnemonic": "声音梗：Un ancien collègue vient：旧同事端可乐（collègue），来敲门。 脑内电影：一位戴旧工作帽的人按响门铃，手里还端着以前共用过的可乐杯；我认出他，原来以前的同事来了。",
+      "rule_memory": "ancien /ɑ̃sjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 collègue /kɔlɛɡ/：è 对应较开的前元音 /ɛ/。 vient /vjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ce travail est fatigant ; je suis fatigué.",
+      "mnemonic": "声音梗：Ce travail est fatigant；je suis fatigué：这工作乏得慌，我随身枕头抱着瘫。 脑内电影：这份工作把工具箱都累弯了，诶地压着我继续搬；我这个男生抱着随身枕头，已经累得坐在地上。",
+      "rule_memory": "fatigant /fatiɡɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 fatigué /fatiɡe/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "G36": [
+    {
+      "fr": "Cette rue est plus calme que l’autre.",
+      "mnemonic": "声音梗：Cette rue est plus calme que l’autre：塞特耳塞，这街安静过隔壁。 脑内电影：我把特制耳塞拿到这条街，诶，根本用不上；隔壁街锅盖哐哐响，这条街却安静得能听见猫呼吸。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Elle parle mieux maintenant.",
+      "mnemonic": "声音梗：Elle parle mieux maintenant：艾草女孩说话，喵猫现在更听懂。 脑内电影：她耳边夹着艾草开口说话，喵喵叫的小猫也听懂了；现在她讲得比从前清楚，猫给她鼓起爪子。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "J’ai autant de livres que toi.",
+      "mnemonic": "声音梗：借（J’ai），autant de livres que toi：两边书一样多。 脑内电影：我借来一架秤，把自己的书放一边，你把自己的书放另一边；我们数过两堆，数量相等，秤也开心地摆平。",
+      "rule_memory": "autant /otɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 toi /twa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Ce sac est trop lourd pour moi.",
+      "mnemonic": "声音梗：瑟，sac，诶，tro，lourd，pour，moi。 脑内电影：这只包塞得鼓鼓的，诶地压得我趴下；露出袋口的锅又往我这边滚，这包对我实在太重了。",
+      "rule_memory": "lourd /luʁ/：ou 在这个词里读 /u/，是后圆唇音。 pour /puʁ/：ou 为 /u/，r 发音。 moi /mwa/：oi 为 /wa/，不是 o、i 两个分离元音。"
+    }
+  ],
+  "G37": [
+    {
+      "fr": "Il parle lentement.",
+      "mnemonic": "声音梗：一儿，parle，慢吞慢（lentement）。 脑内电影：他戴着耳罩开口说话，一句话像慢吞吞的蜗牛，字与字之间都能喝口水，他说得特别慢。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je n’ai jamais vu ce film.",
+      "mnemonic": "声音梗：Je n’ai jamais vu ce film：这内盒找电影票，压根没见过。 脑内电影：我抱着这只内衣形抱枕，电影票抽屉里怎么也找不到这部片的票；我摇头，自己从没看过它。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je ne connais personne ici.",
+      "mnemonic": "声音梗：这，讷，connais，personne，一席：这里一个不认识。 脑内电影：我站在这里讷讷发愣，面前每个人都戴着陌生面具，转完整个席位也没一个熟人，我谁也不认识。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je n’ai pas encore fini.",
+      "mnemonic": "声音梗：这，内，啪，encore，菲尼：还没完成。 脑内电影：我打开这只内盒，啪地弹出半件玩具，安可声催着松鼠继续装，最后一只轮子还没装完。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Même Léa est venue.",
+      "mnemonic": "声音梗：même，莉娅，诶，venue：连莉娅都来了。 脑内电影：门缝先伸进一枝玫瑰，莉娅诶地探出头；大家没想到连她都已经来了，赶紧把最后一张椅子拉出。",
+      "rule_memory": "Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。"
+    }
+  ],
+  "G38": [
+    {
+      "fr": "Je reste parce qu’il pleut.",
+      "mnemonic": "声音梗：这，reste，parce，奇儿，pleut：因雨而留下。 脑内电影：我抱着这只热水袋留下，窗外的爬树小耳罩被雨扑回来，雨一直下，所以我坐回屋里不出门。",
+      "rule_memory": "qu’il /kil/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Grâce à toi, j’ai compris.",
+      "mnemonic": "声音梗：Grâce à toi，借（j’ai），compris：草圈指出来，我懂了。 脑内电影：一根草绕住你的指尖，你用它指出这道题的关键；我借来放大镜一看，脑中小灯亮了，多亏你我才明白。",
+      "rule_memory": "toi /twa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 compris /kɔ̃pʁi/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je parle lentement pour que tu comprennes.",
+      "mnemonic": "声音梗：Je parle lentement pour que Tu comprennes：这话慢吞慢，玉兔你才能懂。 脑内电影：我把这句话说得像慢吞吞的蜗牛，特意让你抱的玉兔也跟得上；我放慢速度就是为了让你明白。",
+      "rule_memory": "pour /puʁ/：ou 为 /u/，r 发音。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 comprennes /kɔ̃pʁɛn/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Comme il pleut, je reste ici.",
+      "mnemonic": "声音梗：空，一儿，pleut，这，reste，一席。 脑内电影：空杯接住耳罩边的雨滴，越接越满；因为外面正在下雨，我抱着这条毯子，留在这里这一席休息。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G39": [
+    {
+      "fr": "Il est fatigué, mais il continue.",
+      "mnemonic": "声音梗：Il est fatigué，mais il continue：一儿诶，乏得累，眉垂仍继续。 脑内电影：他戴耳罩累得诶地坐倒，眉毛都垂了，却又扶住耳罩继续推小车，车轮慢慢转，他仍坚持工作。",
+      "rule_memory": "fatigué /fatiɡe/：é 对应较闭的前元音 /e/。 continue /kɔ̃tiny/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Même s’il pleut, je sortirai.",
+      "mnemonic": "声音梗：même，丝儿，pleut，这，sortirai：下雨也出去。 脑内电影：玫瑰上的丝带被雨扑湿，我举起这把伞仍准备出门；就算雨继续下，我也会踩着雨靴走出去。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Bien qu’elle soit jeune, elle a de l’expérience.",
+      "mnemonic": "声音梗：Bien qu’elle soit jeune，elle a de l’expérience：小刷子（soit）年轻，经验多。 脑内电影：她拿着小刷子收拾工作台，看起来年纪轻轻；遇到复杂机器却熟练地拆装修好，虽然年轻，她仍很有经验。",
+      "rule_memory": "qu’elle /kɛl/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 soit /swa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 l’expérience /lɛkspeʁjɑ̃s/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "G40": [
+    {
+      "fr": "J’habite au Canada.",
+      "mnemonic": "声音梗：扎比特，哦，加拿大：住进枫叶小屋。 脑内电影：我扎好特别的门帘，哦地走进加拿大的家，窗外枫叶把屋顶盖成红帽子，我就在这个国家生活。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle va en France.",
+      "mnemonic": "声音梗：艾儿，哇，昂，France：她去法国。 脑内电影：她摘下耳边艾草，哇地昂头望见法国方向的气球，抱着行李上车，准备去法国看一看。",
+      "rule_memory": "France /fʁɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le sac est sous la table.",
+      "mnemonic": "声音梗：勒，sac，诶，苏，拉，table：包在桌下。 脑内电影：我勒好包带，诶地发现它被苏打饼干拉着躲进桌底；掀开桌布，这只包果然就在桌子下面。",
+      "rule_memory": "sous /su/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Je vais au travail à pied.",
+      "mnemonic": "声音梗：这，韦，哦，travail，啊，pied：用脚去上班。 脑内电影：我向这辆车喂了一声再摆手，哦地背起工作包，啊地迈出两只脚，今天就一步步走着去上班。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "G41": [
+    {
+      "fr": "Le cours commence à neuf heures.",
+      "mnemonic": "声音梗：勒，cours，commence啊，neuf heures：九点开课。 脑内电影：老师勒好钟表的帽带，课程躲在钟里等；九点一到，课本砰地跳出钟门，大家立刻开始上课。",
+      "rule_memory": "cours /kuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Je travaille le lundi.",
+      "mnemonic": "声音梗：这，travaille，勒，lundi：每逢周一做工。 脑内电影：我把这张工作桌勒在周一日历上，每翻到一个新的星期一，桌子就自动推着工具来叫我工作。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Envoyez le document d’ici vendredi.",
+      "mnemonic": "声音梗：Envoyez le document d’ici vendredi：文件飞出去，最迟周五发送。 脑内电影：请给文件戴上飞行帽，装进邮件篮；周五日历是最后期限，您要在它收旗之前按下发送，文件才按时飞过来。",
+      "rule_memory": "Envoyez /ɑ̃vwaje/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 document /dokymɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 vendredi /vɑ̃dʁədi/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je lis pendant qu’elle cuisine.",
+      "mnemonic": "声音梗：这，梨（lis），胖当（pendant），qu’elle cuisine：她做饭时我读。 脑内电影：我抱着梨形书枕读书，胖钟当当地走；她在旁边厨房炒菜，锅铲跟着翻动，她做饭这段时间我一直在读。",
+      "rule_memory": "pendant /pɑ̃dɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 qu’elle /kɛl/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "À la fin du cours, nous révisons.",
+      "mnemonic": "声音梗：À la fin du cours，nous révisons：啊，拉到课末，努，热热复习。 脑内电影：啊，下课前最后一页被拉开，小驴抱来课本，我们努力把刚学过的知识再看一遍，在课末一起复习。",
+      "rule_memory": "fin /fɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 cours /kuʁ/：ou 在这个词里读 /u/，是后圆唇音。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    }
+  ],
+  "G42": [
+    {
+      "fr": "Cela dépend du prix.",
+      "mnemonic": "声音梗：瑟啦，的胖，驴，prix：价钱决定买不买。 脑内电影：这件外套瑟啦滑来，胖胖的价签骑着小驴挡路；能不能买要先看多少钱，我盯着价格再决定。",
+      "rule_memory": "dépend /depɑ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "J’ai réussi à réserver.",
+      "mnemonic": "声音梗：这，réussi啊，réserver：成功订上啦。 脑内电影：我拿着这根预订电话线，试了几次终于啊地欢呼，空座被绳圈稳稳套住，我成功订到了位子。",
+      "rule_memory": "réussi /ʁeysi/：é 对应较闭的前元音 /e/。 réserver /ʁezɛʁve/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "J’attends le bus.",
+      "mnemonic": "声音梗：扎当（J’attends），勒，bus：扎好包，等玉色公交。 脑内电影：我扎好书包，当当地轻敲站台栏杆，站在站牌下等公交；远处一辆玉色公交慢慢开来，我还在原地等它停稳。",
+      "rule_memory": "J’attends /ʒatɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je compte sur toi.",
+      "mnemonic": "声音梗：这，compte，sur，toi：靠你扶着。 脑内电影：我站在这块晃动的小台子上，空桶咚地滚开，伸手扶住你；只要你稳稳撑着，我就能完成这件事。",
+      "rule_memory": "compte /kɔ̃t/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 toi /twa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "E01": [
+    {
+      "fr": "J’ai besoin d’un stylo.",
+      "mnemonic": "声音梗：这，besoin，d’un stylo：这只笔，丝带搂住。 脑内电影：我指着这张空白纸，急着要写字，一根丝带把笔搂到我手里；我需要的就是这一支笔。",
+      "rule_memory": "besoin /bəzwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 d’un /dœ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "J’ai besoin d’aide.",
+      "mnemonic": "声音梗：这，besoin d’aide：需要帮忙，得搭把手。 脑内电影：我指着这箱比自己还大的积木，怎么搬都搬不动，伸出手等人搭把手，表示我需要帮助。",
+      "rule_memory": "besoin /bəzwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je prends rendez-vous demain.",
+      "mnemonic": "声音梗：这，prends rendez-vous，德曼：明天约，别忘。 脑内电影：我把这部预约电话放好，任由它今天打盹；明天太阳一出来，我就拿起它去预约时间。",
+      "rule_memory": "rendez-vous /ʁɑ̃devu/：en 为 /ɑ̃/，-ez 为 /e/，ou 为 /u/；这里末尾 s 单独不读。"
+    }
+  ],
+  "E02": [
+    {
+      "fr": "Bonjour Madame, puis-je vous poser une question ?",
+      "mnemonic": "声音梗：蹦jour，Madame，puis-je vous poser une question：女士，先问好再提问。 脑内电影：我蹦到柜台前，向女士问好，礼貌举起装着问号的小气球，先问她能不能回答我的一个问题。",
+      "rule_memory": "Bonjour /bɔ̃ʒuʁ/：on 为 /ɔ̃/，j 为 /ʒ/，ou 为 /u/；r 发音。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 question /kɛstjɔ̃/：这里 qu 为 /k/，-tion 为 /tjɔ̃/，不同于 attention 的 /sjɔ̃/。"
+    },
+    {
+      "fr": "Salut, ça va ?",
+      "mnemonic": "声音梗：撒驴（Salut），撒，哇：嗨，你还好吗？ 脑内电影：我撒开手迎接朋友的小驴，哇地笑着挥手打招呼，再关切地问朋友最近过得好不好。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Merci pour votre réponse.",
+      "mnemonic": "声音梗：merci，pour votre réponse：没事，谢谢回信。 脑内电影：我把没吃完的梅子放旁边，双手接过您的回复，信封开心地弯腰，我也向您认真道谢。",
+      "rule_memory": "pour /puʁ/：ou 为 /u/，r 发音。 réponse /ʁepɔ̃s/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "E03": [
+    {
+      "fr": "Tu peux me donner un coup de main ?",
+      "mnemonic": "声音梗：Tu peux me donner un coup de main：玉兔，你能搭把手？ 脑内电影：你身旁的玉兔抱着手套，我搬箱子搬得直打转，问你能不能帮一下，你把手套套好准备来扶。",
+      "rule_memory": "coup /ku/：ou 为 /u/；词尾 p 不读。 main /mɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je n’ai pas le temps.",
+      "mnemonic": "声音梗：这，n’ai pas，le temps：这钟空了，没时间。 脑内电影：我把这只时钟倒过来，里面一粒时间沙都没有，钟针还忙着跑，我只能摆手说自己没有时间。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Cette idée me parle.",
+      "mnemonic": "声音梗：塞特，idée，me parle：这点子说到我心里。 脑内电影：我把特别的点子从小盒里拿出，它像一只会说话的梨，直接跳到心口，让我听着连连点头。",
+      "rule_memory": "idée /ide/：é 为 /e/，最后的 e 不另成音节。"
+    }
+  ],
+  "E04": [
+    {
+      "fr": "Nous devons prendre une décision.",
+      "mnemonic": "声音梗：努，devons prendre une décision：努力一起定下来。 脑内电影：我们努力拉住两个方向乱跑的选择，围成一圈商量，最后合力按下决定按钮，作出需要的决定。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 devons /dəvɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 prendre /pʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Sa réussite nous encourage.",
+      "mnemonic": "声音梗：撒，réussite，努，encourage：成功撒来鼓励。 脑内电影：那人的成功像撒出一篮金色果子，落到我们脚边，大家努力伸手接住，受鼓励后重新挺起胸膛。",
+      "rule_memory": "réussite /ʁeysit/：é 对应较闭的前元音 /e/。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 encourage /ɑ̃kuʁaʒ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Merci pour votre disponibilité.",
+      "mnemonic": "声音梗：merci，pour votre disponibilité：梅子送您，谢谢抽空。 脑内电影：我捧着梅子向您道谢，您从忙碌的日历里抽出一小块空白时间交给我，我珍惜地双手接住。",
+      "rule_memory": "pour /puʁ/：ou 为 /u/，r 发音。 disponibilité /disponibilite/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "E05": [
+    {
+      "fr": "Je fais les courses le samedi.",
+      "mnemonic": "声音梗：这，fais les courses，le samedi：周六拎购物袋。 脑内电影：我把这只购物袋装到会跑的小车上，每逢周六它就载我买牙膏和肥皂，袋子鼓成了胖南瓜。",
+      "rule_memory": "courses /kuʁs/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Fais attention à la marche.",
+      "mnemonic": "声音梗：fais attention，à la marche：飞过去也要小心台阶。 脑内电影：你像要飞一样冲向门口，台阶忽然抬起脚尖，我赶紧伸手提醒你注意，别被台阶绊倒。",
+      "rule_memory": "attention /atɑ̃sjɔ̃/：这里 -tion 读 /sjɔ̃/；en、on 分别对应鼻化元音。 marche /maʁʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Il fait froid aujourd’hui.",
+      "mnemonic": "声音梗：Il fait froid aujourd’hui：一儿，fait，冷得哇哇（froid），今天好冷。 脑内电影：我今天戴着耳罩，还是冷得哇哇叫，连窗边小水滴都披上棉衣；风一吹耳罩也抖起来，记住今天天气很冷。",
+      "rule_memory": "froid /fʁwa/：oi 为 /wa/；词尾 d 不读。 aujourd’hui /oʒuʁdyi/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "E06": [
+    {
+      "fr": "Je prends le métro.",
+      "mnemonic": "声音梗：这，prends le métro：我坐车，没脱鞋。 脑内电影：我抓住这根地铁扶杆，鞋子顽皮地说没脱也能坐，列车一开，我稳稳站在车厢里去目的地。",
+      "rule_memory": "métro /metʁo/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je vais prendre un thé.",
+      "mnemonic": "声音梗：这，vais prendre un thé：喂，给我来杯忒香的茶。 脑内电影：我指着这只茶壶说“喂”，想要来杯香茶，茶叶赶紧跳进杯里打滚，我等着端起这一杯。",
+      "rule_memory": "prendre /pʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 thé /te/：th 在这个词中为 /t/，不读英语 /θ/；é 为 /e/。"
+    },
+    {
+      "fr": "Prenez votre temps.",
+      "mnemonic": "声音梗：prenez votre temps：不急，您的钟慢慢转。 脑内电影：您手中的钟像一只慢慢爬的蜗牛，我给它递杯水，请您从容慢慢来，它终于不再着急翻跟头。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "E07": [
+    {
+      "fr": "Je mets mon manteau.",
+      "mnemonic": "声音梗：这，mets mon manteau：这美梦里，满头外套。 脑内电影：我从美梦里起身，外套差点扣到头上，赶紧把胳膊穿进袖子，认真穿上自己的外套出门。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle se met à rire.",
+      "mnemonic": "声音梗：艾儿，se met à rire：她突然笑出梨涡。 脑内电影：她摘下耳边艾草，看见一只梨穿着小鞋跳舞，嘴角马上出现梨涡，开始笑得停不下来。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je mets dix minutes à venir.",
+      "mnemonic": "声音梗：这，mets dix minutes à venir：滴答十分钟才到。 脑内电影：我把这只钟挂在鞋上，滴答走满十分钟才来到你面前，鞋累得吐舌头，我说过来要花十分钟。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "E08": [
+    {
+      "fr": "J’ai besoin de dormir.",
+      "mnemonic": "声音梗：这，besoin de dormir：我得多眯会儿。 脑内电影：我抱着这只枕头，眼皮一合就像拉下两扇窗，困得必须多眯一会儿，身体提醒我需要睡觉。",
+      "rule_memory": "besoin /bəzwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’ai envie d’une promenade.",
+      "mnemonic": "声音梗：这，envie d’une promenade：想昂头慢慢散步。 脑内电影：我把这双鞋放到门边，昂头望见外面好天气，想慢慢去散步，鞋带也兴奋地摆成两只小翅膀。",
+      "rule_memory": "envie /ɑ̃vi/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Vous avez raison.",
+      "mnemonic": "声音梗：vous avez raison：乌鸦啊，理由真中肯。 脑内电影：我对着您手里的乌鸦点头，您讲的道理像圆木稳稳落地，把我歪掉的想法扶正，您说得有道理。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 raison /ʁɛzɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E09": [
+    {
+      "fr": "Je suis prêt à partir.",
+      "mnemonic": "声音梗：这，suis prêt à partir：随时准备，啪地提包走。 脑内电影：我这个男生把这只随身包扣紧，准备好了，啪地提起行李站到门口，鞋尖已经朝向出发的路。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous sommes d’accord avec toi.",
+      "mnemonic": "声音梗：努，sommes d’accord avec toi：松开绳，同意你。 脑内电影：我们努力松开争论时打结的绳子，大家点头走到你这一边，你的主意像一条宽桥，我们都赞同。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 toi /twa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Le train est en retard.",
+      "mnemonic": "声音梗：勒，train est en retard：火车惹它，晚点啦。 脑内电影：我勒好背包等火车，火车却被一只慢蜗牛拖住尾巴，时刻已经过了，它还没到，原来已经晚点。",
+      "rule_memory": "train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E10": [
+    {
+      "fr": "Je vais chez le médecin.",
+      "mnemonic": "声音梗：这，vais chez le médecin：喂，找医生，没得闲。 脑内电影：我指着这盒药说“喂”，背包赶紧带我去医生那里，药盒一路摇着听诊器，等医生给我检查。",
+      "rule_memory": "chez /ʃe/：ch 在这个词里读 /ʃ/，持续送气。 médecin /medəsɛ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Tu viens chez moi demain ?",
+      "mnemonic": "声音梗：Tu viens chez moi demain：玉兔，明天来我家吗？ 脑内电影：你抱着玉兔站在门边，我指指自己家，再把明天的日历递给你，邀请你明天过来，等你答应。",
+      "rule_memory": "chez /ʃe/：ch 在这个词里读 /ʃ/，持续送气。 moi /mwa/：oi 为 /wa/，不是 o、i 两个分离元音。"
+    },
+    {
+      "fr": "Je viens de Lyon.",
+      "mnemonic": "声音梗：这，viens de Lyon：这回说来处，是里昂。 脑内电影：我指着这只旅行包，里面蹦出里昂的小地图，地图铺成我走来的路，我告诉你自己来自里昂。",
+      "rule_memory": "Lyon /ljɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E11": [
+    {
+      "fr": "Donne-moi de tes nouvelles.",
+      "mnemonic": "声音梗：donne-moi，de tes nouvelles：端给我你的新鲜事。 脑内电影：你端来一个新闻碗，里面是你最近上课、旅行的小片段，我拿起勺子听，请你讲讲自己的近况。",
+      "rule_memory": "Donne-moi /dɔnmwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 nouvelles /nuvɛl/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Il tient sa promesse.",
+      "mnemonic": "声音梗：一儿，tient sa promesse：甜话也要守承诺。 脑内电影：他把耳罩挂好，曾答应送来的甜点稳稳捧在手里，哪怕下雨也准时送到，他始终信守承诺。",
+      "rule_memory": "tient /tjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il faut tenir compte du budget.",
+      "mnemonic": "声音梗：一儿，faut tenir compte du budget：佛手也得顾预算。 脑内电影：耳罩边的佛手想买一屋玩具，却先拿起零钱袋算账，需要认真考虑预算，才不会把硬币花光。",
+      "rule_memory": "compte /kɔ̃t/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E12": [
+    {
+      "fr": "Je m’intéresse à la musique.",
+      "mnemonic": "声音梗：这，m’intéresse à la musique：心被缪斯音乐吸住。 脑内电影：我摸摸这颗心，它被音乐吸得像磁铁，音符一响就踮脚跳舞，我对音乐特别有兴趣。",
+      "rule_memory": "m’intéresse /mɛ̃teʁɛs/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 musique /myzik/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Elle participe à la réunion.",
+      "mnemonic": "声音梗：艾儿，participe à la réunion：她来会议排椅子。 脑内电影：她摘下耳边艾草，怕迟到似的快步进会议室，坐到圆桌旁认真参与讨论，连椅子也竖起耳朵听。",
+      "rule_memory": "réunion /ʁeynjɔ̃/：é、u 分别为 /e/、/y/；ion 为 /jɔ̃/。"
+    },
+    {
+      "fr": "C’est une tasse à café.",
+      "mnemonic": "声音梗：塞，une tasse à café：咖啡塞进小杯。 脑内电影：我把一只杯子塞到桌中间，咖啡香从杯口卷成小帽子，这只杯子的用途就是盛咖啡，是咖啡杯。",
+      "rule_memory": "café /kafe/：c 在 a 前读 /k/；é 为 /e/。"
+    }
+  ],
+  "E13": [
+    {
+      "fr": "Je viens du Canada.",
+      "mnemonic": "声音梗：这，viens du Canada：这来处，加拿大。 脑内电影：我打开这只行李箱，飞出一片加拿大枫叶，它顺着我的来路飘回去，我告诉大家自己来自加拿大。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Il a besoin d’eau.",
+      "mnemonic": "声音梗：一儿啊，besoin d’eau：一口水都急着要。 脑内电影：他戴着耳罩张嘴“啊”地叫，手边空杯都渴得扁了；他需要水，赶紧指着水壶请人倒一点。",
+      "rule_memory": "besoin /bəzwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’arrête de travailler à six heures.",
+      "mnemonic": "声音梗：j’arrête de travailler，à six heures：六点刹住工作。 脑内电影：我把闸门一样的工具箱一合，六点闹钟嘶地响起，正在转的工作台马上停下，我六点结束工作。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "E14": [
+    {
+      "fr": "Je sors du bureau.",
+      "mnemonic": "声音梗：这，sors du bureau：锁（sors）一开，我走出办公室。 脑内电影：我把办公室门的小锁打开，桌椅排队目送我，鞋底正踩过门槛向外走；我正在走出办公室，锁还轻轻晃着。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle rentre chez elle.",
+      "mnemonic": "声音梗：艾儿，rentre chez elle：她认着门回自己家。 脑内电影：她摘下耳边艾草，认出自己家门上那只小鞋，钥匙转开门锁，抱着包走回自己的家里。",
+      "rule_memory": "rentre /ʁɑ̃tʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 chez /ʃe/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Nous revenons à la gare.",
+      "mnemonic": "声音梗：努，revenons à la gare：努力绕回来，嘎地停站。 脑内电影：我们努力绕过大圈，返回那座车站，鞋子嘎地同时停下；站台椅子开心张开扶手迎接我们回来。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 revenons /ʁəvnɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E15": [
+    {
+      "fr": "J’ai fini de lire.",
+      "mnemonic": "声音梗：借（J’ai），fini de lire：梨书读完，末页击掌。 脑内电影：我借来梨形书枕，把书读到最后一页，末页伸出纸手跟我击掌；书里的故事全读完了，我开心地合上书。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous avons terminé le projet.",
+      "mnemonic": "声音梗：努，avons terminé le projet：努力到终点，项目完成。 脑内电影：我们努力把项目搭成一座小桥，最后一块木板稳稳落下，桥上的终点铃响了，整个项目已完成。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 terminé /tɛʁmine/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je n’ai plus de batterie.",
+      "mnemonic": "声音梗：这，n’ai plus de batterie：电池罢工，啪地熄屏。 脑内电影：我点这部手机，屏幕啪地黑了，电池举着空碗打哈欠，剩下的电已经用光，设备没电了。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "E16": [
+    {
+      "fr": "Les prix augmentent.",
+      "mnemonic": "声音梗：勒，prix augmentent：价钱哦地往高处蹦。 脑内电影：我勒住购物袋，价格却哦地长出弹簧，一格格蹦上高台；原来能买三样的钱现在只够两样。",
+      "rule_memory": "augmentent /oɡmɑ̃t/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le bruit diminue.",
+      "mnemonic": "声音梗：勒，bruit diminue：喇叭滴咪，越来越小声。 脑内电影：我勒好喇叭带，原来轰隆的声音缩成滴咪小叫，喇叭越变越小，周围的噪声正在减弱。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle devient plus autonome.",
+      "mnemonic": "声音梗：艾儿，devient plus autonome：她自己推自己的车。 脑内电影：她把耳边艾草插好，先前靠别人推的小车现在自己开动，独自收包、认路，她变得更独立。",
+      "rule_memory": "devient /dəvjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E17": [
+    {
+      "fr": "Je passe une heure à lire.",
+      "mnemonic": "声音梗：这，passe une heure à lire：一小时都抱着梨书。 脑内电影：我抱着这只梨形书枕，把一个小时放进沙漏；沙子全部流完才合书，这一小时我都花在读书上。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Ne remets pas tout à plus tard.",
+      "mnemonic": "声音梗：ne remets pas tout à plus tard：别把一切推给拖拉车。 脑内电影：你想把所有任务搬上拖拉车留到以后，我拉住车把提醒别再往后推，车上的待办盒已经堆到天花板。",
+      "rule_memory": "tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。"
+    },
+    {
+      "fr": "Je m’attends à une réponse.",
+      "mnemonic": "声音梗：这，m’attends à une réponse：马探头，期待回信。 脑内电影：我守着这只邮箱，小马也探头往里看，我预计会收到一封回复，提前把接信的小篮子准备好。",
+      "rule_memory": "m’attends /matɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 réponse /ʁepɔ̃s/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "E18": [
+    {
+      "fr": "La neige a provoqué des retards.",
+      "mnemonic": "声音梗：拉，neige a provoqué des retards：雪拉住车，造成晚点。 脑内电影：大雪拉住一列列车轮，车想前进却不停打滑，站钟已经走过发车时间，这场雪造成了好几次延误。",
+      "rule_memory": "provoqué /pʁovoke/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Cela a un effet sur le prix.",
+      "mnemonic": "声音梗：瑟啦，a un effet sur le prix：这一下推到了价格。 脑内电影：这块东西瑟啦滑下，推倒第一块小骨牌，最后碰得价格牌晃动起来，说明这件事会影响价格。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Le retard est dû à un problème technique.",
+      "mnemonic": "声音梗：勒，retard est dû à un problème technique：零件卡，延误啦。 脑内电影：我勒好行李等车，车内齿轮却咔地卡住，维修师傅正在处理技术故障，这次延误就是故障造成的。",
+      "rule_memory": "problème /pʁɔblɛm/：è 对应较开的前元音 /ɛ/。 technique /tɛknik/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "E19": [
+    {
+      "fr": "Je commence à comprendre.",
+      "mnemonic": "声音梗：这，commence à comprendre：空盆谜题开始通了。 脑内电影：我望着这只空盆，先前怎么也想不懂，忽然看见盆底的小洞，脑袋里亮起半盏灯，开始明白了。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle continue à travailler.",
+      "mnemonic": "声音梗：艾儿，continue à travailler：她还推着工作轮。 脑内电影：她把耳边艾草扶正，喝口水又拿起工具，工作轮继续咕噜噜转，她仍在做原来的工作。",
+      "rule_memory": "continue /kɔ̃tiny/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ils ont mis fin à la réunion.",
+      "mnemonic": "声音梗：一儿，ont mis fin à la réunion：蜜封住会议盒。 脑内电影：他们摘下耳罩，合上最后一份资料，再用蜜色胶带封住会议盒，大家起身离席，已经结束了会议。",
+      "rule_memory": "ont /ɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 fin /fɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 réunion /ʁeynjɔ̃/：é、u 分别为 /e/、/y/；ion 为 /jɔ̃/。"
+    }
+  ],
+  "E20": [
+    {
+      "fr": "J’ai réussi à le joindre.",
+      "mnemonic": "声音梗：借（J’ai），réussi à le joindre：借电话，终于联系到他。 脑内电影：我借来电话打了好几次，终于听到他的声音，听筒高兴地伸手握手；电话这次接通，我已经成功联系到他。",
+      "rule_memory": "réussi /ʁeysi/：é 对应较闭的前元音 /e/。 joindre /ʒwɛ̃dʁ/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle a réussi son examen.",
+      "mnemonic": "声音梗：艾儿啊，réussi son examen：考试过了，笑开啦。 脑内电影：她摘下耳边艾草，啊地跳起来，试卷卷成小奖杯送到她手里；她已经通过自己的考试。",
+      "rule_memory": "réussi /ʁeysi/：é 对应较闭的前元音 /e/。 examen /ɛɡzamɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous avons raté le train.",
+      "mnemonic": "声音梗：努，avons raté le train：努力追，拉铁门也晚了。 脑内电影：我们努力追着火车跑，伸手想拉住车尾铁门，它却已经驶走；我们站在空站台，没赶上这班车。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 raté /ʁate/：é 对应较闭的前元音 /e/。 train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E21": [
+    {
+      "fr": "Je vais prendre contact avec elle.",
+      "mnemonic": "声音梗：这，vais prendre contact avec elle：喂，准备和她联系。 脑内电影：我拿起这只通讯录，先“喂”地练习一声，把她的号码找出来，准备主动与她取得联系。",
+      "rule_memory": "prendre /pʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 contact /kɔ̃takt/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Pouvez-vous me confirmer l’heure ?",
+      "mnemonic": "声音梗：pouvez-vous me confirmer l’heure：乌鸦，请核对闹钟？ 脑内电影：我把闹钟递给您肩上的乌鸦，请您帮忙确认准确时间，乌鸦用放大镜盯着钟针，等您回答。",
+      "rule_memory": "Pouvez-vous /puvevu/：pouvez /puve/ + vous /vu/；倒装中的连字符不发声。 confirmer /kɔ̃fiʁme/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je vous explique le problème.",
+      "mnemonic": "声音梗：这，vous explique le problème：乌鸦听我解释问题。 脑内电影：我把这件坏掉的玩具给您看，您肩上的乌鸦也凑过来，我指着卡住的零件，一步步解释这个问题。",
+      "rule_memory": "vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 explique /ɛksplik/：qu 在这个词里读 /k/，u 不另发元音。 problème /pʁɔblɛm/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "E22": [
+    {
+      "fr": "Elle a l’air fatiguée.",
+      "mnemonic": "声音梗：艾儿啊，l’air fatiguée：脸上都写着乏。 脑内电影：她耳边的艾草也垂下来了，啊地打着哈欠，脸像泄气的软气球，我一看就觉得她很累。",
+      "rule_memory": "fatiguée /fatiɡe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Le bureau se trouve près de la gare.",
+      "mnemonic": "声音梗：勒，bureau se trouve près de la gare：办公桌靠着嘎嘎车站。 脑内电影：我勒好办公室窗帘，窗外近处就是嘎嘎响的车站，办公桌伸个懒腰便能望见站台，办公室离车站很近。",
+      "rule_memory": "trouve /tʁuv/：ou 在这个词里读 /u/，是后圆唇音。 près /pʁɛ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Il s’agit d’un atelier de cuisine.",
+      "mnemonic": "声音梗：一儿，s’agit d’un atelier de cuisine：围裙一系，烹饪坊。 脑内电影：一只耳罩挂到墙上，大家系好围裙围在工作台前学炒菜；这里讲的就是一个一起学做饭的工作坊。",
+      "rule_memory": "d’un /dœ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "E23": [
+    {
+      "fr": "Pourriez-vous parler plus lentement ?",
+      "mnemonic": "声音梗：pourriez-vous parler plus lentement：请慢吞吞地说。 脑内电影：我礼貌举手，递给您一只慢吞吞的小蜗牛，请您说话放慢一点，让我能跟上每一句的速度。",
+      "rule_memory": "Pourriez-vous /puʁjevu/：pourriez 中 ie 为 /je/，-ez 为 /e/；与 vous 直接连读，无额外 /t/。"
+    },
+    {
+      "fr": "Qu’est-ce que ce mot veut dire ?",
+      "mnemonic": "声音梗：qu’est-ce que ce mot veut dire：这颗词蘑菇，什么意思？ 脑内电影：我拿着这颗像蘑菇的词，它只会摇头不会解释，我把它递给你，想知道这个词到底是什么意思。",
+      "rule_memory": "Qu’est-ce /kɛs/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Si j’ai bien compris, c’est demain.",
+      "mnemonic": "声音梗：si j’ai bien compris，c’est demain：西瓜钟指明天，我懂对了吗。 脑内电影：我抱着西瓜钟再核对一遍，假如自己刚才理解正确，事情就在明天；钟上的明天那页轻轻点头。",
+      "rule_memory": "compris /kɔ̃pʁi/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E24": [
+    {
+      "fr": "Je partage votre avis.",
+      "mnemonic": "声音梗：这，partage votre avis：把您的看法一起捧着。 脑内电影：我把这只装着您看法的盘子接过来，和您一起稳稳捧着，点头赞同，盘里的小灯同时亮起来。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je ne suis pas tout à fait d’accord.",
+      "mnemonic": "声音梗：这，ne suis pas tout à fait d’accord：随声点头只点一半。 脑内电影：我听完这番意见，随声点头却只点到一半，椅子也停在半路；有些地方我赞同，有些还不完全同意。",
+      "rule_memory": "tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。"
+    },
+    {
+      "fr": "À mon avis, cette solution est plus simple.",
+      "mnemonic": "声音梗：啊，蒙阿姨（mon avis）；塞特，索绿熊（solution），诶，plus simple，省朴！ 脑内电影：我请蒙阿姨评办法，她把复杂迷宫折成一条直路，塞进索绿熊的口袋，熊轻松走完：在我看来这个办法更简单。",
+      "rule_memory": "solution /solysjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。 simple /sɛ̃pl/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "E25": [
+    {
+      "fr": "Nous faisons face à un retard.",
+      "mnemonic": "声音梗：努，faisons，发丝（face），啊，un，热塔（retard）。 脑内电影：我们努着嘴推小火车，一根发丝把车挡在热塔前；大家看着停住的钟，面临延误，只能一起等待。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 faisons /fəzɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il faut trouver une solution.",
+      "mnemonic": "声音梗：衣儿，福（faut），trouver，une，solution。 脑内电影：一道难题堵住门，福娃抱着工具箱寻找解决办法；只有找到开门方法才能过关，现在大家仍需要把办法找出来。",
+      "rule_memory": "trouver /tʁuve/：ou 在这个词里读 /u/，是后圆唇音。 solution /solysjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。"
+    },
+    {
+      "fr": "Nous nous sommes mis d’accord sur la date.",
+      "mnemonic": "声音梗：努努，松米（sommes mis），大口（d’accord），sur 拉，大特（date）。 脑内电影：我们努努嘴，一起撒出松米，用大口夹子夹住同一张日历，大家把手指落在同一个大日期上：日期已经商量一致。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    }
+  ],
+  "E26": [
+    {
+      "fr": "Je cherche un emploi.",
+      "mnemonic": "声音梗：热，cherche，un，昂，铺瓦（emploi）。 脑内电影：我热得戴着帽子找工作，昂起头走到铺着瓦片的招聘处；把简历递进去，希望找到合适职位，目前还在寻找。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 emploi /ɑ̃plwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Elle suit un cours de français.",
+      "mnemonic": "声音梗：诶勒，随（suit），un，酷儿（cours），德，français。 脑内电影：她随着一位酷酷的小老师进入法语课堂，老师用法国面包当教鞭；她坐好跟读，正在上一门法语课。",
+      "rule_memory": "cours /kuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Nous faisons des économies.",
+      "mnemonic": "声音梗：努，faisons，德，诶科糯米（économies）。 脑内电影：我们努着嘴忍住买玩具的冲动，把零钱一枚枚放进糯米罐；罐子越来越满，我们正在存钱节省开支。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 faisons /fəzɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 économies /ekonomi/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "E27": [
+    {
+      "fr": "Je m’occupe des enfants.",
+      "mnemonic": "声音梗：热，摸Q扑（m’occupe），得，昂芳（enfants）。 脑内电影：我摸摸Q弹小鸭，再扑过去接住两个蹦跳的孩子，给他们擦脸喂饭；孩子像芳香小花，正由我照顾。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle s’entend bien avec sa sœur.",
+      "mnemonic": "声音梗：诶勒，桑糖（s’entend），bien，阿韦克，撒，sœur。 脑内电影：她和姐妹把桑葚糖一人一半，边吃边拍手说bien；两人还把围裙系在一起做蛋糕，相处特别融洽。",
+      "rule_memory": "s’entend /sɑ̃tɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je me sens mieux.",
+      "mnemonic": "声音梗：热，么，sens，mieux；感觉好些，轻轻咻。 脑内电影：我刚才难受得缩成一团，摸摸桑叶靠垫，咻地舒展身体；虽然还没完全恢复，我感觉比刚才好些了。",
+      "rule_memory": "sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Mon père a pris sa retraite.",
+      "mnemonic": "声音梗：蒙，佩儿（père），啊，pris，撒，热退特（retraite）。 脑内电影：爸爸蒙着贝壳小帽，已把工作鞋收进退休盒；撒开脚躺上吊床，退休纪念品在旁边晃，爸爸已经退休了。",
+      "rule_memory": "père /pɛʁ/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "E28": [
+    {
+      "fr": "J’ai réservé une chambre.",
+      "mnemonic": "声音梗：借（J’ai），热择喂（réservé），une，香布尔（chambre）。 脑内电影：我拿出预订成功的房卡，热心地择好一间香喷喷的房，里面的被子像云朵；这间房已由我预订好了。",
+      "rule_memory": "réservé /ʁezɛʁve/：é 对应较闭的前元音 /e/。 chambre /ʃɑ̃bʁ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Je voudrais une soupe sans lait.",
+      "mnemonic": "声音梗：热，乌德雷（voudrais），une，苏普（soupe），桑，累（lait）。 脑内电影：我礼貌地举起汤勺，乌云小厨师端来一份汤；我把桑叶形的挡板罩住奶瓶，想要的汤里一点奶也不加。",
+      "rule_memory": "voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。 soupe /sup/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "J’ai mal à la tête.",
+      "mnemonic": "声音梗：借，麻了（mal），啊，拉，泰特（tête）。 脑内电影：我借来一顶头盔，头却疼得发麻；刚拉上带子，头顶像小锤子泰特泰特地敲，我抱住脑袋说头疼。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "A01": [
+    {
+      "fr": "Notre équipe prend en charge votre demande.",
+      "mnemonic": "声音梗：Notre équipe，prend en charge，沃特，德忙德（demande）。 脑内电影：我们团队接过您的申请，给它穿上小背心，放到工作台；队长说别忙，您这份申请由我们团队负责处理。",
+      "rule_memory": "équipe /ekip/：qu 在这个词里读 /k/，u 不另发元音。 prend /pʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 charge /ʃaʁʒ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Je vais m’en occuper.",
+      "mnemonic": "声音梗：热，喂（vais），忙（m’en），哦，occuper。 脑内电影：我热心地向待办的事情走去，说我会处理；忙着拿出文件夹准备整理，待办事项还等我接下来逐件办好。",
+      "rule_memory": "m’en /mɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Vous devez effectuer cette démarche en ligne.",
+      "mnemonic": "声音梗：乌，devez effectuer cette démarche，昂，ligne，沿网线办手续。 脑内电影：您把手续纸递给电脑，纸像小火车沿网线跑进办理窗口；这项手续需要您在线完成，点好最后一步才能办妥。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 démarche /demaʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 ligne /liɲ/：gn 在这个词里读 /ɲ/，不拆成 g 和 n。"
+    }
+  ],
+  "A02": [
+    {
+      "fr": "La mise en œuvre prendra du temps.",
+      "mnemonic": "声音梗：拉，mise en œuvre，prendra，鱼（du），糖（temps）。 脑内电影：实施计划像把米粒排成大桥，大鱼搬来一块钟形糖；桥要一粒一粒搭，等钟走好多圈才搭好，实施确实需要时间。",
+      "rule_memory": "prendra /pʁɑ̃dʁa/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous devons mettre ce plan en œuvre.",
+      "mnemonic": "声音梗：努，德翁（devons），麦特（mettre），瑟，plan，昂，œuvre。 脑内电影：我们推着一袋麦子，打开这个计划，把麦粒逐个种进图纸上的田；大家真的开始动手，必须把计划实施起来。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 devons /dəvɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 plan /plɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "La prise de décision est collective.",
+      "mnemonic": "声音梗：拉，prise de décision，诶，collective，靠在一起作决定。 脑内电影：大家把椅子拉到同一张桌旁，靠近讨论不同选择，再一起举手；最终决定由集体作出，桌子也开心转了一圈。",
+      "rule_memory": "décision /desizjɔ̃/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A03": [
+    {
+      "fr": "Cette étude met le problème en lumière.",
+      "mnemonic": "声音梗：塞特，étude，麦（met），勒，problème en，lumière，绿米灯。 脑内电影：这项研究把麦粒样本放在放大镜下，发现藏着的问题，再用绿米做的灯照亮它；问题终于被研究揭示出来。",
+      "rule_memory": "étude /etyd/：é 对应较闭的前元音 /e/。 problème /pʁɔblɛm/：è 对应较开的前元音 /ɛ/。 lumière /lymjɛʁ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Cette décision ouvre la voie à une réforme.",
+      "mnemonic": "声音梗：塞特，décision，乌弗（ouvre），拉，哇（voie），啊，une，réforme。 脑内电影：这项决定是一把钥匙，乌龟用它打开闸门，大家哇地看见一条通向改革的路；新路铺好，改革能够往前走了。",
+      "rule_memory": "décision /desizjɔ̃/：é 对应较闭的前元音 /e/。 ouvre /uvʁ/：ou 在这个词里读 /u/，是后圆唇音。 voie /vwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Faisons le point sur le projet.",
+      "mnemonic": "声音梗：faisons，勒，point；sur，勒，projet，项目逐项点。 脑内电影：我们把项目模型摆上桌，一点点查看进度；小碗接住遗漏螺丝，邀请大家一起梳理项目现在做到了哪儿。",
+      "rule_memory": "Faisons /fəzɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 point /pwɛ̃/：oin 合读 /wɛ̃/，最后 t 单独不读。"
+    }
+  ],
+  "A04": [
+    {
+      "fr": "Je n’arrive pas à me connecter.",
+      "mnemonic": "声音梗：热，纳里夫（n’arrive），趴（pas），啊，么，connecter。 脑内电影：我热得趴在电脑前，纳米小船反复撞网口；我伸手去连接，屏幕却一直转圈，怎么试也连不上。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Il faut mettre l’application à jour.",
+      "mnemonic": "声音梗：Il faut，麦特（mettre），l’application，啊，jour，更新到今天。 脑内电影：应用抱着旧日历走不动，大家用麦秆把它推到今天这一页；程序精神起来，提醒我们需要更新这个应用。",
+      "rule_memory": "l’application /laplikasjɔ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 jour /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "J’ai sauvegardé le fichier.",
+      "mnemonic": "声音梗：借，搜嘎德（sauvegardé），勒，飞鞋（fichier）。 脑内电影：我借来文件形的飞鞋，按下保存键，鞋子搜地钻进保险柜，柜门嘎地关好；文件已经保存，飞也飞不丢。",
+      "rule_memory": "sauvegardé /sovɡaʁde/：é 对应较闭的前元音 /e/。 fichier /fiʃje/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "A05": [
+    {
+      "fr": "Je pense à mon voyage.",
+      "mnemonic": "声音梗：热，胖斯（pense），啊，蒙，哇呀日（voyage）。 脑内电影：我热得抱着胖胖的旅行箱，想到自己的旅程，脑中冒出蒙着雾的山和哇呀叫的海鸥；我正在想着我的旅行。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Que pensez-vous de cette idée ?",
+      "mnemonic": "声音梗：Que，胖塞乌（pensez-vous），de cette idée？ 脑内电影：我把这个想法捏成胖胖的纸飞机递给您，问您觉得怎样；您歪头研究飞机，试着飞一飞，给这个主意打个分。",
+      "rule_memory": "Que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 pensez-vous /pɑ̃sevu/：ou 在这个词里读 /u/，是后圆唇音。 idée /ide/：é 为 /e/，最后的 e 不另成音节。"
+    },
+    {
+      "fr": "Je parle de mon travail à Léa.",
+      "mnemonic": "声音梗：热，帕尔（parle），de mon travail，啊，Léa。 脑内电影：我把工作服披在一个大耙上，向Léa讲我的工作；蒙着灰的小工具在桌上表演每天的活，Léa听得笑出声。",
+      "rule_memory": "Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。"
+    }
+  ],
+  "A06": [
+    {
+      "fr": "Comment t’y prends-tu ?",
+      "mnemonic": "声音梗：科芒（comment），梯（t’y），prends-tu？ 脑内电影：你用梯子把气球送上屋顶，我站在梯边看得发愣；指着你手里的装置问，你究竟是怎么做出来的？",
+      "rule_memory": "prends-tu /pʁɑ̃ty/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Gardez cela à l’esprit.",
+      "mnemonic": "声音梗：嘎德（Gardez），瑟拉（cela），啊，l’esprit。 脑内电影：请把这一点装进嘎吱响的记忆抽屉，再拉绳送入脑袋；脑中小管家每天擦亮它，提醒你一直记住这一点。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "J’en viens à ma conclusion.",
+      "mnemonic": "声音梗：让（J’en），viens，啊，妈，conclusion。 脑内电影：我讲完前面内容，让妈妈帮忙拉出最后的总结图；把图放到大家面前，现在最后谈到我的结论。",
+      "rule_memory": "J’en /ʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 conclusion /kɔ̃klyzjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "A07": [
+    {
+      "fr": "Réservez à l’avance.",
+      "mnemonic": "声音梗：热择喂（Réservez），啊，拉旺斯（l’avance）。 脑内电影：想参加活动的人先择好座位，再喂给订票机一张订单；拉着旺旺小狗在开场前好多天订好，记住请提前预订。",
+      "rule_memory": "Réservez /ʁezɛʁve/：é 对应较闭的前元音 /e/。 l’avance /lavɑ̃s/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je suis arrivé en avance.",
+      "mnemonic": "声音梗：热，随，阿里喂（arrivé），昂，阿旺斯（avance）。 脑内电影：我随着阿里小鸟先到会场，门口的旺旺小狗还没挂好彩旗；约定的时间尚未到，我已经提前抵达。",
+      "rule_memory": "arrivé /aʁive/：é 对应较闭的前元音 /e/。 avance /avɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Au fil du temps, elle a progressé.",
+      "mnemonic": "声音梗：哦，fil du temps，诶勒，啊，progressé，丝线牵着时间走。 脑内电影：时间像一根丝线穿过钟表刻度，她每天练习一次；线越拉越长，她从摇摇晃晃练到稳稳站住，已经进步。",
+      "rule_memory": "progressé /pʁɔɡʁɛse/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A08": [
+    {
+      "fr": "Ce facteur contribue au changement.",
+      "mnemonic": "声音梗：瑟，facteur，空梯玉（contribue），au changement。 脑内电影：这个因素变成一架玉色小梯，帮种子爬出花盆；梯子一放好，花苞便香喷喷地开了，促成了眼前的变化。",
+      "rule_memory": "contribue /kɔ̃tʁiby/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 changement /ʃɑ̃ʒmɑ̃/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Cette erreur découle d’un malentendu.",
+      "mnemonic": "声音梗：塞特，erreur，得酷勒（découle），d’un，malentendu。 脑内电影：这个错误顺着凉凉的小沟滑来，源头是两人把话听岔的误会；我沿沟往回找，才明白错误原来由误会产生。",
+      "rule_memory": "découle /dekul/：ou 在这个词里读 /u/，是后圆唇音。 d’un /dœ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 malentendu /malɑ̃tɑ̃dy/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Cela ne signifie pas nécessairement un échec.",
+      "mnemonic": "声音梗：瑟拉，讷，si-gni-fie，趴，nécessairement，un，诶谢克（échec）。 脑内电影：我拉着小棋手，拦住他趴下认输；棋盘上虽然掉了一颗棋子，仍有别的走法，这种情况不一定意味着失败。",
+      "rule_memory": "signifie /siɲifi/：gn 在这个词里读 /ɲ/，不拆成 g 和 n。 nécessairement /nesɛsɛʁmɑ̃/：é 对应较闭的前元音 /e/。 échec /eʃɛk/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "A09": [
+    {
+      "fr": "Elle fait des progrès à l’oral.",
+      "mnemonic": "声音梗：诶勒，费，得，progrès，啊，萝拉尔（l’oral）。 脑内电影：她拿着萝卜形话筒练法语，起初只说一个词，如今能说一小段；朋友给她撒花，口语正在一天天进步。",
+      "rule_memory": "progrès /pʁɔɡʁɛ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Le projet prend de l’ampleur.",
+      "mnemonic": "声音梗：勒，projet，prend，德，朗普勒（l’ampleur）。 脑内电影：项目小屋被放在一张蓝色长毯上，每做一块就长出一间房；毯子越铺越远，项目规模也不断扩大。",
+      "rule_memory": "prend /pʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 l’ampleur /lɑ̃plœʁ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Nous remettons cette méthode en question.",
+      "mnemonic": "声音梗：努，热麦桶（remettons），cette méthode en question。 脑内电影：我们把原来那套方法放回热麦桶，掀开桶盖逐步检查，发现一个大问号；大家重新审视它，看这办法是否可靠。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 remettons /ʁəmɛtɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 méthode /metɔd/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A10": [
+    {
+      "fr": "Je me souviens de cette journée.",
+      "mnemonic": "声音梗：热，么，souviens，德，塞特，journée；酥饼唤回那一天。 脑内电影：我摸着一只酥饼，一口咬出那天大家追着滚动野餐篮的场景；酥香把那一天带回记忆，我仍记得那天。",
+      "rule_memory": "souviens /suvjɛ̃/：ou 在这个词里读 /u/，是后圆唇音。 journée /ʒuʁne/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Je me rappelle son nom.",
+      "mnemonic": "声音梗：热，么，拉佩尔（rappelle），松，弄（nom）。 脑内电影：我摸摸头，拉出一个贝壳电话，里面传来那个人的名字；名字像松果一样滚到手里，我想起了他叫什么。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "J’ai oublié de répondre.",
+      "mnemonic": "声音梗：借（J’ai），乌，oublié，德，热蓬德（répondre）。 脑内电影：我借来的乌龟挡住待回复的信，一直在信封上打盹；等我搬开它才发现，自己已经忘了回复这封信。",
+      "rule_memory": "oublié /ublie/：ou 在这个词里读 /u/，是后圆唇音。 répondre /ʁepɔ̃dʁ/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A11": [
+    {
+      "fr": "Je suis favorable à cette mesure.",
+      "mnemonic": "声音梗：热，随，favorable，啊，cette mesure，花布加油棒！ 脑内电影：我随着这项措施的小车前进，给它披上花布，拿玉米当加油棒；我举手赞成它，明确支持这项措施。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous nous opposons à cette décision.",
+      "mnemonic": "声音梗：努努，哦坡宗（opposons），啊，塞特，décision。 脑内电影：我们努努嘴，一齐站到斜坡上，张开手臂挡住那个决定的小车；大家摇头说不，明确反对这个决定。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 opposons /ɔpozɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 décision /desizjɔ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "J’émets des réserves sur le calendrier.",
+      "mnemonic": "声音梗：借麦（J’émets），des réserves，sur le calendrier。 脑内电影：我借来麦克风，对那本卡住的日历提出保留意见；一些日子被挤得变形，我没有完全赞同这个时间安排。",
+      "rule_memory": "J’émets /ʒemɛ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 réserves /ʁezɛʁv/：é 对应较闭的前元音 /e/。 calendrier /kalɑ̃dʁie/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "A12": [
+    {
+      "fr": "Je me suis rendu compte de mon erreur.",
+      "mnemonic": "声音梗：热，么，随，染鱼（rendu），空特（compte），德，蒙，erreur。 脑内电影：我摸着随身的账本，发现一条染色鱼藏在自己的错题里；我逐项一数，终于意识到原来是我自己弄错了。",
+      "rule_memory": "rendu /ʁɑ̃dy/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 compte /kɔ̃t/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Une idée m’est venue à l’esprit.",
+      "mnemonic": "声音梗：une，伊得（idée），麦，沃玉（venue），啊，莱斯普里（l’esprit）。 脑内电影：一个主意像小灯泡落在麦穗上，披着玉色斗篷飞进我的脑袋；刚才还发愁的我突然想到办法，眼睛一下亮了。",
+      "rule_memory": "idée /ide/：é 为 /e/，最后的 e 不另成音节。"
+    },
+    {
+      "fr": "Nous avons mis une méthode au point.",
+      "mnemonic": "声音梗：努，阿翁，米，une méthode，哦，point。 脑内电影：我们把米粒当步骤，试过一轮又一轮；补好小碗方法的漏洞后，每一步都能顺利运转，已经完善了一种方法。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 méthode /metɔd/：é 对应较闭的前元音 /e/。 point /pwɛ̃/：oin 合读 /wɛ̃/，最后 t 单独不读。"
+    }
+  ],
+  "A13": [
+    {
+      "fr": "Nous envisageons de déménager.",
+      "mnemonic": "声音梗：努，envisageons，德，déménager，梅子装箱想搬家。 脑内电影：我们看看新家的图片，又把梅子装进搬家箱试试大小；箱子还没搬走，大家只是在认真考虑要不要搬家。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 envisageons /ɑ̃vizaʒɔ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 déménager /demenaʒe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Fixons une date.",
+      "mnemonic": "声音梗：菲克松（Fixons），une，大特（date）。 脑内电影：我们拿一根松木钉，啪地固定住日历上的一个日期，松鼠也来按住纸角；大家一起决定：就定这一天吧。",
+      "rule_memory": "Fixons /fiksɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle a renoncé à ce projet.",
+      "mnemonic": "声音梗：诶勒，啊，热弄塞（renoncé），啊，瑟，projet。 脑内电影：她把热气腾腾的项目模型弄进盒子，塞好盖子，松手走开；这回她已经决定放弃这个项目，不再继续做。",
+      "rule_memory": "renoncé /ʁənɔ̃se/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A14": [
+    {
+      "fr": "Le nombre est passé de dix à douze.",
+      "mnemonic": "声音梗：Le nombre est passé，德，dis，啊，douze，十到十二。 脑内电影：数字小队原有十颗纽扣，趴着穿过一条布隧道，又跳进两颗；我数完发现十二颗，数量已经从十变成十二。",
+      "rule_memory": "nombre /nɔ̃bʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 passé /pase/：é 对应较闭的前元音 /e/。 douze /duz/：ou 为 /u/；z 发 /z/，e 不另成音节。"
+    },
+    {
+      "fr": "Le coût est de l’ordre de cent euros.",
+      "mnemonic": "声音梗：勒，酷，诶，德，l’ordre，德，桑，欧罗（euros）。 脑内电影：费用装进酷酷的小钱袋，袋口套着桑叶圈，里面欧元大约一百枚；我只估量钱袋大小，记住是一百欧元左右。",
+      "rule_memory": "cent /sɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "La plupart des participants sont arrivés.",
+      "mnemonic": "声音梗：La plupart des participants，松，arrivés。 脑内电影：参加者戴着亮亮的小徽章来聚会，大多数已经到了，坐在松树下等活动；门外只剩少数人的空座位。",
+      "rule_memory": "participants /paʁtisipɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 arrivés /aʁive/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A15": [
+    {
+      "fr": "Nous nous heurtons à un manque de temps.",
+      "mnemonic": "声音梗：努努，œr-ton（heurtons），啊，un，忙克（manque），德，糖（temps）。 脑内电影：我们努努嘴，推车撞到一块钟形墙；忙着伸手抓时间糖，才发现只剩一点点，眼前困难就是时间不足。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 heurtons /œʁtɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 manque /mɑ̃k/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Elle est venue à bout de la difficulté.",
+      "mnemonic": "声音梗：诶勒，诶，沃玉，啊，布，德，拉，difficulté。 脑内电影：她穿着玉色雨衣爬上困难山，拉着一块布越过最后一段陡坡；终于站到山顶，已经把困难克服了。",
+      "rule_memory": "bout /bu/：ou 在这个词里读 /u/，是后圆唇音。 difficulté /difikylte/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Nous allons nous en sortir.",
+      "mnemonic": "声音梗：努，阿龙（allons），努，昂，sortir。 脑内电影：我们骑着阿龙小艇进入乱流，紧握船桨朝出口划；虽然船在晃，大家仍会一起驶出来，把眼前的难关应付过去。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    }
+  ],
+  "A16": [
+    {
+      "fr": "Je vous mets en garde contre ce risque.",
+      "mnemonic": "声音梗：热，乌，麦，昂，嘎德（garde），空特（contre），瑟，risk。 脑内电影：我拿着热麦面包提醒您，嘎吱的木桥旁有风险；把面包当护栏挡在您前面，请您注意脚下可能断裂的地方。",
+      "rule_memory": "vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 contre /kɔ̃tʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 risque /ʁisk/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Nous risquons de perdre du temps.",
+      "mnemonic": "声音梗：努，ris-quons，德，佩德尔（perdre），鱼，糖。 脑内电影：我们推着小钟车走一条可能绕远的路，贝壳车轮一转就漏出鱼形时间糖；再走下去，可能会浪费很多时间。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 risquons /ʁiskɔ̃/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Évitons de nous disputer.",
+      "mnemonic": "声音梗：诶维桶（Évitons），德，努，dis-pu-ter。 脑内电影：我们把想争吵的话放进维生素桶，伸手拧小火气；两人原本要抢东西，现在互相松手，避免吵起来。",
+      "rule_memory": "Évitons /evitɔ̃/：é 对应较闭的前元音 /e/。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    }
+  ],
+  "A17": [
+    {
+      "fr": "Je suis chargé du suivi.",
+      "mnemonic": "声音梗：热，随，沙热（chargé），鱼（du），随V（suivi）。 脑内电影：我热心地随着任务小车走，用沙袋固定车轮，再按步骤打勾；我专门负责后续跟进，不能只看开始那一下。",
+      "rule_memory": "chargé /ʃaʁʒe/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Nous avons mené le projet à bien.",
+      "mnemonic": "声音梗：努，阿翁，么内（mené），勒，projet，啊，bien。 脑内电影：我们把项目一路领过弯道，最后带进漂亮的完成门；门边饼干礼炮一起响，大家已顺利完成这个项目。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 mené /məne/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je ferai le nécessaire avant vendredi.",
+      "mnemonic": "声音梗：热，ferai，勒，nécessaire，阿旺，vendredi。 脑内电影：我保证会在周五前采取必要措施，把工具先装好；旺旺小狗守着周五日历，接下来我会赶在那天前行动。",
+      "rule_memory": "nécessaire /nesɛsɛʁ/：é 对应较闭的前元音 /e/。 avant /avɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 vendredi /vɑ̃dʁədi/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "A18": [
+    {
+      "fr": "L’article porte sur le logement.",
+      "mnemonic": "声音梗：L’article，porte sur le，罗日忙（logement），萝卜房。 脑内电影：文章讨论的住房变成一排萝卜小房子，每段都住着一户；我翻到下一页，仍是住房话题，文章主题就是住房。",
+      "rule_memory": "logement /loʒmɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Mon analyse s’appuie sur ces données.",
+      "mnemonic": "声音梗：Mon analyse，撒pui（s’appuie），sur ces données。 脑内电影：我的分析像小侦探，把撒在地上的数据铺成脚下的垫砖；每走一步都有数据撑着，分析以这些数据为依据。",
+      "rule_memory": "données /dɔne/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Il faut nuancer cette conclusion.",
+      "mnemonic": "声音梗：衣儿，福，nuancer，塞特，conclusion。 脑内电影：福娃抱着一个结论球，拿软刷准备给它添上不同深浅的颜色；这个结论还需要讲清条件和差别，作细致限定。",
+      "rule_memory": "nuancer /nyɑ̃se/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 conclusion /kɔ̃klyzjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "A19": [
+    {
+      "fr": "Je mets un peu d’argent de côté.",
+      "mnemonic": "声音梗：热，麦，un，peu，大尔让（d’argent），德，靠泰（côté）。 脑内电影：我把一小点钱夹在麦片里，放到靠着桌边的小盒子；只存下一点点，也让储蓄盒慢慢鼓起来。",
+      "rule_memory": "d’argent /daʁʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 côté /kote/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Ils ont du mal à joindre les deux bouts.",
+      "mnemonic": "声音梗：伊勒，昂，鱼，麻了，啊，joindre，勒，deux，布（bouts）。 脑内电影：他们的生活费像一条太短的鱼布带，两头怎么拉都勉强碰上；忍着发麻的手继续拼接，日子只能勉强维持。",
+      "rule_memory": "ont /ɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 joindre /ʒwɛ̃dʁ/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 bouts /bu/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Les frais sont à la charge du client.",
+      "mnemonic": "声音梗：勒，frais，松，啊，拉，沙日（charge）， dü，client。 脑内电影：费用像小包裹，松鼠把它放上沙色账单车，再送到客户手里；账单由客户接过，这笔费用该由客户承担。",
+      "rule_memory": "sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 charge /ʃaʁʒ/：ch 在这个词里读 /ʃ/，持续送气。 client /kliɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "A20": [
+    {
+      "fr": "Je range les vêtements.",
+      "mnemonic": "声音梗：热，染日（range），les vêtements，整理晒衣服。 脑内电影：我把染着太阳图案的衣服一件件折好，外套也不再忙着飞；它们整齐排进衣柜，记住我正在整理衣服。",
+      "rule_memory": "range /ʁɑ̃ʒ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 vêtements /vɛtmɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Cette veste me va bien.",
+      "mnemonic": "声音梗：塞特，vest，么，哇，bien。 脑内电影：这件夹克套在我身上，我摸摸衣角哇地转一圈；镜子里肩膀和袖子都很合适，旁边的小饼干鼓掌夸好。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Ces chaussures sont usées.",
+      "mnemonic": "声音梗：塞，chaussures，松，usées。 脑内电影：这些鞋子的鞋底已经磨薄，像松树下两只旧壳；我用松枝轻碰，鞋尖就张嘴，说明它们穿得磨旧了。",
+      "rule_memory": "chaussures /ʃosyʁ/：ch 在这个词里读 /ʃ/，持续送气。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 usées /yze/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "A21": [
+    {
+      "fr": "Je peux compter sur elle.",
+      "mnemonic": "声音梗：热，peux，空泰（compter），sur，诶勒。 脑内电影：我遇到困难，拿起一只空茶杯求助；她稳稳托住杯子，也托住我的手，让我放心：我可以依靠她。",
+      "rule_memory": "compter /kɔ̃te/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il a tendance à s’inquiéter.",
+      "mnemonic": "声音梗：伊勒，啊，糖当斯（tendance），啊，s’inquiéter。 脑内电影：他看到一块糖晃了晃，就担心整盘糖会倒；小雨点刚落又担心屋顶漏，记住他很容易担心，遇事总紧张。",
+      "rule_memory": "tendance /tɑ̃dɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 s’inquiéter /sɛ̃kjete/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je me sens à l’aise avec eux.",
+      "mnemonic": "声音梗：热，么，桑（sens，鼻化），啊 l’aise，avec eux。 脑内电影：我摸着桑叶小靠垫，和他们挤坐在软沙发上，随意笑着伸腿；没有拘束的感觉，和他们在一起我很自在。",
+      "rule_memory": "sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "A22": [
+    {
+      "fr": "J’ai du mal à dormir.",
+      "mnemonic": "声音梗：借，鱼，麻了，啊，多尔米尔（dormir）。 脑内电影：我借来鱼形枕头，躺得手都麻了仍睡不着；闹钟走了一圈又一圈，我数着米粒打哈欠，睡眠很有困难。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je me remets d’un rhume.",
+      "mnemonic": "声音梗：热，么，热麦（remets），d’un，rhume。 脑内电影：我摸摸感冒的鼻子，喝下一口热麦汤；纸巾小山逐渐变小，喷嚏也少了，我正在从这场感冒中恢复。",
+      "rule_memory": "d’un /dœ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je ressens une douleur au dos.",
+      "mnemonic": "声音梗：热，热桑（ressens），une，dou-leur，哦，多（dos）。 脑内电影：我热着一片桑叶想贴背，背上却疼得像有小豆子在顶；哦地弯腰摸住背部，记住我感觉背部疼痛。",
+      "rule_memory": "douleur /dulœʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "A23": [
+    {
+      "fr": "Elle parle à voix basse.",
+      "mnemonic": "声音梗：诶勒，帕尔（parle），啊，哇（voix），巴斯（basse）。 脑内电影：她用耙子形小话筒，轻轻哇一声又压低声音；巴士里的睡宝宝没被吵醒，她一直在低声说话。",
+      "rule_memory": "voix /vwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Il m’a fait signe de venir.",
+      "mnemonic": "声音梗：伊勒，妈，费，心（signe），德，沃尼尔（venir）。 脑内电影：他站在远处，拿妈妈做的肥心形手套向我招手；我看见手势就走过去，记住是他示意我到他那里去。",
+      "rule_memory": "signe /siɲ/：gn 在这个词里读 /ɲ/，不拆成 g 和 n。"
+    },
+    {
+      "fr": "Une porte a claqué.",
+      "mnemonic": "声音梗：une，porte，啊，克拉克（claqué）。 脑内电影：一扇门像打哈欠，忽然啊地合上，克拉克砰响一声，连门边的帽子都跳起来；门已经猛地关上了。",
+      "rule_memory": "claqué /klake/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "A24": [
+    {
+      "fr": "Il s’est mis à pleuvoir.",
+      "mnemonic": "声音梗：伊勒，塞，米，啊，pleu-voir。 脑内电影：天空把米粒似的小雨点从塞紧的云袋里倒出来，大家啊地伸手接雨；刚才还干燥，此刻开始下雨了。",
+      "rule_memory": "pleuvoir /pløvwaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "La région a été touchée par une tempête.",
+      "mnemonic": "声音梗：拉，région，啊，诶泰，秃谢（touchée），帕尔，une，糖佩特（tempête）。 脑内电影：这片地区的屋顶被风暴吹得秃了一块，糖果屋也摇摇晃晃；大家查看被碰坏的房子，知道当地已经受到风暴影响。",
+      "rule_memory": "région /ʁeʒjɔ̃/：é 对应较闭的前元音 /e/。 été /ete/：é 对应较闭的前元音 /e/。 touchée /tuʃe/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Prenons des précautions.",
+      "mnemonic": "声音梗：普热弄（Prenons），得，pré-cau-tions。 脑内电影：我们把普普通通的小雨棚弄牢，再把门窗逐个扣好，像给房子戴上头盔；一起采取防范措施，免得风雨造成麻烦。",
+      "rule_memory": "Prenons /pʁənɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 précautions /pʁekosjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。"
+    }
+  ],
+  "I01": [
+    {
+      "fr": "Cette expression ne se traduit pas mot à mot.",
+      "mnemonic": "声音梗：塞特，expression，讷，瑟，tra-duit，趴，摸，啊，摸（mot à mot）。 脑内电影：这个表达像一串魔法豆，逐个摸着翻译却拼不出意思；我趴下把整串一起看，记住不能把它逐字翻译。",
+      "rule_memory": "expression /ɛkspʁɛsjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je la note avec un exemple.",
+      "mnemonic": "声音梗：热，拉，糯特（note），阿韦克，un，exemple。 脑内电影：我拉开糯米本，把刚学的表达记下，再给它配一条例句；表达和例句手拉手住进同一页，方便我一起复习。",
+      "rule_memory": "exemple /ɛɡzɑ̃pl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Tout dépend du contexte.",
+      "mnemonic": "声音梗：秃，得胖（dépend），鱼，con-texte。 脑内电影：一个光头小词躺在胖鱼背上，鱼游进不同故事池，词的意思也跟着变；一切要看它所在的语境。",
+      "rule_memory": "Tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。 dépend /depɑ̃/：é 对应较闭的前元音 /e/。 contexte /kɔ̃tɛkst/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "I02": [
+    {
+      "fr": "Elle a le cœur sur la main.",
+      "mnemonic": "声音梗：诶勒，啊，勒，cœur，sur，拉，main。 脑内电影：她把爱心像小花放到手掌上，拉着饿肚子的朋友，把自己的点心全分出去；爱心在手是画面，她很慷慨才是意思。",
+      "rule_memory": "main /mɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il a les pieds sur terre.",
+      "mnemonic": "声音梗：伊勒，啊，勒，pieds，sur，泰尔（terre）。 脑内电影：他看见会飞的空中城堡，仍把双脚牢牢站在土地上，拿铲子踏实盖小屋；脚落地的画面提醒他是个务实的人。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Léa a la tête sur les épaules.",
+      "mnemonic": "声音梗：Léa，啊，拉，泰特（tête），sur，勒，诶坡勒（épaules）。 脑内电影：Léa拉好头盔，把头稳稳放在肩膀上；别人忙得转圈，她仍按次序处理事情，像稳稳的肩头一样可靠稳重。",
+      "rule_memory": "Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。 épaules /epol/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "I03": [
+    {
+      "fr": "Elle a gardé son sang-froid.",
+      "mnemonic": "声音梗：诶勒，啊，嘎德（gardé），松，桑弗哇（sang-froid）。 脑内电影：她看到汤锅突然冒泡，先嘎地关小火，再抱住松果形凉水杯，深呼吸；乱成一团时，她已经保持住冷静。",
+      "rule_memory": "gardé /ɡaʁde/：é 对应较闭的前元音 /e/。 sang-froid /sɑ̃fʁwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Il est parti sur un coup de tête.",
+      "mnemonic": "声音梗：伊勒，诶，帕尔梯（parti），sur，un，酷，德，泰特（tête）。 脑内电影：他脑袋被一个突然的念头咚地顶了一下，就抓起小梯跑出门；背包还敞着，记住他是一时冲动便离开了。",
+      "rule_memory": "coup /ku/：ou 为 /u/；词尾 p 不读。"
+    },
+    {
+      "fr": "Ils font la sourde oreille.",
+      "mnemonic": "声音梗：伊勒，风（font），拉，苏尔德（sourde），哦雷耶（oreille）。 脑内电影：他们听见提醒，把耳朵拉成两朵棉花团，任提醒被风吹走；哦一声还继续玩，对别人的提醒完全置之不理。",
+      "rule_memory": "font /fɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 sourde /suʁd/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "I04": [
+    {
+      "fr": "Nous sommes sur la même longueur d’onde.",
+      "mnemonic": "声音梗：努，松，sur，拉，麦姆（même），longueur，东德（d’onde）。 脑内电影：我们坐在松木船上，各拉一根同样长的波浪绳，船一下划得整整齐齐；彼此一笑，说明我们的想法很合拍。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 longueur /lɔ̃ɡœʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 d’onde /dɔ̃d/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Dans la famille, on se serre les coudes.",
+      "mnemonic": "声音梗：当，拉，法米（famille），昂，瑟，塞尔（serre），勒，酷德（coudes）。 脑内电影：家里人围着饭桌，每人拿一碗米，互相挨近胳膊肘，帮小弟接住落下的碗；一家人就这样彼此支持。",
+      "rule_memory": "coudes /kud/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Il a mis de l’eau dans son vin.",
+      "mnemonic": "声音梗：衣儿，啊，米，德，洛（l’eau），当，松，vin。 脑内电影：他本来气得鼓起脸，把米碗旁的清水倒进自己的酒杯；杯色淡了、脸也松了，这个画面提醒他已缓和态度。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "I05": [
+    {
+      "fr": "Elle est aux anges.",
+      "mnemonic": "声音梗：诶勒，诶，哦，昂日（anges）。 脑内电影：她一收到好消息就哦地跳起来，像和小天使一起坐云朵秋千；鞋子高高昂起，满脸笑容，已经高兴极了。",
+      "rule_memory": "anges /ɑ̃ʒ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Aujourd’hui, j’ai le moral à zéro.",
+      "mnemonic": "声音梗：哦jour-dui（Aujourd’hui），借，勒，摸拉尔（moral），啊，择罗（zéro）。 脑内电影：今天我借来一只心情气球，摸一摸就瘪到零刻度，坐在地上提不起劲；别人逗我也笑不动，我今天心情很低落。",
+      "rule_memory": "Aujourd’hui /oʒuʁdyi/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 zéro /zeʁo/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Cette musique me donne la chair de poule.",
+      "mnemonic": "声音梗：塞特，music，么，栋，拉，谢尔（chair），德，普勒（poule）。 脑内电影：这段音乐一响，我摸摸胳膊，发现皮肤上挤满小鸡形疙瘩；小鸡随着音乐抖，画面提醒这音乐让我起鸡皮疙瘩。",
+      "rule_memory": "musique /myzik/：qu 在这个词里读 /k/，u 不另发元音。 chair /ʃɛʁ/：ch 在这个词里读 /ʃ/，持续送气。 poule /pul/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "I06": [
+    {
+      "fr": "Tu me donnes un coup de main ?",
+      "mnemonic": "声音梗：玉（Tu），么，栋，un，酷，德，main？ 脑内电影：你戴着玉色手套，我摸着太重的箱子，问能不能帮一下；你伸出一只酷酷的大手托住箱底，准备搭把手。",
+      "rule_memory": "coup /ku/：ou 为 /u/；词尾 p 不读。 main /mɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il a pris ses jambes à son cou.",
+      "mnemonic": "声音梗：伊勒，啊，pris，塞，jambe，啊，松，酷（cou）。 脑内电影：他把腿像弹簧一下收起，仿佛要挂到脖子上，嗖地冲出门；松果滚在身后，他已经拔腿就跑。",
+      "rule_memory": "jambes /ʒɑ̃b/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 cou /ku/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Elle n’a pas levé le petit doigt.",
+      "mnemonic": "声音梗：诶勒，拿，趴，勒喂（levé），勒，破梯（petit），dwa（doigt）。 脑内电影：她拿着零食趴在椅上，别人搬东西累得打转；连小手指都没抬一下，破梯倒了也不扶，记住她一点忙也没帮。",
+      "rule_memory": "levé /ləve/：é 对应较闭的前元音 /e/。 doigt /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "I07": [
+    {
+      "fr": "Ce billet coûte les yeux de la tête.",
+      "mnemonic": "声音梗：瑟比耶，库特雷兹 yeux，德拉 tête——毕业买票钱包哭，售票员竟收眼睛！ 脑内电影：票价牌上画两只眼睛，头顶装着提款机；你捂眼逃跑：太贵啦！les yeux 的 z 小桥后，眼睛喊耶、嘴巴亲亲；tête 摸头只点一拍。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Ne jette pas l’argent par les fenêtres.",
+      "mnemonic": "声音梗：「呢热特帕，拉让帕尔雷弗奈特」——‘热特’钱太多，想给窗户发工资？ 脑内电影：钞票从窗户飞出去，窗框戴着老板帽大喊‘发财啦’，你抓着钱袋喊‘别乱花钱’！让 l’argent 跟钱袋、fenêtres 跟收钞票的窗户绑定。",
+      "rule_memory": "l’argent /laʁʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je mets vingt euros de côté.",
+      "mnemonic": "声音梗：「热梅，万特油螺，德科泰」——梅梅养了二十只‘油螺’，每只都往旁边存钱罐滚！ 脑内电影：二十欧元硬币变成二十只油亮小螺，排队躲到一旁，今天存下就不花。‘万特油螺’里的‘特’专门提醒 vingt euros 的 /t/ 连接。",
+      "rule_memory": "vingt /vɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 côté /kote/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "I08": [
+    {
+      "fr": "Je suis en pleine forme.",
+      "mnemonic": "声音梗：热，suis，昂，pleine，forme；精力满满！ 脑内电影：我热身后昂着头，像充满气的小弹簧；跳圈、跑步、接球都轻松，整个人精力满满，状态很好。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Après cette journée, je suis à plat.",
+      "mnemonic": "声音梗：阿普雷（Après），塞特，jour-née，热，随，啊，普拉（plat）。 脑内电影：忙完这一天，我把围裙一甩，随着最后一声啊趴成薄薄的面饼；连手都抬不起来，精疲力尽只想休息。",
+      "rule_memory": "Après /apʁɛ/：è 对应较开的前元音 /ɛ/。 journée /ʒuʁne/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Elle reprend du poil de la bête.",
+      "mnemonic": "声音梗：诶勒，热prend，鱼，pwal（poil），德，拉，贝特（bête）。 脑内电影：她休息后又站起，拉过一只毛绒小兽，给自己披上蓬松皮毛；刚才软趴趴，现在能蹦跳，精神已经恢复了。",
+      "rule_memory": "reprend /ʁəpʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 poil /pwal/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "I09": [
+    {
+      "fr": "Nous prenons la route à l’aube.",
+      "mnemonic": "声音梗：努，普热弄（prenons），拉，路特（route），啊，萝布（l’aube）。 脑内电影：我们拉好行李，踏上像萝卜一样长的小路；天边刚透亮，露珠还在打哈欠，大家在黎明时就出发了。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 prenons /pʁənɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 route /ʁut/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Je crois que nous faisons fausse route.",
+      "mnemonic": "声音梗：热，crois，que nous faisons，佛斯（fausse），route。 脑内电影：我看见我们的小车在同一座佛像旁绕圈，指着方向盘说不对；我觉得我们走错了路，也可能是思考方向错了。",
+      "rule_memory": "crois /kʁwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    },
+    {
+      "fr": "Les discussions sont dans une impasse.",
+      "mnemonic": "声音梗：勒，dis-cu-ssions，松，当，une，an-pass（impasse）。 脑内电影：讨论的人把意见推成小车，松手后全挤进死胡同；谁也前进不了，安静地面面相觑，讨论已经陷入僵局。",
+      "rule_memory": "discussions /diskysjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 impasse /ɛ̃pas/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "I10": [
+    {
+      "fr": "J’ai un petit creux.",
+      "mnemonic": "声音梗：借，un，破梯（petit），creux，颗饿！ 脑内电影：我借来一架小破梯，肚子忽然咕咕响，像里面空了一个小洞；我伸手找饼干，记住只是有点饿了。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Tout le monde met la main à la pâte.",
+      "mnemonic": "声音梗：秃，勒，蒙德（monde），麦，拉，main，啊，拉，帕特（pâte）。 脑内电影：大家围着大面团，光头师傅、蒙面小孩都把手伸进去揉；面粉扑到鼻子上，人人都在动手帮忙做事。",
+      "rule_memory": "Tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。 monde /mɔ̃d/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 main /mɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ce film m’a laissé sur ma faim.",
+      "mnemonic": "声音梗：瑟，film，妈，莱塞（laissé），sur，妈，范（faim）。 脑内电影：我看电影前捧着爆米花，结尾却像妈妈只端来半碗饭；故事没给足期待，我摸着空碗，感觉电影没让我尽兴。",
+      "rule_memory": "laissé /lɛse/：é 对应较闭的前元音 /e/。 faim /fɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "I11": [
+    {
+      "fr": "Je me creuse la tête.",
+      "mnemonic": "声音梗：热，么，creuse，拉，泰特（tête）。 脑内电影：我摸着头，用一把小勺在想象的脑袋土里挖呀挖，想挖出答案；头顶热得冒泡，我正绞尽脑汁地思考。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous avons du pain sur la planche.",
+      "mnemonic": "声音梗：努，阿翁， dü，pain，sur，拉，planche。 脑内电影：我们面前木板上堆满面包，每块都对应一件待做的活；努着嘴刚举起工具又来一堆，说明我们有不少工作要做。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 planche /plɑ̃ʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Elle met les bouchées doubles.",
+      "mnemonic": "声音梗：诶勒，麦，勒，布谢（bouchées），杜布勒（doubles）。 脑内电影：她把麦片任务分成两倍大的口粮，两手同时做、脚下也加快；像一口吃两份那样，她正在加倍努力。",
+      "rule_memory": "bouchées /buʃe/：ou 在这个词里读 /u/，是后圆唇音。 doubles /dubl/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "I12": [
+    {
+      "fr": "Mettons les cartes sur table.",
+      "mnemonic": "声音梗：麦桶（Mettons），勒，卡尔特（cartes），sur，塔布勒（table）。 脑内电影：我们把藏在麦桶里的牌全倒到桌上，连最后一张也摊开，随后坦白说出各自想法；大家开诚布公地谈吧。",
+      "rule_memory": "Mettons /mɛtɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous avons trouvé un terrain d’entente.",
+      "mnemonic": "声音梗：努，阿翁，秃喂，un，terrain，当糖特（d’entente）。 脑内电影：我们找来一块大家都能站的地，给秃头师傅和伙伴喂糖；原来意见不同，现在站到同一处，找到了共同立场。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 trouvé /tʁuve/：ou 在这个词里读 /u/，是后圆唇音。 terrain /tɛʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle a tiré son épingle du jeu.",
+      "mnemonic": "声音梗：诶勒，啊，提雷（tiré），松，épingle，鱼，热（jeu）。 脑内电影：她在困难游戏里小心提起自己的别针，越过松动机关，最后赢回漂亮奖品；她已经在困难中取得了不错结果。",
+      "rule_memory": "tiré /tiʁe/：é 对应较闭的前元音 /e/。 épingle /epɛ̃ɡl/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "I13": [
+    {
+      "fr": "La fête bat son plein.",
+      "mnemonic": "声音梗：拉，费特（fête），巴（bat），松，plein。 脑内电影：聚会上大家拉着彩带，肥肥的小鼓巴巴敲，松果灯也亮到满格；跳舞笑声挤满屋子，聚会正是最热闹的时候。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "La musique met l’ambiance.",
+      "mnemonic": "声音梗：拉，music，麦，朗比昂斯（l’ambiance）。 脑内电影：音乐一响，大家手里的麦穗变成节拍棒，摇着摇着都站起来跳舞；原本安静的屋子活跃起来，音乐带动气氛。",
+      "rule_memory": "musique /myzik/：qu 在这个词里读 /k/，u 不另发元音。 l’ambiance /lɑ̃bjɑ̃s/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Les deux équipes sont au coude-à-coude.",
+      "mnemonic": "声音梗：勒，deux，équipe，松，哦，酷达酷（coude-à-coude）。 脑内电影：两支队伍并肩往前跑，胳膊肘几乎碰着；松鼠裁判哦地瞪眼，谁也拉不开距离，两队实力不相上下。",
+      "rule_memory": "équipes /ekip/：qu 在这个词里读 /k/，u 不另发元音。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 coude-à-coude /kudakud/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Les équipes ont fait match nul.",
+      "mnemonic": "声音梗：勒，équipe，昂，费，match，玉勒（nul）。 脑内电影：两队踢完比赛，球落在一只玉色圆盆正中，比分一模一样；双方一起费力抬起共享奖杯，这场球已经打平了。",
+      "rule_memory": "équipes /ekip/：qu 在这个词里读 /k/，u 不另发元音。 ont /ɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 match /matʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "I14": [
+    {
+      "fr": "Cette annonce fait la une.",
+      "mnemonic": "声音梗：塞特，阿弄斯（annonce），费，拉，une。 脑内电影：这条消息从阿公的小信箱蹦出来，一路飞到报纸最上面的第一条；大家拉长脖子先看它，消息已经登上头条。",
+      "rule_memory": "annonce /anɔ̃s/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le débat a fait couler beaucoup d’encre.",
+      "mnemonic": "声音梗：勒，得巴（débat），啊，费，酷勒（couler），博酷（beaucoup），当克尔（d’encre）。 脑内电影：争论像得吧得吧的水龙头，喷出好多墨水，大家蘸着写下大量评论；墨水流得酷酷地响，争论已引发很多议论。",
+      "rule_memory": "débat /deba/：é 对应较闭的前元音 /e/。 couler /kule/：ou 在这个词里读 /u/，是后圆唇音。 beaucoup /boku/：eau 为 /o/、ou 为 /u/；词尾 p 不读。"
+    },
+    {
+      "fr": "Elle est sous les projecteurs.",
+      "mnemonic": "声音梗：诶勒，诶，苏，勒，pro-jec-teurs。 脑内电影：她走到苏打泡泡形的聚光灯下面，每盏灯都转向她，观众也齐刷刷看过来；她正在受到公众的关注。",
+      "rule_memory": "sous /su/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "I15": [
+    {
+      "fr": "Cette remarque a jeté de l’huile sur le feu.",
+      "mnemonic": "声音梗：塞特，热马克（remarque），啊，热忒（jeté），德，l’huile，sur，勒，feu。 脑内电影：这句话像热乎的麦穗递出一勺油，浇到本来冒火的争吵上；火忽然更旺，大家吵得更凶，已经火上浇油。",
+      "rule_memory": "remarque /ʁəmaʁk/：qu 在这个词里读 /k/，u 不另发元音。 jeté /ʒəte/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Le ministre est dans la ligne de mire.",
+      "mnemonic": "声音梗：勒，米尼斯特（ministre），诶，当，拉，ligne，德，米尔（mire）。 脑内电影：部长站在米粒做的瞄准圈里，四周的问题像聚光线都对准他；大家不断向他质问，他成了被针对的对象。",
+      "rule_memory": "ligne /liɲ/：gn 在这个词里读 /ɲ/，不拆成 g 和 n。"
+    },
+    {
+      "fr": "Pour lui, c’est une tempête dans un verre d’eau.",
+      "mnemonic": "声音梗：普尔，lui，塞，une，糖佩特，当，un，韦尔（verre），多（d’eau）。 脑内电影：他指着小水杯里旋转的糖屑风暴，笑着耸肩；旁人惊叫，他却觉得杯子那么小，这不过是小题大做的风波。",
+      "rule_memory": "Pour /puʁ/：ou 为 /u/，r 发音。 tempête /tɑ̃pɛt/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Les manifestants sont descendus dans la rue.",
+      "mnemonic": "声音梗：勒，mani-fes-tants，松，得桑鱼（descendus），当，拉，rue。 脑内电影：示威的人拿起诉求牌，从楼里下来，像桑鱼群汇到路上；街道一下热闹起来，示威者已经走上街头。",
+      "rule_memory": "manifestants /manifɛstɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 descendus /dɛsɑ̃dy/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "I16": [
+    {
+      "fr": "Allons droit au but.",
+      "mnemonic": "声音梗：阿隆（Allons），droit，哦，but。 脑内电影：我们拉好小车，方向盘直接对准球门；不再绕圈，开口就讲要点，邀请大家直奔主题。",
+      "rule_memory": "droit /dʁwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Il tourne autour du pot.",
+      "mnemonic": "声音梗：伊勒，图尔讷（tourne），哦图尔（autour），鱼，坡（pot）。 脑内电影：他绕着鱼汤锅不停转，一会儿聊帽子，一会儿聊天气；大家等着核心问题，他还在锅边兜圈子，拐弯抹角。",
+      "rule_memory": "tourne /tuʁn/：ou 在这个词里读 /u/，是后圆唇音。 autour /otuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "En un mot, je suis d’accord.",
+      "mnemonic": "声音梗：昂，un，摸（mot），热，随，大口（d’accord）。 脑内电影：我把一长串话揉成一个小词球，昂起头大口说同意；只留这个简短结论，记住简言之，我赞同。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "I17": [
+    {
+      "fr": "Je préfère jouer cartes sur table.",
+      "mnemonic": "声音梗：热，pré-fère，热喂（jouer），cartes，sur，table。 脑内电影：我热心地把手牌摊到桌上，连藏在袖口的一张也拿出；比起遮遮掩掩，我更愿意像亮牌一样坦诚相告。",
+      "rule_memory": "préfère /pʁefɛʁ/：é 对应较闭的前元音 /e/。 jouer /ʒwe/：词尾 er 这里读 /e/，r 不另外发声。"
+    },
+    {
+      "fr": "Il semble avoir quelque chose à cacher.",
+      "mnemonic": "声音梗：伊勒，桑布勒（semble），阿哇尔（avoir），quelque，shoz，啊，卡谢（cacher）。 脑内电影：他披着桑叶布，怀里抱着一团东西，别人一靠近就卡进箱子藏好；看起来他似乎有事隐瞒，尚未说清。",
+      "rule_memory": "avoir /avwaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 quelque /kɛlkə/：qu 在这个词里读 /k/，u 不另发元音。 chose /ʃɔz/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Elle l’a reconnu à demi-mot.",
+      "mnemonic": "声音梗：诶勒，拉，热靠玉（reconnu），啊，德米摸（demi-mot）。 脑内电影：她拉开一点箱盖，靠着玉色靠垫只说了半句话，轻轻点头；虽没大声直说，她已含蓄地承认了这件事。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "I18": [
+    {
+      "fr": "Elle a une longueur d’avance.",
+      "mnemonic": "声音梗：诶勒，啊，une，longueur，大旺斯（d’avance）。 脑内电影：她在比赛里先跨过一条长长的旺旺彩带，别人还在后面伸腿；她已经领先一步，回头还能给伙伴挥挥手。",
+      "rule_memory": "longueur /lɔ̃ɡœʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 d’avance /davɑ̃s/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Les équipes ne sont pas à armes égales.",
+      "mnemonic": "声音梗：勒，équipes，讷，松，帕，啊，armes，égales。 脑内电影：两队站上场，一队拿大拍子，一队只有小勺；松鼠裁判摇头，大家拿帕子垫着量，发现两队条件并不相当。",
+      "rule_memory": "équipes /ekip/：qu 在这个词里读 /k/，u 不另发元音。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 égales /eɡal/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Ne nous mettez pas des bâtons dans les roues.",
+      "mnemonic": "声音梗：讷，努，麦泰（mettez），趴，得，巴桶（bâtons），当，勒，roues。 脑内电影：我们推车前进，有人想把木棍塞进轮子，我拦住巴桶喊别放；请别给我们制造障碍，让小车好好往前走。",
+      "rule_memory": "nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 bâtons /batɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 roues /ʁw/：这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。"
+    }
+  ],
+  "I19": [
+    {
+      "fr": "Ne prends pas tout au pied de la lettre.",
+      "mnemonic": "声音梗：讷，prends，趴，秃，哦，pied，德，拉，lettre。 脑内电影：你听见有人说饿死了，差点趴下给他急救；我拉住你，把词从脚下捡起，提醒别什么都照字面理解。",
+      "rule_memory": "tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。"
+    },
+    {
+      "fr": "Elle a le sens de l’humour.",
+      "mnemonic": "声音梗：诶勒，啊，勒，桑斯，德，绿木尔（l’humour）。 脑内电影：她把桑叶戴成绿木耳帽，一句话就逗得伙伴笑翻；小椅子也跟着抖，记住她懂得开玩笑，很有幽默感。",
+      "rule_memory": "sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 l’humour /lymuʁ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Il n’a pas mâché ses mots.",
+      "mnemonic": "声音梗：伊勒，拿，趴，麻谢（mâché），塞，摸（mots）。 脑内电影：他拿起一句话，连嚼都不嚼就直接说出口，像把麻花整根摆上桌；大家立刻明白，他已直言不讳地表达意见。",
+      "rule_memory": "mâché /maʃe/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "I20": [
+    {
+      "fr": "Prenons un peu de recul.",
+      "mnemonic": "声音梗：普热弄（Prenons），un，peu，德，热Q勒（recul）。 脑内电影：我们把烫手的小难题放到桌上，退一小步，靠Q形栏杆再看全局；换个距离想一想，才更容易看清问题。",
+      "rule_memory": "Prenons /pʁənɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je commence à voir le bout du tunnel.",
+      "mnemonic": "声音梗：热，靠忙斯（commence），啊，哇尔，勒，布，鱼，tu-nnel。 脑内电影：我在忙乱的长隧道里走了很久，终于看见尽头一块亮布，哇地伸出手；出口开始出现，我开始看到希望了。",
+      "rule_memory": "voir /vwaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 bout /bu/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Il faut faire la part des choses.",
+      "mnemonic": "声音梗：Il faut faire，拉，part des choses，分盘看事情。 脑内电影：小厨师拉来几个盘子，把混在一起的事情像豆子分开放，分清各方面再判断；不能全倒进同一锅，需要区别对待。",
+      "rule_memory": "choses /ʃoz/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "I21": [
+    {
+      "fr": "Je pèse le pour et le contre.",
+      "mnemonic": "声音梗：热，佩兹（pèse），勒，普尔（pour），诶，勒，空特（contre）。 脑内电影：我拿一架小秤，左边放有利的贝壳，右边放不利的空盒，轮流添减；秤盘上下摇，我正在权衡利弊。",
+      "rule_memory": "pèse /pɛz/：è 对应较开的前元音 /ɛ/。 pour /puʁ/：ou 为 /u/，r 发音。 contre /kɔ̃tʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle a décidé de sauter le pas.",
+      "mnemonic": "声音梗：诶儿，啊，得西得（décidé），德，sauter，勒，帕（pas）。 脑内电影：她反复考虑后下定决心要迈出这一步；小沟旁的帕子被折好当起点，她摆好姿势准备跨出，决定已经作出。",
+      "rule_memory": "décidé /deside/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Tu joues avec le feu.",
+      "mnemonic": "声音梗：玉，joues，阿韦克，勒，feu。 脑内电影：你用玉色小球逗着火苗玩，火舌越蹿越近；朋友拉住你的围裙，提醒这样做有危险，你正在冒险。",
+      "rule_memory": "joues /ʒw/：这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。"
+    }
+  ],
+  "I22": [
+    {
+      "fr": "D’accord, ça marche.",
+      "mnemonic": "声音梗：大口（D’accord），撒（ça），马什（marche）。 脑内电影：我大口答应，撒开手让小马顺利走起来，搭档也点头；这件事说定了，我爽快地表示好的，没问题。",
+      "rule_memory": "marche /maʁʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Une promenade ? Ça me dit !",
+      "mnemonic": "声音梗：une，普罗姆纳德（promenade）？撒，么，滴（dit）！ 脑内电影：有人提议散步，我把散步鞋一套，撒开欢，开心得像水滴跳起来；这个主意正合我意，我对散步很有兴趣。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Tant pis, on essaiera demain.",
+      "mnemonic": "声音梗：糖，皮（Tant pis），昂，诶塞拉（essaiera），德main。 脑内电影：今天的小实验失败了，糖皮掉了一桌，我们耸耸肩收好工具；算了，睡一觉，大家明天再重新试一次。",
+      "rule_memory": "Tant /tɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "I23": [
+    {
+      "fr": "La demande doit être faite en bonne et due forme.",
+      "mnemonic": "声音梗：拉，德忙德，dwa，être，费特，昂，bonne et due，form。 脑内电影：申请纸忙着乱跑，办事员让它穿好正式制服，按要求填齐项目再递交；整张纸收拾妥当，申请需按正式要求提出。",
+      "rule_memory": "demande /dəmɑ̃d/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 doit /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "À défaut de réponse, nous vous recontacterons.",
+      "mnemonic": "声音梗：啊，得佛（défaut），德，réponse，努，乌，re-con-tac-te-rons。 脑内电影：若邮箱里迟迟没有您的回复，我们的小佛电话就会再响起，把联系线重新接到您这里；没有回复时会再次联系您。",
+      "rule_memory": "défaut /defo/：é 对应较闭的前元音 /e/。 réponse /ʁepɔ̃s/：é 对应较闭的前元音 /e/。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    },
+    {
+      "fr": "Cette décision peut porter atteinte à leurs intérêts.",
+      "mnemonic": "声音梗：塞特，décision，peut，port-er，阿坦特（atteinte），啊，勒尔，intérêts。 脑内电影：这项决定像一只可能碰倒东西的推车，向他们的利益花盆驶去；花盆还没碎，但可能受损，大家赶紧留意。",
+      "rule_memory": "décision /desizjɔ̃/：é 对应较闭的前元音 /e/。 atteinte /atɛ̃t/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 intérêts /ɛ̃teʁɛ/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "La police a ouvert une enquête.",
+      "mnemonic": "声音梗：拉，police，啊，乌韦尔（ouvert），une，昂凯特（enquête）。 脑内电影：警方拉开调查箱，乌龟警探打开盖子昂起头，开始逐一查看脚印和线索；案子已进入调查，大家认真找事实。",
+      "rule_memory": "ouvert /uvɛʁ/：ou 在这个词里读 /u/，是后圆唇音。 enquête /ɑ̃kɛt/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "I24": [
+    {
+      "fr": "Il dort comme une marmotte.",
+      "mnemonic": "声音梗：伊勒，多尔（dort），靠姆（comme），une，麻尔莫特（marmotte）。 脑内电影：他躺在枕上睡得像团土拨鼠，旁边麻花闹钟响了也不醒；只是呼呼酣睡，记住这个比喻表示他睡得很沉。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Petit à petit, je progresse.",
+      "mnemonic": "声音梗：破梯，啊，破梯（Petit à petit），热，pro-gresse。 脑内电影：我在小破梯上一级一级练习，每次只上一个小台阶；回头一看比昨天高了，我正一点点地进步。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Mieux vaut tard que jamais.",
+      "mnemonic": "声音梗：mieux，沃（vaut），塔儿（tard），克，jamais。 脑内电影：迟到的作业躺在塔边，我还是坐下来补做；虽然来晚了，也比永远空着不写更好，提醒迟做总比不做强。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    }
+  ],
+  "S01": [
+    {
+      "fr": "Lucas a choisi une voiture d’occasion.",
+      "mnemonic": "声音梗：Lucas，啊，刷子（choisi），une voiture，d’occasion。 脑内电影：Lucas选二手车时拿着刷子，把旧车擦得亮晶晶；车轮虽有用过的痕迹，他已挑中这辆，再刷一遍开心开走。",
+      "rule_memory": "choisi /ʃwazi/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 voiture /vwatyʁ/：oi 为 /wa/，u 为 /y/，r 发音。 d’occasion /dɔkazjɔ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Sa mère lui explique les gestes avec patience.",
+      "mnemonic": "声音梗：撒，mère，lui explique，勒，gestes，阿韦克，patience。 脑内电影：妈妈撒开一条彩带，耐心地给他示范每个动作，解释完再慢慢做一遍；彩带绕错也不着急，妈妈正耐心教他。",
+      "rule_memory": "mère /mɛʁ/：è 为 /ɛ/，r 发音；最后 e 不另成音节。 explique /ɛksplik/：qu 在这个词里读 /k/，u 不另发元音。 patience /pasjɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Martin a proposé une solution à son frère.",
+      "mnemonic": "声音梗：Martin，啊，proposé，une，索绿熊（solution），啊 son frère。 脑内电影：Martin向哥哥提出一个办法：请抱着绿色绳子的熊把卡住的篮子拉上来；哥哥看着这只索绿熊，明白了他的建议。",
+      "rule_memory": "Martin /maʁtɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 proposé /pʁopoze/：é 对应较闭的前元音 /e/。 solution /solysjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。"
+    }
+  ],
+  "S02": [
+    {
+      "fr": "Lucien cherche une nouvelle cachette.",
+      "mnemonic": "声音梗：Lucien，cherche，une nouvelle，卡谢特（cachette）。 脑内电影：Lucien披着沙色斗篷寻找新的藏身处，试树后再试鞋盒；小脚卡在盒边，他还在找更隐蔽的新地方。",
+      "rule_memory": "Lucien /lysjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 nouvelle /nuvɛl/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Les enfants jouent pendant la pluie.",
+      "mnemonic": "声音梗：勒，enfants，jouent，胖当（pendant），拉，pluie。 脑内电影：孩子们在雨里玩，胖胖的雨点当当地敲伞；他们追着水花跳来跳去，正是在下雨的时候玩耍，伞也像小鼓。",
+      "rule_memory": "jouent /ʒw/：这里是动词第三人称复数，词尾 ent 不另发音，不读成鼻音 /ɑ̃/。 pendant /pɑ̃dɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "La maîtresse annonce le déjeuner.",
+      "mnemonic": "声音梗：拉，maîtresse，阿弄斯（annonce），勒，déjeuner。 脑内电影：老师拉开教室门，啊地举起一把大勺，宣布午餐时间到了；孩子们的肚子像小铃铛响起来，一起准备去吃午饭。",
+      "rule_memory": "annonce /anɔ̃s/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 déjeuner /deʒøne/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "S03": [
+    {
+      "fr": "Margot a trop arrosé sa plante.",
+      "mnemonic": "声音梗：Margot，啊，trop，阿罗择（arrosé），撒，plante。 脑内电影：Margot啊地倒下太多水，像撒开了小水库，植物盆里漂起一圈小船；她已经给植物浇过头，叶子都湿得打晃。",
+      "rule_memory": "arrosé /aʁoze/：é 对应较闭的前元音 /e/。 plante /plɑ̃t/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Son grand-père va rempoter le cactus.",
+      "mnemonic": "声音梗：松（Son），grand-père，哇，rempoter，勒，卡克玉斯（cactus）。 脑内电影：爷爷抱着松果形新花盆，哇地看着长大的仙人掌，准备小心把它换进去；仙人掌像戴玉色刺帽，正等爷爷换盆。",
+      "rule_memory": "grand-père /ɡʁɑ̃pɛʁ/：è 对应较开的前元音 /ɛ/。 rempoter /ʁɑ̃pote/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Malgré ses efforts, elle a besoin d’aide.",
+      "mnemonic": "声音梗：麻了归（Malgré），塞，efforts，诶勒，啊，besoin，d’aide。 脑内电影：她努力搬花盆，手都麻了，花盆还是太重；虽然已很用力，她仍伸手请人帮助，记住尽管努力仍需要帮忙。",
+      "rule_memory": "Malgré /malɡʁe/：é 对应较闭的前元音 /e/。 besoin /bəzwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S04": [
+    {
+      "fr": "Je vais goûter une bouchée de gratin.",
+      "mnemonic": "声音梗：热，喂（vais），goûter，une bouchée，德，gratin。 脑内电影：我拿起叉子准备尝一口焗菜，金黄脆皮还完好；嘴巴张开等喂进第一口，我接下来才要尝尝滋味。",
+      "rule_memory": "bouchée /buʃe/：ou 在这个词里读 /u/，是后圆唇音。 gratin /ɡʁatɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ce plat n’est pas si mauvais.",
+      "mnemonic": "声音梗：瑟，普拉（plat），n’est pas，西，摸喂（mauvais）。 脑内电影：这道菜像趴着的小饼，我原本皱眉，尝过却伸手再摸一块喂进嘴里；它没有想的那么难吃，还可以吃下去。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle a changé d’avis après une semaine.",
+      "mnemonic": "声音梗：诶勒，啊，香热（changé），d’avis，après，une，semaine。 脑内电影：她起初嫌弃那盆花，过了一周闻到香气，又拿出新花架；看法已经变了，一周后的她改了之前的主意。",
+      "rule_memory": "changé /ʃɑ̃ʒe/：ch 在这个词里读 /ʃ/，持续送气。 après /apʁɛ/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "S05": [
+    {
+      "fr": "Lily a vu une affiche avec sa photo.",
+      "mnemonic": "声音梗：Lily，啊，玉（vu），une affiche，阿韦克，撒，photo。 脑内电影：Lily看见一张像玉片般亮的告示，凑近一看，撒着亮粉的照片竟是自己；她惊讶地指着照片，已经看见这张告示。",
+      "rule_memory": "affiche /afiʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Sarah cherche sa petite chatte.",
+      "mnemonic": "声音梗：Sarah，cherche，撒，petite，沙特（chatte）。 脑内电影：Sarah拨开沙堆旁的小草寻找自己的小母猫；撒出一点猫粮，轻喊猫咪名字，沙色小猫还没露头。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 chatte /ʃat/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Agathe la rassure avec douceur.",
+      "mnemonic": "声音梗：Agathe，拉，rassure，阿韦克，豆丝儿（douceur）。 脑内电影：Agathe拉住她的手，声音像软豆丝一样轻柔，一句句安慰；对方慢慢放松下来，Agathe正在温柔地让她安心。",
+      "rule_memory": "douceur /dusœʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "S06": [
+    {
+      "fr": "Il installe la couverture à l’ombre.",
+      "mnemonic": "声音梗：伊勒，installe，拉，couverture，啊，笼布尔（l’ombre）。 脑内电影：他拉开大毯子，铺到树荫下，树叶像一顶大笼罩住阳光；毯子摊平像软布小岛，正好让大家坐在阴凉里。",
+      "rule_memory": "installe /ɛ̃stal/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 couverture /kuvɛʁtyʁ/：ou 在这个词里读 /u/，是后圆唇音。 l’ombre /lɔ̃bʁ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Sa mère termine le ménage.",
+      "mnemonic": "声音梗：撒，mère，泰尔min（termine），勒，ménage。 脑内电影：妈妈撒下最后一点清洁粉，擦好桌子，再把拖把放进小桶；家务已经收尾，地板亮得能映出她伸懒腰的样子。",
+      "rule_memory": "mère /mɛʁ/：è 为 /ɛ/，r 发音；最后 e 不另成音节。 ménage /menaʒ/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Dans son rêve, il découvre un château.",
+      "mnemonic": "声音梗：当，松，rêve，伊勒，découvre，un，沙头（château）。 脑内电影：在他的梦里，松树自己拉开帘子，他发现一座沙头般尖顶的城堡；城堡大门慢慢张开，梦中奇妙发现就在眼前。",
+      "rule_memory": "découvre /dekuvʁ/：ou 在这个词里读 /u/，是后圆唇音。 château /ʃato/：eau 在这个词里合成一个 /o/。"
+    }
+  ],
+  "S07": [
+    {
+      "fr": "Samuel attend devant l’atelier du forgeron.",
+      "mnemonic": "声音梗：Samuel，啊糖（attend），devant l’atelier，鱼，forgeron。 脑内电影：Samuel在铁匠作坊前等候，手里的糖被叮当打铁声震得跳舞；他还没进去，只在门前耐心等铁匠忙完。",
+      "rule_memory": "attend /atɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 devant /dəvɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 forgeron /fɔʁʒəʁɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le prince protège le village avec ses chevaliers.",
+      "mnemonic": "声音梗：勒，prince，pro-tège，勒，village，阿韦克，塞，chevaliers。 脑内电影：王子领着骑士们，拿锅盖盾牌围住村庄；骑士的披风撒开一圈，大家共同守护房屋和村民，让村庄安全。",
+      "rule_memory": "prince /pʁɛ̃s/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 protège /pʁotɛʒ/：è 对应较开的前元音 /ɛ/。 chevaliers /ʃəvalje/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Alexandre s’est réveillé près de sa mère.",
+      "mnemonic": "声音梗：Alexandre，塞，réveillé，près de，撒，mère。 脑内电影：Alexandre醒来时先眨眼，发现自己就在妈妈旁边；妈妈轻轻撒开被角，他抓住妈妈袖子，还带着刚醒的迷糊笑容。",
+      "rule_memory": "Alexandre /alɛksɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 réveillé /ʁevɛje/：é 对应较闭的前元音 /e/。 près /pʁɛ/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "S08": [
+    {
+      "fr": "Le vieux chêne soulève le petit écureuil.",
+      "mnemonic": "声音梗：勒，vieux，山（chêne），苏莱弗（soulève），勒 petit écureuil。 脑内电影：老橡树像小山一样稳，慢慢抬起树枝，把小松鼠举到高处；松鼠抱着酥饼往上升，老树正在温柔地举它。",
+      "rule_memory": "chêne /ʃɛn/：ch 在这个词里读 /ʃ/，持续送气。 soulève /sulɛv/：ou 在这个词里读 /u/，是后圆唇音。 écureuil /ekyʁœj/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Zoé remercie leur guide.",
+      "mnemonic": "声音梗：Zoé，热麦尔西（remercie），leur，guide。 脑内电影：Zoé给他们的向导递上一块热麦饼，认真说谢谢；向导接过饼干，胡子上沾一点碎屑，大家一起开心笑了。",
+      "rule_memory": "Zoé /zɔe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Les enfants retrouvent enfin leur groupe.",
+      "mnemonic": "声音梗：勒，enfants，retrouvent，昂凡（enfin），leur，groupe。 脑内电影：孩子们一路寻找，终于昂起头看见自己的队伍；像找到饭盒的小鸟跑回去，已经和原来的伙伴重新汇合。",
+      "rule_memory": "retrouvent /ʁətʁuv/：ou 在这个词里读 /u/，是后圆唇音。 groupe /ɡʁup/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "S09": [
+    {
+      "fr": "Les frères lisent les dialogues à voix haute.",
+      "mnemonic": "声音梗：勒，frères，栗兹（lisent），勒，dialogues，啊，哇，哦特（haute）。 脑内电影：兄弟们拿栗子当话筒，大声读着一来一回的对话；一个啊，一个哇，声音响得窗边小鸟都转头听他们朗读。",
+      "rule_memory": "frères /fʁɛʁ/：è 对应较开的前元音 /ɛ/。 voix /vwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Une règle représente le sabre du capitaine.",
+      "mnemonic": "声音梗：une，règle，représente，勒，撒布尔（sabre），鱼，capitaine。 脑内电影：一把尺子被船长举起，撒开威风当作自己的军刀；尺上的刻度还清楚可见，在这场游戏中它代表船长的刀。",
+      "rule_memory": "règle /ʁɛɡl/：è 对应较开的前元音 /ɛ/。 représente /ʁəpʁezɑ̃t/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Leur butin est une assiette de biscuits.",
+      "mnemonic": "声音梗：leur，玉坦（butin），诶，une assiette，德，biscuits。 脑内电影：他们打开战利品箱，玉色托盘里原来只有一盘饼干；两人装作海盗分饼，咔嚓咬一口，战利品就是这盘点心。",
+      "rule_memory": "butin /bytɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S10": [
+    {
+      "fr": "Magali invente un nouveau récit.",
+      "mnemonic": "声音梗：Magali，invente，un，努沃（nouveau），热西（récit）。 脑内电影：Magali把旧纸翻过来，努力想出崭新故事；热乎乎的角色从笔尖蹦出，她正在创作一个新故事。",
+      "rule_memory": "invente /ɛ̃vɑ̃t/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 nouveau /nuvo/：eau 在这个词里合成一个 /o/。 récit /ʁesi/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Éon prend une apparence humaine.",
+      "mnemonic": "声音梗：Éon，prend，une，啊帕朗斯（apparence），玉曼（humaine）。 脑内电影：Éon啊地披上一件人的外套，原本奇特的轮廓慢慢收拢，变成玉色人偶般的人形；他变成了人的模样。",
+      "rule_memory": "Éon /eɔ̃/：é 对应较闭的前元音 /e/。 prend /pʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 apparence /apaʁɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Sa mère lui offre un carnet de pages blanches.",
+      "mnemonic": "声音梗：撒，mère，lui offre，un，卡内（carnet），德，pages，blanches。 脑内电影：妈妈把礼物塞到她手里，打开封面，里面每一页都白白的；一本空白页本子像卡住雪花的小盒，等她来写画。",
+      "rule_memory": "mère /mɛʁ/：è 为 /ɛ/，r 发音；最后 e 不另成音节。 blanches /blɑ̃ʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "S11": [
+    {
+      "fr": "Hervé râpe le fromage pour la pizza.",
+      "mnemonic": "声音梗：Hervé，拉普（râpe），勒，fromage，pour 拉，pizza。 脑内电影：Hervé拉着刨刀普普地滑过奶酪，细丝像雪落到披萨上；他一边刨一边转盘，正为披萨准备奶酪。",
+      "rule_memory": "Hervé /ɛʁve/：é 对应较闭的前元音 /e/。 pour /puʁ/：ou 为 /u/，r 发音。"
+    },
+    {
+      "fr": "Marcel préfère une garniture à l’ananas.",
+      "mnemonic": "声音梗：Marcel，préfère，une garniture，啊，拉娜娜（l’ananas）。 脑内电影：Marcel在几种配料里挑中菠萝，开心地拉着菠萝唱娜娜娜；披萨上铺满金黄小块，他更喜欢菠萝配料。",
+      "rule_memory": "préfère /pʁefɛʁ/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Pendant que la pâte lève, les amis préparent la sauce.",
+      "mnemonic": "声音梗：胖当，que 拉，pâte，莱弗（lève），勒，amis，préparent 拉，sauce。 脑内电影：胖面团发酵鼓起来，像慢慢升高的小枕头；朋友们趁这时把番茄捣成酱，面团在长，酱汁也在一起准备。",
+      "rule_memory": "Pendant /pɑ̃dɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 lève /lɛv/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "S12": [
+    {
+      "fr": "Alice part en voyage pour quelques jours.",
+      "mnemonic": "声音梗：Alice，帕尔（part），昂，voyage，pour，quelques，jour。 脑内电影：Alice拖着行李啪地踏上旅程，箱子里只放几天的衣服；她在小日历上圈几格，离家出差几天后就会回来。",
+      "rule_memory": "pour /puʁ/：ou 为 /u/，r 发音。 quelques /kɛlkə/：qu 在这个词里读 /k/，u 不另发元音。 jours /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Louis attend dans sa caisse de transport.",
+      "mnemonic": "声音梗：Louis，啊糖（attend），当，撒，caisse，德，transport。 脑内电影：Louis在运输笼里等候，像等糖的小家伙紧贴笼门；它把爪子撒开又收回，笼子还停着，运输还没开始。",
+      "rule_memory": "Louis /lwi/：这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 attend /atɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 transport /tʁɑ̃spɔʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Oxy décide de retrouver sa maîtresse.",
+      "mnemonic": "声音梗：Oxy，得西得（décide），德，retrouver，撒，maîtresse。 脑内电影：Oxy终于下定决心，甩甩耳朵，撒开四条腿出发；它沿着熟悉气味去找自己的女主人，准备重新回到她身边。",
+      "rule_memory": "décide /desid/：é 对应较闭的前元音 /e/。 retrouver /ʁətʁuve/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "S13": [
+    {
+      "fr": "Les amies donnent un coup de main à leur voisine.",
+      "mnemonic": "声音梗：勒，amies，栋（donnent），un coup de main，啊，leur voisine。 脑内电影：女性朋友们围住邻居要搬的小柜子，栋栋的木柜太重；大家各伸一只手一起搬，正在帮邻居搭把手。",
+      "rule_memory": "coup /ku/：ou 为 /u/；词尾 p 不读。 main /mɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 voisine /vwazin/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Elles découvrent un ancien album de photos.",
+      "mnemonic": "声音梗：诶勒，découvrent，un，昂先（ancien），album de photos。 脑内电影：她们掀开旧箱布，发现一本旧相册；昂起的照片角里藏着以前的合影，她们轻轻翻页，认出了好多年轻的脸。",
+      "rule_memory": "découvrent /dekuvʁ/：ou 在这个词里读 /u/，是后圆唇音。 ancien /ɑ̃sjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Un sourire les aide à se réconcilier.",
+      "mnemonic": "声音梗：un，苏里尔（sourire），勒，aide，啊，瑟，réconcilier。 脑内电影：一个像酥梨般甜的微笑出现在两人中间，她们看着彼此，终于拉起手；这小小微笑帮助她们和好如初。",
+      "rule_memory": "sourire /suʁiʁ/：ou 在这个词里读 /u/，是后圆唇音。 réconcilier /ʁekɔ̃silje/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "S14": [
+    {
+      "fr": "Pingouin est doué pour la pêche.",
+      "mnemonic": "声音梗：Pingouin，诶，doué，pour 拉，佩什（pêche）。 脑内电影：Pingouin把鱼竿一甩，鱼就乖乖佩在钩上，好像等它来领；它动作熟练，一条接一条，说明它特别擅长捕鱼。",
+      "rule_memory": "Pingouin /pɛ̃ɡwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 doué /dwe/：é 对应较闭的前元音 /e/。 pour /puʁ/：ou 为 /u/，r 发音。"
+    },
+    {
+      "fr": "Il partage les poissons avec ses coéquipiers.",
+      "mnemonic": "声音梗：伊勒，帕尔塔日（partage），勒，poissons，阿韦克，塞 coéquipiers。 脑内电影：它把捕来的鱼摆成塔，再一条条分给队友；每人都有份，塔虽变小，大家的笑脸变大，它正在和队友分享鱼。",
+      "rule_memory": "poissons /pwasɔ̃/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 coéquipiers /kɔekipje/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Chaque membre apporte quelque chose à l’équipe.",
+      "mnemonic": "声音梗：沙克（Chaque），membre，阿porte，quelque chose，啊，l’équipe。 脑内电影：每位成员都拎来一点有用的东西，沙袋、绳子、点心凑成团队装备；一个人带一样，每个人都为团队作出贡献。",
+      "rule_memory": "Chaque /ʃak/：qu 在这个词里读 /k/，u 不另发元音。 membre /mɑ̃bʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 quelque /kɛlkə/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "S15": [
+    {
+      "fr": "Une flaque d’eau reflète les couleurs du ciel.",
+      "mnemonic": "声音梗：une，flac，朵（d’eau），热弗莱特（reflète），勒，couleurs，鱼，ciel。 脑内电影：一洼水像扁扁的碟子，倒映天空各种颜色；热乎的夕阳红、鱼鳞般的云都躺进水里，水洼映出了天空的色彩。",
+      "rule_memory": "flaque /flak/：qu 在这个词里读 /k/，u 不另发元音。 reflète /ʁəflɛt/：è 对应较开的前元音 /ɛ/。 couleurs /kulœʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Angela rencontre une fée nommée Emmeline.",
+      "mnemonic": "声音梗：Angela，rencontre，une，费（fée），nommée，Emmeline。 脑内电影：Angela遇见一位仙女，仙女费力把太长的翅膀收好，笑着自我介绍叫Emmeline；两人第一次见面就相视笑起来。",
+      "rule_memory": "Angela /ɑ̃ʒla/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 rencontre /ʁɑ̃kɔ̃tʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 fée /fe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Même dans un monde magique, sa famille lui manque.",
+      "mnemonic": "声音梗：麦姆（Même），当 un monde magique，撒 famille，lui，忙克（manque）。 脑内电影：即使魔法世界像麦田一样会闪光，她仍把家人的画像贴在胸口；花朵忙着跳舞也没分走思念，她还是想念家人。",
+      "rule_memory": "monde /mɔ̃d/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 magique /maʒik/：qu 在这个词里读 /k/，u 不另发元音。 manque /mɑ̃k/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "S16": [
+    {
+      "fr": "Les chatons imaginent une rivière de lait.",
+      "mnemonic": "声音梗：勒，沙桶（chatons），imaginent，une，rivière，德，累（lait）。 脑内电影：小猫们围着沙桶闭眼想象，桶中小河忽然变成奶河；奶浪轻轻拍岸，它们舔舔嘴，这条奶河还只在想象里。",
+      "rule_memory": "chatons /ʃatɔ̃/：ch 在这个词里读 /ʃ/，持续送气。 rivière /ʁivjɛʁ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Monocle surveille le radar du vaisseau.",
+      "mnemonic": "声音梗：Monocle，surveille，勒，雷达尔（radar），鱼，vaisseau。 脑内电影：Monocle盯着飞船雷达，雷达像大鱼眼一圈圈扫；它凑近看每个亮点，连眨眼都小心，正在监看飞船的雷达。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Le lait de leur rêve est chaud et lumineux.",
+      "mnemonic": "声音梗：勒，lait，德，leur rêve，诶，chaud，诶，lumineux。 脑内电影：它们梦里的奶像暖灯冒热气，猫爪伸进去暖暖的；梦里的小猫高兴得来回跳，整片奶河温暖又发光。",
+      "rule_memory": "chaud /ʃo/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "S17": [
+    {
+      "fr": "Théo imagine un bureau rempli de souvenirs.",
+      "mnemonic": "声音梗：Théo，imagine，un，bureau，rempli de souvenirs。 脑内电影：Théo想象办公室的桌子堆满回忆盒，像宝物屋；打开是生日，拉开是旅行，整个想象办公室装着许多回忆。",
+      "rule_memory": "Théo /teo/：é 对应较闭的前元音 /e/。 rempli /ʁɑ̃pli/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 souvenirs /suvniʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "La pièce de sa mère ressemble à une bibliothèque.",
+      "mnemonic": "声音梗：拉，pièce，德，撒，mère，ressemble，啊，une bibliothèque。 脑内电影：妈妈的空间被一扇门拉开，里面书排成小山，椅子像书堆；看起来简直像图书室，Théo都想借本书带走。",
+      "rule_memory": "pièce /pjɛs/：è 对应较开的前元音 /ɛ/。 mère /mɛʁ/：è 为 /ɛ/，r 发音；最后 e 不另成音节。 ressemble /ʁəsɑ̃bl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il se demande à quoi ressemble son propre esprit.",
+      "mnemonic": "声音梗：伊勒，瑟，德忙德（demande），啊 quoi，ressemble son propre esprit。 脑内电影：他忙着想妈妈的心灵，转过头又问自己：我的心灵会像什么？脑袋里也许有玩具房，他正想知道自己心灵的样子。",
+      "rule_memory": "demande /dəmɑ̃d/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 quoi /kwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 ressemble /ʁəsɑ̃bl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S18": [
+    {
+      "fr": "Au printemps, les fleurs s’ouvrent.",
+      "mnemonic": "声音梗：哦，printemps，勒，fleurs，苏弗（s’ouvrent）。 脑内电影：春天来了，花朵像刚睡醒，苏地舒展开一层层花瓣；太阳一照，整片花田打着哈欠绽放，春天的花都开了。",
+      "rule_memory": "printemps /pʁɛ̃tɑ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 s’ouvrent /suvʁ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Une assiette compartimentée inspire son dessin.",
+      "mnemonic": "声音梗：une，阿谢特（assiette），compartimentée，inspire son dessin。 脑内电影：她看到分格餐盘，啊地想到把画也分成几块；每格画一个新世界，连豌豆都成了灵感，分格餐盘启发了她作画。",
+      "rule_memory": "compartimentée /kɔ̃paʁtimɑ̃te/：é 对应较闭的前元音 /e/。 inspire /ɛ̃spiʁ/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 dessin /dɛsɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Dans sa forêt, chaque saison possède son espace.",
+      "mnemonic": "声音梗：当，撒，forêt，沙克（chaque），saison，possède son espace。 脑内电影：在她画的森林里，每个季节占一块地方；春花、夏叶、秋果、冬雪各有家，像撒开的四块拼图，各自有空间。",
+      "rule_memory": "chaque /ʃak/：qu 在这个词里读 /k/，u 不另发元音。 saison /sɛzɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 possède /pɔsɛd/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "S19": [
+    {
+      "fr": "Personne ne connaît tous les mots.",
+      "mnemonic": "声音梗：佩儿松（Personne），讷，connaît，兔（tous），勒，莫（mots）。 脑内电影：谁也认不全这座字词山，小兔搬来更多词，我摸完这边还有那边；连帽子都撑掉，仍没有人认识所有词。",
+      "rule_memory": "tous /tus/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Marianne découvre le mot cuniculture.",
+      "mnemonic": "声音梗：Marianne，得库弗（découvre），勒，莫，cuniculture。 脑内电影：Marianne翻书发现cuniculture这个新词，摸摸旁边兔子图才明白；原来是养兔业，兔耳像书签竖起来。",
+      "rule_memory": "découvre /dekuvʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Son frère lui apprend à utiliser un dictionnaire.",
+      "mnemonic": "声音梗：松，frère，lui apprend，啊，utiliser，un，dictionnaire。 脑内电影：哥哥拿松果作书签，教她怎样在词典里按字母找词；她跟着翻页，找到的词像小兔跳出来，正学着使用词典。",
+      "rule_memory": "frère /fʁɛʁ/：è 对应较开的前元音 /ɛ/。 apprend /apʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 dictionnaire /diksjɔnɛʁ/：词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。"
+    }
+  ],
+  "S20": [
+    {
+      "fr": "Jules garde ses pièces dans une tirelire.",
+      "mnemonic": "声音梗：Jules，嘎德（garde），塞，pièces，当，une，提尔利尔（tirelire）。 脑内电影：Jules把硬币投进储蓄罐，罐子嘎吱一声，像提着小铃铛的猪；每枚硬币都留在里面，他把钱存进储蓄罐。",
+      "rule_memory": "pièces /pjɛs/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Il économise une partie de son argent.",
+      "mnemonic": "声音梗：伊勒，économise，une，帕尔梯（partie），德 son argent。 脑内电影：他把钱分成两堆，一部分摆在小梯旁留着用，另一部分放进储蓄盒；没有全花完，他正在储蓄自己的部分钱。",
+      "rule_memory": "économise /ekonomiz/：é 对应较闭的前元音 /e/。 argent /aʁʒɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Partager un chocolat lui fait plaisir.",
+      "mnemonic": "声音梗：帕尔塔热（Partager），un，烧可拉（chocolat），lui fait plaisir。 脑内电影：他把一块巧克力掰开，像拆一座热乎小塔，分给朋友一半；两人一起吃，分享让他开心，笑得嘴角都沾巧克力。",
+      "rule_memory": "chocolat /ʃokola/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "S21": [
+    {
+      "fr": "Beth se demande si son cousin a tort.",
+      "mnemonic": "声音梗：Beth，瑟，德忙德（demande），西，松，cousin，啊，托尔（tort）。 脑内电影：Beth忙着琢磨表亲的话，把问题挂在松枝上摇来摇去；表亲是不是弄错了？她还没确定，正想知道答案。",
+      "rule_memory": "demande /dəmɑ̃d/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 cousin /kuzɛ̃/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Elle pose une question à son frère.",
+      "mnemonic": "声音梗：诶勒，坡兹（pose），une，question，啊，松，frère。 脑内电影：她把疑问像小包裹放到哥哥面前，松果形问号在上面转；哥哥抬头听她开口，她正在向哥哥提出一个问题。",
+      "rule_memory": "question /kɛstjɔ̃/：这里 qu 为 /k/，-tion 为 /tjɔ̃/，不同于 attention 的 /sjɔ̃/。 frère /fʁɛʁ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Elle n’a pas encore choisi son art martial.",
+      "mnemonic": "声音梗：Elle n’a pas encore choisi son art martial：拿帕擦汗，刷子还没选好武术。 脑内电影：她拿帕子擦汗，刷子旁摆着拳套和练武棒；她在两样之间来回看，还没有选好自己要学哪一种武术。",
+      "rule_memory": "choisi /ʃwazi/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "S22": [
+    {
+      "fr": "Cindy cherche une idée plus pratique.",
+      "mnemonic": "声音梗：Cindy cherche une idée plus pratique：谢着找，一滴灵感变实用。 脑内电影：Cindy边谢边找，把一滴灵感放进小杯，试着吹成折叠垫；她还在比较不同点子，寻找更实用的主意。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 idée /ide/：é 为 /e/，最后的 e 不另成音节。 pratique /pʁatik/：qu 为 /k/，u 不单独发音，末尾 e 不另成音节。"
+    },
+    {
+      "fr": "Un ascenseur ne fonctionne pas sans électricité.",
+      "mnemonic": "声音梗：Un ascenseur ne fonctionne pas sans électricité：电梯小熊扑空，没电不动。 脑内电影：电梯按键上坐着小熊，大家按来按去它都不动；拿帕子擦汗才发现没电，电梯没有电就无法运转。",
+      "rule_memory": "ascenseur /asɑ̃sœʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 fonctionne /fɔ̃ksjɔn/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 électricité /elɛktʁisite/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Elle veut tenter sa chance avec un nouveau projet.",
+      "mnemonic": "声音梗：诶儿，veux；糖忒，撒，香丝；阿韦克，un，努沃，projet。 脑内电影：她想碰碰运气，把糖撒成幸运香丝；抱着新计划走到牛形小车边，跃跃欲试，还没有开始这个新项目。",
+      "rule_memory": "tenter /tɑ̃te/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 chance /ʃɑ̃s/：ch 在这个词里读 /ʃ/，持续送气。 nouveau /nuvo/：eau 在这个词里合成一个 /o/。"
+    }
+  ],
+  "S23": [
+    {
+      "fr": "Jacob cherche un trèfle à quatre feuilles.",
+      "mnemonic": "声音梗：Jacob cherche un trèfle à quatre feuilles：谢着找，卡车上四片叶。 脑内电影：Jacob边找边谢，问卡车司机有没有四叶草；司机展开四片纸叶说明样子，两人继续寻找真正的四叶草。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 trèfle /tʁɛfl/：è 对应较开的前元音 /ɛ/。 quatre /katʁ/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Leah s’améliore grâce à son entraînement.",
+      "mnemonic": "声音梗：Leah，撒梅廖儿；格拉丝，啊，松，昂特雷芒。 脑内电影：Leah撒开腿训练，一路跨过玻璃杯、松树和小芒果障碍；每练一圈跳得更远，进步全靠这些训练。",
+      "rule_memory": "s’améliore /sameljɔʁ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 entraînement /ɑ̃tʁɛnmɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Il demande de l’aide pour mieux apprendre.",
+      "mnemonic": "声音梗：衣儿，德芒德，德，莱德；普儿，谬，阿普朗德儿。 脑内电影：他抱着芒果去求助，老师把小灯递来；他铺开书，对着灯把难题重新学一遍，想学得更好。",
+      "rule_memory": "demande /dəmɑ̃d/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pour /puʁ/：ou 为 /u/，r 发音。 apprendre /apʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S24": [
+    {
+      "fr": "Charlie promet de mieux se comporter.",
+      "mnemonic": "声音梗：Charlie，普罗梅；德，谬，瑟，孔波儿忒。 脑内电影：Charlie向一颗梅子认真保证，收起乱甩的毛球，扶稳快倒的小桶；他答应今后表现得更好。",
+      "rule_memory": "Charlie /ʃaʁli/：ch 在这个词里读 /ʃ/，持续送气。 comporter /kɔ̃pɔʁte/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Sa sœur n’aime pas ce jeu.",
+      "mnemonic": "声音梗：撒，瑟儿，内姆，帕，瑟，热（jeu）。 脑内电影：妹妹撒开手，把游戏推给小木偶，拿帕子扇扇玩得发热的脸；她明确表示自己不喜欢这个游戏。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Il doit écouter les sentiments des autres.",
+      "mnemonic": "声音梗：衣儿，杜瓦，诶库忒；勒，桑蒂芒，德，哦特儿。 脑内电影：他戴上大耳朵，嘟哇一声停下来；听同伴抱着桑叶和芒果诉说委屈，一个个认真听别人的感受。",
+      "rule_memory": "doit /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 écouter /ekute/：ou 在这个词里读 /u/，是后圆唇音。 sentiments /sɑ̃timɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S25": [
+    {
+      "fr": "Aria dessine les voiles sur du papier.",
+      "mnemonic": "声音梗：Aria，带丝呢；勒，哇儿，叙儿， dü，帕皮耶。 脑内电影：Aria带着丝带，把它弯成船帆轮廓，轻轻画到纸上；纸帆一鼓风，连她的画笔都像小船般漂起来。",
+      "rule_memory": "voiles /vwal/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Son grand-père assemble les pièces dans la bouteille.",
+      "mnemonic": "声音梗：Son grand-père assemble les pièces dans la bouteille：松帽爷爷，瓶里拼零件。 脑内电影：爷爷戴松枝帽，用长镊子把零件伸进瓶子，再一件件在瓶内拼成帆船；瓶外的工具还堆成小山。",
+      "rule_memory": "grand-père /ɡʁɑ̃pɛʁ/：è 对应较开的前元音 /ɛ/。 assemble /asɑ̃bl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pièces /pjɛs/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Elle ferme la bouteille avec un bouchon.",
+      "mnemonic": "声音梗：诶儿，费儿姆，拉，布忒；阿韦克，un，布雄。 脑内电影：她让小风扇停住，对准瓶口，把软木塞穿上小熊布套再塞进去；瓶子封好了，小熊只露一个圆脑袋。",
+      "rule_memory": "bouteille /butɛj/：ou 在这个词里读 /u/，是后圆唇音。 bouchon /buʃɔ̃/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "S26": [
+    {
+      "fr": "Jayden demande pourquoi le repas est varié.",
+      "mnemonic": "声音梗：Jayden，德芒德，普儿夸；勒，热帕，诶，瓦里耶。 脑内电影：Jayden举着芒果发问，为什么这顿饭里汤、豆子和蔬菜排成彩虹；小厨师用花围裙转圈展示多样饭菜。",
+      "rule_memory": "demande /dəmɑ̃d/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pourquoi /puʁkwa/：ou 在这个词里读 /u/，是后圆唇音。 varié /vaʁje/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Après le déjeuner, il se sent rassasié.",
+      "mnemonic": "声音梗：阿普雷，勒，得热讷；衣儿，瑟桑，拉撒兹耶。 脑内电影：午餐后，他把热饭碗放下，轻拍圆肚子；桑叶围裙都绷成小帐篷，他满足地打嗝，表示已经吃饱。",
+      "rule_memory": "Après /apʁɛ/：è 对应较开的前元音 /ɛ/。 déjeuner /deʒøne/：é 对应较闭的前元音 /e/。 sent /sɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Son père a préparé une salade de fruits.",
+      "mnemonic": "声音梗：松，佩儿，啊，普雷帕雷；une，撒拉德，德，fruits。 脑内电影：爸爸头戴松枝，劈里啪啦切水果，把苹果梨块撒进大碗；水果沙拉已经准备好，勺子像小船停在碗边。",
+      "rule_memory": "père /pɛʁ/：è 对应较开的前元音 /ɛ/。 préparé /pʁepaʁe/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "S27": [
+    {
+      "fr": "Un logiciel malveillant peut se faire passer pour un jeu.",
+      "mnemonic": "声音梗：Un logiciel malveillant peut se faire passer pour un jeu：马斗篷，假装游戏。 脑内电影：恶意软件可以披上马形斗篷，假扮可爱的游戏按钮；它推着小车混进队伍，有可能骗孩子把它当游戏。",
+      "rule_memory": "malveillant /malvɛjɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pour /puʁ/：ou 为 /u/，r 发音。"
+    },
+    {
+      "fr": "Eleanor apprend le sens du mot sauvegarde.",
+      "mnemonic": "声音梗：Eleanor，阿普朗，勒桑丝， dü莫，索夫嘎儿德。 脑内电影：Eleanor抱书学词义，桑叶里的一份文件被她复制进保险柜；两份文件一起点头，让她懂了备份的意思。",
+      "rule_memory": "apprend /apʁɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Une connexion chiffrée ne garantit pas un fichier sûr.",
+      "mnemonic": "声音梗：une connexion，希弗雷；讷，嘎朗蒂，帕，un fichier，叙儿。 脑内电影：一条连接穿着加密盔甲，司机却拿帕子挡住保证书；里面的文件可能还藏坏虫，加密也不能保证文件安全。",
+      "rule_memory": "connexion /kɔnɛksjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 chiffrée /ʃifʁe/：ch 在这个词里读 /ʃ/，持续送气。 garantit /ɡaʁɑ̃ti/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S28": [
+    {
+      "fr": "Le verre paraît aussi haut qu’une tour.",
+      "mnemonic": "声音梗：Le verre paraît aussi haut qu’une tour：哦，杯子看着和塔一样高。 脑内电影：一只玻璃杯看起来高高耸起，杯沿小旗和旁边塔尖齐平；我哦地仰头，它看着和那座塔一样高。",
+      "rule_memory": "qu’une /kyn/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 tour /tuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Felicity devient minuscule dans son aventure.",
+      "mnemonic": "声音梗：Felicity，德维安，mini缩成粒；当，松，aventure。 脑内电影：Felicity冒险时追着迷你松鼠跑，身体缩得比米粒还小；一颗松果成了山，她仍抱着冒险地图往前走。",
+      "rule_memory": "devient /dəvjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 aventure /avɑ̃tyʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Un papillon la ramène à la fenêtre.",
+      "mnemonic": "声音梗：un，帕皮扬，拉，拉梅讷，啊拉，弗内特儿。 脑内电影：蝴蝶扇着像花帕的翅膀，把她拉上背；越过一颗梅子，最后稳稳停回窗边，窗帘成了降落伞。",
+      "rule_memory": "papillon /papijɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 ramène /ʁamɛn/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "S29": [
+    {
+      "fr": "Riley a mal au genou.",
+      "mnemonic": "声音梗：Riley，啊，马勒，哦，热努（genou）。 脑内电影：Riley抱着膝盖啊地叫了一声，旁边的小马赶忙拿来热毛巾；膝盖疼得他连玩具车都追不上。",
+      "rule_memory": "genou /ʒənu/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Son père a versé des larmes de joie.",
+      "mnemonic": "声音梗：松，佩儿，啊，韦儿塞；德，拉儿姆，德，抓（joie）。 脑内电影：爸爸戴着松枝帽，喜得像往外倒水一样流泪；泪珠落进快乐的小碗，他边擦边笑，原来是高兴哭了。",
+      "rule_memory": "père /pɛʁ/：è 对应较开的前元音 /ɛ/。 versé /vɛʁse/：é 对应较闭的前元音 /e/。 joie /ʒwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Il ose enfin dire ce qu’il ressent.",
+      "mnemonic": "声音梗：衣儿，哦兹，昂凡，迪儿；瑟，基儿，热桑。 脑内电影：他哦了一声，终于放下挡脸的扇子；鼓足勇气开口，把心里像热桑葚一样酸甜的感受全说出来。",
+      "rule_memory": "qu’il /kil/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 ressent /ʁəsɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S30": [
+    {
+      "fr": "Cette photo rappelle un voyage à Freya.",
+      "mnemonic": "声音梗：塞特，佛托，拉佩儿；un，哇雅日，啊，Freya。 脑内电影：这张照片从相册跳出来拉住Freya的袖子；照片里的旅行车哇地开动，让她想起那一次快乐旅行。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle se sent nostalgique en regardant son ancienne maison.",
+      "mnemonic": "声音梗：诶儿，瑟桑，nostalgique；昂，热嘎儿当，松，昂西耶讷，梅宗。 脑内电影：她抱着桑叶靠垫看旧家的照片，眼前慢慢浮出旧屋和松树；梅子落在窗台，她越看越怀念以前的家。",
+      "rule_memory": "sent /sɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 nostalgique /nɔstalʒik/：qu 在这个词里读 /k/，u 不另发元音。 regardant /ʁəɡaʁdɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Son père accroche les images dans le couloir.",
+      "mnemonic": "声音梗：松，佩儿，阿克罗什；勒，衣马日，当，勒，库鲁哇儿。 脑内电影：爸爸戴松枝帽，踩着小凳把照片挂进走廊；照片里的小马像在跑，一路挂过去，走廊变成回忆赛道。",
+      "rule_memory": "père /pɛʁ/：è 对应较开的前元音 /ɛ/。 accroche /akʁɔʃ/：ch 在这个词里读 /ʃ/，持续送气。 couloir /kulwaʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "S31": [
+    {
+      "fr": "Caleb veut faire un don à l’association.",
+      "mnemonic": "声音梗：Caleb veut faire un don à l’association：咚，想把钱投给协会。 脑内电影：Caleb抱着捐款罐，想把硬币咚地投进去；协会门口的大篮子张开口等着，他正准备为协会捐款。",
+      "rule_memory": "don /dɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 l’association /lasosjasjɔ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Le perroquet répète quelques mots.",
+      "mnemonic": "声音梗：勒，佩罗凯；雷佩特，quelques，莫。 脑内电影：鹦鹉佩着一把小钥匙，雷鸣般重复几个词；主人只说一次，它就把那几个词一遍遍喊回来。",
+      "rule_memory": "perroquet /pɛʁokɛ/：qu 在这个词里读 /k/，u 不另发元音。 répète /ʁepɛt/：é 为 /e/，è 为 /ɛ/；t 发音，最后 e 不另成音节。 quelques /kɛlkə/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Il n’a pas encore choisi son animal.",
+      "mnemonic": "声音梗：Il n’a pas encore choisi son animal：拿帕擦汗，刷子旁还没选。 脑内电影：他拿帕子擦汗，刷子旁的小松鼠和小猫排好队；他看看这只又看看那只，仍没有选好自己的动物。",
+      "rule_memory": "choisi /ʃwazi/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "S32": [
+    {
+      "fr": "Oliver croit qu’une sorcière se fait passer pour Julie.",
+      "mnemonic": "声音梗：Oliver croit qu’une sorcière se fait passer pour Julie：可颂旁，他以为女巫假扮。 脑内电影：Oliver咬着可颂，看见来喝茶的Julie，就以为女巫把扫帚藏好假扮成她；他盯着对方寻找魔法破绽。",
+      "rule_memory": "croit /kʁwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 qu’une /kyn/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 sorcière /sɔʁsjɛʁ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "En réalité, elle trouve le thé mauvais.",
+      "mnemonic": "声音梗：昂，雷阿利忒；诶儿，特鲁夫，勒，忒，莫韦。 脑内电影：她端起茶哦了一声，实际只是尝到一口难喝的茶；皱着脸把茶杯推远，嘴里的苦味让眉毛打了结。",
+      "rule_memory": "réalité /ʁealite/：é 对应较闭的前元音 /e/。 trouve /tʁuv/：ou 在这个词里读 /u/，是后圆唇音。 thé /te/：th 在这个词中为 /t/，不读英语 /θ/；é 为 /e/。"
+    },
+    {
+      "fr": "Julie lui montre des photos de voyage.",
+      "mnemonic": "声音梗：Julie，吕伊，蒙特儿；德，佛托，德，哇雅日。 脑内电影：Julie给他展示旅行照片，一张张从手里蹦出来；照片中的旅行车哇地开过山海，他凑近看得眼睛发亮。",
+      "rule_memory": "montre /mɔ̃tʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "S33": [
+    {
+      "fr": "Amy emporte son parapluie à l’école.",
+      "mnemonic": "声音梗：Amy，昂波儿特，松，帕拉普吕伊，啊，雷科勒。 脑内电影：Amy扛着伞穿过松树旁，伞啪啦一开像大花；她带伞走进学校，书包和伞一起在门口抖水。",
+      "rule_memory": "emporte /ɑ̃pɔʁt/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 l’école /lekɔl/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Un baromètre sert à mesurer la pression de l’air.",
+      "mnemonic": "声音梗：un，巴罗梅特儿；瑟儿，啊，默叙雷，拉，普雷雄，德，莱儿。 脑内电影：气压计像戴着巴掌帽的小裁判，认真测空气的压力；空气坐上跷跷板，指针跟着挪，测量结果一目了然。",
+      "rule_memory": "baromètre /baʁomɛtʁ/：è 对应较开的前元音 /ɛ/。 pression /pʁɛsjɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle cherche des livres pour en savoir plus.",
+      "mnemonic": "声音梗：诶儿，谢儿什，德，利弗儿；普儿，昂，撒哇儿，噗吕。 脑内电影：她边谢边找书，书架里的书像礼物排队；为了多了解一些，她扑到书桌前，一本接一本认真翻看。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 pour /puʁ/：ou 为 /u/，r 发音。 savoir /savwaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "S34": [
+    {
+      "fr": "Marty collectionne les emballages de chocolat.",
+      "mnemonic": "声音梗：Marty，科莱克雄；勒，昂巴拉日，德，绍科拉。 脑内电影：Marty收集巧克力包装，吃完就把花纸展开，像给巧克力开服装展；纸包装排成一列，谁也不许扔。",
+      "rule_memory": "collectionne /kɔlɛksjɔn/：词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 emballages /ɑ̃balaʒ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 chocolat /ʃokola/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Il colle le premier dans un carnet neuf.",
+      "mnemonic": "声音梗：衣儿，科勒，勒，普勒米耶；当，un，卡儿内，讷夫。 脑内电影：他把第一张包装纸涂好胶，贴进崭新的小本子；卡车形书签帮忙压平，新本第一页终于有了藏品。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Les ballons prennent trop de place dans sa chambre.",
+      "mnemonic": "声音梗：勒，巴隆，普雷讷，特罗，德普拉丝；当，撒，香布儿。 脑内电影：房间里的球噗地滚来，挤满地板又占床；他撒开手也找不到站脚处，球实在占了太多地方。",
+      "rule_memory": "ballons /balɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 chambre /ʃɑ̃bʁ/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "S35": [
+    {
+      "fr": "Lucy enseigne à la classe comment dessiner un ourson.",
+      "mnemonic": "声音梗：Lucy，昂塞涅，啊拉，克拉丝；科芒，得西内，un，乌儿松。 脑内电影：Lucy站在全班前，先画圆脑袋再画耳朵；画出来的小熊抱着松果点头，全班照她的方法学画小熊。",
+      "rule_memory": "enseigne /ɑ̃sɛɲ/：gn 在这个词里读 /ɲ/，不拆成 g 和 n。 ourson /uʁsɔ̃/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Colin plie une feuille pour fabriquer un avion.",
+      "mnemonic": "声音梗：Colin，普利，une feuille；普儿，法布里凯，un，avion。 脑内电影：Colin把一张纸折来折去，扑地压平机翼；他为了做出飞机认真折纸，纸尖像飞机鼻子一样翘起来。",
+      "rule_memory": "Colin /kolɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pour /puʁ/：ou 为 /u/，r 发音。 fabriquer /fabʁike/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Ensuite, les élèves reprennent leur cours de mathématiques.",
+      "mnemonic": "声音梗：昂叙伊特，勒，诶莱夫，热普雷讷；勒儿，库儿，德，马忒马蒂克。 脑内电影：活动结束，学生们把画笔收回盒子，再捧起数学书；一只小马抱着算盘提醒大家继续上数学课。",
+      "rule_memory": "élèves /elɛv/：é 对应较闭的前元音 /e/。 cours /kuʁ/：ou 在这个词里读 /u/，是后圆唇音。 mathématiques /matematik/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "S36": [
+    {
+      "fr": "Edward remarque une trace de graisse.",
+      "mnemonic": "声音梗：Edward，热马儿克；une，特拉丝，德，格雷丝。 脑内电影：Edward停下来热切地看，地上有一道油脂痕迹；油印像滑梯一路发亮，他蹲下顺着痕迹仔细观察。",
+      "rule_memory": "remarque /ʁəmaʁk/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Le chien dort près du gigot d’agneau.",
+      "mnemonic": "声音梗：勒，香，朵儿；普雷， dü，鸡狗，达涅哦。 脑内电影：小狗香香地睡着，旁边摆着一只大羊腿；它梦里追着鸡跑，鼻子却始终朝向羊腿，睡得直流口水。",
+      "rule_memory": "chien /ʃjɛ̃/：ch 在这个词里读 /ʃ/，持续送气。 près /pʁɛ/：è 对应较开的前元音 /ɛ/。 d’agneau /danjo/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "La cuisinière découvre enfin le coupable.",
+      "mnemonic": "声音梗：拉，屈伊兹涅儿，得库弗儿，昂凡；勒，库帕布勒。 脑内电影：厨娘提着锅铲掀开餐布，终于发现偷吃的家伙；它嘴边还沾着肉汁，躲在小锅旁也再藏不住了。",
+      "rule_memory": "cuisinière /kyizinjɛʁ/：è 对应较开的前元音 /ɛ/。 découvre /dekuvʁ/：ou 在这个词里读 /u/，是后圆唇音。 coupable /kupabl/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "S37": [
+    {
+      "fr": "Pour elle, ce petit exercice, c’est du gâteau.",
+      "mnemonic": "声音梗：普儿，诶儿，瑟，珀蒂，exercice；塞， dü，嘎托。 脑内电影：她看见小练习，轻轻一碰就做完，像切蛋糕那样简单；蛋糕嘎地弹出庆祝，提醒这是轻而易举的比喻。",
+      "rule_memory": "Pour /puʁ/：ou 为 /u/，r 发音。"
+    },
+    {
+      "fr": "Emma mime un chat qui dort.",
+      "mnemonic": "声音梗：Emma，咪姆，un，沙，基，朵儿。 脑内电影：Emma咪咪叫着蹲下来，学小猫团成一团；沙色靠垫一抱，眼睛闭上，连呼噜都模仿得像真的睡猫。",
+      "rule_memory": "chat /ʃa/：ch 为 /ʃ/；词尾 t 不读。 qui /ki/：qu 为 /k/，u 不另读；i 为 /i/。"
+    },
+    {
+      "fr": "Ses camarades devinent le sens de l’expression.",
+      "mnemonic": "声音梗：塞，卡马拉德，德维讷；勒桑丝，德，莱克斯普雷雄。 脑内电影：同学们围成圈，卡车玩具传到谁手里谁来猜；看过动作后他们都猜出表达的意思，笑着互相击掌。",
+      "rule_memory": "sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 l’expression /lɛkspʁɛsjɔ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "S38": [
+    {
+      "fr": "Toby échange sa voiture contre un T-shirt.",
+      "mnemonic": "声音梗：Toby，诶香日，撒，哇叙儿；孔特儿，un，踢恤。 脑内电影：Toby闻到香气，把自己的玩具汽车递过去；对方递回一件T恤，两人交换成功，汽车还在衣袖里鸣笛。",
+      "rule_memory": "échange /eʃɑ̃ʒ/：ch 在这个词里读 /ʃ/，持续送气。 voiture /vwatyʁ/：oi 为 /wa/，u 为 /y/，r 发音。 contre /kɔ̃tʁ/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Les voisins prêtent des tables aux enfants.",
+      "mnemonic": "声音梗：勒，哇赞，普雷特；德，塔布勒，哦，昂凡。 脑内电影：邻居们哇地搬出几张桌子，稳稳借给孩子们；孩子铺好纸准备活动，桌腿像小队伍一样站得整整齐齐。",
+      "rule_memory": "voisins /vwazɛ̃/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Le groupe fait un don à un programme pour les enfants.",
+      "mnemonic": "声音梗：勒，格鲁普，费，un，咚；啊，un，普罗格拉姆，普儿，勒，昂凡。 脑内电影：小组围成圆圈，把捐款咚地放进罐里；罐子送到儿童项目，变成孩子们的新书和球，大家笑着鼓掌。",
+      "rule_memory": "groupe /ɡʁup/：ou 在这个词里读 /u/，是后圆唇音。 don /dɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pour /puʁ/：ou 为 /u/，r 发音。"
+    }
+  ],
+  "S39": [
+    {
+      "fr": "La tortue porte une île sur sa carapace.",
+      "mnemonic": "声音梗：拉，托儿 dü，波儿特，une，衣儿；叙儿，撒，卡拉帕丝。 脑内电影：乌龟托着一座小岛慢慢走，岛上的椅子纹丝不动；它撒开小腿，甲壳上的小卡车还以为自己上了渡船。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elena présente une théière venue de Russie.",
+      "mnemonic": "声音梗：Elena，普雷赞特，une，忒耶儿；弗纽，德，吕西。 脑内电影：Elena介绍一把俄罗斯来的茶壶，壶盖像小礼帽；茶壶一路旅行过来，喷出的茶香也像在挥手打招呼。",
+      "rule_memory": "présente /pʁezɑ̃t/：é 为 /e/，元音之间 s 为 /z/，en 为 /ɑ̃/；t 发音。 théière /tejɛʁ/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Carter veut créer son propre livre illustré.",
+      "mnemonic": "声音梗：Carter veut créer son propre livre illustré：想画松树和小卡车，做自己的书。 脑内电影：Carter想创作自己的图画书，脑中先画一棵松树再画小卡车；想象书页翻动时图画跑出，全是自己的作品。",
+      "rule_memory": "créer /kʁee/：é 对应较闭的前元音 /e/。 illustré /ilystʁe/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "S40": [
+    {
+      "fr": "Marshall fait la vaisselle avec soin.",
+      "mnemonic": "声音梗：Marshall，费，拉，韦塞勒；阿韦克，苏安。 脑内电影：Marshall认真洗碗，一只只碗泡着细泡泡；他轻轻擦净再摆好，连滑溜溜的小勺都得到细心照顾。",
+      "rule_memory": "soin /swɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Jennie passe l’aspirateur dans le salon.",
+      "mnemonic": "声音梗：Jennie，帕丝，拉斯皮拉特儿；当，勒，撒隆。 脑内电影：Jennie推着吸尘器穿过客厅，帕子跟着飘；沙发下的灰尘排队被吸进去，客厅地毯干净得能打滚。",
+      "rule_memory": "salon /salɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ophelia s’occupe du linge pendant que son père nettoie les fenêtres.",
+      "mnemonic": "声音梗：Ophelia，索屈普， dü，兰日；庞当克，松佩儿，内托哇，勒，弗内特儿。 脑内电影：Ophelia照管衣物，把衬衣折成小方块；同时戴松枝帽的爸爸擦窗，父女两边忙，阳光照着干净衣服。",
+      "rule_memory": "linge /lɛ̃ʒ/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pendant /pɑ̃dɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    }
+  ],
+  "T01": [
+    {
+      "fr": "Bonjour, Madame Chen.",
+      "mnemonic": "声音梗：蹦入儿（bonjour），马达姆，Chen陈女士！ 脑内电影：我蹦进咖啡馆，陈女士正扶着打转的马达杯；我赶忙站稳，笑着向她说您好，杯里的咖啡也晃着打招呼。",
+      "rule_memory": "Bonjour /bɔ̃ʒuʁ/：on 为 /ɔ̃/，j 为 /ʒ/，ou 为 /u/；r 发音。 Chen /ʃɛn/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Bonsoir, Monsieur Martin.",
+      "mnemonic": "声音梗：蹦苏哇儿（bonsoir），默修，Martin马丁！ 脑内电影：晚上我蹦到路灯下，看见马丁先生正在默默修自行车；我挥手向他说晚上好，车铃叮当回应。",
+      "rule_memory": "Bonsoir /bɔ̃swaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 Martin /maʁtɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Une soupe et un thé, s’il vous plaît.",
+      "mnemonic": "声音梗：Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。 脑内电影：我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+      "rule_memory": "soupe /sup/：ou 在这个词里读 /u/，是后圆唇音。 thé /te/：th 在这个词中为 /t/，不读英语 /θ/；é 为 /e/。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Le gâteau, c’est combien ?",
+      "mnemonic": "声音梗：勒，嘎托；塞，孔边（combien）？ 脑内电影：蛋糕嘎地托起自己，我凑近看它有多大；手指摸到钱包的小孔，问老板这块蛋糕要多少钱。",
+      "rule_memory": "combien /kɔ̃bjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Deux jus, ça fait huit euros.",
+      "mnemonic": "声音梗：德，橘（jus）；撒，费，üit，欧罗。 脑内电影：两杯果汁橘香扑鼻，老板把八枚一欧元的钱摆成花；撒开的硬币告诉我，两杯总共八欧元。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Bonne nuit, Léa. À demain !",
+      "mnemonic": "声音梗：波讷，nuit；Léa，啊，德曼！ 脑内电影：我抱着波点睡帽祝Léa晚安，她缩进软被子；门外的小熊慢慢挥手，约好明天再见。",
+      "rule_memory": "Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。"
+    }
+  ],
+  "T02": [
+    {
+      "fr": "Il y a une pharmacie près de la gare.",
+      "mnemonic": "声音梗：衣里啊，une，法儿马西；普雷，德拉，嘎儿。 脑内电影：我沿着小马留下的蹄印找药店，发现它就在车站附近；药瓶们在门口排队，小火车还在旁边鸣笛。",
+      "rule_memory": "près /pʁɛ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Où sont les toilettes ?",
+      "mnemonic": "声音梗：乌，松，勒，托瓦莱特？ 脑内电影：我抱着乌龟在松树旁着急转圈，寻找厕所；转到屋后看见好多扇门，只好开口问厕所到底在哪里。",
+      "rule_memory": "sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 toilettes /twalɛt/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Continuez tout droit jusqu’au pont.",
+      "mnemonic": "声音梗：孔蒂涅，图，杜瓦， ü斯科，蓬。 脑内电影：我沿路继续一直走，小兔用长胡萝卜指着正前方；直到蓬松小桥出现才停，途中一步也没拐弯。",
+      "rule_memory": "Continuez /kɔ̃tinye/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 tout /tu/：ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。 droit /dʁwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Tournez à gauche après le musée.",
+      "mnemonic": "声音梗：图儿内，啊，狗什；阿普雷，勒，musée。 脑内电影：我让玩具小车先经过博物馆，再到小狗站的地方左转；小狗爪子向左伸，示范过了博物馆才左转。",
+      "rule_memory": "Tournez /tuʁne/：ou 在这个词里读 /u/，是后圆唇音。 gauche /ɡoʃ/：ch 在这个词里读 /ʃ/，持续送气。 après /apʁɛ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "La banque est en face du cinéma.",
+      "mnemonic": "声音梗：拉，邦克，诶，昂，法丝， dü，西内马。 脑内电影：银行像大钱罐站在路一边，电影院像大爆米花桶站在对面；两边隔街互相挥手，位置一眼就看明白。",
+      "rule_memory": "banque /bɑ̃k/：qu 在这个词里读 /k/，u 不另发元音。 cinéma /sinema/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "C’est au numéro cinquante et un.",
+      "mnemonic": "声音梗：塞，哦，纽梅罗；cinquante et un，五十一门牌！ 脑内电影：我捧着牛奶杯寻找门牌，数到五十后再往前一步；五十一号门开成一只笑脸，位置就在这个门牌下。",
+      "rule_memory": "numéro /nymeʁo/：u 为 /y/、é 为 /e/、o 为 /o/，三个元音位置。 cinquante /sɛ̃kɑ̃t/：qu 在这个词里读 /k/，u 不另发元音。"
+    }
+  ],
+  "T03": [
+    {
+      "fr": "Il est six heures et demie.",
+      "mnemonic": "声音梗：衣儿，诶，西瑟儿，诶，德米。 脑内电影：六只小西瓜围着钟表，半块米糕躺在旁边；大钟指向六点半，我赶紧把六只瓜和半块糕记在一起。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Le cours commence à neuf heures moins le quart.",
+      "mnemonic": "声音梗：勒，库儿，科芒丝，啊，讷弗儿；莫安，勒，卡儿。 脑内电影：课堂的小鼓准备敲响，九点钟前小卡车搬走一刻钟；钟表退到八点四十五，课程正是在这个时间开始。",
+      "rule_memory": "cours /kuʁ/：ou 在这个词里读 /u/，是后圆唇音。 moins /mwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 quart /kaʁ/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Je travaille mercredi.",
+      "mnemonic": "声音梗：热，特拉瓦伊，梅儿克勒迪。 脑内电影：我穿好工作围裙，拉着玩具娃娃走进办公室；桌上的周三格子放着梅子，提醒我这周三要工作。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je ne travaille pas le mercredi.",
+      "mnemonic": "声音梗：热，讷，特拉瓦伊，帕，勒，梅儿克勒迪。 脑内电影：每周三，娃娃拉我去工作，我都拿帕子盖好电脑；日历上的每个周三都有梅子，我这天固定不工作。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous finissons à dix-huit heures.",
+      "mnemonic": "声音梗：努，菲尼松，啊，迪兹üit，儿。 脑内电影：我们努着嘴收好工具，松鼠把最后一颗果放好；钟到十八点，大家一起结束工作，拍掌回家。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 finissons /finisɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Quel jour est libre ?",
+      "mnemonic": "声音梗：凯儿，入儿，诶，利布儿？ 脑内电影：我抱着空日历去问朋友，哪一天能一起玩；小布袋里装着玩具，等选好有空的那天就出发。",
+      "rule_memory": "Quel /kɛl/：qu 在这个词里读 /k/，u 不另发元音。 jour /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "C’est le numéro quatre-vingt-douze.",
+      "mnemonic": "声音梗：塞，勒，纽梅罗；卡特儿，万，杜兹。 脑内电影：牛奶盒上的号码让小卡车停下：九十二号到了；九个气球和两只鸭子守在门口，帮我牢牢记住号码。",
+      "rule_memory": "numéro /nymeʁo/：u 为 /y/、é 为 /e/、o 为 /o/，三个元音位置。 quatre-vingt-douze /katʁvɛ̃duz/：ou 在这个词里读 /u/，是后圆唇音。"
+    }
+  ],
+  "T04": [
+    {
+      "fr": "Salut, Zoé ! Tu vas bien ?",
+      "mnemonic": "声音梗：Salut Zoé，Tu vas bien：撒手招呼，玉兔也问好吗？ 脑内电影：我向Zoé撒开手打招呼，玉兔也抱着小瓦罐探出头；我笑着问她最近好吗，她把笑脸贴到瓦罐边。",
+      "rule_memory": "Zoé /zɔe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "On déjeune ensemble samedi ?",
+      "mnemonic": "声音梗：昂，得热讷，昂桑布勒，桑姆迪？ 脑内电影：我们把热午饭摆到桑树下，两张凳子挨在一起；我指着周六日历邀请朋友，那天一起吃午饭好吗。",
+      "rule_memory": "déjeune /deʒøn/：é 对应较闭的前元音 /e/。 ensemble /ɑ̃sɑ̃bl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Samedi, je travaille jusqu’à midi.",
+      "mnemonic": "声音梗：桑姆迪，热，特拉瓦伊， ü斯卡，米迪。 脑内电影：周六我拉着工具箱工作，桌旁米粒钟慢慢走；到中午十二点才放下工具，米饭这时才端上桌。",
+      "rule_memory": "jusqu’à /ʒyska/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Alors, à midi et demi ?",
+      "mnemonic": "声音梗：阿洛儿，啊，米迪，诶，德米？ 脑内电影：我哦了一声，搬出午餐钟，在十二点旁添半碗米；抬头问朋友，那么改约十二点半怎么样。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Le restaurant est à côté de l’église.",
+      "mnemonic": "声音梗：勒，雷斯托朗，诶，啊，科忒，德，雷格利兹。 脑内电影：餐馆的烤面包香飘到隔壁教堂，钟声又飘回来；我在两扇相邻的门之间站好，餐馆就在教堂旁边。",
+      "rule_memory": "côté /kote/：é 对应较闭的前元音 /e/。 l’église /leɡliz/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Tournez à droite aux feux.",
+      "mnemonic": "声音梗：图儿内，啊，杜瓦特，哦，弗。 脑内电影：小车一路开到红绿灯前，司机嘟一下喇叭再向右转；灯上的小风车挥手，提醒转弯就在这个路口。",
+      "rule_memory": "Tournez /tuʁne/：ou 在这个词里读 /u/，是后圆唇音。 droite /dʁwat/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "T05": [
+    {
+      "fr": "J’ai une réservation pour deux nuits.",
+      "mnemonic": "声音梗：热，une，雷泽儿瓦雄；普儿，德，nuit。 脑内电影：我拿出预订凭证，旅馆的娃娃服务员点头；枕头旁放着两个月亮，我订好的房间可以住两晚。",
+      "rule_memory": "réservation /ʁezɛʁvasjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。 pour /puʁ/：ou 为 /u/，r 发音。"
+    },
+    {
+      "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+      "mnemonic": "声音梗：热，马佩儿，Lin林；撒，塞克里，L-I-N。 脑内电影：我抱着小马介绍自己叫林，再把L、I、N三块积木按顺序摆好；小马一边点头，一边看清名字怎么拼。",
+      "rule_memory": "Lin /lɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 s’écrit /sekʁi/：se 的 e 省去；é 为 /e/，词尾 t 不读。"
+    },
+    {
+      "fr": "Avez-vous un emplacement en août ?",
+      "mnemonic": "声音梗：Avez-vous un emplacement en août：啊，乌龟芒果，八月想扎帐篷。 脑内电影：我推着帐篷问营地管理员，八月有没有空营位；一颗芒果躺在待搭的帐篷里，小乌龟也等着入住。",
+      "rule_memory": "Avez-vous /avevu/：avez /ave/ + vous /vu/；连字符表示倒装，不单独发音。 emplacement /ɑ̃plasmɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Le petit déjeuner est compris ?",
+      "mnemonic": "声音梗：勒，珀蒂，得热讷，诶，孔普里？ 脑内电影：我指着热早餐和房价单问，早餐包含吗；小土豆厨师把早餐往房间托盘里推，又停下来等答复。",
+      "rule_memory": "déjeuner /deʒøne/：é 对应较闭的前元音 /e/。 compris /kɔ̃pʁi/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous avons deux belles chambres.",
+      "mnemonic": "声音梗：努，阿翁，德，贝勒，香布儿。 脑内电影：我们努着嘴推开两间漂亮卧室，贝壳灯一间一个；柔软床铺香香的，大家得意地介绍这两个卧室。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 chambres /ʃɑ̃bʁ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "La chambre coûte deux cents euros.",
+      "mnemonic": "声音梗：拉，香布儿，库特；德，桑，欧罗。 脑内电影：房间香香的，床上却铺着桑叶做的两张一百欧元大钞；我看清价格，这间房要花两百欧元。",
+      "rule_memory": "chambre /ʃɑ̃bʁ/：ch 在这个词里读 /ʃ/，持续送气。 cents /sɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je prends l’escalier jusqu’au premier étage.",
+      "mnemonic": "声音梗：热，普朗，莱斯卡利耶； ü斯科，普勒米耶，诶塔日。 脑内电影：我走楼梯，鞋子扑扑踩过每一级；到地面层上面第一层才停，那就是法国的premier étage，中文常说的二楼。",
+      "rule_memory": "jusqu’au /ʒysko/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 étage /etaʒ/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "T06": [
+    {
+      "fr": "J’ai vingt-sept ans.",
+      "mnemonic": "声音梗：热，vingt-sept，昂；二十七支生日烛！ 脑内电影：我生日时捧着二十七根蜡烛，七根挤在二十根旁边；大家欢呼，我二十七岁，蛋糕差点被蜡烛挤没。",
+      "rule_memory": "vingt-sept /vɛ̃tsɛt/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 ans /ɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle est canadienne et habite à Québec.",
+      "mnemonic": "声音梗：诶儿，诶，卡纳蒂耶讷，诶，阿比特，啊，凯贝克。 脑内电影：她戴着加拿大枫叶帽，抱着地图介绍自己；地图上的小屋立在魁北克市，她是加拿大人，也住在那里。",
+      "rule_memory": "Québec /kebɛk/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Le frère de Nora est infirmier.",
+      "mnemonic": "声音梗：勒，弗雷儿，德，Nora，诶，昂菲儿米耶。 脑内电影：Nora的哥哥把护理帽戴正，温柔地递来一杯米汤；他是护士，连玩具熊的绷带也包得整整齐齐。",
+      "rule_memory": "frère /fʁɛʁ/：è 对应较开的前元音 /ɛ/。 infirmier /ɛ̃fiʁmje/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Sa mère travaille dans une école.",
+      "mnemonic": "声音梗：撒，梅儿，特拉瓦伊；当，une，诶科勒。 脑内电影：妈妈放好梅子点心，拉开学校办公室的门开始工作；孩子看见她忙着整理课本，知道母亲在学校上班。",
+      "rule_memory": "mère /mɛʁ/：è 为 /ɛ/，r 发音；最后 e 不另成音节。 école /ekɔl/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Nous nous levons à sept heures.",
+      "mnemonic": "声音梗：努努，勒翁，啊，塞特儿。 脑内电影：我们努努嘴从被窝爬起来，闹钟的七只小手一起敲铃；七点一到，大家把枕头推走准备起床。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 levons /ləvɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je m’habille avant le petit déjeuner.",
+      "mnemonic": "声音梗：热，马比，阿旺，勒，珀蒂，得热讷。 脑内电影：我跟小马比谁先穿好衣服，早餐香味已经飘来；赶在热早餐端上桌前，我把衣服裤子全部穿好。",
+      "rule_memory": "avant /avɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 déjeuner /deʒøne/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Mon amie parle trois langues.",
+      "mnemonic": "声音梗：蒙，阿米，帕儿勒，特鲁瓦，朗格。 脑内电影：我的女性朋友抱着米袋聊天，三个不同颜色的话泡轮流蹦出；她能说三种语言，连米袋都听得点头。",
+      "rule_memory": "trois /tʁwa/：oi 为 /wa/，词尾 s 单独不读。 langues /lɑ̃ɡ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T07": [
+    {
+      "fr": "Je préfère cette tasse bleue.",
+      "mnemonic": "声音梗：热，普雷费儿，塞特，塔丝，布勒。 脑内电影：我把最喜欢的蓝杯子放到小塔顶，旁边别的杯子排队争宠；我依然抱紧这个蓝杯，更喜欢它。",
+      "rule_memory": "préfère /pʁefɛʁ/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Cet objet coûte douze euros.",
+      "mnemonic": "声音梗：塞特，哦布热，库特，杜兹，欧罗。 脑内电影：我指着那件物品，店主拿出十二枚欧元；物品咕嘟一声坐在钱堆上，价格正好十二欧元。",
+      "rule_memory": "douze /duz/：ou 为 /u/；z 发 /z/，e 不另成音节。"
+    },
+    {
+      "fr": "Ces robes sont belles ; je prends celle-là.",
+      "mnemonic": "声音梗：塞，罗布，松，贝勒；热，普朗，塞拉。 脑内电影：漂亮连衣裙挂成一排，裙摆像贝壳闪光；我看了一圈伸手选那一件，把它拉到自己身前比一比。",
+      "rule_memory": "sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je voudrais un kilo de pommes.",
+      "mnemonic": "声音梗：热，乌德雷，un，鸡啰（kilo），德，蓬。 脑内电影：我向摊主礼貌要一公斤苹果，一只小鸡在秤边啰嗦；苹果蓬地跳进袋子，直到秤显示一公斤才停。",
+      "rule_memory": "voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。"
+    },
+    {
+      "fr": "Vous avez des poires ? J’en prends trois.",
+      "mnemonic": "声音梗：乌，阿韦，德，普哇儿？让，普朗，特鲁瓦。 脑内电影：我问摊主有没有梨，梨子扑哇地探出篮子；我伸手挑出三个，让它们排成一列，准备买这三个。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 poires /pwaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 J’en /ʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je n’ai pas de monnaie.",
+      "mnemonic": "声音梗：热，内，帕，德，莫内。 脑内电影：我翻钱包，只有大钞没有零钱；拿帕子把钱包里外擦一遍，连一枚硬币都没找到，只好摊开手。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Je peux les essayer ?",
+      "mnemonic": "声音梗：热，peux，勒，诶塞耶？ 脑内电影：我捧着两只鞋，脚尖想诶地塞进去又停住；先礼貌问能不能试穿它们，双脚急得在凳子下摇摆。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Vous faites quelle pointure ?",
+      "mnemonic": "声音梗：乌，费特，凯儿，普安叙儿？ 脑内电影：店员扶着鞋盒，拿出脚形尺问您穿多大码；小乌龟也想测脚，结果整只身体都站到了尺子上。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 quelle /kɛl/：qu 在这个词里读 /k/，u 不另发元音。 pointure /pwɛ̃tyʁ/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T08": [
+    {
+      "fr": "Pour moi, une soupe aux légumes.",
+      "mnemonic": "声音梗：普儿，莫哇，une，苏普，哦，雷居姆。 脑内电影：我把勺子铺好，请给我一份蔬菜汤；胡萝卜和青菜在汤里咕嘟跳舞，雷声一样响的小肚子终于有盼头。",
+      "rule_memory": "Pour /puʁ/：ou 为 /u/，r 发音。 moi /mwa/：oi 为 /wa/，不是 o、i 两个分离元音。 soupe /sup/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Je vais prendre le poisson.",
+      "mnemonic": "声音梗：热，韦，普朗德儿，勒，普哇松。 脑内电影：我准备点鱼，把菜单上的鱼圈出来；想象那条鱼扑哇地竖起松树形尾巴，我还在向服务员报菜名。",
+      "rule_memory": "prendre /pʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 poisson /pwasɔ̃/：oi 为 /wa/，ss 为 /s/，on 为 /ɔ̃/。"
+    },
+    {
+      "fr": "Qu’est-ce que vous avez comme dessert ?",
+      "mnemonic": "声音梗：凯斯，克，乌，阿韦，科姆，得瑟儿？ 脑内电影：我抱着空甜点盘问服务员有什么甜点；乌龟推来菜单，蛋糕、布丁和冰淇淋在上面轮流探头。",
+      "rule_memory": "Qu’est-ce /kɛs/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Pouvez-vous nous apporter deux verres ?",
+      "mnemonic": "声音梗：普韦乌，努，阿波儿忒，德，韦儿？ 脑内电影：我们努着嘴看空桌子，礼貌请服务员拿两个杯子；他端来两只圆杯，杯口对碰一下像在笑。",
+      "rule_memory": "Pouvez-vous /puvevu/：pouvez /puve/ + vous /vu/；倒装中的连字符不发声。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    },
+    {
+      "fr": "Nous n’avons plus de pain.",
+      "mnemonic": "声音梗：努，纳翁，噗吕，德，潘。 脑内电影：我们翻开面包篮，里面只剩几粒碎屑；小面包车扑空，篮底露得干干净净，我们已经没有面包了。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 n’avons /navɔ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Cette glace à la vanille est délicieuse.",
+      "mnemonic": "声音梗：Cette glace à la vanille est délicieuse：瓦碗香草冰淇淋，得了就馋。 脑内电影：我舀起香草冰淇淋，香味从瓦形小碗里冒出；尝一口眼睛立刻弯起来，连勺子都高兴地转圈说好吃。",
+      "rule_memory": "délicieuse /delisjøz/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "L’addition, s’il vous plaît.",
+      "mnemonic": "声音梗：拉蒂雄，西尔，乌，普莱。 脑内电影：吃完饭我把小梯子般折好的餐巾放下，礼貌请结账；小乌龟服务员推来账单，硬币排队等付款。",
+      "rule_memory": "L’addition /ladisjɔ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    }
+  ],
+  "T09": [
+    {
+      "fr": "Nous voudrions une chambre pour trois personnes.",
+      "mnemonic": "声音梗：努，乌德里翁，une，香布儿，普儿，特鲁瓦，佩儿松。 脑内电影：我们三个人抱着枕头到前台，想要一间三人房；房内三张香香的小床排好，每张都躺着一只松果玩偶。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 voudrions /vudʁiɔ̃/：ou 在这个词里读 /u/，是后圆唇音。 chambre /ʃɑ̃bʁ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Ma sœur est architecte.",
+      "mnemonic": "声音梗：马，瑟儿，诶，阿儿希泰克特。 脑内电影：我姐姐戴着建筑师帽，小马帮她搬尺子；她画出房屋图纸，一栋小屋照着图慢慢搭起来。",
+      "rule_memory": "architecte /aʁʃitɛkt/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Elle se réveille tôt.",
+      "mnemonic": "声音梗：诶儿，瑟，雷韦，托。 脑内电影：她一大早醒来，雷声形闹钟还没响就伸了懒腰；托盘上的早茶还在冒热气，她已经坐起来了。",
+      "rule_memory": "réveille /ʁevɛj/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je peux essayer cette veste ?",
+      "mnemonic": "声音梗：热，peux，诶塞耶，塞特，韦斯特？ 脑内电影：我抱着这件外套，袖子像小手向我招呼；我想塞进去试试，先礼貌问能不能试穿这件外套。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "J’en voudrais deux kilos.",
+      "mnemonic": "声音梗：让，乌德雷，德，鸡啰（kilos）。 脑内电影：我指着刚才说的那堆商品，礼貌要两公斤；小鸡啰嗦着盯住秤，等摊主按我的要求称好。",
+      "rule_memory": "J’en /ʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。"
+    },
+    {
+      "fr": "Je vais prendre une tarte au citron.",
+      "mnemonic": "声音梗：热，韦，普朗德儿，une，塔儿特，哦，西特隆。 脑内电影：我打算点一份柠檬馅饼，盘子像小塔托住它；柠檬香一冒出来，旁边的小西瓜都凑过来闻。",
+      "rule_memory": "prendre /pʁɑ̃dʁ/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 citron /sitʁɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Vous pouvez lui apporter une cuillère ?",
+      "mnemonic": "声音梗：乌，普韦，吕伊，阿波儿忒，une，屈伊耶儿？ 脑内电影：我指着朋友空空的甜点盘，礼貌请服务员给他拿勺子；一把小勺骑着托盘来到朋友面前，正好开吃。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 pouvez /puve/：ou 为 /u/，动词 -ez 为 /e/。 cuillère /kyijɛʁ/：è 对应较开的前元音 /ɛ/。"
+    }
+  ],
+  "T10": [
+    {
+      "fr": "Je vais à Lyon en train.",
+      "mnemonic": "声音梗：热，韦，啊，Lyon里昂，昂，特兰。 脑内电影：我背好行李坐火车去里昂，车窗里一只小狼陪着看风景；火车穿过田野，车头直朝里昂方向。",
+      "rule_memory": "Lyon /ljɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous y allons à vélo.",
+      "mnemonic": "声音梗：努，衣，阿隆，啊，韦洛。 脑内电影：我们努着嘴骑自行车去那里，衣角被风吹成小旗；车轮沿路咕噜转，目的地就在前方。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 vélo /velo/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je voudrais un aller retour pour Lille.",
+      "mnemonic": "声音梗：热，乌德雷，un，阿雷，热图儿，普儿，Lille里尔。 脑内电影：我想买去里尔的往返票，售票员把两头箭头画在同一张票上；去程的小车和回程的小车隔票互相挥手。",
+      "rule_memory": "voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。 retour /ʁətuʁ/：首个 e 为 /ə/，ou 为 /u/；r 发音。 pour /puʁ/：ou 为 /u/，r 发音。"
+    },
+    {
+      "fr": "Le train qui part à seize heures est direct.",
+      "mnemonic": "声音梗：Le train qui part à seize heures est direct：十六点啪出发，直达不用换。 脑内电影：十六点钟一到，火车啪地关门出发；我抱着行李一路坐到终点，途中一直不用换车，这班车是直达车。",
+      "rule_memory": "train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 qui /ki/：qu 为 /k/，u 不另读；i 为 /i/。"
+    },
+    {
+      "fr": "Je dois arriver avant dix-huit heures.",
+      "mnemonic": "声音梗：热，杜瓦，阿里韦，阿旺，dix-huit heures。 脑内电影：我对着车票嘟哇一声，必须在十八点前到；赶紧把小轮子装在箱底，盯着终点大钟规划出发时间。",
+      "rule_memory": "dois /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 avant /avɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ma voiture est en panne près du pont.",
+      "mnemonic": "声音梗：马，哇叙儿，诶，昂，潘，普雷， dü，蓬。 脑内电影：我的车在桥附近坏了，发动机噗地停住；小马从车窗探头，望着近处蓬蓬的桥，怎么推都走不了。",
+      "rule_memory": "voiture /vwatyʁ/：oi 为 /wa/，u 为 /y/，r 发音。 près /pʁɛ/：è 对应较开的前元音 /ɛ/。 pont /pɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "La batterie est à plat.",
+      "mnemonic": "声音梗：拉，巴特里，诶，啊，普拉。 脑内电影：电池像一块软饼啪地趴平，完全没电；我按按钮它连眼睛都不睁，充电线赶紧跑过来帮忙。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Pouvez-vous venir rapidement ?",
+      "mnemonic": "声音梗：普韦乌，弗尼儿，拉皮德芒？ 脑内电影：我抱着坏车模型打电话，问您能尽快过来吗；想象修理员拉着工具箱飞奔，芒果形轮子转得冒烟。",
+      "rule_memory": "Pouvez-vous /puvevu/：pouvez /puve/ + vous /vu/；倒装中的连字符不发声。 rapidement /ʁapidmɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T11": [
+    {
+      "fr": "J’ai mal au dos depuis ce matin.",
+      "mnemonic": "声音梗：热，马勒，哦，朵，德 pü伊，瑟，马坦。 脑内电影：从今天早上起我的背就疼，小马一碰背部我就躲；太阳越升越高，背上那块痛痛的地方还没消停。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Elle a mal aux dents.",
+      "mnemonic": "声音梗：诶儿，啊，马勒，哦，当。 脑内电影：她捂着嘴啊地叫，小马递来的硬糖也吃不了；牙齿像小锣当当地疼，她只好把糖放回盒子。",
+      "rule_memory": "dents /dɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’ai froid et j’ai soif.",
+      "mnemonic": "声音梗：热，弗鲁哇，诶，热，苏瓦夫。 脑内电影：我冷得弗地打抖，伸手抱紧围巾；嘴巴又干得像沙地，只想喝水，冷和渴一起找上门。",
+      "rule_memory": "froid /fʁwa/：oi 为 /wa/；词尾 d 不读。 soif /swaf/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "J’ai mal dormi cette nuit.",
+      "mnemonic": "声音梗：热，马勒，朵儿米，塞特，nuit。 脑内电影：昨晚我翻来翻去没睡好，小马和米粒枕头也被翻下床；月亮一整夜看着我，天亮时眼皮直打架。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous avons appelé le médecin.",
+      "mnemonic": "声音梗：努，阿翁，阿普莱，勒，梅德桑。 脑内电影：我们努着嘴拨过电话，请医生帮忙；梅子护士在桑树旁接起听筒，电话已经打过，现在我们放下话筒。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 appelé /aple/：双 p 只发一个 /p/；é 为 /e/；中间弱 e 常省去。 médecin /medəsɛ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je n’ai pas pris ce médicament.",
+      "mnemonic": "声音梗：热，内，帕，普里，瑟，梅蒂卡芒。 脑内电影：我摇头说没吃过这种药，用帕子把药瓶推回桌边；梅子形药片仍在瓶里，一颗也没被我拿走。",
+      "rule_memory": "médicament /medikamɑ̃/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Il faut demander conseil au pharmacien.",
+      "mnemonic": "声音梗：衣儿，福，德芒德，孔塞伊，哦，法儿马香。 脑内电影：我捧着药盒需要咨询药剂师，小福娃带路；到药房后把问题一条条问清，药剂师扶着小马眼镜听。",
+      "rule_memory": "demander /dəmɑ̃de/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 conseil /kɔ̃sɛj/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 pharmacien /faʁmasjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Ne prenez pas mon verre.",
+      "mnemonic": "声音梗：讷，普勒内，帕，蒙，韦儿。 脑内电影：我赶紧伸手阻止：别拿我的杯子；帕子盖住杯口，小熊只好把爪子缩回，换去拿自己的那一只。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    }
+  ],
+  "T12": [
+    {
+      "fr": "Ma sœur est arrivée hier.",
+      "mnemonic": "声音梗：马，瑟儿，诶，阿里韦，耶儿。 脑内电影：我姐姐昨天到了，小马拉着她的行李进门；昨天那页日历还留在桌上，姐姐已经把外套挂好。",
+      "rule_memory": "arrivée /aʁive/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Elles sont restées trois jours.",
+      "mnemonic": "声音梗：诶儿，松，雷斯忒，特鲁瓦，入儿。 脑内电影：她们在这里待了三天，松果日历一天翻一页；第三页翻完，她们收好三个小枕头，回味这三天。",
+      "rule_memory": "sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 restées /ʁɛste/：é 对应较闭的前元音 /e/。 trois /tʁwa/：oi 为 /wa/，词尾 s 单独不读。"
+    },
+    {
+      "fr": "Elle s’est lavé les mains.",
+      "mnemonic": "声音梗：诶儿，塞，拉韦，勒，曼。 脑内电影：她洗了手，水哗啦冲过掌心；洗完的手像两只亮亮的小贝壳，甩出的水珠还在空中跳舞。",
+      "rule_memory": "lavé /lave/：é 对应较闭的前元音 /e/。 mains /mɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je joue du violon depuis un an.",
+      "mnemonic": "声音梗：热，入， dü，维哦隆，德 pü伊，un，昂。 脑内电影：我拉小提琴已经一年，一颗米粒从去年日历跑到今年；琴弓每天继续唱，整整一年连成一条旋律。",
+      "rule_memory": "joue /ʒu/：j 为 /ʒ/，ou 为 /u/；e 不另成音节。 violon /vjolɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Nous jouons aux cartes deux fois par mois.",
+      "mnemonic": "声音梗：努，抓翁，哦，卡特，德，弗哇，帕儿，莫哇。 脑内电影：我们每月抓两次扑克牌来玩，小卡车帮忙搬牌；月历上两个固定日子都放一副牌，提醒每月两次的习惯。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 jouons /ʒwɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 fois /fwa/：oi 为 /wa/，词尾 s 不读。"
+    },
+    {
+      "fr": "Je ne vais jamais au stade.",
+      "mnemonic": "声音梗：热，讷，韦，扎梅，哦，斯塔德。 脑内电影：我从来不去体育场，扎着梅子辫的小球向我招手；我每次都摇头，沿着自己的散步路走开。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Quand j’étais enfant, je lisais le soir.",
+      "mnemonic": "声音梗：康，热忒，昂凡；热，利泽，勒，苏哇儿。 脑内电影：小时候的我躺在小床上，晚上常把书立在膝头读；窗外月亮每晚探头，陪着小小的我翻页。",
+      "rule_memory": "Quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 j’étais /ʒetɛ/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 enfant /ɑ̃fɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je lisais quand il a téléphoné.",
+      "mnemonic": "声音梗：热，利泽，康，衣儿，啊，忒雷佛内。 脑内电影：我正立着书读得入迷，他的电话突然响起来；书页还夹在手指里，另一只手已经伸向电话。",
+      "rule_memory": "quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 téléphoné /telefone/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "T13": [
+    {
+      "fr": "Avant, je prenais toujours le bus.",
+      "mnemonic": "声音梗：阿旺，热，普勒内，图入儿，勒，bü丝。 脑内电影：以前我总拿好公交卡去坐车，娃娃司机天天同一站等我；旧日历翻了一页又一页，我一直坐公交。",
+      "rule_memory": "Avant /avɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 toujours /tuʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Hier, je suis rentré à pied.",
+      "mnemonic": "声音梗：耶儿，热，suis，朗特雷，啊，皮耶。 脑内电影：昨天我这个小男孩没有乘车，踏着皮鞋一步步回家；鞋印从路口排到家门，昨天的太阳刚好落下。",
+      "rule_memory": "rentré /ʁɑ̃tʁe/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je marche tous les jours depuis un mois.",
+      "mnemonic": "声音梗：热，马儿什，图，勒，入儿，德 pü伊，un，莫哇。 脑内电影：我每天像小马一样迈步走路，已坚持了一个月；月历每天都盖一个脚印，今天还在接着走。",
+      "rule_memory": "marche /maʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 tous /tus/：ou 在这个词里读 /u/，是后圆唇音。 jours /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "J’ai eu mal à la tête hier.",
+      "mnemonic": "声音梗：热，ü，马勒，啊拉，忒特，耶儿。 脑内电影：昨天我的头疼，小马碰一下帽檐我就皱眉；昨天的日历压在枕头边，我抱着脑袋安静躺着。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Aujourd’hui, je n’ai plus mal.",
+      "mnemonic": "声音梗：哦入儿 dü伊，热，内，噗吕，马勒。 脑内电影：今天我摇摇头又伸伸胳膊，已经不疼了；昨天贴着痛点的小马贴纸退场，我高兴地出去活动。",
+      "rule_memory": "Aujourd’hui /oʒuʁdyi/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je jouais aux cartes quand elle est arrivée.",
+      "mnemonic": "声音梗：热，抓韦，哦，卡特，康，诶儿，诶，阿里韦。 脑内电影：我正抓着扑克牌准备出牌，她这时进门到达；手里的牌还悬在半空，我抬头向她打招呼。",
+      "rule_memory": "jouais /ʒwɛ/：这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 arrivée /aʁive/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Nous y sommes allés en train.",
+      "mnemonic": "声音梗：努，衣，松姆，阿雷，昂，特兰。 脑内电影：我们努着嘴挪行李，松果箱跟着从火车下来；火车票收进相册，我们已经乘火车去了那里。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 allés /ale/：é 对应较闭的前元音 /e/。 train /tʁɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T14": [
+    {
+      "fr": "Entrez et asseyez-vous, s’il vous plaît.",
+      "mnemonic": "声音梗：昂特雷，诶，阿塞耶乌；西尔，乌，普莱。 脑内电影：我请客人进门再坐下，门边的小椅子自己滑出来；乌龟端着托盘等客人坐好，礼貌地迎接到家。",
+      "rule_memory": "Entrez /ɑ̃tʁe/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 asseyez-vous /asɛjevu/：ou 在这个词里读 /u/，是后圆唇音。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Vous prendrez du thé ?",
+      "mnemonic": "声音梗：乌，普朗德雷， dü，忒？ 脑内电影：我托着茶壶问客人喝点茶吗，小乌龟举着空杯等答复；茶香轻轻飘过，客人还没决定。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 prendrez /pʁɑ̃dʁe/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 thé /te/：th 在这个词中为 /t/，不读英语 /θ/；é 为 /e/。"
+    },
+    {
+      "fr": "Non merci, j’en ai assez.",
+      "mnemonic": "声音梗：农，梅儿西；让，诶，阿塞。 脑内电影：我摇头说不了谢谢，把梅子杯拿稳；再让手掌盖住杯口，表示我已经够了，不需要继续添。",
+      "rule_memory": "Non /nɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 j’en /ʒɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Votre cuisine est plus claire que la mienne.",
+      "mnemonic": "声音梗：沃特儿，屈伊兹讷，诶，噗吕，克莱儿，克，拉，米耶讷。 脑内电影：您的厨房亮得像开了小太阳，我的厨房在对面暗一点；两只小锅互相照照，您的那边明显更明亮。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。"
+    },
+    {
+      "fr": "Cette pièce est la plus calme de la maison.",
+      "mnemonic": "声音梗：塞特，皮耶丝，诶，拉，噗吕，卡勒姆，德拉，梅宗。 脑内电影：这个房间里连小卡车都轻轻滚，家中其他房间还在叮当响；我放下梅子枕头，这里是全家最安静的一间。",
+      "rule_memory": "pièce /pjɛs/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Ce gâteau est meilleur que le mien.",
+      "mnemonic": "声音梗：瑟，嘎托，诶，梅耶儿，克，勒，米安。 脑内电影：我咬一口这个蛋糕，眉毛开心翘起来；自己的那块放在旁边，比较后承认这个蛋糕比我的更好吃。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 mien /mjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elle chante mieux que moi.",
+      "mnemonic": "声音梗：诶儿，尚特，谬，克，莫哇。 脑内电影：她一开口就唱得小鸟点头，我唱时小鸟歪脑袋；我们轮流唱同一首，她唱得比我好，我拍拍手认输。",
+      "rule_memory": "chante /ʃɑ̃t/：ch 在这个词里读 /ʃ/，持续送气。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 moi /mwa/：oi 为 /wa/，不是 o、i 两个分离元音。"
+    },
+    {
+      "fr": "Merci pour cette agréable soirée.",
+      "mnemonic": "声音梗：梅儿西，普儿，塞特，阿格雷阿布勒，苏哇雷。 脑内电影：愉快的晚间聚会结束，我抱着梅子礼物感谢主人；月亮照着笑脸，大家把今晚的快乐装进回忆袋。",
+      "rule_memory": "pour /puʁ/：ou 为 /u/，r 发音。 agréable /aɡʁeabl/：é 对应较闭的前元音 /e/。 soirée /swaʁe/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    }
+  ],
+  "T15": [
+    {
+      "fr": "Il y a du brouillard ce matin.",
+      "mnemonic": "声音梗：衣里啊， dü，布鲁雅儿，瑟，马坦。 脑内电影：今天早上的雾像白布铺满街，连小马鼻子都遮住；我掀一掀眼前的白雾，路灯变成朦胧的圆球。",
+      "rule_memory": "brouillard /bʁujaʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Il va pleuvoir cet après-midi.",
+      "mnemonic": "声音梗：衣儿，瓦，噗勒哇儿，塞特，阿普雷米迪。 脑内电影：天气娃娃举着下午的钟，乌云里水滴已经排队；我望着天空准备带伞，今天下午将要下雨。",
+      "rule_memory": "pleuvoir /pløvwaʁ/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 après-midi /apʁɛmidi/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Au printemps, je marche dans le parc.",
+      "mnemonic": "声音梗：哦，普兰坦，热，马儿什，当，勒，帕儿克。 脑内电影：春天我像小马一样慢慢走进公园，新芽从地里探头；小帕子被暖风吹起，我边散步边看春花。",
+      "rule_memory": "printemps /pʁɛ̃tɑ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 marche /maʁʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "J’aimerais visiter ce château.",
+      "mnemonic": "声音梗：热姆雷，维兹忒，瑟，沙托。 脑内电影：我看着城堡图片，想去参观这座城堡；沙做的小塔摆在桌上，我让玩具脚印沿着城堡门走一遍。",
+      "rule_memory": "château /ʃato/：eau 在这个词里合成一个 /o/。"
+    },
+    {
+      "fr": "On pourrait se retrouver devant la gare.",
+      "mnemonic": "声音梗：昂，普雷，瑟，热特鲁韦，德旺，拉，嘎儿。 脑内电影：我们商量可以在车站前碰面，把两只玩具放到站前空地；它们从两头走来，但真正的见面还等约好时间。",
+      "rule_memory": "pourrait /puʁɛ/：ou 在这个词里读 /u/，是后圆唇音。 retrouver /ʁətʁuve/：ou 在这个词里读 /u/，是后圆唇音。 devant /dəvɑ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je ne peux pas venir ; je dois travailler.",
+      "mnemonic": "声音梗：热，讷，peux，帕，弗尼儿；热，杜瓦，特拉瓦耶。 脑内电影：我拿着帕子摇头，没法前来参加；工具箱拉住我的袖口，我必须工作，只好把邀约放到一旁。",
+      "rule_memory": "dois /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Voici l’artiste qui expose ici.",
+      "mnemonic": "声音梗：哇西，拉儿蒂斯特，基，诶克斯波兹，衣西。 脑内电影：我哇地指给朋友看，这位就是在这里办展的艺术家；他站在自己的画旁，画框里还探出一只调皮小猫。",
+      "rule_memory": "Voici /vwasi/：oi 为 /wa/，c 在 i 前为 /s/。 qui /ki/：qu 为 /k/，u 不另读；i 为 /i/。"
+    },
+    {
+      "fr": "C’est le tableau que je préfère.",
+      "mnemonic": "声音梗：塞，勒，塔布洛，克，热，普雷费儿。 脑内电影：我从一排画里抱紧最喜欢的那幅，画上小塔笑弯了腰；其他画围在旁边，这一幅最合我的心意。",
+      "rule_memory": "que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 préfère /pʁefɛʁ/：é 对应较闭的前元音 /e/。"
+    }
+  ],
+  "T16": [
+    {
+      "fr": "Nous avons passé une semaine au Canada.",
+      "mnemonic": "声音梗：努，阿翁，帕塞，une，瑟曼，哦，Canada加拿大。 脑内电影：我们已在加拿大待过一周，七片枫叶分别装进七格盒子；把旅行袋打开，每格都藏着当天的小纪念。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 passé /pase/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Elle est née aux États-Unis.",
+      "mnemonic": "声音梗：Elle est née aux États-Unis：诶，她出生在星星帽医院。 脑内电影：她翻开出生相册，第一张照片就是美国的医院；小婴儿戴着星星帽，说明她出生在美国。",
+      "rule_memory": "née /ne/：é 对应较闭的前元音 /e/。 États-Unis /etazyni/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je suis rentré il y a quatre jours.",
+      "mnemonic": "声音梗：热，suis，朗特雷，衣里啊，卡特儿，入儿。 脑内电影：我这个男孩四天前已经回来，行李箱旁排着四只小卡车；四张日历从回来那天一路翻到今天。",
+      "rule_memory": "rentré /ʁɑ̃tʁe/：é 对应较闭的前元音 /e/。 quatre /katʁ/：qu 在这个词里读 /k/，u 不另发元音。 jours /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "J’habite ici depuis quatre jours.",
+      "mnemonic": "声音梗：扎比特，衣西，德 pü伊，卡特儿，入儿。 脑内电影：我住在这里已经四天，四只小卡车守着新床；日历添了四个印，我现在仍住在这间屋里。",
+      "rule_memory": "quatre /katʁ/：qu 在这个词里读 /k/，u 不另发元音。 jours /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Je n’ai pas le moral aujourd’hui.",
+      "mnemonic": "声音梗：热，内，帕，勒，莫拉勒，哦入儿 dü伊。 脑内电影：今天我心情低落，连梅子味点心也提不起劲；抱着帕子缩在沙发里，头顶的小云垂着脸陪我。",
+      "rule_memory": "aujourd’hui /oʒuʁdyi/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Je lui ai téléphoné hier.",
+      "mnemonic": "声音梗：热，吕伊，诶，忒雷佛内，耶儿。 脑内电影：昨天我已经给他打过电话，耳边还像有嘟嘟声；把昨天的电话记录收好，小话筒终于安静下来。",
+      "rule_memory": "téléphoné /telefone/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je vais les remercier.",
+      "mnemonic": "声音梗：热，韦，勒，热梅儿西耶。 脑内电影：我打算感谢他们，抱着热乎乎的梅子礼盒练习谢谢；礼物还在手里，我正准备把谢意送到他们面前。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Donne-moi ton adresse.",
+      "mnemonic": "声音梗：多讷莫哇，通，阿德雷丝。 脑内电影：我伸出手请你把地址给我，你把房屋小地图递过来；图上的小路通向你的门，我仔细收进口袋。",
+      "rule_memory": "Donne-moi /dɔnmwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 ton /tɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T17": [
+    {
+      "fr": "Je voudrais parler à Madame Roy.",
+      "mnemonic": "声音梗：热，乌德雷，帕儿雷，啊，马达姆，Roy鲁瓦。 脑内电影：我抱着电话想找鲁瓦女士讲话，小马在旁边举着听筒；我礼貌报出要找的人，等她来接电话。",
+      "rule_memory": "voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。"
+    },
+    {
+      "fr": "Puis-je laisser un message ?",
+      "mnemonic": "声音梗： pü伊热，莱塞，un，梅萨日？ 脑内电影：我举着话筒问能留口信吗，梅子形录音盒还空着；只要获准，我想说的话就能留在盒子里等对方来听。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "C’est de la part de Mei Lin, de la société Atlas.",
+      "mnemonic": "声音梗：塞，德拉，帕儿德，Mei Lin梅林，德拉，索西耶忒，Atlas。 脑内电影：梅林抱着电话自报来处，Atlas公司的小地图铺在桌上；他说清自己来自这家公司，话筒像礼貌的小耳朵认真听。",
+      "rule_memory": "Lin /lɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 société /sosjete/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Elle vient de partir en réunion.",
+      "mnemonic": "声音梗：Elle vient de partir en réunion：她刚啪地出门去开会。 脑内电影：她刚刚出发去开会，椅子还带着一点温度；抱着会议资料的身影才走到门外，会议室的桌椅在等她。",
+      "rule_memory": "vient /vjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 réunion /ʁeynjɔ̃/：é、u 分别为 /e/、/y/；ion 为 /jɔ̃/。"
+    },
+    {
+      "fr": "Je rappellerai demain matin.",
+      "mnemonic": "声音梗：热，拉佩儿雷，德曼，马坦。 脑内电影：我把电话轻轻放下，约好明天上午再打来；日历明早那一格放着小马，提醒我到时重新拿起听筒。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "Nous serons disponibles jeudi.",
+      "mnemonic": "声音梗：努，瑟隆，迪斯波尼布勒，热迪。 脑内电影：我们努着嘴把周四日历腾空，热水壶独自在那格里坐着；这表示周四会有空，可以安排见面。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 serons /səʁɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Quel jour vous conviendrait ?",
+      "mnemonic": "声音梗：凯儿，入儿，乌，孔维安德雷？ 脑内电影：我把日历摊给您看，问哪一天对您合适；小乌龟拿着圈圈笔等答复，先不急着圈下日期。",
+      "rule_memory": "Quel /kɛl/：qu 在这个词里读 /k/，u 不另发元音。 jour /ʒuʁ/：ou 在这个词里读 /u/，是后圆唇音。 vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。"
+    },
+    {
+      "fr": "Vous trouverez mon CV ci-joint.",
+      "mnemonic": "声音梗：乌，特鲁弗雷，蒙，CV塞韦，西抓安。 脑内电影：我的简历跟着邮件夹在附件里，小乌龟负责托住；您一打开附件就能找到CV，像掀开书包看见整齐的纸。",
+      "rule_memory": "Vous /vu/：ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。 trouverez /tʁuvʁe/：ou 在这个词里读 /u/，是后圆唇音。 ci-joint /siʒwɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T18": [
+    {
+      "fr": "Tu veux dîner chez nous vendredi ?",
+      "mnemonic": "声音梗：Tu veux dîner chez nous vendredi：玉兔，周五来我们家晚饭吗？ 脑内电影：我指着我们家餐桌问朋友，周五想来吃晚饭吗；玉兔在日历旁抱着碗，周五那格还等朋友点头。",
+      "rule_memory": "chez /ʃe/：ch 在这个词里读 /ʃ/，持续送气。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 vendredi /vɑ̃dʁədi/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’aimerais bien, mais je dois travailler.",
+      "mnemonic": "声音梗：热姆雷，边，梅，热，杜瓦，特拉瓦耶。 脑内电影：我很想去赴约，脚尖已经朝门口；但梅子形工作钟响起，工具箱拉住我，我还得工作。",
+      "rule_memory": "dois /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。"
+    },
+    {
+      "fr": "Il faisait froid quand nous sommes arrivés.",
+      "mnemonic": "声音梗：衣儿，弗泽，弗鲁哇，康，努，松姆，阿里韦。 脑内电影：我们到达那时冷得直打抖，松果箱上都像结了霜；一群人缩在围巾里，回想刚下车的寒冷天气。",
+      "rule_memory": "froid /fʁwa/：oi 为 /wa/；词尾 d 不读。 quand /kɑ̃/：qu 在这个词里读 /k/，u 不另发元音。 nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。"
+    },
+    {
+      "fr": "Demain, il fera plus chaud.",
+      "mnemonic": "声音梗：德曼，衣儿，弗拉，噗吕，绍。 脑内电影：明天的天气娃娃抱来更大的暖太阳，吹走一点寒气；我今天先把薄外套备好，等明天更暖的时候穿。",
+      "rule_memory": "chaud /ʃo/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Je suis ici depuis trois semaines.",
+      "mnemonic": "声音梗：热，suis，衣西，德 pü伊，特鲁瓦，瑟曼。 脑内电影：我在这里已经三周，三排七格日历都填满了脚印；小床还是我的床，今天我继续住在这里。",
+      "rule_memory": "trois /tʁwa/：oi 为 /wa/，词尾 s 单独不读。"
+    },
+    {
+      "fr": "Je lui ai écrit la semaine dernière.",
+      "mnemonic": "声音梗：热，吕伊，诶，诶克里，拉，瑟曼，得儿涅儿。 脑内电影：上周我给他写过信，绿墨水沿着纸面排成行；信已寄走，上周的日历和空信封留在桌上作证。",
+      "rule_memory": "écrit /ekʁi/：é 对应较闭的前元音 /e/。 dernière /dɛʁnjɛʁ/：è 为 /ɛ/，i 在这里过渡为 /j/；r 发音。"
+    },
+    {
+      "fr": "Pouvez-vous lui dire que j’ai appelé ?",
+      "mnemonic": "声音梗：普韦乌，吕伊，迪儿，克，热，阿普莱？ 脑内电影：我拿着电话，请乌龟转告他我打过电话；乌龟捧起绿话筒准备传话，别让他以为我没有联系。",
+      "rule_memory": "Pouvez-vous /puvevu/：pouvez /puve/ + vous /vu/；倒装中的连字符不发声。 que /kə/：qu 为 /k/，u 不另读；e 是轻的 /ə/。 appelé /aple/：双 p 只发一个 /p/；é 为 /e/；中间弱 e 常省去。"
+    },
+    {
+      "fr": "Je rentrerai mardi prochain.",
+      "mnemonic": "声音梗：热，朗特勒雷，马儿迪，普罗香。 脑内电影：我指着下周二的日历说那天会回来，小马拉着回程箱；现在先把票收好，回来这件事还在下周。",
+      "rule_memory": "rentrerai /ʁɑ̃tʁəʁe/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 prochain /pʁoʃɛ̃/：ch 在这个词里读 /ʃ/，持续送气。"
+    }
+  ],
+  "T19": [
+    {
+      "fr": "J’ai choisi la réponse B.",
+      "mnemonic": "声音梗：热，刷子（choisi），拉，雷蓬丝，B贝。 脑内电影：我已经选了B答案，刷子拉着贝壳形的B坐进答案栏；其他选项排在旁边，B被我清楚圈了起来。",
+      "rule_memory": "choisi /ʃwazi/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 réponse /ʁepɔ̃s/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je vérifie le numéro de l’activité.",
+      "mnemonic": "声音梗：热，韦里菲，勒，纽梅罗，德，拉克蒂维忒。 脑内电影：我把活动题号拿来核对，牛奶杯形放大镜一格格看；确认题目的数字对上，才把铅笔放回旁边。",
+      "rule_memory": "vérifie /veʁifi/：é 为 /e/，后面两个 i 为 /i/；最后 e 不另成音节。 numéro /nymeʁo/：u 为 /y/、é 为 /e/、o 为 /o/，三个元音位置。 l’activité /laktivite/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    },
+    {
+      "fr": "Cette phrase respecte la consigne.",
+      "mnemonic": "声音梗：塞特，弗拉兹，雷斯佩克特，拉，孔西涅。 脑内电影：这句话走到题目要求前，把每项要求逐个对上；检查员小兔点头，句子像穿好合适衣服一样符合要求。",
+      "rule_memory": "consigne /kɔ̃siɲ/：gn 在这个词里读 /ɲ/，不拆成 g 和 n。"
+    },
+    {
+      "fr": "Voici une autre réponse possible.",
+      "mnemonic": "声音梗：哇西，une，哦特儿，雷蓬丝，波西布勒。 脑内电影：我哇地拿出另一个可能的答案，放在原答案旁边；两只小答案握握手，表示这也是可行的回答。",
+      "rule_memory": "Voici /vwasi/：oi 为 /wa/，c 在 i 前为 /s/。 réponse /ʁepɔ̃s/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Il manque un article dans ma phrase.",
+      "mnemonic": "声音梗：衣儿，芒克，un，阿儿蒂克勒，当，马，弗拉兹。 脑内电影：我的句子像一排小车，却缺了冠词那辆；芒果工头发现空位，赶忙指出少了一个冠词，队伍还不完整。",
+      "rule_memory": "manque /mɑ̃k/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Je dois vérifier ce mot sur l’image.",
+      "mnemonic": "声音梗：热，杜瓦，韦里菲耶，瑟，莫，叙儿，利马日。 脑内电影：我必须回到原图核查这个词，放大镜贴近图上的字；图里的小马扶住纸角，让我逐字看清再确认。",
+      "rule_memory": "dois /dwa/：oi 在这个词里滑成 /wa/，不逐字读 o、i。 vérifier /veʁifje/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je n’ai pas écouté l’enregistrement original.",
+      "mnemonic": "声音梗：热，内，帕，诶库忒，l’enregistrement，哦里日纳勒。 脑内电影：我摇头说明没有听原录音，帕子盖在还未按下的播放键旁；原始录音带仍安静躺着，耳机还没戴上。",
+      "rule_memory": "écouté /ekute/：ou 在这个词里读 /u/，是后圆唇音。 l’enregistrement /lɑ̃ʁʒistʁəmɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。"
+    }
+  ],
+  "T20": [
+    {
+      "fr": "Les nouveaux bureaux sont calmes.",
+      "mnemonic": "声音梗：勒，努沃，bü罗，松，卡勒姆。 脑内电影：新的办公室安静极了，牛形椅子慢慢挪也不响；松果时钟轻轻走，大家在新桌前安静做自己的事。",
+      "rule_memory": "nouveaux /nuvo/：eau 在这个词里合成一个 /o/。 sont /sɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "C’est mon sac ; le tien est là-bas.",
+      "mnemonic": "声音梗：塞，蒙，撒克；勒，天，诶，拉巴。 脑内电影：我抱起这个包说这是我的，指向那边另一只包；你的小包在远处挥带子，两个包各归各的主人。",
+      "rule_memory": "tien /tjɛ̃/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je leur ai donné deux billets.",
+      "mnemonic": "声音梗：热，勒儿，诶，多内，德，毕业（billets）。 脑内电影：我给了他们两张票，像毕业后发车票让大家回家；两人各拿一张，票已递出，我的票夹变空了。",
+      "rule_memory": "donné /dɔne/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je vais lui répondre.",
+      "mnemonic": "声音梗：热，韦，吕伊，雷蓬德儿。 脑内电影：我打算回复他，绿信纸摊开在面前；铅笔举着小手准备写，回复还在筹备，马上就要开始。",
+      "rule_memory": "répondre /ʁepɔ̃dʁ/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Finis ton exercice, puis parle doucement.",
+      "mnemonic": "声音梗：菲尼，通，exercice； pü伊，帕儿勒，杜丝芒。 脑内电影：先把练习做完，铅笔才可以休息；然后像吹软丝线一样轻声说话，别把旁边睡着的小芒果吵醒。",
+      "rule_memory": "ton /tɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 doucement /dusmɑ̃/：ou 在这个词里读 /u/，是后圆唇音。"
+    },
+    {
+      "fr": "Nous vendions des livres.",
+      "mnemonic": "声音梗：努，旺迪扬，德，利弗儿。 脑内电影：我们以前卖书，旧照片里摊位上的书排成小山；一只旺旺小狗看摊，顾客来时我们一本本递过去。",
+      "rule_memory": "Nous /nu/：ou 为 /u/，s 单独不读；元音动词前联诵 /z/。 vendions /vɑ̃djɔ̃/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Elles partiront demain.",
+      "mnemonic": "声音梗：诶儿，帕儿蒂隆，德曼。 脑内电影：她们明天出发，打包好的箱子靠着门排队；明天那页日历藏在最上面，现在大家还在做出发准备。",
+      "rule_memory": "partiront /paʁtiʁɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Je pourrais venir vendredi.",
+      "mnemonic": "声音梗：Je pourrais venir vendredi：这，周五也许能来。 脑内电影：我看看周五那格日历，说那天也许可以来；小车先把路线画好，还要等安排确定，这只是能来的可能。",
+      "rule_memory": "pourrais /puʁɛ/：ou 在这个词里读 /u/，是后圆唇音。 vendredi /vɑ̃dʁədi/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T21": [
+    {
+      "fr": "Je cherche le mot « billet » dans le glossaire.",
+      "mnemonic": "声音梗：热，谢儿什，勒莫，毕业（billet），当，勒，glossaire。 脑内电影：我边谢边在词汇附录查billet，毕业帽书签帮忙停住；看到票的词义，就想起毕业买票回家。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。"
+    },
+    {
+      "fr": "Il me faut un billet aller retour.",
+      "mnemonic": "声音梗：衣儿，默，福，un，毕业（billet），阿雷，热图儿。 脑内电影：我需要一张往返票，毕业后想去一趟再回来；票上的去回两条路线一起亮起，少一程都不够。",
+      "rule_memory": "retour /ʁətuʁ/：首个 e 为 /ə/，ou 为 /u/；r 发音。"
+    },
+    {
+      "fr": "Ce mot a deux sens dans ce livre.",
+      "mnemonic": "声音梗：Ce mot a deux sens dans ce livre：这词两只桑叶盒，两种意思。 脑内电影：这个词在本书里有两个意思，一只小手举出两只不同的桑叶盒；翻开各自例句，两个意思都住在书中。",
+      "rule_memory": "sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "J’apprends « une cuillère » avec son article.",
+      "mnemonic": "声音梗：扎普朗，une cuillère，阿韦克，松，阿儿蒂克勒。 脑内电影：我学习une cuillère时，让冠词une骑在勺柄上；小松鼠提醒整组一起记，不能把冠词和勺子分开。",
+      "rule_memory": "J’apprends /ʒapʁɑ̃/：撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 cuillère /kyijɛʁ/：è 对应较开的前元音 /ɛ/。"
+    },
+    {
+      "fr": "Je classe « se lever » avec les activités quotidiennes.",
+      "mnemonic": "声音梗：热，克拉丝，se lever，阿韦克，勒，activités quotidiennes。 脑内电影：我给词语分类，把se lever放进日常活动篮；篮里起床、刷牙的玩具排成队，和每天的生活放在一起。",
+      "rule_memory": "activités /aktivite/：é 对应较闭的前元音 /e/。 quotidiennes /kotidjɛn/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Je voudrais laisser un message.",
+      "mnemonic": "声音梗：热，乌德雷，莱塞，un，梅萨日。 脑内电影：我想留个口信，拿起电话对着梅子录音盒准备说话；盒子打开小耳朵等着，还没录下我的消息。",
+      "rule_memory": "voudrais /vudʁɛ/：ou 为 /u/，-ais 为 /ɛ/；s 单独不读。"
+    },
+    {
+      "fr": "Quel temps fera-t-il samedi ?",
+      "mnemonic": "声音梗：Quel temps fera-t-il samedi：糖人问周六天气，太阳雨云待定。 脑内电影：我指着周六问天气会怎么样，日历旁的小糖人也仰头；太阳和雨云躲在后面，答案还等天气预报揭晓。",
+      "rule_memory": "Quel /kɛl/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Je vérifie le sens dans la phrase.",
+      "mnemonic": "声音梗：热，韦里菲，勒桑丝，当，拉，弗拉兹。 脑内电影：我把词放回句子里核对意思，桑叶形放大镜沿着整句滑；看清前后内容，再检查这个词该怎样理解。",
+      "rule_memory": "vérifie /veʁifi/：é 为 /e/，后面两个 i 为 /i/；最后 e 不另成音节。 sens /sɑ̃s/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ],
+  "T22": [
+    {
+      "fr": "Dans cette phrase, « Léa » est le sujet.",
+      "mnemonic": "声音梗：当，塞特，弗拉兹；Léa，诶，勒，叙热。 脑内电影：在这个句子里，Léa坐上主语的小椅子；句子的动作从她这里出发，大家一看就知道主语是她。",
+      "rule_memory": "Léa /lea/：é 与 a 各占一个元音位置，清楚读 /e.a/。"
+    },
+    {
+      "fr": "Le mot « calme » est un adjectif ici.",
+      "mnemonic": "声音梗：勒莫，卡勒姆，诶，un，阿杰克蒂夫，衣西。 脑内电影：calme这个词在这里穿上形容词的小围裙，给对象描绘安静的样子；一只小卡车轻轻停好，展示它的用途。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "« Venir » est un infinitif.",
+      "mnemonic": "声音梗：venir，诶，un，昂菲尼蒂夫。 脑内电影：venir站在词语更衣室，保持原来的基本模样；它戴着不定式小帽，不换人称外套，说明它是不定式。",
+      "rule_memory": "infinitif /ɛ̃finitif/：/ɛ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "Dans « elle a fini », « a » est un auxiliaire.",
+      "mnemonic": "声音梗：当，elle a fini；啊（a），诶，un，auxiliaire。 脑内电影：elle a fini像小车，a啊地跑来当助动词推一把；fini坐在后面，两者配合表达她已经完成。",
+      "rule_memory": "先把每个词点开慢读，再按节奏组合；词尾是否连接看原句标记，不照汉字声调或额外添加音节。"
+    },
+    {
+      "fr": "« Fini » est un participe passé.",
+      "mnemonic": "声音梗：菲尼（fini），诶，un，participe，帕塞。 脑内电影：fini穿着过去分词的小背心，菲尼小人拿帕子擦好完成的练习；它展示自己是过去分词的身份。",
+      "rule_memory": "passé /pase/：é 对应较闭的前元音 /e/。"
+    },
+    {
+      "fr": "Je cherche la position des pronoms dans l’index.",
+      "mnemonic": "声音梗：热，谢儿什，拉，波兹雄，德，普罗农，当，兰代克斯。 脑内电影：我在索引里查代词的位置，波点小放大镜沿条目移动；找到代词相关条目，再顺着索引去看位置说明。",
+      "rule_memory": "cherche /ʃɛʁʃ/：ch 在这个词里读 /ʃ/，持续送气。 position /pozisjɔ̃/：tion 在这个词里接成 /sjɔ̃/，最后是鼻元音。 pronoms /pʁonɔ̃/：/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    },
+    {
+      "fr": "La page indiquée est une page du livre.",
+      "mnemonic": "声音梗：拉，帕日，昂蒂凯，诶，une，帕日， dü，利弗儿。 脑内电影：标出的页码贴在书页下角，帕子形书签指向那里；我翻开实体书核对，这是书上印着的页码。",
+      "rule_memory": "indiquée /ɛ̃dike/：qu 在这个词里读 /k/，u 不另发元音。"
+    },
+    {
+      "fr": "Je vérifie la règle avec un exemple.",
+      "mnemonic": "声音梗：热，韦里菲，拉，雷格勒，阿韦克，un，诶格赞普勒。 脑内电影：我把规则和例句并排放好，用小雷形铅笔逐处核对；例句像做示范的小朋友，让我看清规则怎样使用。",
+      "rule_memory": "vérifie /veʁifi/：é 为 /e/，后面两个 i 为 /i/；最后 e 不另成音节。 règle /ʁɛɡl/：è 对应较开的前元音 /ɛ/。 exemple /ɛɡzɑ̃pl/：/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。"
+    }
+  ]
+}

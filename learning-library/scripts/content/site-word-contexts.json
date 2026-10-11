@@ -1,0 +1,146 @@
+{
+  "E27:3": {
+    "fr": "Je me sens mieux.",
+    "words": {
+      "sens": {
+        "ipa": "sɑ̃",
+        "zh": "感觉；感到（sentir 的第一人称变位）",
+        "reason": "这里是动词 je me sens，末尾 s 不读，读 /sɑ̃/；名词 le sens（意思）才读 /sɑ̃s/。",
+        "ipa_source": "dictionary-checked broad transcription"
+      }
+    }
+  },
+  "A21:3": {
+    "fr": "Je me sens à l’aise avec eux.",
+    "words": {
+      "sens": {
+        "ipa": "sɑ̃",
+        "zh": "感觉；感到（sentir 的第一人称变位）",
+        "reason": "这里是动词 je me sens，末尾 s 不读，读 /sɑ̃/；名词 le sens（意思）才读 /sɑ̃s/。",
+        "ipa_source": "dictionary-checked broad transcription"
+      }
+    }
+  },
+  "G08:1": {
+    "fr": "Je lis tous les soirs.",
+    "words": {
+      "tous": {
+        "ipa": "tu",
+        "zh": "所有的；每个（这里修饰后面的复数名词）",
+        "reason": "这里 tous les… 中的 tous 是限定词，读 /tu/，s 不读；代词 tous 独立指“全体”时常读 /tus/，不要混用。",
+        "ipa_source": "dictionary-checked broad transcription"
+      }
+    }
+  },
+  "S19:1": {
+    "fr": "Personne ne connaît tous les mots.",
+    "words": {
+      "tous": {
+        "ipa": "tu",
+        "zh": "所有的；每个（这里修饰后面的复数名词）",
+        "reason": "这里 tous les… 中的 tous 是限定词，读 /tu/，s 不读；代词 tous 独立指“全体”时常读 /tus/，不要混用。",
+        "ipa_source": "dictionary-checked broad transcription"
+      }
+    }
+  },
+  "T13:3": {
+    "fr": "Je marche tous les jours depuis un mois.",
+    "words": {
+      "tous": {
+        "ipa": "tu",
+        "zh": "所有的；每个（这里修饰后面的复数名词）",
+        "reason": "这里 tous les… 中的 tous 是限定词，读 /tu/，s 不读；代词 tous 独立指“全体”时常读 /tus/，不要混用。",
+        "ipa_source": "dictionary-checked broad transcription"
+      }
+    }
+  },
+  "T02:3": {
+    "fr": "Continuez tout droit jusqu’au pont.",
+    "words": {
+      "droit": {
+        "zh": "直；笔直地（tout droit：一直向前）",
+        "picture": "action"
+      }
+    }
+  },
+  "A12:1": {
+    "fr": "Je me suis rendu compte de mon erreur.",
+    "words": {
+      "rendu": {
+        "zh": "意识到了（se rendre compte de：意识到）"
+      }
+    }
+  },
+  "I23:1": {
+    "fr": "La demande doit être faite en bonne et due forme.",
+    "words": {
+      "due": {
+        "zh": "符合要求的；合乎规范的（en bonne et due forme：按正式要求）"
+      }
+    }
+  },
+  "A04:1": {
+    "fr": "Je n’arrive pas à me connecter.",
+    "words": {
+      "n'arrive": {
+        "zh": "无法做到（n’arrive pas à：不能／无法）"
+      }
+    }
+  },
+  "A14:2": {
+    "fr": "Le coût est de l’ordre de cent euros.",
+    "words": {
+      "l'ordre": {
+        "zh": "大约；左右（de l’ordre de：约为）"
+      }
+    }
+  },
+  "I13:4": {
+    "fr": "Les équipes ont fait match nul.",
+    "words": {
+      "nul": {
+        "zh": "平局的（match nul：平局）"
+      }
+    }
+  },
+  "S02:1": {
+    "fr": "Lucien cherche une nouvelle cachette.",
+    "words": {
+      "nouvelle": {
+        "zh": "新的（这里修饰藏身处）"
+      }
+    }
+  },
+  "S27:1": {
+    "fr": "Un logiciel malveillant peut se faire passer pour un jeu.",
+    "words": {
+      "passer": {
+        "zh": "冒充（se faire passer pour：假扮成）"
+      }
+    }
+  },
+  "S32:1": {
+    "fr": "Oliver croit qu’une sorcière se fait passer pour Julie.",
+    "words": {
+      "passer": {
+        "zh": "冒充（se faire passer pour：假扮成）"
+      }
+    }
+  },
+  "T05:2": {
+    "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+    "words": {
+      "lin": {
+        "zh": "Lin（姓名组成部分）"
+      }
+    }
+  },
+  "T17:3": {
+    "fr": "C’est de la part de Mei Lin, de la société Atlas.",
+    "words": {
+      "lin": {
+        "zh": "Lin（姓名组成部分）"
+      }
+    }
+  }
+}

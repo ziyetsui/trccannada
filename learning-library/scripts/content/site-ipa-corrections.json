@@ -1,0 +1,182 @@
+{
+  "as": {
+    "ipa": "a",
+    "reason": "这里是 avoir 的 tu as（你有），读 /a/；不是表示纸牌 A 的名词 un as /as/。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "bibliothèque": {
+    "ipa": "biblijɔtɛk",
+    "reason": "按 /bi.bli.jɔ.tɛk/ 分四拍；/j/ 快速滑向 /ɔ/，th 读 /t/，qu 读 /k/，末尾 e 不另成拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "habitions": {
+    "ipa": "abitjɔ̃",
+    "reason": "这是 habiter 的 nous habitions；t 保留 /t/ 并滑向 /j/，不是名词后缀 -tion 的 /sjɔ̃/；末尾是鼻元音。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "jouent": {
+    "ipa": "ʒu",
+    "reason": "这是 jouer 的复数动词变位，ent 不读；ou 是 /u/，整词一拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "joues": {
+    "ipa": "ʒu",
+    "reason": "ou 是 /u/，词尾 es 不另发音；动词 tu joues 和名词 joues 的独读均是一拍 /ʒu/。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "jeune": {
+    "ipa": "ʒœn",
+    "reason": "eu 在 jeune 中读较开的前圆唇 /œ/；n 是收尾辅音，不是鼻化元音；区别 jeûne /ʒøn/。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "déjeune": {
+    "ipa": "deʒœn",
+    "reason": "é 读 /e/；eu 在这里读较开的前圆唇 /œ/，词尾 n 发音，末尾 e 不另成拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "d'agneau": {
+    "ipa": "daɲo",
+    "reason": "de 发生省音成为 d’；gn 是一个 /ɲ/ 鼻辅音，eau 合成 /o/，连成 /da.ɲo/。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "ressens": {
+    "ipa": "ʁəsɑ̃",
+    "reason": "这是 ressentir 的 je/tu ressens；ss 是 /s/，末尾 ens 是鼻元音 /ɑ̃/，s 不读。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "roues": {
+    "ipa": "ʁu",
+    "reason": "ou 读后圆唇元音 /u/；复数 es 不另发音，整词一拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "suit": {
+    "ipa": "sɥi",
+    "reason": "ui 从前圆唇口形快速滑向 /i/，合成一拍 /ɥi/；词尾 t 不读。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "suivi": {
+    "ipa": "sɥivi",
+    "reason": "ui 从前圆唇口形快速滑向 /i/，第一拍 /sɥi/ 后接 /vi/，全词两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "nuancer": {
+    "ipa": "nɥɑ̃se",
+    "reason": "u 快速滑向鼻元音 /ɑ̃/，形成 /ɥɑ̃/；末尾 er 读 /e/；按 /nɥɑ̃.se/ 两拍练习。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "téléphonent": {
+    "ipa": "telefɔn",
+    "reason": "前两处 é 读 /e/；ph 读 /f/，o 在这里读 /ɔ/；动词复数 ent 不读，保留 n，按 /te.le.fɔn/ 三拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "téléphoné": {
+    "ipa": "telefɔne",
+    "reason": "é 读 /e/，ph 读 /f/，o 在这里读 /ɔ/；过去分词结尾 é 读 /e/，按 /te.le.fɔ.ne/ 四拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "aujourd'hui": {
+    "ipa": "oʒuʁdɥi",
+    "reason": "撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 ou 在这个词里读 /u/，是后圆唇音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "biscuits": {
+    "ipa": "biskɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "bruit": {
+    "ipa": "bʁɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "conduire": {
+    "ipa": "kɔ̃dɥiʁ",
+    "reason": "/ɔ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "cuillère": {
+    "ipa": "kɥijɛʁ",
+    "reason": "è 对应较开的前元音 /ɛ/。 词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "cuisinant": {
+    "ipa": "kɥizinɑ̃",
+    "reason": "/ɑ̃/ 是鼻元音：元音带鼻化，不在后面再拼一个清晰的 n 或 m。 这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "cuisine": {
+    "ipa": "kɥizin",
+    "reason": "词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "cuisiner": {
+    "ipa": "kɥizine",
+    "reason": "词尾 er 这里读 /e/，r 不另外发声。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "cuisinière": {
+    "ipa": "kɥizinjɛʁ",
+    "reason": "è 对应较开的前元音 /ɛ/。 词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "depuis": {
+    "ipa": "dəpɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "dix-huit": {
+    "ipa": "dizɥit",
+    "reason": "先按 /dizyit/ 对照声音；书写字母数量不等于音节数量，口形提示见下方，点击单词慢读后再听句中读法。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "fruits": {
+    "ipa": "fʁɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "l'huile": {
+    "ipa": "lɥil",
+    "reason": "撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "nuit": {
+    "ipa": "nɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "nuits": {
+    "ipa": "nɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "parapluie": {
+    "ipa": "paʁaplɥi",
+    "reason": "词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "pluie": {
+    "ipa": "plɥi",
+    "reason": "词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "puis": {
+    "ipa": "pɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "puis-je": {
+    "ipa": "pɥiʒ",
+    "reason": "词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "s'appuie": {
+    "ipa": "sapɥi",
+    "reason": "撇号表示前面的小词发生省音，省去的元音不再单独读；撇号前后的部分合成这一张词卡。 词尾书写 e 在这份独读标注中不单独成一个音节；自然语流和地区口音可能保留弱 e。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  },
+  "traduit": {
+    "ipa": "tʁadɥi",
+    "reason": "这个词的最后一个书写辅音在此独读形式里不响；句中是否联诵要另外看连接标记，不能逢元音就补音。 ui 在这里用前圆唇滑音 /ɥ/ 接 /i/，不把 u、i 拆成两拍。",
+    "ipa_source": "dictionary-checked broad transcription"
+  }
+}

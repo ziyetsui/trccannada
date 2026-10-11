@@ -1,0 +1,4886 @@
+{
+  "P01:1": {
+    "fr": "Bonjour.",
+    "sound": "「蹦！茹儿！」——你一蹦进门，袋鼠“茹儿”就伸手说 Bonjour。",
+    "movie": "一只会说“你好”的袋鼠，见人先蹦三尺高。",
+    "zh": "你好。"
+  },
+  "P01:2": {
+    "fr": "De l’eau.",
+    "sound": "「德罗牌矿泉水」——De l’eau，被你脑补成一瓶叫“德罗”的水。",
+    "movie": "口渴时老板递来水，瓶身只写 De l’eau。",
+    "zh": "一些水。"
+  },
+  "P01:3": {
+    "fr": "Comment ça s’écrit ?",
+    "sound": "「考芒，萨塞克里？」——考官“芒”让你在沙子里写字。",
+    "movie": "考官举着 ça s’écrit 的牌子问“怎么拼”，你拿树枝写答案。",
+    "zh": "这个怎么拼写？"
+  },
+  "P02:1": {
+    "fr": "Si.",
+    "sound": "「西！」——Si 像一个短短的“西”。",
+    "movie": "别人说你不能去西边，你偏指西边说“Si！”记住这声干脆的反驳。",
+    "zh": "如果；也可反驳否定问题。"
+  },
+  "P02:2": {
+    "fr": "L’été arrive.",
+    "sound": "「雷太阿里夫」——夏天来了，一道雷把阿里夫热醒。",
+    "movie": "L’été arrive，雷公戴太阳镜宣布“夏天到站”。",
+    "zh": "夏天来了。"
+  },
+  "P02:3": {
+    "fr": "Ma mère est ici.",
+    "sound": "「妈，梅儿诶提西」——妈妈和梅儿提着西瓜就在这里。",
+    "movie": "Ma mère est ici，妈妈举西瓜当定位旗；“提”只提醒可能出现的 t 连接。",
+    "zh": "我母亲在这里。"
+  },
+  "P03:1": {
+    "fr": "Tu viens ?",
+    "sound": "「玉，维昂？」——你拿着一块玉，招呼“维昂”来。",
+    "movie": "Tu viens ? 不是买玉，是问“你来吗”；玉提醒 tu 的前圆唇。",
+    "zh": "你来吗？"
+  },
+  "P03:2": {
+    "fr": "Tout va bien.",
+    "sound": "「兔娃，别昂！」——兔娃刚想钻鼻孔，你说“别昂，一切都好！”",
+    "movie": "Tout va bien，一只兔娃举着“一切顺利”的横幅。",
+    "zh": "一切都好。"
+  },
+  "P03:3": {
+    "fr": "La rue est calme.",
+    "sound": "「拉玉诶卡姆」——一条玉铺的街，被卡姆按了静音。",
+    "movie": "La rue est calme，汽车轮子裹棉花，整条街静悄悄。",
+    "zh": "街道很安静。"
+  },
+  "P04:1": {
+    "fr": "Il en veut peu.",
+    "sound": "「伊朗，veut peu」——小机器人“伊朗”只肯要两颗圆豆。",
+    "movie": "Il en veut peu，他把满盘豆退回，只留下两颗；圆豆提醒后面两个圆唇音。",
+    "zh": "他想要的不多。"
+  },
+  "P04:2": {
+    "fr": "J’ai peur.",
+    "sound": "「杰，怕儿！」——杰打开柜子，吓得喊“怕儿”。",
+    "movie": "J’ai peur，柜子里其实只有一只戴墨镜的小鸭，你却吓得抱住门。",
+    "zh": "我害怕。"
+  },
+  "P04:3": {
+    "fr": "C’est un petit café.",
+    "sound": "「塞坦，珀蒂咖啡」——小怪兽塞坦缩进一只小咖啡杯。",
+    "movie": "C’est un petit café，整个咖啡馆只有积木那么大；“坦”提醒常见 t 连接。",
+    "zh": "这是一家小咖啡馆。"
+  },
+  "P05:1": {
+    "fr": "La pâte est prête.",
+    "sound": "「拉帕特，诶普蕾特」——面团帕特拿到“准备好了”的奖牌。",
+    "movie": "La pâte est prête，面团穿厨师帽自己跳进烤盘。",
+    "zh": "面团准备好了。"
+  },
+  "P05:2": {
+    "fr": "Le chat a une petite patte.",
+    "sound": "勒沙，啊玉讷珀蒂特帕特——沙色小猫举起迷你爪。",
+    "movie": "沙色小猫从帽子里举起一只小爪子，按下比芝麻还小的爪印；chat 对应猫，petite patte 对应小爪。",
+    "zh": "猫有一只小爪子。"
+  },
+  "P05:3": {
+    "fr": "Papa arrive.",
+    "sound": "「爸爸，阿里夫！」——爸爸扮成阿里夫骑飞毯来了。",
+    "movie": "Papa arrive，爸爸从天而降，手里还端着早餐。",
+    "zh": "爸爸来了。"
+  },
+  "P06:1": {
+    "fr": "C’est beau.",
+    "sound": "「塞，波！」——美景一出现，你就把手摆成一朵“波浪花”。",
+    "movie": "C’est beau，山水画里突然冒出一条美到发光的波浪。",
+    "zh": "这很美。"
+  },
+  "P06:2": {
+    "fr": "Le bol est blanc.",
+    "sound": "「勒波尔，诶布朗」——白碗里坐着一位布朗先生。",
+    "movie": "Le bol est blanc，布朗把白漆倒进碗，连自己也刷白。",
+    "zh": "碗是白色的。"
+  },
+  "P06:3": {
+    "fr": "Un bateau passe.",
+    "sound": "昂，把舵，PASS！——一条船拿通行证经过。",
+    "movie": "你叫船长把舵；他举起 PASS 通行证，一条船从桌子上划过。把舵勾 bateau，PASS 勾 passe。",
+    "zh": "一艘船经过。"
+  },
+  "P07:1": {
+    "fr": "Il est sans voiture.",
+    "sound": "「伊莱，桑瓦玉儿」——伊莱没有车，只能抱着一块玉当方向盘。",
+    "movie": "Il est sans voiture，他坐在空气汽车里认真按喇叭。",
+    "zh": "他没有车。"
+  },
+  "P07:2": {
+    "fr": "Son sac est ici.",
+    "sound": "「松萨凯，提西」——松鼠的包里冒出一面“在此”小旗。",
+    "movie": "Son sac est ici，包长出手不停指自己；“凯”串起 sac 的 k，“提”提醒 est ici 的连接。",
+    "zh": "他或她的包在这里。"
+  },
+  "P07:3": {
+    "fr": "Le vent est fort.",
+    "sound": "「勒旺，诶佛儿」——风王“勒旺”把佛儿的帽子吹飞。",
+    "movie": "Le vent est fort，风拿健身哑铃练肌肉，强得离谱。",
+    "zh": "风很大。"
+  },
+  "P08:1": {
+    "fr": "Je prends du pain.",
+    "sound": "「热，普昂，玉潘」——热面包被你一把抓走，放进玉盘。",
+    "movie": "Je prends du pain，玉盘长了手，抢先拿走面包。",
+    "zh": "我拿一些面包。"
+  },
+  "P08:2": {
+    "fr": "Il porte un manteau brun.",
+    "sound": "伊波尔特，昂慢套，布棕——他穿着棕外套。",
+    "movie": "他把棕色外套慢慢套上，衣摆突然展开成棕色帐篷；慢套勾 manteau，brun 跟录音鼻化。",
+    "zh": "他穿一件棕色外套。"
+  },
+  "P08:3": {
+    "fr": "La voiture est en panne.",
+    "sound": "「拉瓦玉儿，诶坦潘」——玉汽车开进平底潘锅，坏了！",
+    "movie": "La voiture est en panne，车轮变成四个煎蛋；“坦”提醒常见 t 连接。",
+    "zh": "汽车坏了。"
+  },
+  "P09:1": {
+    "fr": "Le pain est bon.",
+    "sound": "「勒潘，诶蹦」——面包潘好吃得在盘子里蹦。",
+    "movie": "Le pain est bon，面包自己举起“好吃”牌，还高兴地跳舞。",
+    "zh": "面包很好吃。"
+  },
+  "P09:2": {
+    "fr": "Tout est prêt.",
+    "sound": "「兔诶普蕾」——兔子穿戴整齐，等着发令。",
+    "movie": "Tout est prêt，所有兔子都准备好了；兔与诶之间搭一座 t 小桥。",
+    "zh": "一切准备好了。"
+  },
+  "P09:3": {
+    "fr": "La gare est grande.",
+    "sound": "「拉嘎儿，诶格朗德」——车站大得能把格朗德巨人装进去。",
+    "movie": "La gare est grande，火车站的候车椅是整座山。",
+    "zh": "车站很大。"
+  },
+  "P10:1": {
+    "fr": "Voici du vin.",
+    "sound": "「瓦西，玉万」——瓦西举着玉杯倒葡萄酒。",
+    "movie": "Voici du vin，酒从一串葡萄里像喷泉一样喷出来。",
+    "zh": "这是一些葡萄酒。"
+  },
+  "P10:2": {
+    "fr": "Le poisson est frais.",
+    "sound": "「勒普瓦松，诶弗蕾」——一条叫普瓦松的鱼，刚从冰箱里跳出来。",
+    "movie": "Le poisson est frais，鱼背着冰块喊“我超新鲜”。",
+    "zh": "鱼很新鲜。"
+  },
+  "P10:3": {
+    "fr": "La maison est grande.",
+    "sound": "「拉梅松，诶格朗德」——房子里住着梅松巨人。",
+    "movie": "La maison est grande，巨人的拖鞋就是你家的客厅。",
+    "zh": "房子很大。"
+  },
+  "P11:1": {
+    "fr": "Le chat dort.",
+    "sound": "「勒沙，多儿」——猫“沙”打着呼噜喊“再睡多一会儿”。",
+    "movie": "Le chat dort，小猫抱着枕头睡在闹钟上。",
+    "zh": "猫在睡觉。"
+  },
+  "P11:2": {
+    "fr": "Je joue.",
+    "sound": "热，玩悠悠球！——joue 借“珠”的近音。",
+    "movie": "我的悠悠球热得冒小烟，球心藏着一颗大珠子；我来回玩球，跟录音说 Je joue，别给珠加尾巴。",
+    "zh": "我在玩。"
+  },
+  "P11:3": {
+    "fr": "La girafe est grande.",
+    "sound": "「拉吉哈夫，诶格朗德」——吉哈夫长颈鹿高过巨人格朗德。",
+    "movie": "La girafe est grande，长颈鹿的头在云里，脚还在院子里。",
+    "zh": "长颈鹿很高。"
+  },
+  "P12:1": {
+    "fr": "La rue est longue.",
+    "sound": "「拉玉，诶隆格」——玉街长到龙哥走一天也走不完。",
+    "movie": "La rue est longue，一条玉石街一路铺到月球。",
+    "zh": "这条街很长。"
+  },
+  "P12:2": {
+    "fr": "Le livre est là.",
+    "sound": "勒 livre，诶啦！——书往那边拉。",
+    "movie": "一本书坐在对岸，你拉长手臂指着它喊“在那儿啦”；书和 là 的位置一起记，别把 livre 拆成三个汉字拍。",
+    "zh": "书在那里。"
+  },
+  "P12:3": {
+    "fr": "Il regarde la lune.",
+    "sound": "「伊勒嘎尔德，拉玉讷」——嘎尔德举着玉做的月亮看个不停。",
+    "movie": "Il regarde la lune，他的望远镜里住着一轮玉月亮。",
+    "zh": "他看着月亮。"
+  },
+  "P13:1": {
+    "fr": "Maman arrive.",
+    "sound": "「妈妈，阿里夫」——妈妈坐着阿里夫的飞毯到家了。",
+    "movie": "Maman arrive，妈妈的飞毯从门缝钻进来。",
+    "zh": "妈妈来了。"
+  },
+  "P13:2": {
+    "fr": "Nous allons à la montagne.",
+    "sound": "「努扎隆，阿拉蒙塔涅」——“努扎隆”小队去爬一座蒙着糖的山。",
+    "movie": "Nous allons à la montagne，山顶插着你的小队旗；努与 allons 之间的 z 是真连接。",
+    "zh": "我们去山区。"
+  },
+  "P13:3": {
+    "fr": "Le parking est plein.",
+    "sound": "「勒帕京，诶普兰」——停车场被帕京的盆栽塞满了。",
+    "movie": "Le parking est plein，每个车位停着一棵巨大植物。",
+    "zh": "停车场满了。"
+  },
+  "P14:1": {
+    "fr": "Oui, je viens.",
+    "sound": "「喂，热维昂！」——电话那头喊“喂”，你披外套说“我来！”",
+    "movie": "Oui, je viens，一听召唤你就变成冲刺小火箭。",
+    "zh": "是的，我来。"
+  },
+  "P14:2": {
+    "fr": "Il est huit heures.",
+    "sound": "「伊莱，玉特厄儿」——玉做的八字钟，整点敲八下。",
+    "movie": "Il est huit heures，八只玉兔轮流敲钟；t 是 huit 原来就有的声音。",
+    "zh": "现在八点。"
+  },
+  "P14:3": {
+    "fr": "J’ai mal au pied.",
+    "sound": "杰，马洛，皮耶——我的脚疼得跳起来。",
+    "movie": "我脚上坐了一匹迷你马，疼得单脚跳；按马洛→皮耶想起 mal au pied，回听脚的 /pje/ 一滑音。",
+    "zh": "我脚疼。"
+  },
+  "P15:1": {
+    "fr": "Le petit chat dort.",
+    "sound": "「勒珀蒂沙，多儿」——迷你猫珀蒂沙睡进茶杯。",
+    "movie": "Le petit chat dort，大猫睡床，小猫睡茶杯，大小一眼记住。",
+    "zh": "小猫在睡觉。"
+  },
+  "P15:2": {
+    "fr": "Le sac est ici.",
+    "sound": "「勒萨凯，提西」——包“萨克”在这里举起 T 字定位牌。",
+    "movie": "Le sac est ici，包上的导航箭头指着自己；k 接 est，t 提醒后面的连接。",
+    "zh": "包在这里。"
+  },
+  "P15:3": {
+    "fr": "Une petite maison.",
+    "sound": "「玉讷珀蒂特，梅松」——小玉兔把房子缩成梅子大小。",
+    "movie": "Une petite maison，你把整栋小房子装进掌心。",
+    "zh": "一所小房子。"
+  },
+  "P16:1": {
+    "fr": "Un café, s’il vous plaît.",
+    "sound": "「昂咖啡，西勒武普蕾」——请咖啡先生把西边的葡萄蕾递来。",
+    "movie": "Un café, s’il vous plaît，咖啡杯穿燕尾服，鞠躬说“请”。",
+    "zh": "请来一杯咖啡。"
+  },
+  "P16:2": {
+    "fr": "Il fait froid.",
+    "sound": "「伊勒费，弗瓦」——费先生一出门，就被冻成冰花。",
+    "movie": "Il fait froid，连太阳都裹着羽绒服。",
+    "zh": "天气冷。"
+  },
+  "P16:3": {
+    "fr": "Le garçon est là.",
+    "sound": "「勒嘎松，诶拉」——男孩嘎松在那边拉小旗。",
+    "movie": "Le garçon est là，他站在对面拼命挥旗让你看见。",
+    "zh": "男孩在那里。"
+  },
+  "P17:1": {
+    "fr": "Je voudrais un café.",
+    "sound": "「热武德蕾，昂咖啡」——我想要一杯会开花的咖啡。",
+    "movie": "Je voudrais un café，咖啡冒出的不是热气，是一朵花蕾。",
+    "zh": "我想要一杯咖啡。"
+  },
+  "P17:2": {
+    "fr": "Demain matin, nous partirons tôt.",
+    "sound": "「德曼马坦，努帕提隆托」——明早马探长带我们骑龙早出发。",
+    "movie": "Demain matin, nous partirons tôt，一条龙顶着凌晨闹钟来接你。",
+    "zh": "明天早上我们会早出发。"
+  },
+  "P17:3": {
+    "fr": "Ce petit livre est très utile.",
+    "sound": "「瑟珀蒂利弗，诶特蕾玉蒂勒」——小书利弗是一把特别有用的玉铲。",
+    "movie": "Ce petit livre est très utile，一翻书就能修水管；très 与 utile 之间记得 z 小桥。",
+    "zh": "这本小书很有用。"
+  },
+  "P18:1": {
+    "fr": "Les amis arrivent.",
+    "sound": "「雷扎米，阿里夫」——朋友雷扎米坐着阿里夫飞毯来了。",
+    "movie": "Les amis arrivent，一群朋友挤在同一条飞毯上；“扎”帮你记 z 连接。",
+    "zh": "朋友们来了。"
+  },
+  "P18:2": {
+    "fr": "Vous avez le temps.",
+    "sound": "「武扎韦，勒汤」——武扎韦有一整锅“时间汤”。",
+    "movie": "Vous avez le temps，锅里漂着一堆钟表；“扎”记 vous avez 的 z。",
+    "zh": "您有时间。"
+  },
+  "P18:3": {
+    "fr": "Nous avons deux enfants.",
+    "sound": "「努扎翁，德赞芳」——我们家的两个孩子坐在两座 z 小桥上。",
+    "movie": "Nous avons deux enfants，两个孩子一人守一桥，分别是 nous avons、deux enfants。",
+    "zh": "我们有两个孩子。"
+  },
+  "P19:1": {
+    "fr": "L’ami de Léa arrive.",
+    "sound": "「拉米德雷阿，阿里夫」——莉娅的朋友拉米来搭飞毯。",
+    "movie": "L’ami de Léa arrive，莉娅举着朋友照片在飞毯站接人。",
+    "zh": "莉娅的朋友来了。"
+  },
+  "P19:2": {
+    "fr": "Je viens avec elle.",
+    "sound": "「热维昂，阿韦凯勒」——我来了，和“凯勒”一起。",
+    "movie": "Je viens avec elle，她挽着你走进门；“凯”提醒 avec 的 k 要接着走。",
+    "zh": "我和她一起来。"
+  },
+  "P19:3": {
+    "fr": "Le héros est courageux.",
+    "sound": "「勒埃罗，诶库哈热」——英雄埃罗给勇气锅加热。",
+    "movie": "Le héros est courageux，英雄一口喝下勇气汤；h 门卫不发声，却不让你乱搭桥。",
+    "zh": "这位英雄很勇敢。"
+  },
+  "P20:1": {
+    "fr": "Vous venez ?",
+    "sound": "武，venez？——捧着温奶，问您来不来。",
+    "movie": "我捧着一杯温奶站在门口，朝您弯一下手指；借温奶勾 venez 的两拍，不把 v 换成 f。",
+    "zh": "您来吗？"
+  },
+  "P20:2": {
+    "fr": "Il est six heures.",
+    "sound": "「伊莱，西泽厄儿」——六只西瓜排队给钟上发条。",
+    "movie": "Il est six heures，六个西瓜钟一起响；“泽”记 six heures 的 z。",
+    "zh": "现在六点。"
+  },
+  "P20:3": {
+    "fr": "Je répète : douze, quatorze.",
+    "sound": "「热黑佩特，杜兹，卡托尔兹」——重复机把十二只肚子和十四张卡数清。",
+    "movie": "Je répète : douze, quatorze，一边十二只鼓肚子，一边十四张门卡。",
+    "zh": "我重复一下：十二，十四。"
+  },
+  "M01:1": {
+    "fr": "Comment prononce-t-on ce mot ?",
+    "sound": "「考芒，普霍农斯通，瑟莫？」——考官问机器人“这词怎么读”。",
+    "movie": "Comment prononce-t-on ce mot ? 机器人每读错一次，头上的问号就转一圈。",
+    "zh": "这个词怎么读？"
+  },
+  "M01:2": {
+    "fr": "Pouvez-vous le dire dans une phrase ?",
+    "sound": "「普韦武，勒迪尔，当玉讷弗哈兹？」——请武先生把词塞进一个发光句子框。",
+    "movie": "Pouvez-vous le dire dans une phrase ? 单词从口袋跳进完整句子。",
+    "zh": "您能把它放进句子里说吗？"
+  },
+  "M01:3": {
+    "fr": "Je vérifie la prononciation.",
+    "sound": "「热韦里菲，拉普霍农西亚松」——韦里菲侦探拿放大镜查声音脚印。",
+    "movie": "Je vérifie la prononciation，每个音都在地上留一只彩色脚印。",
+    "zh": "我核对一下发音。"
+  },
+  "M02:1": {
+    "fr": "Avec elle, tout va bien.",
+    "sound": "「阿韦凯勒，兔娃别昂」——和凯勒一起，兔娃就一切都好。",
+    "movie": "Avec elle, tout va bien，她一牵手，乱跑的兔娃全排好队。",
+    "zh": "和她在一起，一切都好。"
+  },
+  "M02:2": {
+    "fr": "Il arrive à midi.",
+    "sound": "「伊拉里瓦，米迪」——他坐着米粒出租车，中午到达。",
+    "movie": "Il arrive à midi，一粒米顶着十二点小钟来接他。",
+    "zh": "他中午到。"
+  },
+  "M02:3": {
+    "fr": "Une amie habite ici.",
+    "sound": "玉纳米，阿比提西——女友人缩小，住在这里。",
+    "movie": "一位女性朋友缩成纳米小人，住进这支笔；你指着笔说这里住着一位朋友。按 une amie→habite→ici 串起人物、住处和这里。",
+    "zh": "一位女性朋友住在这里。"
+  },
+  "M03:1": {
+    "fr": "Je prends un café.",
+    "sound": "「热普昂，昂咖啡」——我把咖啡从喷泉里捧起来。",
+    "movie": "Je prends un café，喷泉全是咖啡，你只接走一杯。",
+    "zh": "我喝一杯咖啡。"
+  },
+  "M03:2": {
+    "fr": "Je prends un café avec Léa.",
+    "sound": "「热普昂昂咖啡，阿韦克雷阿」——莉娅把咖啡店搬进你手里。",
+    "movie": "Je prends un café avec Léa，你和莉娅坐在巨大咖啡杯边沿聊天。",
+    "zh": "我和莉娅喝咖啡。"
+  },
+  "M03:3": {
+    "fr": "Demain matin, on se retrouve.",
+    "sound": "「德曼马坦，翁瑟赫特鲁夫」——明早侦探带我们找回一只兔。",
+    "movie": "Demain matin, on se retrouve，失散的小队明早在兔子雕像下重逢。",
+    "zh": "明天早上我们见面。"
+  },
+  "M04:1": {
+    "fr": "Je lui donne le livre.",
+    "sound": "热吕伊东，勒 livre——我给他一本书。",
+    "movie": "我把书放上小溜冰鞋，推到他手里；lui 是收书的人，不是赠书者，照着我→给他→书的顺序回想。",
+    "zh": "我把书给他或她。"
+  },
+  "M04:2": {
+    "fr": "Elle va à la gare.",
+    "sound": "「艾勒娃，阿拉嘎尔」——娃娃坐着鳄鱼去车站。",
+    "movie": "Elle va à la gare，鳄鱼变成绿色出租车，车顶写着“去车站”。",
+    "zh": "她去车站。"
+  },
+  "M04:3": {
+    "fr": "Nous avons des amis ici.",
+    "sound": "「努扎翁，德扎米伊西」——朋友们在这里踩着两座 z 桥合影。",
+    "movie": "Nous avons des amis ici，合影框就是两座连起来的小桥。",
+    "zh": "我们在这里有朋友。"
+  },
+  "M05:1": {
+    "fr": "Je te le donne.",
+    "sound": "「热特勒东」——把“你”和“它”按顺序放进赠礼传送带。",
+    "movie": "Je te le donne，传送带上先是你的小人偶，再是礼物，最后送到你手里。",
+    "zh": "我把它给你。"
+  },
+  "M05:2": {
+    "fr": "Le petit garçon arrive.",
+    "sound": "「勒珀蒂嘎松，阿里夫」——小男孩嘎松骑迷你飞毯来了。",
+    "movie": "Le petit garçon arrive，飞毯小到像一块饼干。",
+    "zh": "小男孩来了。"
+  },
+  "M05:3": {
+    "fr": "Je ne sais pas.",
+    "sound": "「热讷塞帕」——“热呢？谁怕？”我不知道！",
+    "movie": "Je ne sais pas，问号戴着太阳帽跳出来，双手一摊。",
+    "zh": "我不知道。"
+  },
+  "M06:1": {
+    "fr": "Les enfants arrivent.",
+    "sound": "「雷赞芳，阿里夫」——孩子们赞芳一队，乘飞毯抵达。",
+    "movie": "Les enfants arrivent，一群孩子沿着 z 滑梯滑进教室。",
+    "zh": "孩子们来了。"
+  },
+  "M06:2": {
+    "fr": "Paul et Anne arrivent.",
+    "sound": "「波勒诶安，阿里夫」——保罗和安娜分两辆车来，et 不搭桥。",
+    "movie": "Paul et Anne arrivent，两人中间站着举“别搭 t”牌的交警。",
+    "zh": "保罗和安娜来了。"
+  },
+  "M06:3": {
+    "fr": "Les héros reviennent.",
+    "sound": "「雷埃罗，赫维恩」——英雄们坐返程热气球回来。",
+    "movie": "Les héros reviennent，h 门卫守着入口，不许 z 桥偷渡。",
+    "zh": "英雄们回来了。"
+  },
+  "M07:1": {
+    "fr": "Je parle français.",
+    "sound": "「热帕尔勒，弗杭塞」——我在热气球里说法语。",
+    "movie": "Je parle français，气球上挂着写有“我”的小牌。",
+    "zh": "我说法语。"
+  },
+  "M07:2": {
+    "fr": "Tu parles français.",
+    "sound": "「玉帕尔勒，弗杭塞」——换成玉兔坐气球说法语。",
+    "movie": "Tu parles français，同一个气球，乘客换成你。",
+    "zh": "你说法语。"
+  },
+  "M07:3": {
+    "fr": "Ils parlent français.",
+    "sound": "「伊勒帕尔勒，弗杭塞」——一群人挤进气球说法语。",
+    "movie": "Ils parlent français，乘客变多，parle 的声音并没有长出新尾巴。",
+    "zh": "他们说法语。"
+  },
+  "M08:1": {
+    "fr": "Le restaurant est proche.",
+    "sound": "「勒赫斯托杭，诶普霍什」——餐馆近到能从窗户伸手拿薯条。",
+    "movie": "Le restaurant est proche，餐馆穿拖鞋站在你家门口。",
+    "zh": "餐馆很近。"
+  },
+  "M08:2": {
+    "fr": "C’est très pratique.",
+    "sound": "「塞特蕾，普哈蒂克」——方便机器一按就吐出派对蛋糕。",
+    "movie": "C’est très pratique，连蜡烛都替你吹好了。",
+    "zh": "这很方便。"
+  },
+  "M08:3": {
+    "fr": "Il y a plusieurs trains.",
+    "sound": "「伊利亚，普吕泽尔特杭」——伊利亚的口袋里装着好几班火车。",
+    "movie": "Il y a plusieurs trains，一掏口袋，小火车排着队开出来。",
+    "zh": "有几班火车。"
+  },
+  "M09:1": {
+    "fr": "Bonjour, je m’appelle Lina.",
+    "sound": "「蹦茹儿，热马佩勒莉娜」——莉娜蹦着出场，胸牌比人还大。",
+    "movie": "Bonjour, je m’appelle Lina，她一握手，胸牌就亮“莉娜”两个字。",
+    "zh": "你好，我叫莉娜。"
+  },
+  "M09:2": {
+    "fr": "Demain, si tu veux, on ira au parc.",
+    "sound": "「德曼，西玉弗，翁尼拉欧帕克」——明天玉兔愿意，我们就去公园看帕克。",
+    "movie": "Demain, si tu veux, on ira au parc，公园门口有只会点头的玉兔。",
+    "zh": "明天如果你愿意，我们去公园。"
+  },
+  "M09:3": {
+    "fr": "Il dit : « Je suis prêt. »",
+    "sound": "「伊勒迪，热随普蕾」——他举扩音器转述“我准备好了”。",
+    "movie": "Il dit : « Je suis prêt. » 小人偶在大人的嘴边举 READY 牌。",
+    "zh": "他说：“我准备好了。”"
+  },
+  "M10:1": {
+    "fr": "Un instant, je réfléchis.",
+    "sound": "「昂南斯当，热黑弗雷希」——南斯当让时间暂停，我在脑内修灯泡。",
+    "movie": "Un instant, je réfléchis，暂停键一按，头顶灯泡慢慢亮。",
+    "zh": "稍等，我想一下。"
+  },
+  "M10:2": {
+    "fr": "Je reformule ma question.",
+    "sound": "「热赫佛尔缪勒，马凯斯蒂翁」——把问题揉成面团，再捏成新问号。",
+    "movie": "Je reformule ma question，同一个问题换了一身衣服。",
+    "zh": "我换个方式问。"
+  },
+  "M10:3": {
+    "fr": "Vous pouvez répéter la dernière partie ?",
+    "sound": "「武普韦，黑佩特，拉戴尔涅尔帕尔蒂」——请把录音最后一截拉回来。",
+    "movie": "Vous pouvez répéter la dernière partie ? 一条磁带尾巴甩出来，你抓住它再听一次。",
+    "zh": "您能重复最后一部分吗？"
+  },
+  "M11:1": {
+    "fr": "C’est lundi, pas mardi.",
+    "sound": "「塞兰迪，帕马尔迪」——蓝迪拿周一牌，马尔迪拿周二牌，别拿反。",
+    "movie": "C’est lundi, pas mardi，周一和周二两个小人互换帽子，你赶紧纠正。",
+    "zh": "是周一，不是周二。"
+  },
+  "M11:2": {
+    "fr": "C’est moi qui ai appelé.",
+    "sound": "「塞姆瓦，基诶阿佩雷」——电话手柄长出一根手指，直直指向我。",
+    "movie": "C’est moi qui ai appelé，我头顶的电话还在响，证据跑不掉。",
+    "zh": "是我打的电话。"
+  },
+  "M11:3": {
+    "fr": "Je veux le petit sac.",
+    "sound": "「热弗，勒珀蒂萨克」——我只要小包，大包再豪华也不要。",
+    "movie": "Je veux le petit sac，小包躲在大包肩上向你招手。",
+    "zh": "我想要小的那个包。"
+  },
+  "M12:1": {
+    "fr": "Tu viens demain ?",
+    "sound": "「玉维昂，德曼？」——玉兔抱着明天的日历来问你。",
+    "movie": "Tu viens demain ? 问号停在日历第二天那一格。",
+    "zh": "你明天来吗？"
+  },
+  "M12:2": {
+    "fr": "Vraiment ? Tu viens demain ?",
+    "sound": "「弗黑芒？玉维昂德曼？」——惊讶蘑菇跳起来：真的，明天就来？",
+    "movie": "Vraiment ? Tu viens demain ? 蘑菇先弹一下，再指明天那页。",
+    "zh": "真的吗？你明天来？"
+  },
+  "M12:3": {
+    "fr": "Où habitez-vous ?",
+    "sound": "「乌，阿比特武？」——乌鸦叼着地图问武先生住哪里。",
+    "movie": "Où habitez-vous ? 每个屋顶都浮着一个地址问号。",
+    "zh": "您住在哪里？"
+  },
+  "M13:1": {
+    "fr": "Il faut du pain, du lait et des œufs.",
+    "sound": "「伊勒佛，玉潘、玉莱、诶德泽」——购物篮唱歌：面包、牛奶，再来鸡蛋。",
+    "movie": "Il faut du pain, du lait et des œufs，面包指挥，牛奶打拍，鸡蛋沿 z 滑梯滚进篮子。",
+    "zh": "需要面包、牛奶和鸡蛋。"
+  },
+  "M13:2": {
+    "fr": "Vous préférez le thé ou le café ?",
+    "sound": "「武普黑费黑，勒泰乌勒咖啡？」——武先生左手茶、右手咖啡，选哪边？",
+    "movie": "Vous préférez le thé ou le café ? 两只杯子拔河，中间的 ou 当裁判。",
+    "zh": "您更喜欢茶还是咖啡？"
+  },
+  "M13:3": {
+    "fr": "D’une part, c’est pratique ; d’autre part, c’est cher.",
+    "sound": "「丹帕尔塞普哈蒂克，朵特帕尔塞谢尔」——一边便利门，一边收费门。",
+    "movie": "D’une part, c’est pratique ; d’autre part, c’est cher，两扇门一开，方便机器和钱包同时尖叫。",
+    "zh": "一方面很方便，另一方面很贵。"
+  },
+  "M14:1": {
+    "fr": "Je vous épelle mon nom.",
+    "sound": "「热武泽佩勒，蒙农」——我的名字变成字母项链，一个个展示给您。",
+    "movie": "Je vous épelle mon nom，z 小桥把字母送到对面。",
+    "zh": "我为您拼写姓名。"
+  },
+  "M14:2": {
+    "fr": "C’est B, comme dans bonjour.",
+    "sound": "「塞贝，科姆当蹦茹儿」——字母 B 戴着 Bonjour 胸牌来认亲。",
+    "movie": "C’est B, comme dans bonjour，大写 B 拉着 bonjour 的首字母合影。",
+    "zh": "是 B，像 bonjour 开头的 B。"
+  },
+  "M14:3": {
+    "fr": "Pouvez-vous me relire le numéro ?",
+    "sound": "「普韦武，么赫利尔，勒纽梅霍？」——号码变成会说话的面条，请您再读回来。",
+    "movie": "Pouvez-vous me relire le numéro ? 面条从你耳朵绕一圈，回到对方嘴边。",
+    "zh": "您能把号码读回给我吗？"
+  },
+  "M15:1": {
+    "fr": "Je répète la phrase.",
+    "sound": "「热黑佩特，拉弗哈兹」——重复机把一句话放进回旋镖。",
+    "movie": "Je répète la phrase，句子飞出去，又完整飞回来。",
+    "zh": "我重复这句话。"
+  },
+  "M15:2": {
+    "fr": "Je m’enregistre pour comparer.",
+    "sound": "热，m’enregistre；普尔，comparer——录下我的热嗓音，再比较。",
+    "movie": "我把声音录成两条彩带，一条原声、一条示范，放在一起比；enregistre 的记录动作接 comparer 的对照动作。",
+    "zh": "我录下来作比较。"
+  },
+  "M15:3": {
+    "fr": "Je travaille un son à la fois.",
+    "sound": "「热特哈瓦伊，昂松，阿拉弗瓦」——一次只修一个声音螺丝。",
+    "movie": "Je travaille un son à la fois，声音工厂一天只开一个工位，别把一百颗螺丝全拧了。",
+    "zh": "我一次练一个声音。"
+  },
+  "F01:1": {
+    "fr": "Je parle français avec mon accent.",
+    "sound": "「热帕尔勒弗杭塞，阿韦克蒙纳克桑」——我带着自己的“口音背包”说法语。",
+    "movie": "Je parle français avec mon accent，背包里装着家乡的小风铃，走哪儿响哪儿。",
+    "zh": "我带着自己的口音说法语。"
+  },
+  "F01:2": {
+    "fr": "Pouvez-vous reformuler ?",
+    "sound": "「普韦武，赫佛尔缪雷？」——请把刚才的话揉成另一只面包。",
+    "movie": "Pouvez-vous reformuler ? 同样的意思，从长棍变成可颂。",
+    "zh": "您能换一种说法吗？"
+  },
+  "F01:3": {
+    "fr": "L’important, c’est de se comprendre.",
+    "sound": "「兰波尔当，塞德瑟孔普杭德」——重要的是两个人把误会拼图拼到一起。",
+    "movie": "L’important, c’est de se comprendre，拼图一合上，两个人头顶同时亮灯。",
+    "zh": "重要的是彼此理解。"
+  },
+  "F02:1": {
+    "fr": "Le rendez-vous est à quinze heures.",
+    "sound": "「勒杭德武，诶塔干兹厄儿」——“武”约你十五点扛甘蔗来。",
+    "movie": "Le rendez-vous est à quinze heures，闹钟指十五点，武先生扛甘蔗准时赴约；“干兹”勾住 quinze 的声音，鼻音仍听法语核对。",
+    "zh": "预约在十五点。"
+  },
+  "F02:2": {
+    "fr": "Je n’ai pas dit seize heures.",
+    "sound": "「热内帕迪，塞兹厄儿」——我没说十六点，是谁塞来十六只鹅？",
+    "movie": "Je n’ai pas dit seize heures，十六只鹅举错时间牌，你赶紧喊“没说”；“塞兹”勾住 seize，和 quinze 分开记。",
+    "zh": "我没说十六点。"
+  },
+  "F02:3": {
+    "fr": "Je vais répéter le point important.",
+    "sound": "「热韦黑佩特，勒普万安波尔当」——普万抱着重要点的小旗，要求再讲一遍。",
+    "movie": "Je vais répéter le point important，你把关键要点变成一颗发光按钮，再按一次。",
+    "zh": "我重复关键点。"
+  },
+  "F03:1": {
+    "fr": "Je ne sais pas.",
+    "sound": "「热呢？谁怕！」——问号晒得喊热，我两手一摊不知道。",
+    "movie": "Je ne sais pas，“呢”坐在句子中间，提醒这是完整版本。",
+    "zh": "我不知道（完整形式）。"
+  },
+  "F03:2": {
+    "fr": "Je sais pas.",
+    "sound": "「热，谁怕！」——同一个问号嫌热，把“呢”的小椅子搬走。",
+    "movie": "Je sais pas，口语小怪兽拿走 ne，意思仍然是“不知道”。",
+    "zh": "我不知道（常见口语形式）。"
+  },
+  "F03:3": {
+    "fr": "Pas encore.",
+    "sound": "「帕昂科尔」——还没有？帕帕一直按“再来一次”。",
+    "movie": "Pas encore，下载进度条卡在最后一点，帕帕盯着它不动。",
+    "zh": "还没有。"
+  },
+  "F04:1": {
+    "fr": "Je pense que c’est possible.",
+    "sound": "「热庞斯，克塞波西布勒」——我觉得可能，庞斯把“不可能”牌翻了面。",
+    "movie": "Je pense que c’est possible，背面竟然写着“有可能”。",
+    "zh": "我觉得这是可能的。"
+  },
+  "F04:2": {
+    "fr": "Une grande table est prête.",
+    "sound": "「玉讷格朗德塔布勒，诶普蕾特」——大桌子自己戴领结宣布准备好了。",
+    "movie": "Une grande table est prête，桌上摆的不是盘子，是迷你餐厅。",
+    "zh": "一张大桌子准备好了。"
+  },
+  "F04:3": {
+    "fr": "Je peux te le dire.",
+    "sound": "「热珀，特勒迪尔」——我能把秘密递给你，但先过 te、le 两扇小门。",
+    "movie": "Je peux te le dire，小秘密抱着信封按顺序敲门。",
+    "zh": "我可以告诉你。"
+  },
+  "F05:1": {
+    "fr": "Pour commencer, je présente le projet.",
+    "sound": "「普尔科芒塞，热普黑赞特勒普霍热」——开场锣一响，项目小人跑上舞台自我介绍。",
+    "movie": "Pour commencer, je présente le projet，项目戴着大胸牌，先鞠躬再开讲。",
+    "zh": "首先，我介绍项目。"
+  },
+  "F05:2": {
+    "fr": "Ensuite, nous verrons les résultats.",
+    "sound": "「昂随特，努韦洪雷黑祖尔塔」——接着，结果塔升起来给我们看。",
+    "movie": "Ensuite, nous verrons les résultats，一座用成绩单盖成的塔接着登场。",
+    "zh": "接着，我们看结果。"
+  },
+  "F05:3": {
+    "fr": "Enfin, je répondrai à vos questions.",
+    "sound": "「昂梵，热黑庞德黑，阿沃凯斯蒂翁」——最后，问号排队来找我领答案。",
+    "movie": "Enfin, je répondrai à vos questions，舞台落幕前，你给每个问号发一张答案票。",
+    "zh": "最后，我回答问题。"
+  },
+  "F06:1": {
+    "fr": "Ce livre, je l’ai déjà lu.",
+    "sound": "「瑟利弗，热雷戴扎吕」——这本书戴着“已读”小绿帽。",
+    "movie": "Ce livre, je l’ai déjà lu，书一看见你，就举起你上次留下的书签。",
+    "zh": "这本书，我已经读过。"
+  },
+  "F06:2": {
+    "fr": "C’est Léa qui organise la réunion.",
+    "sound": "「塞雷阿，基奥尔嘎尼兹拉黑玉尼翁」——莉娅把散落的会议椅子组织成圆圈。",
+    "movie": "C’est Léa qui organise la réunion，她拿着指挥棒让每把椅子自己入座。",
+    "zh": "是莉娅组织会议。"
+  },
+  "F06:3": {
+    "fr": "Ce qui change, c’est la date.",
+    "sound": "「瑟基尚热，塞拉达特」——日历日期坐滑板换位置，其他东西纹丝不动。",
+    "movie": "Ce qui change, c’est la date，只有日期那一格偷偷搬家。",
+    "zh": "改变的是日期。"
+  },
+  "F07:1": {
+    "fr": "Il me semble que c’est possible.",
+    "sound": "「伊勒么桑布勒，克塞波西布勒」——在我看来，可能按钮闪了一下。",
+    "movie": "Il me semble que c’est possible，你戴上“在我看来”眼镜，灰按钮变绿。",
+    "zh": "我觉得这有可能。"
+  },
+  "F07:2": {
+    "fr": "Je suis d’accord sur ce point.",
+    "sound": "「热随达科尔，叙尔瑟普万」——同意小印章，盖在这一点上。",
+    "movie": "Je suis d’accord sur ce point，你只给一个发光圆点盖“同意”，其他点等一等。",
+    "zh": "在这一点上我同意。"
+  },
+  "F07:3": {
+    "fr": "Je reste prudent.",
+    "sound": "「热黑斯特，普吕当」——谨慎小人坚持戴头盔。",
+    "movie": "Je reste prudent，即使坐沙发，他也带着头盔和安全绳。",
+    "zh": "我仍持谨慎态度。"
+  },
+  "F08:1": {
+    "fr": "Je vois ce que vous voulez dire.",
+    "sound": "「热瓦，瑟克武武雷迪尔」——我看见你想说的话，变成透明字幕。",
+    "movie": "Je vois ce que vous voulez dire，对方还没讲完，你眼前的字幕就接上了。",
+    "zh": "我明白您的意思。"
+  },
+  "F08:2": {
+    "fr": "À propos, avez-vous reçu le message ?",
+    "sound": "「阿普霍波，阿韦武赫叙勒梅萨热？」——对了，消息鸽是不是飞到您那里？",
+    "movie": "À propos, avez-vous reçu le message ? 一只鸽子背着大信封，在你门口敲门。",
+    "zh": "对了，您收到消息了吗？"
+  },
+  "F08:3": {
+    "fr": "Pour revenir à notre sujet…",
+    "sound": "「普尔赫弗尼尔，阿诺特叙热」——话题小火车绕远了，拉回来！",
+    "movie": "Pour revenir à notre sujet，你扳道岔，把小火车送回“我们的话题”站。",
+    "zh": "回到我们的话题……"
+  },
+  "F09:1": {
+    "fr": "Au début, tout était calme.",
+    "sound": "「欧戴比玉，兔诶泰卡姆」——开头，兔子们全在静音睡觉。",
+    "movie": "Au début, tout était calme，世界被一床大棉被盖住。",
+    "zh": "一开始，一切平静。"
+  },
+  "F09:2": {
+    "fr": "Tout à coup, le téléphone a sonné.",
+    "sound": "「兔塔库，勒泰雷佛纳索内」——突然，兔子一敲鼓，电话炸响。",
+    "movie": "Tout à coup, le téléphone a sonné，安静房间里蹦出一只敲电话铃的兔子。",
+    "zh": "突然，电话响了。"
+  },
+  "F09:3": {
+    "fr": "Finalement, nous sommes rentrés.",
+    "sound": "「菲纳勒芒，努松杭特黑」——最后，松鼠带我们沿返程箭头回家。",
+    "movie": "Finalement, nous sommes rentrés，松鼠尾巴就是巨大的“回家”路标。",
+    "zh": "最后，我们回去了。"
+  },
+  "F10:1": {
+    "fr": "Pourriez-vous fermer la fenêtre ?",
+    "sound": "「普里耶武，费尔梅拉弗奈特？」——请武先生把漏风的窗关上。",
+    "movie": "Pourriez-vous fermer la fenêtre ? 窗户冷得发抖，自己伸出手求关门。",
+    "zh": "您能关一下窗吗？"
+  },
+  "F10:2": {
+    "fr": "Serait-il possible de changer l’heure ?",
+    "sound": "「瑟黑提勒波西布勒，德尚热勒厄儿？」——能不能给钟表换一顶时间帽？",
+    "movie": "Serait-il possible de changer l’heure ? 时钟把预约时间帽递给你，问能否换一顶。",
+    "zh": "可以改一下时间吗？"
+  },
+  "F10:3": {
+    "fr": "Merci, cela m’aiderait beaucoup.",
+    "sound": "「梅尔西，瑟拉梅德黑波库」——谢谢，帮忙小车运来一大堆救星。",
+    "movie": "Merci, cela m’aiderait beaucoup，你搬不动的箱子忽然长出一百只小手。",
+    "zh": "谢谢，这会很帮忙。"
+  },
+  "F11:1": {
+    "fr": "Je vais présenter trois points.",
+    "sound": "热韦 présente，特华普万——我要介绍三个要点。",
+    "movie": "我把三颗要点球放上讲台，先举手预告，再逐颗介绍；présenter 结尾是 /te/，不另加一拍。",
+    "zh": "我将介绍三点。"
+  },
+  "F11:2": {
+    "fr": "Passons maintenant aux résultats.",
+    "sound": "「帕松曼特农，欧黑祖尔塔」——现在坐传送带，去结果塔。",
+    "movie": "Passons maintenant aux résultats，讲台突然变成通往结果区的传送带。",
+    "zh": "现在转到结果。"
+  },
+  "F11:3": {
+    "fr": "Pour conclure, retenons cette idée.",
+    "sound": "「普尔孔克吕尔，赫特农塞蒂戴」——总结时，用捕蝶网抓住这个想法。",
+    "movie": "Pour conclure, retenons cette idée，想法长翅膀飞走，你轻轻把它留住。",
+    "zh": "最后，请记住这个想法。"
+  },
+  "F12:1": {
+    "fr": "Le projet, comme vous le savez, a commencé hier.",
+    "sound": "「勒普霍热，科姆武勒萨韦，阿科芒塞耶尔」——项目昨天醒了，大家早就知道。",
+    "movie": "Le projet, comme vous le savez, a commencé hier，项目小人从昨天那页日历里起床，众人点头。",
+    "zh": "项目如您所知，昨天开始了。"
+  },
+  "F12:2": {
+    "fr": "Selon elle, la réunion est reportée.",
+    "sound": "「瑟隆奈勒，拉黑玉尼翁诶赫波尔泰」——她把会议椅子推到下一页日历。",
+    "movie": "Selon elle, la réunion est reportée，一排椅子穿轮滑鞋集体延期。",
+    "zh": "据她说，会议推迟了。"
+  },
+  "F12:3": {
+    "fr": "Il a dit : « Je confirme demain. »",
+    "sound": "「伊拉迪，热孔菲尔姆德曼」——他说，明天再给确认章。",
+    "movie": "Il a dit : « Je confirme demain. » 印章睡在明天那页上，今天叫不醒。",
+    "zh": "他说：“我明天确认。”"
+  },
+  "F13:1": {
+    "fr": "En résumé, deux options restent possibles.",
+    "sound": "昂黑叙梅，德-z-options；黑斯特，possible——总结，两条路还通。",
+    "movie": "总结时两条选择路都亮着绿灯；两只圆嘴小豆滚过 z 桥进入 options，再看两条路仍然可行。",
+    "zh": "总之，仍有两个可能选项。"
+  },
+  "F13:2": {
+    "fr": "Cependant, le coût reste élevé.",
+    "sound": "「瑟庞当，勒库，黑斯特埃勒韦」——不过，费用一直坐在高高跷上不下来。",
+    "movie": "Cependant, le coût reste élevé，账单踩着三米高跷，钱包只能仰头看。",
+    "zh": "不过，费用仍高。"
+  },
+  "F13:3": {
+    "fr": "Merci de votre attention.",
+    "sound": "「梅尔西，德沃特阿唐西翁」——谢谢，大家的注意力变成聚光灯照过来。",
+    "movie": "Merci de votre attention，你对着一排小聚光灯鞠躬谢幕。",
+    "zh": "感谢您的聆听。"
+  },
+  "F14:1": {
+    "fr": "Tu viens lundi ?",
+    "sound": "「玉维昂，兰迪？」——玉兔拿着“周一蓝迪”的门票问你来不来。",
+    "movie": "Tu viens lundi ? 门票上画着一只星期一上班的蓝兔子。",
+    "zh": "你周一来吗？"
+  },
+  "F14:2": {
+    "fr": "Il porte un manteau brun.",
+    "sound": "伊波尔特，昂慢套，布棕——他穿着棕外套。",
+    "movie": "一颗棕色芒果拉开拉链变成外套，他慢慢套上；慢套勾 manteau，末尾 brun 按法语鼻音收住。",
+    "zh": "他穿棕色外套。"
+  },
+  "F14:3": {
+    "fr": "La fête commence bientôt.",
+    "sound": "「拉费特，科芒斯别安托」——派对快开场，别让蛋糕等太久。",
+    "movie": "La fête commence bientôt，蛋糕举着倒计时牌，蜡烛兴奋地搓手。",
+    "zh": "庆祝活动很快开始。"
+  },
+  "F15:1": {
+    "fr": "Est-ce que mon message est clair ?",
+    "sound": "「埃斯克，蒙梅萨热诶克莱尔？」——消息小人擦亮自己的透明玻璃脸。",
+    "movie": "Est-ce que mon message est clair ? 它问“这下清楚了吗”，你能直接透过它看到意思。",
+    "zh": "我的信息清楚吗？"
+  },
+  "F15:2": {
+    "fr": "Je vais reprendre cette phrase plus lentement.",
+    "sound": "「热韦赫普杭德，塞特弗哈兹，普吕朗特芒」——把这句话放上蜗牛传送带，再送一遍。",
+    "movie": "Je vais reprendre cette phrase plus lentement，一只蜗牛背着完整句子慢慢走回来。",
+    "zh": "我把这句话再慢说一遍。"
+  },
+  "F15:3": {
+    "fr": "Merci pour votre retour.",
+    "sound": "「梅尔西，普尔沃特赫图尔」——谢谢，反馈信乘回旋镖飞回来。",
+    "movie": "Merci pour votre retour，你接住写满建议的回旋镖，认真说声谢谢。",
+    "zh": "感谢您的反馈。"
+  },
+  "I07:1": {
+    "fr": "Ce billet coûte les yeux de la tête.",
+    "sound": "瑟比耶，库特雷兹 yeux，德拉 tête——毕业买票钱包哭，售票员竟收眼睛！",
+    "movie": "票价牌上画两只眼睛，头顶装着提款机；你捂眼逃跑：太贵啦！les yeux 的 z 小桥后，眼睛喊耶、嘴巴亲亲；tête 摸头只点一拍。",
+    "zh": "这张票贵得惊人。"
+  },
+  "I07:2": {
+    "fr": "Ne jette pas l’argent par les fenêtres.",
+    "sound": "「呢热特帕，拉让帕尔雷弗奈特」——‘热特’钱太多，想给窗户发工资？",
+    "movie": "钞票从窗户飞出去，窗框戴着老板帽大喊‘发财啦’，你抓着钱袋喊‘别乱花钱’！让 l’argent 跟钱袋、fenêtres 跟收钞票的窗户绑定。",
+    "zh": "别乱花钱。"
+  },
+  "I07:3": {
+    "fr": "Je mets vingt euros de côté.",
+    "sound": "「热梅，万特油螺，德科泰」——梅梅养了二十只‘油螺’，每只都往旁边存钱罐滚！",
+    "movie": "二十欧元硬币变成二十只油亮小螺，排队躲到一旁，今天存下就不花。‘万特油螺’里的‘特’专门提醒 vingt euros 的 /t/ 连接。",
+    "zh": "我存下二十欧元。"
+  },
+  "G01:1": {
+    "fr": "Je suis étudiant.",
+    "sound": "热水（Je suis），诶，玉奖（étudiant）——我戴学生帽领奖！",
+    "movie": "我打开热水杯，“诶！”里面蹦出一块玉奖章；我戴好学生帽把奖章别在胸前，介绍自己：我是学生。按热水→诶玉奖回忆整句。",
+    "zh": "我是男学生。"
+  },
+  "G01:2": {
+    "fr": "Elle est à Montréal.",
+    "sound": "艾儿，诶啊，蒙特利尔（Montréal）。",
+    "movie": "她先把艾草夹在耳边，惊呼“诶啊”，接着滑进蒙特利尔的雪堆，探出头说自己就在这里。",
+    "zh": "她在蒙特利尔。"
+  },
+  "G01:3": {
+    "fr": "Nous sommes prêts.",
+    "sound": "努，松，prêts：努力松绑，准备出发。",
+    "movie": "我们一起努力解开行李的松绑绳，绳子一落，三人立刻戴好头盔举起背包，表示全都准备好了。",
+    "zh": "我们准备好了。"
+  },
+  "G01:4": {
+    "fr": "Il y a une pharmacie ici.",
+    "sound": "一粒呀，une，发儿吗西，一席（ici）。",
+    "movie": "一粒药丸大喊“呀”，滚到一个小药箱旁，药师边发药边洗手；眼前这一席地方原来有家药店。",
+    "zh": "这里有一家药店。"
+  },
+  "G01:5": {
+    "fr": "C’est une pharmacie.",
+    "sound": "塞，une，发儿吗西（pharmacie）。",
+    "movie": "我把一个药箱塞进门口，里面的药师忙着发药、洗手，我指着整间店说：这是一家药店。",
+    "zh": "这是一家药店。"
+  },
+  "G02:1": {
+    "fr": "J’ai trente ans.",
+    "sound": "这，trente，昂：三十根蜡烛昂起头。",
+    "movie": "我捧着蛋糕喊“这”，三十根蜡烛一起昂起头唱生日歌，我吹得满脸奶油，庆祝自己三十岁。",
+    "zh": "我三十岁。"
+  },
+  "G02:2": {
+    "fr": "Nous avons soif.",
+    "sound": "努，啊风，刷夫（soif）：努力找水喝。",
+    "movie": "我们努力追着一阵风跑，刷牙师傅递来三个空杯子，大家渴得舌头贴杯底，一滴水也喝不到。",
+    "zh": "我们渴了。"
+  },
+  "G02:3": {
+    "fr": "Elle a un rhume.",
+    "sound": "艾儿啊，un，rhume：她揉鼻子。",
+    "movie": "她耳边夹着艾草，张嘴“啊”了一声，抱住一个软枕揉鼻子，接连打喷嚏，把感冒的自己裹成粽子。",
+    "zh": "她感冒了。"
+  },
+  "G03:1": {
+    "fr": "J’habite à Québec.",
+    "sound": "扎比特啊，魁北克（Québec）：扎帐篷住下。",
+    "movie": "我用特别粗的针扎好帐篷，喊声“啊”，把它安在魁北克城的小屋里，天天从帐篷门出去买早餐。",
+    "zh": "我住在魁北克市。"
+  },
+  "G03:2": {
+    "fr": "Tu parles français.",
+    "sound": "Tu（玉兔），parles français：玉兔说话，法兰饼飞。",
+    "movie": "你抱着玉兔张嘴说话，法兰形状的饼干从嘴边飞出，落地排成法国小旗，原来你说的是法语。",
+    "zh": "你说法语。"
+  },
+  "G03:3": {
+    "fr": "Nous travaillons ensemble.",
+    "sound": "努，travaillons ensemble：努力工作，昂头一起扛布。",
+    "movie": "我们努力搬木板，再抬起一整匹布，一起扛着布做工；谁也不松手，工作台像小火车一样往前跑。",
+    "zh": "我们一起工作。"
+  },
+  "G04:1": {
+    "fr": "Je prends le bus.",
+    "sound": "Je prends，勒，bus：背包一勒，玉色巴士坐上去。",
+    "movie": "我伸手抓住扶杆，勒紧书包带，坐进一辆玉色公交车；车像装上小翅膀一样轻轻一晃，我正乘公交去目的地。",
+    "zh": "我坐公交车。"
+  },
+  "G04:2": {
+    "fr": "Nous finissons à cinq heures.",
+    "sound": "努，finissons à cinq heures：松鼠收工，五点钟响。",
+    "movie": "我们努力把最后一只松鼠送进窝，五点闹钟一响就合上工具箱，松鼠用五个松果庆祝完工。",
+    "zh": "我们五点结束。"
+  },
+  "G04:3": {
+    "fr": "Ils vont au travail.",
+    "sound": "一儿，vont au travail：他们乘风，哦，上班去。",
+    "movie": "他们排成一列被风吹走，“哦”地落进工作间，每人准确落在自己的椅子上，领带还在头顶飘。",
+    "zh": "他们去上班。"
+  },
+  "G05:1": {
+    "fr": "Je me lève à sept heures.",
+    "sound": "Je me lève à sept heures：这，摸，来扶我，七点起。",
+    "movie": "我困得只会说“这、么”，七点闹钟伸出手来扶我坐起，再把拖鞋套到脚上，准时把我从床上拔起来。",
+    "zh": "我七点起床。"
+  },
+  "G05:2": {
+    "fr": "Elle s’appelle Lina.",
+    "sound": "艾儿，撒佩儿，莉娜（Lina）。",
+    "movie": "她摘下耳边的艾草，撒出一串小贝壳，每个贝壳都叫“莉娜”，她笑着指自己，告诉大家她叫莉娜。",
+    "zh": "她叫莉娜。"
+  },
+  "G05:3": {
+    "fr": "Nous ne nous couchons pas tard.",
+    "sound": "Nous ne nous couchons pas tard：努，讷，努，苦熊怕熬晚。",
+    "movie": "我们努力把熬夜的苦脸熊哄上床，自己也在合适的时间盖好被子；月亮刚升起一会儿，大家都没有睡得太晚。",
+    "zh": "我们不晚睡。"
+  },
+  "G06:1": {
+    "fr": "Je ne comprends pas.",
+    "sound": "这，讷，空盆（comprends），啪。",
+    "movie": "我捧着这只空盆发愣，别人讲了半天，我仍把盆“啪”地倒扣在头上：我一点也没明白。",
+    "zh": "我不明白。"
+  },
+  "G06:2": {
+    "fr": "Elle n’a pas de voiture.",
+    "sound": "艾儿，拿，啪，的，voiture：她没车。",
+    "movie": "她摘下艾草想拿汽车钥匙，手掌却啪地拍空，停车位只有一双鞋，她摇头说自己没有汽车。",
+    "zh": "她没有汽车。"
+  },
+  "G06:3": {
+    "fr": "Ce n’est pas un problème.",
+    "sound": "瑟，奶，啪，un，problème：奶洒了不算问题。",
+    "movie": "这瓶奶啪地洒出来，一个小拖把立刻滑来擦干，我轻松摆手，眼前这件事并不是问题。",
+    "zh": "这不是问题。"
+  },
+  "G07:1": {
+    "fr": "Où habitez-vous ?",
+    "sound": "呜，阿比特乌（habitez-vous）：您住哪儿？",
+    "movie": "我对着会“呜”叫的小门铃问，您那栋特别的小屋在哪里，门铃转着指南针，等您指出住所。",
+    "zh": "您住在哪里？"
+  },
+  "G07:2": {
+    "fr": "Est-ce que tu viens ?",
+    "sound": "Est-ce que Tu viens：S饼干敲门，玉兔你来吗？",
+    "movie": "我拿着S形饼干敲门，克服害羞问骑玉兔的你来不来，玉兔把一只蹄子悬在门外，等你回答。",
+    "zh": "你来吗？"
+  },
+  "G07:3": {
+    "fr": "Qui travaille ici ?",
+    "sound": "奇，travaille，一席：谁在这一席工作？",
+    "movie": "一只好奇的小鸡巡视工作桌，桌上工具自己跳动；小鸡探头问，到底是谁在这里工作？",
+    "zh": "谁在这里工作？"
+  },
+  "G08:1": {
+    "fr": "Je lis tous les soirs.",
+    "sound": "这，梨，兔，勒，soir：每晚读书。",
+    "movie": "我抱着这只梨形书枕，小兔勒好睡帽带，每个晚上都来陪我读书，窗外一轮轮月亮轮流值班。",
+    "zh": "我每天晚上读书。"
+  },
+  "G08:2": {
+    "fr": "En ce moment, je lis un roman.",
+    "sound": "昂，瑟，摸忙，这，梨，un，roman：现在读小说。",
+    "movie": "时钟昂着头瑟瑟抖，我摸着忙乱的秒针让它慢下来，这时抱起梨枕和一本小说，正在读故事。",
+    "zh": "我现在在读一本小说。"
+  },
+  "G08:3": {
+    "fr": "Elle est en train de cuisiner.",
+    "sound": "Elle est en train de cuisiner：艾草，昂头火车进厨房。",
+    "movie": "她耳边夹着艾草，惊呼后昂起头，一列小火车把食材运进厨房，她正拿锅铲炒饭，蒸汽还在冒。",
+    "zh": "她正在做饭。"
+  },
+  "G09:1": {
+    "fr": "J’ai réservé une table.",
+    "sound": "借（J’ai），réservé，une table：绕绳订好桌。",
+    "movie": "我借来一条绕成圈的预订绳，把它系在一张会跑的餐桌脚上；桌子停住等我来用，我已经订好一张桌。",
+    "zh": "我订了一张桌子。"
+  },
+  "G09:2": {
+    "fr": "Nous avons fini le travail.",
+    "sound": "努，啊风，菲尼，勒，travail：工作完成啦。",
+    "movie": "我们努力顶着风做完最后一道工序，松鼠勒紧工具袋，全部工作已经完成，大家一起把手套抛高。",
+    "zh": "我们完成了工作。"
+  },
+  "G09:3": {
+    "fr": "Elle a pris le train.",
+    "sound": "艾儿啊，pris le train：拿票勒好包，她坐过火车。",
+    "movie": "她耳边夹着艾草喊“啊”，拿起车票，勒好背包带跳进小火车；车已经开走，留下飘动的艾草叶。",
+    "zh": "她坐了火车。"
+  },
+  "G10:1": {
+    "fr": "Elle est arrivée tôt.",
+    "sound": "艾儿，诶，阿里韦，偷（tôt）：早到偷看。",
+    "movie": "她耳边夹着艾草“诶”地落地，来人挥手迎接；她早早就到了，还能偷偷看见早餐面包出炉。",
+    "zh": "她很早就到了。"
+  },
+  "G10:2": {
+    "fr": "Ils sont partis ensemble.",
+    "sound": "Ils sont partis ensemble：一儿，松，派对，一起扛布离开。",
+    "movie": "他们排成一列，松开聚会气球的绳子，扛起同一匹布作行李，一起离开了热闹的派对。",
+    "zh": "他们一起离开了。"
+  },
+  "G10:3": {
+    "fr": "J’ai marché une heure.",
+    "sound": "借（J’ai），马儿歇（marché），une heure：走足一小时。",
+    "movie": "我借来一匹马却让马儿歇着，自己沿钟面走路；足足一小时走完，马还在原地嚼草等我回来。",
+    "zh": "我走了一个小时。"
+  },
+  "G11:1": {
+    "fr": "Quand j’étais enfant, je lisais beaucoup.",
+    "sound": "看，这忒，昂方，这，梨贼，播酷：小时候书读很多。",
+    "movie": "看照片里的小小我，昂头坐在方凳上，像偷梨的贼一样搬来一大摞书，小时候总读个不停。",
+    "zh": "小时候我读很多书。"
+  },
+  "G11:2": {
+    "fr": "Il faisait froid.",
+    "sound": "一儿，fəzɛ，弗哇：冷得哇哇叫。",
+    "movie": "旧照片里一只耳罩抖个不停，我想扶住它却冻得“哇”了一声，想起那时候天气一直很冷。",
+    "zh": "当时天气很冷。"
+  },
+  "G11:3": {
+    "fr": "Nous habitions près du lac.",
+    "sound": "Nous habitions près du lac：努力亮小屋，小驴去湖边。",
+    "movie": "我们努力搭过一座特别的亮屋，准备骑驴去看湖；旧屋门一开就是湖水，那时我们就住在湖边。",
+    "zh": "那时我们住在湖边。"
+  },
+  "G12:1": {
+    "fr": "Il pleuvait quand je suis sorti.",
+    "sound": "一儿，pleuvait，看，这，随，sorti：我出门时雨正下。",
+    "movie": "雨滴扑在耳罩上，我一看窗外便说“这回随我出去”，推门那刻雨还在落，鞋子马上溅起水花。",
+    "zh": "我出门时正在下雨。"
+  },
+  "G12:2": {
+    "fr": "Je préparais le dîner quand elle est arrivée.",
+    "sound": "Je préparais le dîner quand elle est arrivée：这锅晚饭还在煮，看，艾草女孩已到。",
+    "movie": "我正准备晚饭，勒住围裙带搅汤；一看门口，她带着艾草已经到了，锅里的汤仍在咕嘟冒泡。",
+    "zh": "她到时我正在准备晚饭。"
+  },
+  "G12:3": {
+    "fr": "Hier, j’ai travaillé trois heures.",
+    "sound": "耶儿，这，travaillé，trois heures：昨天忙三小时。",
+    "movie": "昨天我高喊“耶”，开始搬工作桌，桌子转完三个钟面才停；我已经实实在在工作了三个小时。",
+    "zh": "昨天我工作了三个小时。"
+  },
+  "G13:1": {
+    "fr": "Quand je suis arrivé, elle était déjà partie.",
+    "sound": "Quand je suis arrivé，elle était déjà partie：看，我随箱到，她早离开派对。",
+    "movie": "我一看门便随行李到了，找耳边夹艾草的她；地上只有她丢下的派对帽，她在我来前已经离开。",
+    "zh": "我到的时候，她已经走了。"
+  },
+  "G13:2": {
+    "fr": "J’avais oublié mon billet.",
+    "sound": "扎围（J’avais），oublié，蒙，毕业（billet）：扎围巾，忘了票。",
+    "movie": "我扎好围巾，蒙着头来到车站才摸到空口袋；毕业回家那张票，早已被我忘在桌上，出门前就忘带了。",
+    "zh": "我那时已经忘了带票。"
+  },
+  "G13:3": {
+    "fr": "Nous avions réservé avant de partir.",
+    "sound": "Nous avions réservé avant de partir：努力预订，啊汪，出发前订好。",
+    "movie": "我们努力把机翼形行李摆好，先用绳预订座位，再向汪汪小狗挥手出发；起程之前预订就已经完成。",
+    "zh": "出发前我们已经预订了。"
+  },
+  "G14:1": {
+    "fr": "J’étudie le français depuis un an.",
+    "sound": "J’étudie le français depuis un an：这玉笛陪学法语，一年还没收。",
+    "movie": "我把书递给小驴，勒好书包学法语，一整年的日历落成小山，新的一页上我仍坐着练习。",
+    "zh": "我学法语一年了，还在学。"
+  },
+  "G14:2": {
+    "fr": "J’ai travaillé pendant deux heures.",
+    "sound": "J’ai travaillé pendant deux heures：这工作，胖钟当当，两小时。",
+    "movie": "我指着这张工作桌认真做工，胖胖的钟摆当当响两小时，然后我合上工具盒，这段工作做完了。",
+    "zh": "我工作了两个小时。"
+  },
+  "G14:3": {
+    "fr": "Je pars dans trois jours.",
+    "sound": "这，par，挡，trois jours：三天后出发。",
+    "movie": "我把这只背包放门口，却被三张日历挡住；每天抽掉一张，三天过去我才背起它出发。",
+    "zh": "我三天后出发。"
+  },
+  "G15:1": {
+    "fr": "Je vais appeler le médecin.",
+    "sound": "Je vais appeler le médecin：这，喂，啊扑了，没得闲，打给医生。",
+    "movie": "我举起这根电话线喂了一声，啊地扑向药箱旁的听筒；准备给医生打电话，让他帮我看看不舒服的鼻子。",
+    "zh": "我准备给医生打电话。"
+  },
+  "G15:2": {
+    "fr": "Elle vient de rentrer.",
+    "sound": "艾儿，viens，的，rentrer：她刚刚进门。",
+    "movie": "她摘下耳边艾草，风还粘在头发上，刚把脚跨进回家的门，鞋底的小水滴仍滴在门垫上。",
+    "zh": "她刚回来。"
+  },
+  "G15:3": {
+    "fr": "Nous allons déménager cet été.",
+    "sound": "Nous allons déménager cet été：努，啊龙，今夏搬家。",
+    "movie": "我们努力叫来龙形搬家车，准备把家具装进大箱子；今年夏天太阳晒着西瓜时，我们就搬去新家。",
+    "zh": "我们今年夏天准备搬家。"
+  },
+  "G16:1": {
+    "fr": "Je vous écrirai demain.",
+    "sound": "Je vous écrirai demain：这乌鸦，笔先睡，德曼明天再写。",
+    "movie": "我让这只乌鸦含好笔，却先给它盖上笔帽；等明天太阳升起，我会写好信请乌鸦送给您。",
+    "zh": "我明天给您写信。"
+  },
+  "G16:2": {
+    "fr": "Quand tu arriveras, nous dînerons.",
+    "sound": "Quand Tu arriveras，nous dînerons：看，玉兔你到，我们端晚饭。",
+    "movie": "我看着你抱玉兔走来的路，我们努力摆好晚饭碗筷；等你到了，大家就一起端碗开吃。",
+    "zh": "你到时我们会吃晚饭。"
+  },
+  "G16:3": {
+    "fr": "J’aurai fini avant midi.",
+    "sound": "J’aurai fini avant midi：粥热，菲尼收工，咪滴中午之前。",
+    "movie": "我把粥热好，让松鼠看守工作；小狗刚要敲中午的咪滴闹钟，我会在钟响之前把最后一步完成。",
+    "zh": "中午之前我会完成。"
+  },
+  "G17:1": {
+    "fr": "Je peux vous aider.",
+    "sound": "这，peux，乌，诶的：乌鸦帮您抬。",
+    "movie": "我指着这只喷气背包，招来乌鸦说“诶，递给我”，我有力气替您抬起重箱，可以帮您的忙。",
+    "zh": "我能帮您。"
+  },
+  "G17:2": {
+    "fr": "Nous voulons apprendre.",
+    "sound": "努，乌龙，apprendre：乌龙茶旁想学习。",
+    "movie": "我们努力坐到乌龙茶杯旁，茶叶竟折成小书；我们都想学新知识，把书页展开准备认真学。",
+    "zh": "我们想学习。"
+  },
+  "G17:3": {
+    "fr": "Il faut réserver.",
+    "sound": "Il faut réserver：一儿，佛手打电话，先预订。",
+    "movie": "一只耳罩挂在佛手形电话旁，想吃饭得先预订座位，佛手伸出手指按号码，提醒必须先订好。",
+    "zh": "需要预订。"
+  },
+  "G18:1": {
+    "fr": "Je voudrais un café, s’il vous plaît.",
+    "sound": "Je voudrais un café，s’il vous plaît：这乌托盘，咖啡，丝乌礼帽请。",
+    "movie": "我拿着这只乌色茶托，礼貌要一杯咖啡，再系上丝带递给服务员，请他把热咖啡放到托盘上。",
+    "zh": "请给我一杯咖啡。"
+  },
+  "G18:2": {
+    "fr": "Vous pourriez répéter ?",
+    "sound": "Vous pourriez répéter：乌鸦佩好领结，热佩忒，再说一次？",
+    "movie": "我把手放到乌鸦耳边，第一遍没听清，便礼貌请求；乌鸦重新佩好小领结，准备再说一遍。",
+    "zh": "您能再说一遍吗？"
+  },
+  "G18:3": {
+    "fr": "Tu aurais dû te reposer.",
+    "sound": "Tu aurais dû te reposer：玉色靠枕，哦，你本该休息。",
+    "movie": "你抱着玉色靠枕跑得太累，我哦地摇头，指指你本该躺下的床；实际没有好好休息，现在才累成这样。",
+    "zh": "你本该休息一下。"
+  },
+  "G19:1": {
+    "fr": "S’il pleut, je resterai ici.",
+    "sound": "丝儿，pleut，这，resterai，一席：雨下就坐这里。",
+    "movie": "一根丝带伸到窗外试雨，如果雨滴扑来，我就把这把椅子搬回屋里，留在眼前这一席坐着。",
+    "zh": "如果下雨，我会留在这里。"
+  },
+  "G19:2": {
+    "fr": "Si j’avais le temps, je viendrais.",
+    "sound": "西，扎韦，勒，temps，这，viendrais：有时间就来。",
+    "movie": "西瓜钟旁我扎好围巾，勒住乱跑的钟摆；假如我能空出时间，就能拿起这条围巾来见你。",
+    "zh": "如果有时间，我就会来。"
+  },
+  "G19:3": {
+    "fr": "Si j’avais su, je serais venu.",
+    "sound": "Si j’avais su，je serais venu：西瓜钟，扎围巾，早知就已来。",
+    "movie": "西瓜钟已经停了，我扎着围巾抱着玉兔后悔：若早知道你的聚会，我这个男生当时就来参加了。",
+    "zh": "如果早知道，我就来了（男性说话者）。"
+  },
+  "G19:4": {
+    "fr": "Il parle comme s’il savait tout.",
+    "sound": "一儿，parle，空，丝儿，撒韦，兔：像啥都懂。",
+    "movie": "他戴着耳罩滔滔说话，空茶杯上绕着丝带；连撒进杯里的小兔怎么想，他都说得像全知道一样。",
+    "zh": "他说得好像自己什么都知道。"
+  },
+  "G20:1": {
+    "fr": "Il faut que tu viennes.",
+    "sound": "Il faut que Tu viennes：一儿，佛手敲门，玉兔你得来。",
+    "movie": "耳罩旁的佛手敲开门，克服门槛拉住你的玉兔，说这里需要你到场，玉兔赶紧把你往门口送。",
+    "zh": "你需要来。"
+  },
+  "G20:2": {
+    "fr": "Je veux qu’elle soit heureuse.",
+    "sound": "这，veux，qu’elle soit heureuse：刷（soit）出她的幸福。",
+    "movie": "我把一束花送给她，希望小刷子把她每天的生活刷成阳光色；她幸福地笑是我的心愿，花瓣也跟着轻轻摇。",
+    "zh": "我希望她幸福。"
+  },
+  "G20:3": {
+    "fr": "Je sais qu’il est ici.",
+    "sound": "这，塞，奇儿，诶，一席：我知道他在这。",
+    "movie": "我举着这块塞子当望远镜，看见奇妙的小耳罩在眼前这一席跳舞，立刻知道他就在这里。",
+    "zh": "我知道他在这里。"
+  },
+  "G20:4": {
+    "fr": "Je viendrai à moins qu’il pleuve.",
+    "sound": "Je viendrai à moins qu’il pleuve：这伞要来，雨扑才不来。",
+    "movie": "我举着这把伞准备来，啊地望一眼天：只有雨水扑下来才取消，天气只要不下雨我就到场。",
+    "zh": "除非下雨，否则我会来。"
+  },
+  "G21:1": {
+    "fr": "On a réparé la porte.",
+    "sound": "昂啊，réparé，拉，porte：门已经修好。",
+    "movie": "一只工具箱昂头“啊”地打开，有人修理完铰链，拉开曾经歪斜的门；门现在顺滑得能跳舞。",
+    "zh": "有人修好了门。"
+  },
+  "G21:2": {
+    "fr": "La porte a été réparée.",
+    "sound": "拉，porte，啊，été，réparée：这门被修好了。",
+    "movie": "我拉着门把，门“啊”地转过身，给我看已经装好的新铰链；这扇门被修好，再也不歪着走。",
+    "zh": "门被修好了。"
+  },
+  "G21:3": {
+    "fr": "Ce livre est lu par beaucoup d’élèves.",
+    "sound": "Ce livre est lu par beaucoup d’élèves：这书连驴也读，播出很多学生读。",
+    "movie": "这本书抖了抖，连小驴也探头；一大群学生轮流捧它读，书页忙得像播出很多节目的小舞台。",
+    "zh": "很多学生读这本书。"
+  },
+  "G21:4": {
+    "fr": "Je fais réparer ma voiture.",
+    "sound": "这，菲，réparer，妈，voiture：让师傅修我的车。",
+    "movie": "我把这只扳手交给修车师傅，请他修理我的汽车；妈妈坐旁边看，车的轮子终于重新转起来。",
+    "zh": "我让人修我的车。"
+  },
+  "G22:1": {
+    "fr": "Elle dit qu’elle est fatiguée.",
+    "sound": "艾儿，滴，凯儿，诶，法提给：她说她累。",
+    "movie": "她耳边艾草滴着水，指指自己喊“诶，乏得很”，说完就瘫到沙发上，连鞋带都懒得解。",
+    "zh": "她说她累了。"
+  },
+  "G22:2": {
+    "fr": "Il demande si je viens.",
+    "sound": "一儿，的忙的，西，这，viens：他问我来不来。",
+    "movie": "他摘下耳罩，忙得把西瓜当电话，打给我问“这回你来不来”，我对着瓜皮正准备回答。",
+    "zh": "他问我是否来。"
+  },
+  "G22:3": {
+    "fr": "Elle m’a demandé de patienter.",
+    "sound": "艾儿，妈，的忙的，的，patienter：请我耐心等。",
+    "movie": "她把耳边艾草递给妈妈，忙着处理柜台的事，再给我一把小椅子，请我耐心坐着等一会儿。",
+    "zh": "她请我耐心等一下。"
+  },
+  "G23:1": {
+    "fr": "J’apprends à conduire.",
+    "sound": "扎prends，啊，conduire：扎好安全带学开车。",
+    "movie": "我扎好安全带，啊地握住方向盘，教练用一只玩具鸭演示转弯，我正在认真学开车。",
+    "zh": "我在学开车。"
+  },
+  "G23:2": {
+    "fr": "Elle essaie de comprendre.",
+    "sound": "艾儿，诶塞，的，comprendre：试着理解。",
+    "movie": "她把艾草塞到耳边，诶地端起一个空盆反复观察，想弄懂盆底的谜题，正在努力试着理解。",
+    "zh": "她试着理解。"
+  },
+  "G23:3": {
+    "fr": "J’écoute la radio en cuisinant.",
+    "sound": "这裤，拉，radio，昂，cuisinant：边听广播边炒菜。",
+    "movie": "我围裙像大裤子，拉开收音机开关，广播里的歌声昂起来；我一边听广播，一边用锅铲炒菜。",
+    "zh": "我边做饭边听广播。"
+  },
+  "G23:4": {
+    "fr": "Je suis habitué à travailler tôt.",
+    "sound": "Je suis habitué à travailler tôt：这随身钟，习惯早起，偷偷先开工。",
+    "movie": "我把这只随身闹钟放床头，已经习惯它一叫就起；啊地背起工具，太阳还没露头我便开始工作。",
+    "zh": "我习惯早早工作。"
+  },
+  "G23:5": {
+    "fr": "Il est inutile de répéter.",
+    "sound": "Il est inutile de répéter：一儿，诶，耳罩重复十遍也没用。",
+    "movie": "一个耳罩诶地弹起来，同一句话重复十遍，打不开的罐头仍打不开，大家发现继续重复没有用。",
+    "zh": "重复没有用。"
+  },
+  "G23:6": {
+    "fr": "Je vois les enfants jouer.",
+    "sound": "这，哇，勒，昂方，jouer：看见孩子们玩。",
+    "movie": "我指着这边“哇”地笑了，勒好滑梯绳子，一群孩子昂头爬上去又滑下来，我亲眼看他们玩耍。",
+    "zh": "我看见孩子们玩耍。"
+  },
+  "G24:1": {
+    "fr": "Entrez, s’il vous plaît.",
+    "sound": "Entrez，s’il vous plaît：昂头来，丝乌礼帽，请进。",
+    "movie": "我昂起头把门推开，门口乌鸦举着丝带礼帽，我礼貌伸手请它进来，它收起翅膀跨过门槛。",
+    "zh": "请进。"
+  },
+  "G24:2": {
+    "fr": "Allons au parc.",
+    "sound": "Allons au parc：啊龙，哦，一起去公园吧。",
+    "movie": "我拉起龙形小拖车，哦地指向公园里的秋千，招呼大家一起去；我们抱着野餐垫欢快走向公园。",
+    "zh": "我们去公园吧。"
+  },
+  "G24:3": {
+    "fr": "Ne me téléphone pas ce soir.",
+    "sound": "讷，么，téléphone，啪，瑟，soir：今晚别打。",
+    "movie": "我拿起电话又啪地放下，让夜色给听筒盖小被子，特意叮嘱你，今天晚上别给我打电话。",
+    "zh": "今晚别给我打电话。"
+  },
+  "G25:1": {
+    "fr": "J’ai un livre. Le livre est intéressant.",
+    "sound": "J’ai un livre；le livre est intéressant：这本书勒住，诶，里面滑梯真有趣。",
+    "movie": "我拿出这一本书，勒住书页不让它跑；书里突然弹出一座滑梯，我笑着往下滑，这本书真有意思。",
+    "zh": "我有一本书。这本书很有意思。"
+  },
+  "G25:2": {
+    "fr": "J’aime les chats.",
+    "sound": "J’aime les chats：gem宝石，勒，沙，喜欢猫咪玩沙。",
+    "movie": "我把宝石般的毛线球勒成沙包，小猫一扑就滚进沙堆，我笑得合不拢嘴，特别喜欢这些猫。",
+    "zh": "我喜欢猫。"
+  },
+  "G25:3": {
+    "fr": "Je vais au marché.",
+    "sound": "这，韦，哦，马儿歇（marché）。",
+    "movie": "我拿着这只菜篮说“喂”，哦地往市场走，马儿在摊边歇脚，帮我用尾巴挑一根最大胡萝卜。",
+    "zh": "我去市场。"
+  },
+  "G26:1": {
+    "fr": "Je bois de l’eau.",
+    "sound": "Je bois de l’eau：玻璃杯举高，水落（l’eau）进喉。",
+    "movie": "我把玻璃杯举到嘴边，清水像小瀑布落进喉咙，杯里的纸船绕一圈；正在喝的是水，喝完还想再倒半杯。",
+    "zh": "我喝水。"
+  },
+  "G26:2": {
+    "fr": "Nous achetons un kilo de pommes.",
+    "sound": "Nous achetons un kilo de pommes：阿嚏（achetons），一公斤苹果砰进袋。",
+    "movie": "我们买苹果时有人阿嚏一声，苹果吓得跳上秤；一公斤砝码把秤压平，苹果砰地落袋，我们买下一公斤苹果。",
+    "zh": "我们买一公斤苹果。"
+  },
+  "G26:3": {
+    "fr": "Elle n’a pas de pain.",
+    "sound": "艾儿，拿，啪，的，pain：面包拿了个空。",
+    "movie": "她耳边夹着艾草去拿面包，啪地摸到空盘，连一块面包屑也没有，只好举起空盘摇摇头。",
+    "zh": "她没有面包。"
+  },
+  "G27:1": {
+    "fr": "Une table et un bureau.",
+    "sound": "une，table，诶，un，bureau：两张不同的桌。",
+    "movie": "一张餐桌端着盘子走来，诶地碰上一张抱文件的办公桌，两张桌并排站，一张吃饭一张办公。",
+    "zh": "一张桌子和一张办公桌。"
+  },
+  "G27:2": {
+    "fr": "Les enfants sont petits.",
+    "sound": "勒，昂方，松，petits：小孩像松果小。",
+    "movie": "我勒好一根细绳，孩子们昂头站在绳下，个个只有松果那么高，跳起来也摸不到低低的横杆。",
+    "zh": "这些孩子很小。"
+  },
+  "G27:3": {
+    "fr": "Un journal, des journaux.",
+    "sound": "un，journal，的，journaux：报纸一份变多份。",
+    "movie": "我先抱起一份卷成朱红喇叭的报纸，再的的一抖，它变成好多份，每份都张开纸嘴报新闻。",
+    "zh": "一份报纸，多份报纸。"
+  },
+  "G27:4": {
+    "fr": "C’est une salle de réunion.",
+    "sound": "塞，une，sal，的，réunion：塞满椅子的会议室。",
+    "movie": "我把一把椅子塞进房间，沙拉碗也来占座，大家围桌准备开会；我指着这间屋说它是会议室。",
+    "zh": "这是一间会议室。"
+  },
+  "G28:1": {
+    "fr": "Voici ma sœur.",
+    "sound": "哇西，妈，sœur：哇，我的姐妹来了。",
+    "movie": "我“哇”地端出西瓜，妈妈推来一辆小车，车上坐着我的姐妹；我向大家介绍，车上这位就是她。",
+    "zh": "这是我的姐姐或妹妹。"
+  },
+  "G28:2": {
+    "fr": "Mon amie arrive.",
+    "sound": "Mon amie arrive：蒙，阿米，啊立稳，她来了。",
+    "movie": "我蒙着眼等惊喜，耳边忽然传来搬米袋的声音；啊地站稳摘下眼罩，我的女性朋友已经到门口。",
+    "zh": "我的女性朋友来了。"
+  },
+  "G28:3": {
+    "fr": "Cet appartement est lumineux.",
+    "sound": "塞特，appartement，诶，lumineux：亮亮的公寓。",
+    "movie": "我把特大太阳塞进公寓客厅，诶地拉开窗帘，每间房都亮到连拖鞋发光，这套公寓十分明亮。",
+    "zh": "这套公寓很明亮。"
+  },
+  "G28:4": {
+    "fr": "Le livre de Léa est ici.",
+    "sound": "勒，livre，的，莉娅，诶，一席：她的书在这。",
+    "movie": "我勒好一本书的书带，还给莉娅；诶，书却留在眼前这一席凳子上，莉娅的书就在这里。",
+    "zh": "莉娅的书在这里。"
+  },
+  "G28:5": {
+    "fr": "C’est un ami à moi.",
+    "sound": "塞，un，阿米，啊，moi：这是我的朋友。",
+    "movie": "我塞给阿米一块饼干，“啊”地拍拍自己的胸口，再介绍他给大家：这是我自己的一个朋友。",
+    "zh": "这是我的一个朋友。"
+  },
+  "G29:1": {
+    "fr": "Je vois Léa. Je la vois.",
+    "sound": "这，哇，莉娅；这，拉，哇：我看见她。",
+    "movie": "我指着这边哇地叫出莉娅的名字，又拉开遮眼的窗帘再哇一次，两次看见的都是同一个她。",
+    "zh": "我看见莉娅。我看见她。"
+  },
+  "G29:2": {
+    "fr": "Tu connais ces mots ? Je les connais.",
+    "sound": "Tu connais ces mots？Je les connais：玉兔摸脑袋，这些词我认识。",
+    "movie": "你抱玉兔指着这些词，摸摸脑袋问认不认识；我勒住跳动的词卡点头，说这些词我都认识。",
+    "zh": "你认识这些词吗？我认识。"
+  },
+  "G29:3": {
+    "fr": "Je veux le lire.",
+    "sound": "这，veux，勒，lire：我想勒住它读。",
+    "movie": "我指着这本长腿的书，想把它拿来读，便轻轻勒住书带；书乖乖坐下，我终于能翻开第一页。",
+    "zh": "我想读它。"
+  },
+  "G30:1": {
+    "fr": "Je téléphone à Nora. Je lui téléphone.",
+    "sound": "Je téléphone à Nora；je lui téléphone：这电话，啊诺拉，绿听筒还打给她。",
+    "movie": "我把这只电话拨给诺拉，啊地等她接听；再让绿色听筒贴着耳朵，同一个电话就是打给她的。",
+    "zh": "我给诺拉打电话。"
+  },
+  "G30:2": {
+    "fr": "Je leur écris demain.",
+    "sound": "这，leur，écris，德曼：明天给他们写。",
+    "movie": "我把这只信封拉到桌上，笔却戴着睡帽说明天再写；明天我会写信给他们，信封先排队等着。",
+    "zh": "我明天给他们写信。"
+  },
+  "G30:3": {
+    "fr": "Je pense à elle.",
+    "sound": "这，pense，啊，艾儿：想着她。",
+    "movie": "我抱着这只胖丝枕，啊地盯着耳边夹艾草的她的照片，连云朵也变成她的笑脸，我心里正想着她。",
+    "zh": "我想着她。"
+  },
+  "G31:1": {
+    "fr": "Tu vas à Paris ? J’y vais.",
+    "sound": "Tu vas à Paris？J’y vais：玉兔哇，巴黎？鸡，喂，我去那里。",
+    "movie": "你抱玉兔哇地指着巴黎问去不去，我抱起小鸡“喂”了一声跟上，目的地也是你刚说的巴黎。",
+    "zh": "你去巴黎吗？我去那里。"
+  },
+  "G31:2": {
+    "fr": "Tu as des pommes ? J’en ai deux.",
+    "sound": "Tu as des pommes？J’en ai deux：玉兔啊，苹果？让开，诶，我有两个。",
+    "movie": "你抱玉兔问有没有苹果，我让开围裙“诶”地露出两个圆苹果，它们像双胞胎在口袋里挥手。",
+    "zh": "你有苹果吗？我有两个。"
+  },
+  "G31:3": {
+    "fr": "Ces fleurs, je les ai achetées.",
+    "sound": "塞，fleurs，这，勒，诶，achetées：这些花我买过。",
+    "movie": "我把这束花塞进花瓶，勒好花茎；诶，购物袋里还有收据，这些花正是我先前亲自买下的。",
+    "zh": "这些花是我买的。"
+  },
+  "G32:1": {
+    "fr": "Viens avec moi.",
+    "sound": "Viens avec moi：来，啊，喂颗糖，跟我走。",
+    "movie": "我先挥手叫你来，啊地喂自己一颗糖，再拍拍胸口走到小桥前，请你跟着我一起过桥。",
+    "zh": "跟我来。"
+  },
+  "G32:2": {
+    "fr": "Ils se téléphonent souvent.",
+    "sound": "一儿，瑟，téléphonent，苏旺：常常互相打。",
+    "movie": "他们各戴一只耳罩，电话铃瑟瑟响，苏旺的日历几乎天天画着电话，他们经常给对方打电话。",
+    "zh": "他们经常互相打电话。"
+  },
+  "G32:3": {
+    "fr": "Tout le monde est prêt.",
+    "sound": "Tout le monde est prêt：兔勒帽带，蒙眼也准备好。",
+    "movie": "小兔勒好大家的帽带，连蒙着眼的人也“诶”地站好，所有人的背包都扣紧了，大家都准备妥当。",
+    "zh": "大家都准备好了。"
+  },
+  "G32:4": {
+    "fr": "Chacun a une clé.",
+    "sound": "沙坑啊，une，clé：每人一把钥匙。",
+    "movie": "大家走出沙坑，“啊”地张开手，一把把钥匙飞进每个人手心，谁也没少，连小孩也分到一把。",
+    "zh": "每个人有一把钥匙。"
+  },
+  "G32:5": {
+    "fr": "Je ne prends ni thé ni café.",
+    "sound": "这，讷，prends，妮，忒，妮，咖啡：两样都不要。",
+    "movie": "我摆手挡住这只托盘，妮妮先递茶又递咖啡，我两杯都没有拿起，桌上只留下一杯白水。",
+    "zh": "我既不喝茶也不喝咖啡。"
+  },
+  "G33:1": {
+    "fr": "C’est un livre qui aide beaucoup.",
+    "sound": "C’est un livre qui aide beaucoup：塞本书，小鸡诶地帮很多忙。",
+    "movie": "我塞好一本书，小鸡“诶”地打开它，书伸出好多纸手，帮我搬箱、找钥匙，给了我很多帮助。",
+    "zh": "这是一本很有帮助的书。"
+  },
+  "G33:2": {
+    "fr": "Voilà la personne que je connais.",
+    "sound": "哇啦，拉，personne，克，这，connais：那位我认识。",
+    "movie": "我哇啦叫着拉开人群，克制地指向远处那位戴大帽子的人，笑着挥手，那正是我认识的人。",
+    "zh": "那是我认识的人。"
+  },
+  "G33:3": {
+    "fr": "Le film qu’elle regarde est drôle.",
+    "sound": "Le film qu’elle regarde est drôle：勒住胶片，她看得咯咯笑。",
+    "movie": "胶片被轻轻勒住，银幕里的雨伞却追着人满街跑；她盯着自己看的电影，咯咯笑弯了腰，这电影很有趣。",
+    "zh": "她看的电影很有趣。"
+  },
+  "G34:1": {
+    "fr": "C’est le sujet dont je parle.",
+    "sound": "塞，勒，sujet，咚，这，parle：这就是我谈的话题。",
+    "movie": "我把一颗水珠塞进勒好的小袋，它咚地跳到桌上；我正在讲的正是雨水，这就是我谈的话题。",
+    "zh": "这就是我谈的话题。"
+  },
+  "G34:2": {
+    "fr": "Le jour où tu viendras, appelle-moi.",
+    "sound": "Le jour où Tu viendras，appelle-moi：勒日历，呜，玉兔你来那天给我打。",
+    "movie": "我勒好日历，呜地吹响小哨，圈出你抱玉兔来的那天；请你到了就拿起电话给我打来。",
+    "zh": "你来的那天给我打电话。"
+  },
+  "G34:3": {
+    "fr": "Je comprends ce que tu veux.",
+    "sound": "Je comprends ce que Tu veux：这空盆，玉兔你要什么我懂。",
+    "movie": "我端着这只空盆，看你瑟瑟抱着玉兔，立刻明白你想要温水，把热水壶递给你正好合心意。",
+    "zh": "我明白你想要什么。"
+  },
+  "G34:4": {
+    "fr": "Ma sœur, qui vit à Lyon, arrive demain.",
+    "sound": "Ma sœur，qui vit à Lyon，arrive demain：妈指姐妹，里昂住，明天到。",
+    "movie": "妈妈把我的姐妹照片夹好，她一直住在里昂；小鸡叼着车票啊地飞来，她明天就会到这儿。",
+    "zh": "我的姐妹住在里昂，她明天到。"
+  },
+  "G35:1": {
+    "fr": "Une petite maison blanche.",
+    "sound": "Une petite maison blanche：豌豆小房子，白兰花一样白。",
+    "movie": "一颗小豌豆蹦到迷你房子旁，房子只有玩具那么大，外墙白得像白兰花，门口还能挂一只小铃铛。",
+    "zh": "一所白色的小房子。"
+  },
+  "G35:2": {
+    "fr": "Des enfants heureux.",
+    "sound": "的，昂方，heureux：孩子昂头笑呵呵。",
+    "movie": "孩子们的气球把他们轻轻提起来，他们昂着头笑呵呵，脚尖踢来踢去，每个孩子都开心极了。",
+    "zh": "快乐的孩子们。"
+  },
+  "G35:3": {
+    "fr": "Un ancien collègue vient.",
+    "sound": "Un ancien collègue vient：旧同事端可乐（collègue），来敲门。",
+    "movie": "一位戴旧工作帽的人按响门铃，手里还端着以前共用过的可乐杯；我认出他，原来以前的同事来了。",
+    "zh": "一位以前的同事来了。"
+  },
+  "G35:4": {
+    "fr": "Ce travail est fatigant ; je suis fatigué.",
+    "sound": "Ce travail est fatigant；je suis fatigué：这工作乏得慌，我随身枕头抱着瘫。",
+    "movie": "这份工作把工具箱都累弯了，诶地压着我继续搬；我这个男生抱着随身枕头，已经累得坐在地上。",
+    "zh": "这工作累人；我累了（男性说话者）。"
+  },
+  "G36:1": {
+    "fr": "Cette rue est plus calme que l’autre.",
+    "sound": "Cette rue est plus calme que l’autre：塞特耳塞，这街安静过隔壁。",
+    "movie": "我把特制耳塞拿到这条街，诶，根本用不上；隔壁街锅盖哐哐响，这条街却安静得能听见猫呼吸。",
+    "zh": "这条街比另一条安静。"
+  },
+  "G36:2": {
+    "fr": "Elle parle mieux maintenant.",
+    "sound": "Elle parle mieux maintenant：艾草女孩说话，喵猫现在更听懂。",
+    "movie": "她耳边夹着艾草开口说话，喵喵叫的小猫也听懂了；现在她讲得比从前清楚，猫给她鼓起爪子。",
+    "zh": "她现在说得更好了。"
+  },
+  "G36:3": {
+    "fr": "J’ai autant de livres que toi.",
+    "sound": "借（J’ai），autant de livres que toi：两边书一样多。",
+    "movie": "我借来一架秤，把自己的书放一边，你把自己的书放另一边；我们数过两堆，数量相等，秤也开心地摆平。",
+    "zh": "我的书和你一样多。"
+  },
+  "G36:4": {
+    "fr": "Ce sac est trop lourd pour moi.",
+    "sound": "瑟，sac，诶，tro，lourd，pour，moi。",
+    "movie": "这只包塞得鼓鼓的，诶地压得我趴下；露出袋口的锅又往我这边滚，这包对我实在太重了。",
+    "zh": "这个包对我来说太重了。"
+  },
+  "G37:1": {
+    "fr": "Il parle lentement.",
+    "sound": "一儿，parle，慢吞慢（lentement）。",
+    "movie": "他戴着耳罩开口说话，一句话像慢吞吞的蜗牛，字与字之间都能喝口水，他说得特别慢。",
+    "zh": "他说得慢。"
+  },
+  "G37:2": {
+    "fr": "Je n’ai jamais vu ce film.",
+    "sound": "Je n’ai jamais vu ce film：这内盒找电影票，压根没见过。",
+    "movie": "我抱着这只内衣形抱枕，电影票抽屉里怎么也找不到这部片的票；我摇头，自己从没看过它。",
+    "zh": "我从未看过这部电影。"
+  },
+  "G37:3": {
+    "fr": "Je ne connais personne ici.",
+    "sound": "这，讷，connais，personne，一席：这里一个不认识。",
+    "movie": "我站在这里讷讷发愣，面前每个人都戴着陌生面具，转完整个席位也没一个熟人，我谁也不认识。",
+    "zh": "我在这里不认识任何人。"
+  },
+  "G37:4": {
+    "fr": "Je n’ai pas encore fini.",
+    "sound": "这，内，啪，encore，菲尼：还没完成。",
+    "movie": "我打开这只内盒，啪地弹出半件玩具，安可声催着松鼠继续装，最后一只轮子还没装完。",
+    "zh": "我还没做完。"
+  },
+  "G37:5": {
+    "fr": "Même Léa est venue.",
+    "sound": "même，莉娅，诶，venue：连莉娅都来了。",
+    "movie": "门缝先伸进一枝玫瑰，莉娅诶地探出头；大家没想到连她都已经来了，赶紧把最后一张椅子拉出。",
+    "zh": "连莉娅都来了。"
+  },
+  "G38:1": {
+    "fr": "Je reste parce qu’il pleut.",
+    "sound": "这，reste，parce，奇儿，pleut：因雨而留下。",
+    "movie": "我抱着这只热水袋留下，窗外的爬树小耳罩被雨扑回来，雨一直下，所以我坐回屋里不出门。",
+    "zh": "我留下，因为下雨。"
+  },
+  "G38:2": {
+    "fr": "Grâce à toi, j’ai compris.",
+    "sound": "Grâce à toi，借（j’ai），compris：草圈指出来，我懂了。",
+    "movie": "一根草绕住你的指尖，你用它指出这道题的关键；我借来放大镜一看，脑中小灯亮了，多亏你我才明白。",
+    "zh": "多亏你，我明白了。"
+  },
+  "G38:3": {
+    "fr": "Je parle lentement pour que tu comprennes.",
+    "sound": "Je parle lentement pour que Tu comprennes：这话慢吞慢，玉兔你才能懂。",
+    "movie": "我把这句话说得像慢吞吞的蜗牛，特意让你抱的玉兔也跟得上；我放慢速度就是为了让你明白。",
+    "zh": "我说慢一点，好让你明白。"
+  },
+  "G38:4": {
+    "fr": "Comme il pleut, je reste ici.",
+    "sound": "空，一儿，pleut，这，reste，一席。",
+    "movie": "空杯接住耳罩边的雨滴，越接越满；因为外面正在下雨，我抱着这条毯子，留在这里这一席休息。",
+    "zh": "因为下雨，我留在这里。"
+  },
+  "G39:1": {
+    "fr": "Il est fatigué, mais il continue.",
+    "sound": "Il est fatigué，mais il continue：一儿诶，乏得累，眉垂仍继续。",
+    "movie": "他戴耳罩累得诶地坐倒，眉毛都垂了，却又扶住耳罩继续推小车，车轮慢慢转，他仍坚持工作。",
+    "zh": "他累了，但继续做。"
+  },
+  "G39:2": {
+    "fr": "Même s’il pleut, je sortirai.",
+    "sound": "même，丝儿，pleut，这，sortirai：下雨也出去。",
+    "movie": "玫瑰上的丝带被雨扑湿，我举起这把伞仍准备出门；就算雨继续下，我也会踩着雨靴走出去。",
+    "zh": "即使下雨，我也会出门。"
+  },
+  "G39:3": {
+    "fr": "Bien qu’elle soit jeune, elle a de l’expérience.",
+    "sound": "Bien qu’elle soit jeune，elle a de l’expérience：小刷子（soit）年轻，经验多。",
+    "movie": "她拿着小刷子收拾工作台，看起来年纪轻轻；遇到复杂机器却熟练地拆装修好，虽然年轻，她仍很有经验。",
+    "zh": "她虽然年轻，却有经验。"
+  },
+  "G40:1": {
+    "fr": "J’habite au Canada.",
+    "sound": "扎比特，哦，加拿大：住进枫叶小屋。",
+    "movie": "我扎好特别的门帘，哦地走进加拿大的家，窗外枫叶把屋顶盖成红帽子，我就在这个国家生活。",
+    "zh": "我住在加拿大。"
+  },
+  "G40:2": {
+    "fr": "Elle va en France.",
+    "sound": "艾儿，哇，昂，France：她去法国。",
+    "movie": "她摘下耳边艾草，哇地昂头望见法国方向的气球，抱着行李上车，准备去法国看一看。",
+    "zh": "她去法国。"
+  },
+  "G40:3": {
+    "fr": "Le sac est sous la table.",
+    "sound": "勒，sac，诶，苏，拉，table：包在桌下。",
+    "movie": "我勒好包带，诶地发现它被苏打饼干拉着躲进桌底；掀开桌布，这只包果然就在桌子下面。",
+    "zh": "包在桌子下面。"
+  },
+  "G40:4": {
+    "fr": "Je vais au travail à pied.",
+    "sound": "这，韦，哦，travail，啊，pied：用脚去上班。",
+    "movie": "我向这辆车喂了一声再摆手，哦地背起工作包，啊地迈出两只脚，今天就一步步走着去上班。",
+    "zh": "我步行去上班。"
+  },
+  "G41:1": {
+    "fr": "Le cours commence à neuf heures.",
+    "sound": "勒，cours，commence啊，neuf heures：九点开课。",
+    "movie": "老师勒好钟表的帽带，课程躲在钟里等；九点一到，课本砰地跳出钟门，大家立刻开始上课。",
+    "zh": "课九点开始。"
+  },
+  "G41:2": {
+    "fr": "Je travaille le lundi.",
+    "sound": "这，travaille，勒，lundi：每逢周一做工。",
+    "movie": "我把这张工作桌勒在周一日历上，每翻到一个新的星期一，桌子就自动推着工具来叫我工作。",
+    "zh": "我每周一工作。"
+  },
+  "G41:3": {
+    "fr": "Envoyez le document d’ici vendredi.",
+    "sound": "Envoyez le document d’ici vendredi：文件飞出去，最迟周五发送。",
+    "movie": "请给文件戴上飞行帽，装进邮件篮；周五日历是最后期限，您要在它收旗之前按下发送，文件才按时飞过来。",
+    "zh": "请最迟周五发来文件。"
+  },
+  "G41:4": {
+    "fr": "Je lis pendant qu’elle cuisine.",
+    "sound": "这，梨（lis），胖当（pendant），qu’elle cuisine：她做饭时我读。",
+    "movie": "我抱着梨形书枕读书，胖钟当当地走；她在旁边厨房炒菜，锅铲跟着翻动，她做饭这段时间我一直在读。",
+    "zh": "她做饭时我读书。"
+  },
+  "G41:5": {
+    "fr": "À la fin du cours, nous révisons.",
+    "sound": "À la fin du cours，nous révisons：啊，拉到课末，努，热热复习。",
+    "movie": "啊，下课前最后一页被拉开，小驴抱来课本，我们努力把刚学过的知识再看一遍，在课末一起复习。",
+    "zh": "课末我们复习。"
+  },
+  "G42:1": {
+    "fr": "Cela dépend du prix.",
+    "sound": "瑟啦，的胖，驴，prix：价钱决定买不买。",
+    "movie": "这件外套瑟啦滑来，胖胖的价签骑着小驴挡路；能不能买要先看多少钱，我盯着价格再决定。",
+    "zh": "这取决于价格。"
+  },
+  "G42:2": {
+    "fr": "J’ai réussi à réserver.",
+    "sound": "这，réussi啊，réserver：成功订上啦。",
+    "movie": "我拿着这根预订电话线，试了几次终于啊地欢呼，空座被绳圈稳稳套住，我成功订到了位子。",
+    "zh": "我成功订到了。"
+  },
+  "G42:3": {
+    "fr": "J’attends le bus.",
+    "sound": "扎当（J’attends），勒，bus：扎好包，等玉色公交。",
+    "movie": "我扎好书包，当当地轻敲站台栏杆，站在站牌下等公交；远处一辆玉色公交慢慢开来，我还在原地等它停稳。",
+    "zh": "我在等公交车。"
+  },
+  "G42:4": {
+    "fr": "Je compte sur toi.",
+    "sound": "这，compte，sur，toi：靠你扶着。",
+    "movie": "我站在这块晃动的小台子上，空桶咚地滚开，伸手扶住你；只要你稳稳撑着，我就能完成这件事。",
+    "zh": "我依靠你。"
+  },
+  "E01:1": {
+    "fr": "J’ai besoin d’un stylo.",
+    "sound": "这，besoin，d’un stylo：这只笔，丝带搂住。",
+    "movie": "我指着这张空白纸，急着要写字，一根丝带把笔搂到我手里；我需要的就是这一支笔。",
+    "zh": "我需要一支笔。"
+  },
+  "E01:2": {
+    "fr": "J’ai besoin d’aide.",
+    "sound": "这，besoin d’aide：需要帮忙，得搭把手。",
+    "movie": "我指着这箱比自己还大的积木，怎么搬都搬不动，伸出手等人搭把手，表示我需要帮助。",
+    "zh": "我需要帮助。"
+  },
+  "E01:3": {
+    "fr": "Je prends rendez-vous demain.",
+    "sound": "这，prends rendez-vous，德曼：明天约，别忘。",
+    "movie": "我把这部预约电话放好，任由它今天打盹；明天太阳一出来，我就拿起它去预约时间。",
+    "zh": "我明天预约。"
+  },
+  "E02:1": {
+    "fr": "Bonjour Madame, puis-je vous poser une question ?",
+    "sound": "蹦jour，Madame，puis-je vous poser une question：女士，先问好再提问。",
+    "movie": "我蹦到柜台前，向女士问好，礼貌举起装着问号的小气球，先问她能不能回答我的一个问题。",
+    "zh": "女士您好，我能问您一个问题吗？"
+  },
+  "E02:2": {
+    "fr": "Salut, ça va ?",
+    "sound": "撒驴（Salut），撒，哇：嗨，你还好吗？",
+    "movie": "我撒开手迎接朋友的小驴，哇地笑着挥手打招呼，再关切地问朋友最近过得好不好。",
+    "zh": "嗨，最近好吗？"
+  },
+  "E02:3": {
+    "fr": "Merci pour votre réponse.",
+    "sound": "merci，pour votre réponse：没事，谢谢回信。",
+    "movie": "我把没吃完的梅子放旁边，双手接过您的回复，信封开心地弯腰，我也向您认真道谢。",
+    "zh": "感谢您的回复。"
+  },
+  "E03:1": {
+    "fr": "Tu peux me donner un coup de main ?",
+    "sound": "Tu peux me donner un coup de main：玉兔，你能搭把手？",
+    "movie": "你身旁的玉兔抱着手套，我搬箱子搬得直打转，问你能不能帮一下，你把手套套好准备来扶。",
+    "zh": "你能帮我一下吗？"
+  },
+  "E03:2": {
+    "fr": "Je n’ai pas le temps.",
+    "sound": "这，n’ai pas，le temps：这钟空了，没时间。",
+    "movie": "我把这只时钟倒过来，里面一粒时间沙都没有，钟针还忙着跑，我只能摆手说自己没有时间。",
+    "zh": "我没时间。"
+  },
+  "E03:3": {
+    "fr": "Cette idée me parle.",
+    "sound": "塞特，idée，me parle：这点子说到我心里。",
+    "movie": "我把特别的点子从小盒里拿出，它像一只会说话的梨，直接跳到心口，让我听着连连点头。",
+    "zh": "这个想法让我有共鸣。"
+  },
+  "E04:1": {
+    "fr": "Nous devons prendre une décision.",
+    "sound": "努，devons prendre une décision：努力一起定下来。",
+    "movie": "我们努力拉住两个方向乱跑的选择，围成一圈商量，最后合力按下决定按钮，作出需要的决定。",
+    "zh": "我们需要作出决定。"
+  },
+  "E04:2": {
+    "fr": "Sa réussite nous encourage.",
+    "sound": "撒，réussite，努，encourage：成功撒来鼓励。",
+    "movie": "那人的成功像撒出一篮金色果子，落到我们脚边，大家努力伸手接住，受鼓励后重新挺起胸膛。",
+    "zh": "他的或她的成功鼓励了我们。"
+  },
+  "E04:3": {
+    "fr": "Merci pour votre disponibilité.",
+    "sound": "merci，pour votre disponibilité：梅子送您，谢谢抽空。",
+    "movie": "我捧着梅子向您道谢，您从忙碌的日历里抽出一小块空白时间交给我，我珍惜地双手接住。",
+    "zh": "感谢您抽出时间。"
+  },
+  "E05:1": {
+    "fr": "Je fais les courses le samedi.",
+    "sound": "这，fais les courses，le samedi：周六拎购物袋。",
+    "movie": "我把这只购物袋装到会跑的小车上，每逢周六它就载我买牙膏和肥皂，袋子鼓成了胖南瓜。",
+    "zh": "我周六买日用品。"
+  },
+  "E05:2": {
+    "fr": "Fais attention à la marche.",
+    "sound": "fais attention，à la marche：飞过去也要小心台阶。",
+    "movie": "你像要飞一样冲向门口，台阶忽然抬起脚尖，我赶紧伸手提醒你注意，别被台阶绊倒。",
+    "zh": "小心台阶。"
+  },
+  "E05:3": {
+    "fr": "Il fait froid aujourd’hui.",
+    "sound": "Il fait froid aujourd’hui：一儿，fait，冷得哇哇（froid），今天好冷。",
+    "movie": "我今天戴着耳罩，还是冷得哇哇叫，连窗边小水滴都披上棉衣；风一吹耳罩也抖起来，记住今天天气很冷。",
+    "zh": "今天很冷。"
+  },
+  "E06:1": {
+    "fr": "Je prends le métro.",
+    "sound": "这，prends le métro：我坐车，没脱鞋。",
+    "movie": "我抓住这根地铁扶杆，鞋子顽皮地说没脱也能坐，列车一开，我稳稳站在车厢里去目的地。",
+    "zh": "我坐地铁。"
+  },
+  "E06:2": {
+    "fr": "Je vais prendre un thé.",
+    "sound": "这，vais prendre un thé：喂，给我来杯忒香的茶。",
+    "movie": "我指着这只茶壶说“喂”，想要来杯香茶，茶叶赶紧跳进杯里打滚，我等着端起这一杯。",
+    "zh": "我想来一杯茶。"
+  },
+  "E06:3": {
+    "fr": "Prenez votre temps.",
+    "sound": "prenez votre temps：不急，您的钟慢慢转。",
+    "movie": "您手中的钟像一只慢慢爬的蜗牛，我给它递杯水，请您从容慢慢来，它终于不再着急翻跟头。",
+    "zh": "您慢慢来。"
+  },
+  "E07:1": {
+    "fr": "Je mets mon manteau.",
+    "sound": "这，mets mon manteau：这美梦里，满头外套。",
+    "movie": "我从美梦里起身，外套差点扣到头上，赶紧把胳膊穿进袖子，认真穿上自己的外套出门。",
+    "zh": "我穿上外套。"
+  },
+  "E07:2": {
+    "fr": "Elle se met à rire.",
+    "sound": "艾儿，se met à rire：她突然笑出梨涡。",
+    "movie": "她摘下耳边艾草，看见一只梨穿着小鞋跳舞，嘴角马上出现梨涡，开始笑得停不下来。",
+    "zh": "她开始笑。"
+  },
+  "E07:3": {
+    "fr": "Je mets dix minutes à venir.",
+    "sound": "这，mets dix minutes à venir：滴答十分钟才到。",
+    "movie": "我把这只钟挂在鞋上，滴答走满十分钟才来到你面前，鞋累得吐舌头，我说过来要花十分钟。",
+    "zh": "我过来要十分钟。"
+  },
+  "E08:1": {
+    "fr": "J’ai besoin de dormir.",
+    "sound": "这，besoin de dormir：我得多眯会儿。",
+    "movie": "我抱着这只枕头，眼皮一合就像拉下两扇窗，困得必须多眯一会儿，身体提醒我需要睡觉。",
+    "zh": "我需要睡觉。"
+  },
+  "E08:2": {
+    "fr": "J’ai envie d’une promenade.",
+    "sound": "这，envie d’une promenade：想昂头慢慢散步。",
+    "movie": "我把这双鞋放到门边，昂头望见外面好天气，想慢慢去散步，鞋带也兴奋地摆成两只小翅膀。",
+    "zh": "我想散散步。"
+  },
+  "E08:3": {
+    "fr": "Vous avez raison.",
+    "sound": "vous avez raison：乌鸦啊，理由真中肯。",
+    "movie": "我对着您手里的乌鸦点头，您讲的道理像圆木稳稳落地，把我歪掉的想法扶正，您说得有道理。",
+    "zh": "您有道理。"
+  },
+  "E09:1": {
+    "fr": "Je suis prêt à partir.",
+    "sound": "这，suis prêt à partir：随时准备，啪地提包走。",
+    "movie": "我这个男生把这只随身包扣紧，准备好了，啪地提起行李站到门口，鞋尖已经朝向出发的路。",
+    "zh": "我准备好出发了（男性说话者）。"
+  },
+  "E09:2": {
+    "fr": "Nous sommes d’accord avec toi.",
+    "sound": "努，sommes d’accord avec toi：松开绳，同意你。",
+    "movie": "我们努力松开争论时打结的绳子，大家点头走到你这一边，你的主意像一条宽桥，我们都赞同。",
+    "zh": "我们同意你。"
+  },
+  "E09:3": {
+    "fr": "Le train est en retard.",
+    "sound": "勒，train est en retard：火车惹它，晚点啦。",
+    "movie": "我勒好背包等火车，火车却被一只慢蜗牛拖住尾巴，时刻已经过了，它还没到，原来已经晚点。",
+    "zh": "火车晚点了。"
+  },
+  "E10:1": {
+    "fr": "Je vais chez le médecin.",
+    "sound": "这，vais chez le médecin：喂，找医生，没得闲。",
+    "movie": "我指着这盒药说“喂”，背包赶紧带我去医生那里，药盒一路摇着听诊器，等医生给我检查。",
+    "zh": "我去看医生。"
+  },
+  "E10:2": {
+    "fr": "Tu viens chez moi demain ?",
+    "sound": "Tu viens chez moi demain：玉兔，明天来我家吗？",
+    "movie": "你抱着玉兔站在门边，我指指自己家，再把明天的日历递给你，邀请你明天过来，等你答应。",
+    "zh": "你明天来我家吗？"
+  },
+  "E10:3": {
+    "fr": "Je viens de Lyon.",
+    "sound": "这，viens de Lyon：这回说来处，是里昂。",
+    "movie": "我指着这只旅行包，里面蹦出里昂的小地图，地图铺成我走来的路，我告诉你自己来自里昂。",
+    "zh": "我来自里昂。"
+  },
+  "E11:1": {
+    "fr": "Donne-moi de tes nouvelles.",
+    "sound": "donne-moi，de tes nouvelles：端给我你的新鲜事。",
+    "movie": "你端来一个新闻碗，里面是你最近上课、旅行的小片段，我拿起勺子听，请你讲讲自己的近况。",
+    "zh": "给我讲讲你的近况。"
+  },
+  "E11:2": {
+    "fr": "Il tient sa promesse.",
+    "sound": "一儿，tient sa promesse：甜话也要守承诺。",
+    "movie": "他把耳罩挂好，曾答应送来的甜点稳稳捧在手里，哪怕下雨也准时送到，他始终信守承诺。",
+    "zh": "他信守承诺。"
+  },
+  "E11:3": {
+    "fr": "Il faut tenir compte du budget.",
+    "sound": "一儿，faut tenir compte du budget：佛手也得顾预算。",
+    "movie": "耳罩边的佛手想买一屋玩具，却先拿起零钱袋算账，需要认真考虑预算，才不会把硬币花光。",
+    "zh": "需要考虑预算。"
+  },
+  "E12:1": {
+    "fr": "Je m’intéresse à la musique.",
+    "sound": "这，m’intéresse à la musique：心被缪斯音乐吸住。",
+    "movie": "我摸摸这颗心，它被音乐吸得像磁铁，音符一响就踮脚跳舞，我对音乐特别有兴趣。",
+    "zh": "我对音乐感兴趣。"
+  },
+  "E12:2": {
+    "fr": "Elle participe à la réunion.",
+    "sound": "艾儿，participe à la réunion：她来会议排椅子。",
+    "movie": "她摘下耳边艾草，怕迟到似的快步进会议室，坐到圆桌旁认真参与讨论，连椅子也竖起耳朵听。",
+    "zh": "她参加会议。"
+  },
+  "E12:3": {
+    "fr": "C’est une tasse à café.",
+    "sound": "塞，une tasse à café：咖啡塞进小杯。",
+    "movie": "我把一只杯子塞到桌中间，咖啡香从杯口卷成小帽子，这只杯子的用途就是盛咖啡，是咖啡杯。",
+    "zh": "这是咖啡杯。"
+  },
+  "E13:1": {
+    "fr": "Je viens du Canada.",
+    "sound": "这，viens du Canada：这来处，加拿大。",
+    "movie": "我打开这只行李箱，飞出一片加拿大枫叶，它顺着我的来路飘回去，我告诉大家自己来自加拿大。",
+    "zh": "我来自加拿大。"
+  },
+  "E13:2": {
+    "fr": "Il a besoin d’eau.",
+    "sound": "一儿啊，besoin d’eau：一口水都急着要。",
+    "movie": "他戴着耳罩张嘴“啊”地叫，手边空杯都渴得扁了；他需要水，赶紧指着水壶请人倒一点。",
+    "zh": "他需要水。"
+  },
+  "E13:3": {
+    "fr": "J’arrête de travailler à six heures.",
+    "sound": "j’arrête de travailler，à six heures：六点刹住工作。",
+    "movie": "我把闸门一样的工具箱一合，六点闹钟嘶地响起，正在转的工作台马上停下，我六点结束工作。",
+    "zh": "我六点停止工作。"
+  },
+  "E14:1": {
+    "fr": "Je sors du bureau.",
+    "sound": "这，sors du bureau：锁（sors）一开，我走出办公室。",
+    "movie": "我把办公室门的小锁打开，桌椅排队目送我，鞋底正踩过门槛向外走；我正在走出办公室，锁还轻轻晃着。",
+    "zh": "我走出办公室。"
+  },
+  "E14:2": {
+    "fr": "Elle rentre chez elle.",
+    "sound": "艾儿，rentre chez elle：她认着门回自己家。",
+    "movie": "她摘下耳边艾草，认出自己家门上那只小鞋，钥匙转开门锁，抱着包走回自己的家里。",
+    "zh": "她回自己家。"
+  },
+  "E14:3": {
+    "fr": "Nous revenons à la gare.",
+    "sound": "努，revenons à la gare：努力绕回来，嘎地停站。",
+    "movie": "我们努力绕过大圈，返回那座车站，鞋子嘎地同时停下；站台椅子开心张开扶手迎接我们回来。",
+    "zh": "我们回到车站。"
+  },
+  "E15:1": {
+    "fr": "J’ai fini de lire.",
+    "sound": "借（J’ai），fini de lire：梨书读完，末页击掌。",
+    "movie": "我借来梨形书枕，把书读到最后一页，末页伸出纸手跟我击掌；书里的故事全读完了，我开心地合上书。",
+    "zh": "我读完了。"
+  },
+  "E15:2": {
+    "fr": "Nous avons terminé le projet.",
+    "sound": "努，avons terminé le projet：努力到终点，项目完成。",
+    "movie": "我们努力把项目搭成一座小桥，最后一块木板稳稳落下，桥上的终点铃响了，整个项目已完成。",
+    "zh": "我们完成了项目。"
+  },
+  "E15:3": {
+    "fr": "Je n’ai plus de batterie.",
+    "sound": "这，n’ai plus de batterie：电池罢工，啪地熄屏。",
+    "movie": "我点这部手机，屏幕啪地黑了，电池举着空碗打哈欠，剩下的电已经用光，设备没电了。",
+    "zh": "我的设备没电了。"
+  },
+  "E16:1": {
+    "fr": "Les prix augmentent.",
+    "sound": "勒，prix augmentent：价钱哦地往高处蹦。",
+    "movie": "我勒住购物袋，价格却哦地长出弹簧，一格格蹦上高台；原来能买三样的钱现在只够两样。",
+    "zh": "价格上涨。"
+  },
+  "E16:2": {
+    "fr": "Le bruit diminue.",
+    "sound": "勒，bruit diminue：喇叭滴咪，越来越小声。",
+    "movie": "我勒好喇叭带，原来轰隆的声音缩成滴咪小叫，喇叭越变越小，周围的噪声正在减弱。",
+    "zh": "噪声减小。"
+  },
+  "E16:3": {
+    "fr": "Elle devient plus autonome.",
+    "sound": "艾儿，devient plus autonome：她自己推自己的车。",
+    "movie": "她把耳边艾草插好，先前靠别人推的小车现在自己开动，独自收包、认路，她变得更独立。",
+    "zh": "她变得更独立。"
+  },
+  "E17:1": {
+    "fr": "Je passe une heure à lire.",
+    "sound": "这，passe une heure à lire：一小时都抱着梨书。",
+    "movie": "我抱着这只梨形书枕，把一个小时放进沙漏；沙子全部流完才合书，这一小时我都花在读书上。",
+    "zh": "我花一小时读书。"
+  },
+  "E17:2": {
+    "fr": "Ne remets pas tout à plus tard.",
+    "sound": "ne remets pas tout à plus tard：别把一切推给拖拉车。",
+    "movie": "你想把所有任务搬上拖拉车留到以后，我拉住车把提醒别再往后推，车上的待办盒已经堆到天花板。",
+    "zh": "别把所有事都往后拖。"
+  },
+  "E17:3": {
+    "fr": "Je m’attends à une réponse.",
+    "sound": "这，m’attends à une réponse：马探头，期待回信。",
+    "movie": "我守着这只邮箱，小马也探头往里看，我预计会收到一封回复，提前把接信的小篮子准备好。",
+    "zh": "我预计会收到回复。"
+  },
+  "E18:1": {
+    "fr": "La neige a provoqué des retards.",
+    "sound": "拉，neige a provoqué des retards：雪拉住车，造成晚点。",
+    "movie": "大雪拉住一列列车轮，车想前进却不停打滑，站钟已经走过发车时间，这场雪造成了好几次延误。",
+    "zh": "雪造成了延误。"
+  },
+  "E18:2": {
+    "fr": "Cela a un effet sur le prix.",
+    "sound": "瑟啦，a un effet sur le prix：这一下推到了价格。",
+    "movie": "这块东西瑟啦滑下，推倒第一块小骨牌，最后碰得价格牌晃动起来，说明这件事会影响价格。",
+    "zh": "这会影响价格。"
+  },
+  "E18:3": {
+    "fr": "Le retard est dû à un problème technique.",
+    "sound": "勒，retard est dû à un problème technique：零件卡，延误啦。",
+    "movie": "我勒好行李等车，车内齿轮却咔地卡住，维修师傅正在处理技术故障，这次延误就是故障造成的。",
+    "zh": "延误是技术问题导致的。"
+  },
+  "E19:1": {
+    "fr": "Je commence à comprendre.",
+    "sound": "这，commence à comprendre：空盆谜题开始通了。",
+    "movie": "我望着这只空盆，先前怎么也想不懂，忽然看见盆底的小洞，脑袋里亮起半盏灯，开始明白了。",
+    "zh": "我开始明白了。"
+  },
+  "E19:2": {
+    "fr": "Elle continue à travailler.",
+    "sound": "艾儿，continue à travailler：她还推着工作轮。",
+    "movie": "她把耳边艾草扶正，喝口水又拿起工具，工作轮继续咕噜噜转，她仍在做原来的工作。",
+    "zh": "她继续工作。"
+  },
+  "E19:3": {
+    "fr": "Ils ont mis fin à la réunion.",
+    "sound": "一儿，ont mis fin à la réunion：蜜封住会议盒。",
+    "movie": "他们摘下耳罩，合上最后一份资料，再用蜜色胶带封住会议盒，大家起身离席，已经结束了会议。",
+    "zh": "他们结束了会议。"
+  },
+  "E20:1": {
+    "fr": "J’ai réussi à le joindre.",
+    "sound": "借（J’ai），réussi à le joindre：借电话，终于联系到他。",
+    "movie": "我借来电话打了好几次，终于听到他的声音，听筒高兴地伸手握手；电话这次接通，我已经成功联系到他。",
+    "zh": "我成功联系到了他。"
+  },
+  "E20:2": {
+    "fr": "Elle a réussi son examen.",
+    "sound": "艾儿啊，réussi son examen：考试过了，笑开啦。",
+    "movie": "她摘下耳边艾草，啊地跳起来，试卷卷成小奖杯送到她手里；她已经通过自己的考试。",
+    "zh": "她通过了考试。"
+  },
+  "E20:3": {
+    "fr": "Nous avons raté le train.",
+    "sound": "努，avons raté le train：努力追，拉铁门也晚了。",
+    "movie": "我们努力追着火车跑，伸手想拉住车尾铁门，它却已经驶走；我们站在空站台，没赶上这班车。",
+    "zh": "我们没赶上火车。"
+  },
+  "E21:1": {
+    "fr": "Je vais prendre contact avec elle.",
+    "sound": "这，vais prendre contact avec elle：喂，准备和她联系。",
+    "movie": "我拿起这只通讯录，先“喂”地练习一声，把她的号码找出来，准备主动与她取得联系。",
+    "zh": "我会与她联系。"
+  },
+  "E21:2": {
+    "fr": "Pouvez-vous me confirmer l’heure ?",
+    "sound": "pouvez-vous me confirmer l’heure：乌鸦，请核对闹钟？",
+    "movie": "我把闹钟递给您肩上的乌鸦，请您帮忙确认准确时间，乌鸦用放大镜盯着钟针，等您回答。",
+    "zh": "您能确认时间吗？"
+  },
+  "E21:3": {
+    "fr": "Je vous explique le problème.",
+    "sound": "这，vous explique le problème：乌鸦听我解释问题。",
+    "movie": "我把这件坏掉的玩具给您看，您肩上的乌鸦也凑过来，我指着卡住的零件，一步步解释这个问题。",
+    "zh": "我向您解释这个问题。"
+  },
+  "E22:1": {
+    "fr": "Elle a l’air fatiguée.",
+    "sound": "艾儿啊，l’air fatiguée：脸上都写着乏。",
+    "movie": "她耳边的艾草也垂下来了，啊地打着哈欠，脸像泄气的软气球，我一看就觉得她很累。",
+    "zh": "她看起来很累。"
+  },
+  "E22:2": {
+    "fr": "Le bureau se trouve près de la gare.",
+    "sound": "勒，bureau se trouve près de la gare：办公桌靠着嘎嘎车站。",
+    "movie": "我勒好办公室窗帘，窗外近处就是嘎嘎响的车站，办公桌伸个懒腰便能望见站台，办公室离车站很近。",
+    "zh": "办公室在车站附近。"
+  },
+  "E22:3": {
+    "fr": "Il s’agit d’un atelier de cuisine.",
+    "sound": "一儿，s’agit d’un atelier de cuisine：围裙一系，烹饪坊。",
+    "movie": "一只耳罩挂到墙上，大家系好围裙围在工作台前学炒菜；这里讲的就是一个一起学做饭的工作坊。",
+    "zh": "这是一个烹饪工作坊。"
+  },
+  "E23:1": {
+    "fr": "Pourriez-vous parler plus lentement ?",
+    "sound": "pourriez-vous parler plus lentement：请慢吞吞地说。",
+    "movie": "我礼貌举手，递给您一只慢吞吞的小蜗牛，请您说话放慢一点，让我能跟上每一句的速度。",
+    "zh": "您能说慢一点吗？"
+  },
+  "E23:2": {
+    "fr": "Qu’est-ce que ce mot veut dire ?",
+    "sound": "qu’est-ce que ce mot veut dire：这颗词蘑菇，什么意思？",
+    "movie": "我拿着这颗像蘑菇的词，它只会摇头不会解释，我把它递给你，想知道这个词到底是什么意思。",
+    "zh": "这个词是什么意思？"
+  },
+  "E23:3": {
+    "fr": "Si j’ai bien compris, c’est demain.",
+    "sound": "si j’ai bien compris，c’est demain：西瓜钟指明天，我懂对了吗。",
+    "movie": "我抱着西瓜钟再核对一遍，假如自己刚才理解正确，事情就在明天；钟上的明天那页轻轻点头。",
+    "zh": "如果我理解没错，是明天。"
+  },
+  "E24:1": {
+    "fr": "Je partage votre avis.",
+    "sound": "这，partage votre avis：把您的看法一起捧着。",
+    "movie": "我把这只装着您看法的盘子接过来，和您一起稳稳捧着，点头赞同，盘里的小灯同时亮起来。",
+    "zh": "我赞同您的看法。"
+  },
+  "E24:2": {
+    "fr": "Je ne suis pas tout à fait d’accord.",
+    "sound": "这，ne suis pas tout à fait d’accord：随声点头只点一半。",
+    "movie": "我听完这番意见，随声点头却只点到一半，椅子也停在半路；有些地方我赞同，有些还不完全同意。",
+    "zh": "我不完全同意。"
+  },
+  "E24:3": {
+    "fr": "À mon avis, cette solution est plus simple.",
+    "sound": "啊，蒙阿姨（mon avis）；塞特，索绿熊（solution），诶，plus simple，省朴！",
+    "movie": "我请蒙阿姨评办法，她把复杂迷宫折成一条直路，塞进索绿熊的口袋，熊轻松走完：在我看来这个办法更简单。",
+    "zh": "在我看来，这个办法更简单。"
+  },
+  "E25:1": {
+    "fr": "Nous faisons face à un retard.",
+    "sound": "努，faisons，发丝（face），啊，un，热塔（retard）。",
+    "movie": "我们努着嘴推小火车，一根发丝把车挡在热塔前；大家看着停住的钟，面临延误，只能一起等待。",
+    "zh": "我们面临延误。"
+  },
+  "E25:2": {
+    "fr": "Il faut trouver une solution.",
+    "sound": "衣儿，福（faut），trouver，une，solution。",
+    "movie": "一道难题堵住门，福娃抱着工具箱寻找解决办法；只有找到开门方法才能过关，现在大家仍需要把办法找出来。",
+    "zh": "需要找到解决办法。"
+  },
+  "E25:3": {
+    "fr": "Nous nous sommes mis d’accord sur la date.",
+    "sound": "努努，松米（sommes mis），大口（d’accord），sur 拉，大特（date）。",
+    "movie": "我们努努嘴，一起撒出松米，用大口夹子夹住同一张日历，大家把手指落在同一个大日期上：日期已经商量一致。",
+    "zh": "我们就日期达成了一致。"
+  },
+  "E26:1": {
+    "fr": "Je cherche un emploi.",
+    "sound": "热，cherche，un，昂，铺瓦（emploi）。",
+    "movie": "我热得戴着帽子找工作，昂起头走到铺着瓦片的招聘处；把简历递进去，希望找到合适职位，目前还在寻找。",
+    "zh": "我在找工作。"
+  },
+  "E26:2": {
+    "fr": "Elle suit un cours de français.",
+    "sound": "诶勒，随（suit），un，酷儿（cours），德，français。",
+    "movie": "她随着一位酷酷的小老师进入法语课堂，老师用法国面包当教鞭；她坐好跟读，正在上一门法语课。",
+    "zh": "她在上法语课。"
+  },
+  "E26:3": {
+    "fr": "Nous faisons des économies.",
+    "sound": "努，faisons，德，诶科糯米（économies）。",
+    "movie": "我们努着嘴忍住买玩具的冲动，把零钱一枚枚放进糯米罐；罐子越来越满，我们正在存钱节省开支。",
+    "zh": "我们在存钱或节省开支。"
+  },
+  "E27:1": {
+    "fr": "Je m’occupe des enfants.",
+    "sound": "热，摸Q扑（m’occupe），得，昂芳（enfants）。",
+    "movie": "我摸摸Q弹小鸭，再扑过去接住两个蹦跳的孩子，给他们擦脸喂饭；孩子像芳香小花，正由我照顾。",
+    "zh": "我照顾孩子。"
+  },
+  "E27:2": {
+    "fr": "Elle s’entend bien avec sa sœur.",
+    "sound": "诶勒，桑糖（s’entend），bien，阿韦克，撒，sœur。",
+    "movie": "她和姐妹把桑葚糖一人一半，边吃边拍手说bien；两人还把围裙系在一起做蛋糕，相处特别融洽。",
+    "zh": "她与姐妹相处得好。"
+  },
+  "E27:3": {
+    "fr": "Je me sens mieux.",
+    "sound": "热，么，sens，mieux；感觉好些，轻轻咻。",
+    "movie": "我刚才难受得缩成一团，摸摸桑叶靠垫，咻地舒展身体；虽然还没完全恢复，我感觉比刚才好些了。",
+    "zh": "我感觉好些了。"
+  },
+  "E27:4": {
+    "fr": "Mon père a pris sa retraite.",
+    "sound": "蒙，佩儿（père），啊，pris，撒，热退特（retraite）。",
+    "movie": "爸爸蒙着贝壳小帽，已把工作鞋收进退休盒；撒开脚躺上吊床，退休纪念品在旁边晃，爸爸已经退休了。",
+    "zh": "我父亲退休了。"
+  },
+  "E28:1": {
+    "fr": "J’ai réservé une chambre.",
+    "sound": "借（J’ai），热择喂（réservé），une，香布尔（chambre）。",
+    "movie": "我拿出预订成功的房卡，热心地择好一间香喷喷的房，里面的被子像云朵；这间房已由我预订好了。",
+    "zh": "我预订了一间房。"
+  },
+  "E28:2": {
+    "fr": "Je voudrais une soupe sans lait.",
+    "sound": "热，乌德雷（voudrais），une，苏普（soupe），桑，累（lait）。",
+    "movie": "我礼貌地举起汤勺，乌云小厨师端来一份汤；我把桑叶形的挡板罩住奶瓶，想要的汤里一点奶也不加。",
+    "zh": "我想要一份不加奶的汤。"
+  },
+  "E28:3": {
+    "fr": "J’ai mal à la tête.",
+    "sound": "借，麻了（mal），啊，拉，泰特（tête）。",
+    "movie": "我借来一顶头盔，头却疼得发麻；刚拉上带子，头顶像小锤子泰特泰特地敲，我抱住脑袋说头疼。",
+    "zh": "我头疼。"
+  },
+  "A01:1": {
+    "fr": "Notre équipe prend en charge votre demande.",
+    "sound": "Notre équipe，prend en charge，沃特，德忙德（demande）。",
+    "movie": "我们团队接过您的申请，给它穿上小背心，放到工作台；队长说别忙，您这份申请由我们团队负责处理。",
+    "zh": "我们团队负责处理您的申请。"
+  },
+  "A01:2": {
+    "fr": "Je vais m’en occuper.",
+    "sound": "热，喂（vais），忙（m’en），哦，occuper。",
+    "movie": "我热心地向待办的事情走去，说我会处理；忙着拿出文件夹准备整理，待办事项还等我接下来逐件办好。",
+    "zh": "我会处理这件事。"
+  },
+  "A01:3": {
+    "fr": "Vous devez effectuer cette démarche en ligne.",
+    "sound": "乌，devez effectuer cette démarche，昂，ligne，沿网线办手续。",
+    "movie": "您把手续纸递给电脑，纸像小火车沿网线跑进办理窗口；这项手续需要您在线完成，点好最后一步才能办妥。",
+    "zh": "您需在线办理这项手续。"
+  },
+  "A02:1": {
+    "fr": "La mise en œuvre prendra du temps.",
+    "sound": "拉，mise en œuvre，prendra，鱼（du），糖（temps）。",
+    "movie": "实施计划像把米粒排成大桥，大鱼搬来一块钟形糖；桥要一粒一粒搭，等钟走好多圈才搭好，实施确实需要时间。",
+    "zh": "实施需要时间。"
+  },
+  "A02:2": {
+    "fr": "Nous devons mettre ce plan en œuvre.",
+    "sound": "努，德翁（devons），麦特（mettre），瑟，plan，昂，œuvre。",
+    "movie": "我们推着一袋麦子，打开这个计划，把麦粒逐个种进图纸上的田；大家真的开始动手，必须把计划实施起来。",
+    "zh": "我们需要实施这个计划。"
+  },
+  "A02:3": {
+    "fr": "La prise de décision est collective.",
+    "sound": "拉，prise de décision，诶，collective，靠在一起作决定。",
+    "movie": "大家把椅子拉到同一张桌旁，靠近讨论不同选择，再一起举手；最终决定由集体作出，桌子也开心转了一圈。",
+    "zh": "决策由集体作出。"
+  },
+  "A03:1": {
+    "fr": "Cette étude met le problème en lumière.",
+    "sound": "塞特，étude，麦（met），勒，problème en，lumière，绿米灯。",
+    "movie": "这项研究把麦粒样本放在放大镜下，发现藏着的问题，再用绿米做的灯照亮它；问题终于被研究揭示出来。",
+    "zh": "这项研究揭示了问题。"
+  },
+  "A03:2": {
+    "fr": "Cette décision ouvre la voie à une réforme.",
+    "sound": "塞特，décision，乌弗（ouvre），拉，哇（voie），啊，une，réforme。",
+    "movie": "这项决定是一把钥匙，乌龟用它打开闸门，大家哇地看见一条通向改革的路；新路铺好，改革能够往前走了。",
+    "zh": "这项决定为改革铺路。"
+  },
+  "A03:3": {
+    "fr": "Faisons le point sur le projet.",
+    "sound": "faisons，勒，point；sur，勒，projet，项目逐项点。",
+    "movie": "我们把项目模型摆上桌，一点点查看进度；小碗接住遗漏螺丝，邀请大家一起梳理项目现在做到了哪儿。",
+    "zh": "我们梳理一下项目情况。"
+  },
+  "A04:1": {
+    "fr": "Je n’arrive pas à me connecter.",
+    "sound": "热，纳里夫（n’arrive），趴（pas），啊，么，connecter。",
+    "movie": "我热得趴在电脑前，纳米小船反复撞网口；我伸手去连接，屏幕却一直转圈，怎么试也连不上。",
+    "zh": "我连不上。"
+  },
+  "A04:2": {
+    "fr": "Il faut mettre l’application à jour.",
+    "sound": "Il faut，麦特（mettre），l’application，啊，jour，更新到今天。",
+    "movie": "应用抱着旧日历走不动，大家用麦秆把它推到今天这一页；程序精神起来，提醒我们需要更新这个应用。",
+    "zh": "需要更新应用。"
+  },
+  "A04:3": {
+    "fr": "J’ai sauvegardé le fichier.",
+    "sound": "借，搜嘎德（sauvegardé），勒，飞鞋（fichier）。",
+    "movie": "我借来文件形的飞鞋，按下保存键，鞋子搜地钻进保险柜，柜门嘎地关好；文件已经保存，飞也飞不丢。",
+    "zh": "我保存了文件。"
+  },
+  "A05:1": {
+    "fr": "Je pense à mon voyage.",
+    "sound": "热，胖斯（pense），啊，蒙，哇呀日（voyage）。",
+    "movie": "我热得抱着胖胖的旅行箱，想到自己的旅程，脑中冒出蒙着雾的山和哇呀叫的海鸥；我正在想着我的旅行。",
+    "zh": "我想到自己的旅行。"
+  },
+  "A05:2": {
+    "fr": "Que pensez-vous de cette idée ?",
+    "sound": "Que，胖塞乌（pensez-vous），de cette idée？",
+    "movie": "我把这个想法捏成胖胖的纸飞机递给您，问您觉得怎样；您歪头研究飞机，试着飞一飞，给这个主意打个分。",
+    "zh": "您觉得这个想法如何？"
+  },
+  "A05:3": {
+    "fr": "Je parle de mon travail à Léa.",
+    "sound": "热，帕尔（parle），de mon travail，啊，Léa。",
+    "movie": "我把工作服披在一个大耙上，向Léa讲我的工作；蒙着灰的小工具在桌上表演每天的活，Léa听得笑出声。",
+    "zh": "我向莉娅谈我的工作。"
+  },
+  "A06:1": {
+    "fr": "Comment t’y prends-tu ?",
+    "sound": "科芒（comment），梯（t’y），prends-tu？",
+    "movie": "你用梯子把气球送上屋顶，我站在梯边看得发愣；指着你手里的装置问，你究竟是怎么做出来的？",
+    "zh": "你是怎么做的？"
+  },
+  "A06:2": {
+    "fr": "Gardez cela à l’esprit.",
+    "sound": "嘎德（Gardez），瑟拉（cela），啊，l’esprit。",
+    "movie": "请把这一点装进嘎吱响的记忆抽屉，再拉绳送入脑袋；脑中小管家每天擦亮它，提醒你一直记住这一点。",
+    "zh": "请记住这一点。"
+  },
+  "A06:3": {
+    "fr": "J’en viens à ma conclusion.",
+    "sound": "让（J’en），viens，啊，妈，conclusion。",
+    "movie": "我讲完前面内容，让妈妈帮忙拉出最后的总结图；把图放到大家面前，现在最后谈到我的结论。",
+    "zh": "我最后谈到结论。"
+  },
+  "A07:1": {
+    "fr": "Réservez à l’avance.",
+    "sound": "热择喂（Réservez），啊，拉旺斯（l’avance）。",
+    "movie": "想参加活动的人先择好座位，再喂给订票机一张订单；拉着旺旺小狗在开场前好多天订好，记住请提前预订。",
+    "zh": "请提前预订。"
+  },
+  "A07:2": {
+    "fr": "Je suis arrivé en avance.",
+    "sound": "热，随，阿里喂（arrivé），昂，阿旺斯（avance）。",
+    "movie": "我随着阿里小鸟先到会场，门口的旺旺小狗还没挂好彩旗；约定的时间尚未到，我已经提前抵达。",
+    "zh": "我提前到了。"
+  },
+  "A07:3": {
+    "fr": "Au fil du temps, elle a progressé.",
+    "sound": "哦，fil du temps，诶勒，啊，progressé，丝线牵着时间走。",
+    "movie": "时间像一根丝线穿过钟表刻度，她每天练习一次；线越拉越长，她从摇摇晃晃练到稳稳站住，已经进步。",
+    "zh": "随着时间推移，她进步了。"
+  },
+  "A08:1": {
+    "fr": "Ce facteur contribue au changement.",
+    "sound": "瑟，facteur，空梯玉（contribue），au changement。",
+    "movie": "这个因素变成一架玉色小梯，帮种子爬出花盆；梯子一放好，花苞便香喷喷地开了，促成了眼前的变化。",
+    "zh": "这个因素促成了变化。"
+  },
+  "A08:2": {
+    "fr": "Cette erreur découle d’un malentendu.",
+    "sound": "塞特，erreur，得酷勒（découle），d’un，malentendu。",
+    "movie": "这个错误顺着凉凉的小沟滑来，源头是两人把话听岔的误会；我沿沟往回找，才明白错误原来由误会产生。",
+    "zh": "这个错误源于误会。"
+  },
+  "A08:3": {
+    "fr": "Cela ne signifie pas nécessairement un échec.",
+    "sound": "瑟拉，讷，si-gni-fie，趴，nécessairement，un，诶谢克（échec）。",
+    "movie": "我拉着小棋手，拦住他趴下认输；棋盘上虽然掉了一颗棋子，仍有别的走法，这种情况不一定意味着失败。",
+    "zh": "这不一定意味着失败。"
+  },
+  "A09:1": {
+    "fr": "Elle fait des progrès à l’oral.",
+    "sound": "诶勒，费，得，progrès，啊，萝拉尔（l’oral）。",
+    "movie": "她拿着萝卜形话筒练法语，起初只说一个词，如今能说一小段；朋友给她撒花，口语正在一天天进步。",
+    "zh": "她口语在进步。"
+  },
+  "A09:2": {
+    "fr": "Le projet prend de l’ampleur.",
+    "sound": "勒，projet，prend，德，朗普勒（l’ampleur）。",
+    "movie": "项目小屋被放在一张蓝色长毯上，每做一块就长出一间房；毯子越铺越远，项目规模也不断扩大。",
+    "zh": "项目规模在扩大。"
+  },
+  "A09:3": {
+    "fr": "Nous remettons cette méthode en question.",
+    "sound": "努，热麦桶（remettons），cette méthode en question。",
+    "movie": "我们把原来那套方法放回热麦桶，掀开桶盖逐步检查，发现一个大问号；大家重新审视它，看这办法是否可靠。",
+    "zh": "我们重新审视这种方法。"
+  },
+  "A10:1": {
+    "fr": "Je me souviens de cette journée.",
+    "sound": "热，么，souviens，德，塞特，journée；酥饼唤回那一天。",
+    "movie": "我摸着一只酥饼，一口咬出那天大家追着滚动野餐篮的场景；酥香把那一天带回记忆，我仍记得那天。",
+    "zh": "我记得那一天。"
+  },
+  "A10:2": {
+    "fr": "Je me rappelle son nom.",
+    "sound": "热，么，拉佩尔（rappelle），松，弄（nom）。",
+    "movie": "我摸摸头，拉出一个贝壳电话，里面传来那个人的名字；名字像松果一样滚到手里，我想起了他叫什么。",
+    "zh": "我记得他或她的名字。"
+  },
+  "A10:3": {
+    "fr": "J’ai oublié de répondre.",
+    "sound": "借（J’ai），乌，oublié，德，热蓬德（répondre）。",
+    "movie": "我借来的乌龟挡住待回复的信，一直在信封上打盹；等我搬开它才发现，自己已经忘了回复这封信。",
+    "zh": "我忘了回复。"
+  },
+  "A11:1": {
+    "fr": "Je suis favorable à cette mesure.",
+    "sound": "热，随，favorable，啊，cette mesure，花布加油棒！",
+    "movie": "我随着这项措施的小车前进，给它披上花布，拿玉米当加油棒；我举手赞成它，明确支持这项措施。",
+    "zh": "我支持这项措施。"
+  },
+  "A11:2": {
+    "fr": "Nous nous opposons à cette décision.",
+    "sound": "努努，哦坡宗（opposons），啊，塞特，décision。",
+    "movie": "我们努努嘴，一齐站到斜坡上，张开手臂挡住那个决定的小车；大家摇头说不，明确反对这个决定。",
+    "zh": "我们反对这个决定。"
+  },
+  "A11:3": {
+    "fr": "J’émets des réserves sur le calendrier.",
+    "sound": "借麦（J’émets），des réserves，sur le calendrier。",
+    "movie": "我借来麦克风，对那本卡住的日历提出保留意见；一些日子被挤得变形，我没有完全赞同这个时间安排。",
+    "zh": "我对时间安排持保留意见。"
+  },
+  "A12:1": {
+    "fr": "Je me suis rendu compte de mon erreur.",
+    "sound": "热，么，随，染鱼（rendu），空特（compte），德，蒙，erreur。",
+    "movie": "我摸着随身的账本，发现一条染色鱼藏在自己的错题里；我逐项一数，终于意识到原来是我自己弄错了。",
+    "zh": "我意识到了自己的错误。"
+  },
+  "A12:2": {
+    "fr": "Une idée m’est venue à l’esprit.",
+    "sound": "une，伊得（idée），麦，沃玉（venue），啊，莱斯普里（l’esprit）。",
+    "movie": "一个主意像小灯泡落在麦穗上，披着玉色斗篷飞进我的脑袋；刚才还发愁的我突然想到办法，眼睛一下亮了。",
+    "zh": "我想到一个主意。"
+  },
+  "A12:3": {
+    "fr": "Nous avons mis une méthode au point.",
+    "sound": "努，阿翁，米，une méthode，哦，point。",
+    "movie": "我们把米粒当步骤，试过一轮又一轮；补好小碗方法的漏洞后，每一步都能顺利运转，已经完善了一种方法。",
+    "zh": "我们完善了一种方法。"
+  },
+  "A13:1": {
+    "fr": "Nous envisageons de déménager.",
+    "sound": "努，envisageons，德，déménager，梅子装箱想搬家。",
+    "movie": "我们看看新家的图片，又把梅子装进搬家箱试试大小；箱子还没搬走，大家只是在认真考虑要不要搬家。",
+    "zh": "我们在考虑搬家。"
+  },
+  "A13:2": {
+    "fr": "Fixons une date.",
+    "sound": "菲克松（Fixons），une，大特（date）。",
+    "movie": "我们拿一根松木钉，啪地固定住日历上的一个日期，松鼠也来按住纸角；大家一起决定：就定这一天吧。",
+    "zh": "我们定一个日期吧。"
+  },
+  "A13:3": {
+    "fr": "Elle a renoncé à ce projet.",
+    "sound": "诶勒，啊，热弄塞（renoncé），啊，瑟，projet。",
+    "movie": "她把热气腾腾的项目模型弄进盒子，塞好盖子，松手走开；这回她已经决定放弃这个项目，不再继续做。",
+    "zh": "她放弃了这个项目。"
+  },
+  "A14:1": {
+    "fr": "Le nombre est passé de dix à douze.",
+    "sound": "Le nombre est passé，德，dis，啊，douze，十到十二。",
+    "movie": "数字小队原有十颗纽扣，趴着穿过一条布隧道，又跳进两颗；我数完发现十二颗，数量已经从十变成十二。",
+    "zh": "数量从十变成十二。"
+  },
+  "A14:2": {
+    "fr": "Le coût est de l’ordre de cent euros.",
+    "sound": "勒，酷，诶，德，l’ordre，德，桑，欧罗（euros）。",
+    "movie": "费用装进酷酷的小钱袋，袋口套着桑叶圈，里面欧元大约一百枚；我只估量钱袋大小，记住是一百欧元左右。",
+    "zh": "费用大约是一百欧元这个量级。"
+  },
+  "A14:3": {
+    "fr": "La plupart des participants sont arrivés.",
+    "sound": "La plupart des participants，松，arrivés。",
+    "movie": "参加者戴着亮亮的小徽章来聚会，大多数已经到了，坐在松树下等活动；门外只剩少数人的空座位。",
+    "zh": "大多数参与者到了。"
+  },
+  "A15:1": {
+    "fr": "Nous nous heurtons à un manque de temps.",
+    "sound": "努努，œr-ton（heurtons），啊，un，忙克（manque），德，糖（temps）。",
+    "movie": "我们努努嘴，推车撞到一块钟形墙；忙着伸手抓时间糖，才发现只剩一点点，眼前困难就是时间不足。",
+    "zh": "我们遇到时间不足的问题。"
+  },
+  "A15:2": {
+    "fr": "Elle est venue à bout de la difficulté.",
+    "sound": "诶勒，诶，沃玉，啊，布，德，拉，difficulté。",
+    "movie": "她穿着玉色雨衣爬上困难山，拉着一块布越过最后一段陡坡；终于站到山顶，已经把困难克服了。",
+    "zh": "她克服了困难。"
+  },
+  "A15:3": {
+    "fr": "Nous allons nous en sortir.",
+    "sound": "努，阿龙（allons），努，昂，sortir。",
+    "movie": "我们骑着阿龙小艇进入乱流，紧握船桨朝出口划；虽然船在晃，大家仍会一起驶出来，把眼前的难关应付过去。",
+    "zh": "我们会应付过来的。"
+  },
+  "A16:1": {
+    "fr": "Je vous mets en garde contre ce risque.",
+    "sound": "热，乌，麦，昂，嘎德（garde），空特（contre），瑟，risk。",
+    "movie": "我拿着热麦面包提醒您，嘎吱的木桥旁有风险；把面包当护栏挡在您前面，请您注意脚下可能断裂的地方。",
+    "zh": "我提醒您注意这个风险。"
+  },
+  "A16:2": {
+    "fr": "Nous risquons de perdre du temps.",
+    "sound": "努，ris-quons，德，佩德尔（perdre），鱼，糖。",
+    "movie": "我们推着小钟车走一条可能绕远的路，贝壳车轮一转就漏出鱼形时间糖；再走下去，可能会浪费很多时间。",
+    "zh": "我们可能浪费时间。"
+  },
+  "A16:3": {
+    "fr": "Évitons de nous disputer.",
+    "sound": "诶维桶（Évitons），德，努，dis-pu-ter。",
+    "movie": "我们把想争吵的话放进维生素桶，伸手拧小火气；两人原本要抢东西，现在互相松手，避免吵起来。",
+    "zh": "我们避免争吵吧。"
+  },
+  "A17:1": {
+    "fr": "Je suis chargé du suivi.",
+    "sound": "热，随，沙热（chargé），鱼（du），随V（suivi）。",
+    "movie": "我热心地随着任务小车走，用沙袋固定车轮，再按步骤打勾；我专门负责后续跟进，不能只看开始那一下。",
+    "zh": "我负责跟进。"
+  },
+  "A17:2": {
+    "fr": "Nous avons mené le projet à bien.",
+    "sound": "努，阿翁，么内（mené），勒，projet，啊，bien。",
+    "movie": "我们把项目一路领过弯道，最后带进漂亮的完成门；门边饼干礼炮一起响，大家已顺利完成这个项目。",
+    "zh": "我们顺利完成了项目。"
+  },
+  "A17:3": {
+    "fr": "Je ferai le nécessaire avant vendredi.",
+    "sound": "热，ferai，勒，nécessaire，阿旺，vendredi。",
+    "movie": "我保证会在周五前采取必要措施，把工具先装好；旺旺小狗守着周五日历，接下来我会赶在那天前行动。",
+    "zh": "我会在周五前采取必要措施。"
+  },
+  "A18:1": {
+    "fr": "L’article porte sur le logement.",
+    "sound": "L’article，porte sur le，罗日忙（logement），萝卜房。",
+    "movie": "文章讨论的住房变成一排萝卜小房子，每段都住着一户；我翻到下一页，仍是住房话题，文章主题就是住房。",
+    "zh": "文章主题是住房。"
+  },
+  "A18:2": {
+    "fr": "Mon analyse s’appuie sur ces données.",
+    "sound": "Mon analyse，撒pui（s’appuie），sur ces données。",
+    "movie": "我的分析像小侦探，把撒在地上的数据铺成脚下的垫砖；每走一步都有数据撑着，分析以这些数据为依据。",
+    "zh": "我的分析依据这些数据。"
+  },
+  "A18:3": {
+    "fr": "Il faut nuancer cette conclusion.",
+    "sound": "衣儿，福，nuancer，塞特，conclusion。",
+    "movie": "福娃抱着一个结论球，拿软刷准备给它添上不同深浅的颜色；这个结论还需要讲清条件和差别，作细致限定。",
+    "zh": "需要对这一结论作更细致的限定。"
+  },
+  "A19:1": {
+    "fr": "Je mets un peu d’argent de côté.",
+    "sound": "热，麦，un，peu，大尔让（d’argent），德，靠泰（côté）。",
+    "movie": "我把一小点钱夹在麦片里，放到靠着桌边的小盒子；只存下一点点，也让储蓄盒慢慢鼓起来。",
+    "zh": "我存下一点钱。"
+  },
+  "A19:2": {
+    "fr": "Ils ont du mal à joindre les deux bouts.",
+    "sound": "伊勒，昂，鱼，麻了，啊，joindre，勒，deux，布（bouts）。",
+    "movie": "他们的生活费像一条太短的鱼布带，两头怎么拉都勉强碰上；忍着发麻的手继续拼接，日子只能勉强维持。",
+    "zh": "他们勉强维持生计。"
+  },
+  "A19:3": {
+    "fr": "Les frais sont à la charge du client.",
+    "sound": "勒，frais，松，啊，拉，沙日（charge）， dü，client。",
+    "movie": "费用像小包裹，松鼠把它放上沙色账单车，再送到客户手里；账单由客户接过，这笔费用该由客户承担。",
+    "zh": "费用由客户承担。"
+  },
+  "A20:1": {
+    "fr": "Je range les vêtements.",
+    "sound": "热，染日（range），les vêtements，整理晒衣服。",
+    "movie": "我把染着太阳图案的衣服一件件折好，外套也不再忙着飞；它们整齐排进衣柜，记住我正在整理衣服。",
+    "zh": "我整理衣服。"
+  },
+  "A20:2": {
+    "fr": "Cette veste me va bien.",
+    "sound": "塞特，vest，么，哇，bien。",
+    "movie": "这件夹克套在我身上，我摸摸衣角哇地转一圈；镜子里肩膀和袖子都很合适，旁边的小饼干鼓掌夸好。",
+    "zh": "这件夹克很适合我。"
+  },
+  "A20:3": {
+    "fr": "Ces chaussures sont usées.",
+    "sound": "塞，chaussures，松，usées。",
+    "movie": "这些鞋子的鞋底已经磨薄，像松树下两只旧壳；我用松枝轻碰，鞋尖就张嘴，说明它们穿得磨旧了。",
+    "zh": "这些鞋子磨旧了。"
+  },
+  "A21:1": {
+    "fr": "Je peux compter sur elle.",
+    "sound": "热，peux，空泰（compter），sur，诶勒。",
+    "movie": "我遇到困难，拿起一只空茶杯求助；她稳稳托住杯子，也托住我的手，让我放心：我可以依靠她。",
+    "zh": "我可以依靠她。"
+  },
+  "A21:2": {
+    "fr": "Il a tendance à s’inquiéter.",
+    "sound": "伊勒，啊，糖当斯（tendance），啊，s’inquiéter。",
+    "movie": "他看到一块糖晃了晃，就担心整盘糖会倒；小雨点刚落又担心屋顶漏，记住他很容易担心，遇事总紧张。",
+    "zh": "他容易担心。"
+  },
+  "A21:3": {
+    "fr": "Je me sens à l’aise avec eux.",
+    "sound": "热，么，桑（sens，鼻化），啊 l’aise，avec eux。",
+    "movie": "我摸着桑叶小靠垫，和他们挤坐在软沙发上，随意笑着伸腿；没有拘束的感觉，和他们在一起我很自在。",
+    "zh": "和他们在一起我很自在。"
+  },
+  "A22:1": {
+    "fr": "J’ai du mal à dormir.",
+    "sound": "借，鱼，麻了，啊，多尔米尔（dormir）。",
+    "movie": "我借来鱼形枕头，躺得手都麻了仍睡不着；闹钟走了一圈又一圈，我数着米粒打哈欠，睡眠很有困难。",
+    "zh": "我睡眠有困难。"
+  },
+  "A22:2": {
+    "fr": "Je me remets d’un rhume.",
+    "sound": "热，么，热麦（remets），d’un，rhume。",
+    "movie": "我摸摸感冒的鼻子，喝下一口热麦汤；纸巾小山逐渐变小，喷嚏也少了，我正在从这场感冒中恢复。",
+    "zh": "我正从感冒中恢复。"
+  },
+  "A22:3": {
+    "fr": "Je ressens une douleur au dos.",
+    "sound": "热，热桑（ressens），une，dou-leur，哦，多（dos）。",
+    "movie": "我热着一片桑叶想贴背，背上却疼得像有小豆子在顶；哦地弯腰摸住背部，记住我感觉背部疼痛。",
+    "zh": "我感觉背部疼痛。"
+  },
+  "A23:1": {
+    "fr": "Elle parle à voix basse.",
+    "sound": "诶勒，帕尔（parle），啊，哇（voix），巴斯（basse）。",
+    "movie": "她用耙子形小话筒，轻轻哇一声又压低声音；巴士里的睡宝宝没被吵醒，她一直在低声说话。",
+    "zh": "她低声说话。"
+  },
+  "A23:2": {
+    "fr": "Il m’a fait signe de venir.",
+    "sound": "伊勒，妈，费，心（signe），德，沃尼尔（venir）。",
+    "movie": "他站在远处，拿妈妈做的肥心形手套向我招手；我看见手势就走过去，记住是他示意我到他那里去。",
+    "zh": "他示意我过去。"
+  },
+  "A23:3": {
+    "fr": "Une porte a claqué.",
+    "sound": "une，porte，啊，克拉克（claqué）。",
+    "movie": "一扇门像打哈欠，忽然啊地合上，克拉克砰响一声，连门边的帽子都跳起来；门已经猛地关上了。",
+    "zh": "一扇门砰地关上了。"
+  },
+  "A24:1": {
+    "fr": "Il s’est mis à pleuvoir.",
+    "sound": "伊勒，塞，米，啊，pleu-voir。",
+    "movie": "天空把米粒似的小雨点从塞紧的云袋里倒出来，大家啊地伸手接雨；刚才还干燥，此刻开始下雨了。",
+    "zh": "开始下雨了。"
+  },
+  "A24:2": {
+    "fr": "La région a été touchée par une tempête.",
+    "sound": "拉，région，啊，诶泰，秃谢（touchée），帕尔，une，糖佩特（tempête）。",
+    "movie": "这片地区的屋顶被风暴吹得秃了一块，糖果屋也摇摇晃晃；大家查看被碰坏的房子，知道当地已经受到风暴影响。",
+    "zh": "该地区受到风暴影响。"
+  },
+  "A24:3": {
+    "fr": "Prenons des précautions.",
+    "sound": "普热弄（Prenons），得，pré-cau-tions。",
+    "movie": "我们把普普通通的小雨棚弄牢，再把门窗逐个扣好，像给房子戴上头盔；一起采取防范措施，免得风雨造成麻烦。",
+    "zh": "我们采取防范措施吧。"
+  },
+  "I01:1": {
+    "fr": "Cette expression ne se traduit pas mot à mot.",
+    "sound": "塞特，expression，讷，瑟，tra-duit，趴，摸，啊，摸（mot à mot）。",
+    "movie": "这个表达像一串魔法豆，逐个摸着翻译却拼不出意思；我趴下把整串一起看，记住不能把它逐字翻译。",
+    "zh": "这个表达不能逐字翻译。"
+  },
+  "I01:2": {
+    "fr": "Je la note avec un exemple.",
+    "sound": "热，拉，糯特（note），阿韦克，un，exemple。",
+    "movie": "我拉开糯米本，把刚学的表达记下，再给它配一条例句；表达和例句手拉手住进同一页，方便我一起复习。",
+    "zh": "我把它连例句记下。"
+  },
+  "I01:3": {
+    "fr": "Tout dépend du contexte.",
+    "sound": "秃，得胖（dépend），鱼，con-texte。",
+    "movie": "一个光头小词躺在胖鱼背上，鱼游进不同故事池，词的意思也跟着变；一切要看它所在的语境。",
+    "zh": "一切取决于语境。"
+  },
+  "I02:1": {
+    "fr": "Elle a le cœur sur la main.",
+    "sound": "诶勒，啊，勒，cœur，sur，拉，main。",
+    "movie": "她把爱心像小花放到手掌上，拉着饿肚子的朋友，把自己的点心全分出去；爱心在手是画面，她很慷慨才是意思。",
+    "zh": "她很慷慨。"
+  },
+  "I02:2": {
+    "fr": "Il a les pieds sur terre.",
+    "sound": "伊勒，啊，勒，pieds，sur，泰尔（terre）。",
+    "movie": "他看见会飞的空中城堡，仍把双脚牢牢站在土地上，拿铲子踏实盖小屋；脚落地的画面提醒他是个务实的人。",
+    "zh": "他很务实。"
+  },
+  "I02:3": {
+    "fr": "Léa a la tête sur les épaules.",
+    "sound": "Léa，啊，拉，泰特（tête），sur，勒，诶坡勒（épaules）。",
+    "movie": "Léa拉好头盔，把头稳稳放在肩膀上；别人忙得转圈，她仍按次序处理事情，像稳稳的肩头一样可靠稳重。",
+    "zh": "莉娅很稳重。"
+  },
+  "I03:1": {
+    "fr": "Elle a gardé son sang-froid.",
+    "sound": "诶勒，啊，嘎德（gardé），松，桑弗哇（sang-froid）。",
+    "movie": "她看到汤锅突然冒泡，先嘎地关小火，再抱住松果形凉水杯，深呼吸；乱成一团时，她已经保持住冷静。",
+    "zh": "她保持了冷静。"
+  },
+  "I03:2": {
+    "fr": "Il est parti sur un coup de tête.",
+    "sound": "伊勒，诶，帕尔梯（parti），sur，un，酷，德，泰特（tête）。",
+    "movie": "他脑袋被一个突然的念头咚地顶了一下，就抓起小梯跑出门；背包还敞着，记住他是一时冲动便离开了。",
+    "zh": "他一时冲动离开了。"
+  },
+  "I03:3": {
+    "fr": "Ils font la sourde oreille.",
+    "sound": "伊勒，风（font），拉，苏尔德（sourde），哦雷耶（oreille）。",
+    "movie": "他们听见提醒，把耳朵拉成两朵棉花团，任提醒被风吹走；哦一声还继续玩，对别人的提醒完全置之不理。",
+    "zh": "他们对提醒置之不理。"
+  },
+  "I04:1": {
+    "fr": "Nous sommes sur la même longueur d’onde.",
+    "sound": "努，松，sur，拉，麦姆（même），longueur，东德（d’onde）。",
+    "movie": "我们坐在松木船上，各拉一根同样长的波浪绳，船一下划得整整齐齐；彼此一笑，说明我们的想法很合拍。",
+    "zh": "我们想法很合拍。"
+  },
+  "I04:2": {
+    "fr": "Dans la famille, on se serre les coudes.",
+    "sound": "当，拉，法米（famille），昂，瑟，塞尔（serre），勒，酷德（coudes）。",
+    "movie": "家里人围着饭桌，每人拿一碗米，互相挨近胳膊肘，帮小弟接住落下的碗；一家人就这样彼此支持。",
+    "zh": "家里人彼此支持。"
+  },
+  "I04:3": {
+    "fr": "Il a mis de l’eau dans son vin.",
+    "sound": "衣儿，啊，米，德，洛（l’eau），当，松，vin。",
+    "movie": "他本来气得鼓起脸，把米碗旁的清水倒进自己的酒杯；杯色淡了、脸也松了，这个画面提醒他已缓和态度。",
+    "zh": "他缓和了态度。"
+  },
+  "I05:1": {
+    "fr": "Elle est aux anges.",
+    "sound": "诶勒，诶，哦，昂日（anges）。",
+    "movie": "她一收到好消息就哦地跳起来，像和小天使一起坐云朵秋千；鞋子高高昂起，满脸笑容，已经高兴极了。",
+    "zh": "她高兴极了。"
+  },
+  "I05:2": {
+    "fr": "Aujourd’hui, j’ai le moral à zéro.",
+    "sound": "哦jour-dui（Aujourd’hui），借，勒，摸拉尔（moral），啊，择罗（zéro）。",
+    "movie": "今天我借来一只心情气球，摸一摸就瘪到零刻度，坐在地上提不起劲；别人逗我也笑不动，我今天心情很低落。",
+    "zh": "今天我心情非常低落。"
+  },
+  "I05:3": {
+    "fr": "Cette musique me donne la chair de poule.",
+    "sound": "塞特，music，么，栋，拉，谢尔（chair），德，普勒（poule）。",
+    "movie": "这段音乐一响，我摸摸胳膊，发现皮肤上挤满小鸡形疙瘩；小鸡随着音乐抖，画面提醒这音乐让我起鸡皮疙瘩。",
+    "zh": "这音乐让我起鸡皮疙瘩。"
+  },
+  "I06:1": {
+    "fr": "Tu me donnes un coup de main ?",
+    "sound": "玉（Tu），么，栋，un，酷，德，main？",
+    "movie": "你戴着玉色手套，我摸着太重的箱子，问能不能帮一下；你伸出一只酷酷的大手托住箱底，准备搭把手。",
+    "zh": "你帮我一下吗？"
+  },
+  "I06:2": {
+    "fr": "Il a pris ses jambes à son cou.",
+    "sound": "伊勒，啊，pris，塞，jambe，啊，松，酷（cou）。",
+    "movie": "他把腿像弹簧一下收起，仿佛要挂到脖子上，嗖地冲出门；松果滚在身后，他已经拔腿就跑。",
+    "zh": "他拔腿就跑。"
+  },
+  "I06:3": {
+    "fr": "Elle n’a pas levé le petit doigt.",
+    "sound": "诶勒，拿，趴，勒喂（levé），勒，破梯（petit），dwa（doigt）。",
+    "movie": "她拿着零食趴在椅上，别人搬东西累得打转；连小手指都没抬一下，破梯倒了也不扶，记住她一点忙也没帮。",
+    "zh": "她一点忙也没帮。"
+  },
+  "I08:1": {
+    "fr": "Je suis en pleine forme.",
+    "sound": "热，suis，昂，pleine，forme；精力满满！",
+    "movie": "我热身后昂着头，像充满气的小弹簧；跳圈、跑步、接球都轻松，整个人精力满满，状态很好。",
+    "zh": "我状态很好。"
+  },
+  "I08:2": {
+    "fr": "Après cette journée, je suis à plat.",
+    "sound": "阿普雷（Après），塞特，jour-née，热，随，啊，普拉（plat）。",
+    "movie": "忙完这一天，我把围裙一甩，随着最后一声啊趴成薄薄的面饼；连手都抬不起来，精疲力尽只想休息。",
+    "zh": "忙了一天，我精疲力尽。"
+  },
+  "I08:3": {
+    "fr": "Elle reprend du poil de la bête.",
+    "sound": "诶勒，热prend，鱼，pwal（poil），德，拉，贝特（bête）。",
+    "movie": "她休息后又站起，拉过一只毛绒小兽，给自己披上蓬松皮毛；刚才软趴趴，现在能蹦跳，精神已经恢复了。",
+    "zh": "她恢复精神了。"
+  },
+  "I09:1": {
+    "fr": "Nous prenons la route à l’aube.",
+    "sound": "努，普热弄（prenons），拉，路特（route），啊，萝布（l’aube）。",
+    "movie": "我们拉好行李，踏上像萝卜一样长的小路；天边刚透亮，露珠还在打哈欠，大家在黎明时就出发了。",
+    "zh": "我们黎明出发。"
+  },
+  "I09:2": {
+    "fr": "Je crois que nous faisons fausse route.",
+    "sound": "热，crois，que nous faisons，佛斯（fausse），route。",
+    "movie": "我看见我们的小车在同一座佛像旁绕圈，指着方向盘说不对；我觉得我们走错了路，也可能是思考方向错了。",
+    "zh": "我觉得我们方向错了，也可能指思路不对。"
+  },
+  "I09:3": {
+    "fr": "Les discussions sont dans une impasse.",
+    "sound": "勒，dis-cu-ssions，松，当，une，an-pass（impasse）。",
+    "movie": "讨论的人把意见推成小车，松手后全挤进死胡同；谁也前进不了，安静地面面相觑，讨论已经陷入僵局。",
+    "zh": "讨论陷入僵局。"
+  },
+  "I10:1": {
+    "fr": "J’ai un petit creux.",
+    "sound": "借，un，破梯（petit），creux，颗饿！",
+    "movie": "我借来一架小破梯，肚子忽然咕咕响，像里面空了一个小洞；我伸手找饼干，记住只是有点饿了。",
+    "zh": "我有点饿了。"
+  },
+  "I10:2": {
+    "fr": "Tout le monde met la main à la pâte.",
+    "sound": "秃，勒，蒙德（monde），麦，拉，main，啊，拉，帕特（pâte）。",
+    "movie": "大家围着大面团，光头师傅、蒙面小孩都把手伸进去揉；面粉扑到鼻子上，人人都在动手帮忙做事。",
+    "zh": "大家都动手帮忙。"
+  },
+  "I10:3": {
+    "fr": "Ce film m’a laissé sur ma faim.",
+    "sound": "瑟，film，妈，莱塞（laissé），sur，妈，范（faim）。",
+    "movie": "我看电影前捧着爆米花，结尾却像妈妈只端来半碗饭；故事没给足期待，我摸着空碗，感觉电影没让我尽兴。",
+    "zh": "这电影没让我尽兴。"
+  },
+  "I11:1": {
+    "fr": "Je me creuse la tête.",
+    "sound": "热，么，creuse，拉，泰特（tête）。",
+    "movie": "我摸着头，用一把小勺在想象的脑袋土里挖呀挖，想挖出答案；头顶热得冒泡，我正绞尽脑汁地思考。",
+    "zh": "我在绞尽脑汁。"
+  },
+  "I11:2": {
+    "fr": "Nous avons du pain sur la planche.",
+    "sound": "努，阿翁， dü，pain，sur，拉，planche。",
+    "movie": "我们面前木板上堆满面包，每块都对应一件待做的活；努着嘴刚举起工具又来一堆，说明我们有不少工作要做。",
+    "zh": "我们有不少工作要做。"
+  },
+  "I11:3": {
+    "fr": "Elle met les bouchées doubles.",
+    "sound": "诶勒，麦，勒，布谢（bouchées），杜布勒（doubles）。",
+    "movie": "她把麦片任务分成两倍大的口粮，两手同时做、脚下也加快；像一口吃两份那样，她正在加倍努力。",
+    "zh": "她加倍努力。"
+  },
+  "I12:1": {
+    "fr": "Mettons les cartes sur table.",
+    "sound": "麦桶（Mettons），勒，卡尔特（cartes），sur，塔布勒（table）。",
+    "movie": "我们把藏在麦桶里的牌全倒到桌上，连最后一张也摊开，随后坦白说出各自想法；大家开诚布公地谈吧。",
+    "zh": "我们开诚布公吧。"
+  },
+  "I12:2": {
+    "fr": "Nous avons trouvé un terrain d’entente.",
+    "sound": "努，阿翁，秃喂，un，terrain，当糖特（d’entente）。",
+    "movie": "我们找来一块大家都能站的地，给秃头师傅和伙伴喂糖；原来意见不同，现在站到同一处，找到了共同立场。",
+    "zh": "我们找到了共同立场。"
+  },
+  "I12:3": {
+    "fr": "Elle a tiré son épingle du jeu.",
+    "sound": "诶勒，啊，提雷（tiré），松，épingle，鱼，热（jeu）。",
+    "movie": "她在困难游戏里小心提起自己的别针，越过松动机关，最后赢回漂亮奖品；她已经在困难中取得了不错结果。",
+    "zh": "她在困难中取得了不错的结果。"
+  },
+  "I13:1": {
+    "fr": "La fête bat son plein.",
+    "sound": "拉，费特（fête），巴（bat），松，plein。",
+    "movie": "聚会上大家拉着彩带，肥肥的小鼓巴巴敲，松果灯也亮到满格；跳舞笑声挤满屋子，聚会正是最热闹的时候。",
+    "zh": "聚会正热闹。"
+  },
+  "I13:2": {
+    "fr": "La musique met l’ambiance.",
+    "sound": "拉，music，麦，朗比昂斯（l’ambiance）。",
+    "movie": "音乐一响，大家手里的麦穗变成节拍棒，摇着摇着都站起来跳舞；原本安静的屋子活跃起来，音乐带动气氛。",
+    "zh": "音乐带动了气氛。"
+  },
+  "I13:3": {
+    "fr": "Les deux équipes sont au coude-à-coude.",
+    "sound": "勒，deux，équipe，松，哦，酷达酷（coude-à-coude）。",
+    "movie": "两支队伍并肩往前跑，胳膊肘几乎碰着；松鼠裁判哦地瞪眼，谁也拉不开距离，两队实力不相上下。",
+    "zh": "两队不相上下。"
+  },
+  "I13:4": {
+    "fr": "Les équipes ont fait match nul.",
+    "sound": "勒，équipe，昂，费，match，玉勒（nul）。",
+    "movie": "两队踢完比赛，球落在一只玉色圆盆正中，比分一模一样；双方一起费力抬起共享奖杯，这场球已经打平了。",
+    "zh": "两队打平了。"
+  },
+  "I14:1": {
+    "fr": "Cette annonce fait la une.",
+    "sound": "塞特，阿弄斯（annonce），费，拉，une。",
+    "movie": "这条消息从阿公的小信箱蹦出来，一路飞到报纸最上面的第一条；大家拉长脖子先看它，消息已经登上头条。",
+    "zh": "这条消息登上头条。"
+  },
+  "I14:2": {
+    "fr": "Le débat a fait couler beaucoup d’encre.",
+    "sound": "勒，得巴（débat），啊，费，酷勒（couler），博酷（beaucoup），当克尔（d’encre）。",
+    "movie": "争论像得吧得吧的水龙头，喷出好多墨水，大家蘸着写下大量评论；墨水流得酷酷地响，争论已引发很多议论。",
+    "zh": "争论引发了大量评论。"
+  },
+  "I14:3": {
+    "fr": "Elle est sous les projecteurs.",
+    "sound": "诶勒，诶，苏，勒，pro-jec-teurs。",
+    "movie": "她走到苏打泡泡形的聚光灯下面，每盏灯都转向她，观众也齐刷刷看过来；她正在受到公众的关注。",
+    "zh": "她受到公众关注。"
+  },
+  "I15:1": {
+    "fr": "Cette remarque a jeté de l’huile sur le feu.",
+    "sound": "塞特，热马克（remarque），啊，热忒（jeté），德，l’huile，sur，勒，feu。",
+    "movie": "这句话像热乎的麦穗递出一勺油，浇到本来冒火的争吵上；火忽然更旺，大家吵得更凶，已经火上浇油。",
+    "zh": "这句话火上浇油。"
+  },
+  "I15:2": {
+    "fr": "Le ministre est dans la ligne de mire.",
+    "sound": "勒，米尼斯特（ministre），诶，当，拉，ligne，德，米尔（mire）。",
+    "movie": "部长站在米粒做的瞄准圈里，四周的问题像聚光线都对准他；大家不断向他质问，他成了被针对的对象。",
+    "zh": "这位部长成为被针对的对象。"
+  },
+  "I15:3": {
+    "fr": "Pour lui, c’est une tempête dans un verre d’eau.",
+    "sound": "普尔，lui，塞，une，糖佩特，当，un，韦尔（verre），多（d’eau）。",
+    "movie": "他指着小水杯里旋转的糖屑风暴，笑着耸肩；旁人惊叫，他却觉得杯子那么小，这不过是小题大做的风波。",
+    "zh": "在他看来，这只是小题大做的风波。"
+  },
+  "I15:4": {
+    "fr": "Les manifestants sont descendus dans la rue.",
+    "sound": "勒，mani-fes-tants，松，得桑鱼（descendus），当，拉，rue。",
+    "movie": "示威的人拿起诉求牌，从楼里下来，像桑鱼群汇到路上；街道一下热闹起来，示威者已经走上街头。",
+    "zh": "示威者走上街头。"
+  },
+  "I16:1": {
+    "fr": "Allons droit au but.",
+    "sound": "阿隆（Allons），droit，哦，but。",
+    "movie": "我们拉好小车，方向盘直接对准球门；不再绕圈，开口就讲要点，邀请大家直奔主题。",
+    "zh": "我们直奔主题吧。"
+  },
+  "I16:2": {
+    "fr": "Il tourne autour du pot.",
+    "sound": "伊勒，图尔讷（tourne），哦图尔（autour），鱼，坡（pot）。",
+    "movie": "他绕着鱼汤锅不停转，一会儿聊帽子，一会儿聊天气；大家等着核心问题，他还在锅边兜圈子，拐弯抹角。",
+    "zh": "他在拐弯抹角。"
+  },
+  "I16:3": {
+    "fr": "En un mot, je suis d’accord.",
+    "sound": "昂，un，摸（mot），热，随，大口（d’accord）。",
+    "movie": "我把一长串话揉成一个小词球，昂起头大口说同意；只留这个简短结论，记住简言之，我赞同。",
+    "zh": "简言之，我同意。"
+  },
+  "I17:1": {
+    "fr": "Je préfère jouer cartes sur table.",
+    "sound": "热，pré-fère，热喂（jouer），cartes，sur，table。",
+    "movie": "我热心地把手牌摊到桌上，连藏在袖口的一张也拿出；比起遮遮掩掩，我更愿意像亮牌一样坦诚相告。",
+    "zh": "我宁愿坦诚相告。"
+  },
+  "I17:2": {
+    "fr": "Il semble avoir quelque chose à cacher.",
+    "sound": "伊勒，桑布勒（semble），阿哇尔（avoir），quelque，shoz，啊，卡谢（cacher）。",
+    "movie": "他披着桑叶布，怀里抱着一团东西，别人一靠近就卡进箱子藏好；看起来他似乎有事隐瞒，尚未说清。",
+    "zh": "他似乎有所隐瞒。"
+  },
+  "I17:3": {
+    "fr": "Elle l’a reconnu à demi-mot.",
+    "sound": "诶勒，拉，热靠玉（reconnu），啊，德米摸（demi-mot）。",
+    "movie": "她拉开一点箱盖，靠着玉色靠垫只说了半句话，轻轻点头；虽没大声直说，她已含蓄地承认了这件事。",
+    "zh": "她含蓄地承认了。"
+  },
+  "I18:1": {
+    "fr": "Elle a une longueur d’avance.",
+    "sound": "诶勒，啊，une，longueur，大旺斯（d’avance）。",
+    "movie": "她在比赛里先跨过一条长长的旺旺彩带，别人还在后面伸腿；她已经领先一步，回头还能给伙伴挥挥手。",
+    "zh": "她领先一步。"
+  },
+  "I18:2": {
+    "fr": "Les équipes ne sont pas à armes égales.",
+    "sound": "勒，équipes，讷，松，帕，啊，armes，égales。",
+    "movie": "两队站上场，一队拿大拍子，一队只有小勺；松鼠裁判摇头，大家拿帕子垫着量，发现两队条件并不相当。",
+    "zh": "两队条件并不相当。"
+  },
+  "I18:3": {
+    "fr": "Ne nous mettez pas des bâtons dans les roues.",
+    "sound": "讷，努，麦泰（mettez），趴，得，巴桶（bâtons），当，勒，roues。",
+    "movie": "我们推车前进，有人想把木棍塞进轮子，我拦住巴桶喊别放；请别给我们制造障碍，让小车好好往前走。",
+    "zh": "别给我们设障碍。"
+  },
+  "I19:1": {
+    "fr": "Ne prends pas tout au pied de la lettre.",
+    "sound": "讷，prends，趴，秃，哦，pied，德，拉，lettre。",
+    "movie": "你听见有人说饿死了，差点趴下给他急救；我拉住你，把词从脚下捡起，提醒别什么都照字面理解。",
+    "zh": "别什么都按字面理解。"
+  },
+  "I19:2": {
+    "fr": "Elle a le sens de l’humour.",
+    "sound": "诶勒，啊，勒，桑斯，德，绿木尔（l’humour）。",
+    "movie": "她把桑叶戴成绿木耳帽，一句话就逗得伙伴笑翻；小椅子也跟着抖，记住她懂得开玩笑，很有幽默感。",
+    "zh": "她有幽默感。"
+  },
+  "I19:3": {
+    "fr": "Il n’a pas mâché ses mots.",
+    "sound": "伊勒，拿，趴，麻谢（mâché），塞，摸（mots）。",
+    "movie": "他拿起一句话，连嚼都不嚼就直接说出口，像把麻花整根摆上桌；大家立刻明白，他已直言不讳地表达意见。",
+    "zh": "他直言不讳。"
+  },
+  "I20:1": {
+    "fr": "Prenons un peu de recul.",
+    "sound": "普热弄（Prenons），un，peu，德，热Q勒（recul）。",
+    "movie": "我们把烫手的小难题放到桌上，退一小步，靠Q形栏杆再看全局；换个距离想一想，才更容易看清问题。",
+    "zh": "我们退一步想想。"
+  },
+  "I20:2": {
+    "fr": "Je commence à voir le bout du tunnel.",
+    "sound": "热，靠忙斯（commence），啊，哇尔，勒，布，鱼，tu-nnel。",
+    "movie": "我在忙乱的长隧道里走了很久，终于看见尽头一块亮布，哇地伸出手；出口开始出现，我开始看到希望了。",
+    "zh": "我开始看到希望了。"
+  },
+  "I20:3": {
+    "fr": "Il faut faire la part des choses.",
+    "sound": "Il faut faire，拉，part des choses，分盘看事情。",
+    "movie": "小厨师拉来几个盘子，把混在一起的事情像豆子分开放，分清各方面再判断；不能全倒进同一锅，需要区别对待。",
+    "zh": "需要分清不同方面。"
+  },
+  "I21:1": {
+    "fr": "Je pèse le pour et le contre.",
+    "sound": "热，佩兹（pèse），勒，普尔（pour），诶，勒，空特（contre）。",
+    "movie": "我拿一架小秤，左边放有利的贝壳，右边放不利的空盒，轮流添减；秤盘上下摇，我正在权衡利弊。",
+    "zh": "我在权衡利弊。"
+  },
+  "I21:2": {
+    "fr": "Elle a décidé de sauter le pas.",
+    "sound": "诶儿，啊，得西得（décidé），德，sauter，勒，帕（pas）。",
+    "movie": "她反复考虑后下定决心要迈出这一步；小沟旁的帕子被折好当起点，她摆好姿势准备跨出，决定已经作出。",
+    "zh": "她决定迈出这一步。"
+  },
+  "I21:3": {
+    "fr": "Tu joues avec le feu.",
+    "sound": "玉，joues，阿韦克，勒，feu。",
+    "movie": "你用玉色小球逗着火苗玩，火舌越蹿越近；朋友拉住你的围裙，提醒这样做有危险，你正在冒险。",
+    "zh": "你这样是在冒险。"
+  },
+  "I22:1": {
+    "fr": "D’accord, ça marche.",
+    "sound": "大口（D’accord），撒（ça），马什（marche）。",
+    "movie": "我大口答应，撒开手让小马顺利走起来，搭档也点头；这件事说定了，我爽快地表示好的，没问题。",
+    "zh": "好的，没问题。"
+  },
+  "I22:2": {
+    "fr": "Une promenade ? Ça me dit !",
+    "sound": "une，普罗姆纳德（promenade）？撒，么，滴（dit）！",
+    "movie": "有人提议散步，我把散步鞋一套，撒开欢，开心得像水滴跳起来；这个主意正合我意，我对散步很有兴趣。",
+    "zh": "散步？我有兴趣！"
+  },
+  "I22:3": {
+    "fr": "Tant pis, on essaiera demain.",
+    "sound": "糖，皮（Tant pis），昂，诶塞拉（essaiera），德main。",
+    "movie": "今天的小实验失败了，糖皮掉了一桌，我们耸耸肩收好工具；算了，睡一觉，大家明天再重新试一次。",
+    "zh": "算了，我们明天再试。"
+  },
+  "I23:1": {
+    "fr": "La demande doit être faite en bonne et due forme.",
+    "sound": "拉，德忙德，dwa，être，费特，昂，bonne et due，form。",
+    "movie": "申请纸忙着乱跑，办事员让它穿好正式制服，按要求填齐项目再递交；整张纸收拾妥当，申请需按正式要求提出。",
+    "zh": "申请需按正式要求提出。"
+  },
+  "I23:2": {
+    "fr": "À défaut de réponse, nous vous recontacterons.",
+    "sound": "啊，得佛（défaut），德，réponse，努，乌，re-con-tac-te-rons。",
+    "movie": "若邮箱里迟迟没有您的回复，我们的小佛电话就会再响起，把联系线重新接到您这里；没有回复时会再次联系您。",
+    "zh": "若未收到回复，我们会再联系您。"
+  },
+  "I23:3": {
+    "fr": "Cette décision peut porter atteinte à leurs intérêts.",
+    "sound": "塞特，décision，peut，port-er，阿坦特（atteinte），啊，勒尔，intérêts。",
+    "movie": "这项决定像一只可能碰倒东西的推车，向他们的利益花盆驶去；花盆还没碎，但可能受损，大家赶紧留意。",
+    "zh": "这项决定可能损害他们的利益。"
+  },
+  "I23:4": {
+    "fr": "La police a ouvert une enquête.",
+    "sound": "拉，police，啊，乌韦尔（ouvert），une，昂凯特（enquête）。",
+    "movie": "警方拉开调查箱，乌龟警探打开盖子昂起头，开始逐一查看脚印和线索；案子已进入调查，大家认真找事实。",
+    "zh": "警方展开了调查。"
+  },
+  "I24:1": {
+    "fr": "Il dort comme une marmotte.",
+    "sound": "伊勒，多尔（dort），靠姆（comme），une，麻尔莫特（marmotte）。",
+    "movie": "他躺在枕上睡得像团土拨鼠，旁边麻花闹钟响了也不醒；只是呼呼酣睡，记住这个比喻表示他睡得很沉。",
+    "zh": "他睡得很沉。"
+  },
+  "I24:2": {
+    "fr": "Petit à petit, je progresse.",
+    "sound": "破梯，啊，破梯（Petit à petit），热，pro-gresse。",
+    "movie": "我在小破梯上一级一级练习，每次只上一个小台阶；回头一看比昨天高了，我正一点点地进步。",
+    "zh": "我一点点进步。"
+  },
+  "I24:3": {
+    "fr": "Mieux vaut tard que jamais.",
+    "sound": "mieux，沃（vaut），塔儿（tard），克，jamais。",
+    "movie": "迟到的作业躺在塔边，我还是坐下来补做；虽然来晚了，也比永远空着不写更好，提醒迟做总比不做强。",
+    "zh": "迟做总比不做好。"
+  },
+  "S01:1": {
+    "fr": "Lucas a choisi une voiture d’occasion.",
+    "sound": "Lucas，啊，刷子（choisi），une voiture，d’occasion。",
+    "movie": "Lucas选二手车时拿着刷子，把旧车擦得亮晶晶；车轮虽有用过的痕迹，他已挑中这辆，再刷一遍开心开走。",
+    "zh": "Lucas选了一辆二手车。"
+  },
+  "S01:2": {
+    "fr": "Sa mère lui explique les gestes avec patience.",
+    "sound": "撒，mère，lui explique，勒，gestes，阿韦克，patience。",
+    "movie": "妈妈撒开一条彩带，耐心地给他示范每个动作，解释完再慢慢做一遍；彩带绕错也不着急，妈妈正耐心教他。",
+    "zh": "妈妈耐心地向他解释动作。"
+  },
+  "S01:3": {
+    "fr": "Martin a proposé une solution à son frère.",
+    "sound": "Martin，啊，proposé，une，索绿熊（solution），啊 son frère。",
+    "movie": "Martin向哥哥提出一个办法：请抱着绿色绳子的熊把卡住的篮子拉上来；哥哥看着这只索绿熊，明白了他的建议。",
+    "zh": "Martin向哥哥提出了解决办法。"
+  },
+  "S02:1": {
+    "fr": "Lucien cherche une nouvelle cachette.",
+    "sound": "Lucien，cherche，une nouvelle，卡谢特（cachette）。",
+    "movie": "Lucien披着沙色斗篷寻找新的藏身处，试树后再试鞋盒；小脚卡在盒边，他还在找更隐蔽的新地方。",
+    "zh": "Lucien寻找新的藏身处。"
+  },
+  "S02:2": {
+    "fr": "Les enfants jouent pendant la pluie.",
+    "sound": "勒，enfants，jouent，胖当（pendant），拉，pluie。",
+    "movie": "孩子们在雨里玩，胖胖的雨点当当地敲伞；他们追着水花跳来跳去，正是在下雨的时候玩耍，伞也像小鼓。",
+    "zh": "孩子们在下雨时玩耍。"
+  },
+  "S02:3": {
+    "fr": "La maîtresse annonce le déjeuner.",
+    "sound": "拉，maîtresse，阿弄斯（annonce），勒，déjeuner。",
+    "movie": "老师拉开教室门，啊地举起一把大勺，宣布午餐时间到了；孩子们的肚子像小铃铛响起来，一起准备去吃午饭。",
+    "zh": "老师宣布午餐时间到了。"
+  },
+  "S03:1": {
+    "fr": "Margot a trop arrosé sa plante.",
+    "sound": "Margot，啊，trop，阿罗择（arrosé），撒，plante。",
+    "movie": "Margot啊地倒下太多水，像撒开了小水库，植物盆里漂起一圈小船；她已经给植物浇过头，叶子都湿得打晃。",
+    "zh": "Margot给植物浇水过多。"
+  },
+  "S03:2": {
+    "fr": "Son grand-père va rempoter le cactus.",
+    "sound": "松（Son），grand-père，哇，rempoter，勒，卡克玉斯（cactus）。",
+    "movie": "爷爷抱着松果形新花盆，哇地看着长大的仙人掌，准备小心把它换进去；仙人掌像戴玉色刺帽，正等爷爷换盆。",
+    "zh": "爷爷要给仙人掌换盆。"
+  },
+  "S03:3": {
+    "fr": "Malgré ses efforts, elle a besoin d’aide.",
+    "sound": "麻了归（Malgré），塞，efforts，诶勒，啊，besoin，d’aide。",
+    "movie": "她努力搬花盆，手都麻了，花盆还是太重；虽然已很用力，她仍伸手请人帮助，记住尽管努力仍需要帮忙。",
+    "zh": "尽管她很努力，她仍需要帮助。"
+  },
+  "S04:1": {
+    "fr": "Je vais goûter une bouchée de gratin.",
+    "sound": "热，喂（vais），goûter，une bouchée，德，gratin。",
+    "movie": "我拿起叉子准备尝一口焗菜，金黄脆皮还完好；嘴巴张开等喂进第一口，我接下来才要尝尝滋味。",
+    "zh": "我要尝一口焗菜。"
+  },
+  "S04:2": {
+    "fr": "Ce plat n’est pas si mauvais.",
+    "sound": "瑟，普拉（plat），n’est pas，西，摸喂（mauvais）。",
+    "movie": "这道菜像趴着的小饼，我原本皱眉，尝过却伸手再摸一块喂进嘴里；它没有想的那么难吃，还可以吃下去。",
+    "zh": "这道菜没有那么难吃。"
+  },
+  "S04:3": {
+    "fr": "Elle a changé d’avis après une semaine.",
+    "sound": "诶勒，啊，香热（changé），d’avis，après，une，semaine。",
+    "movie": "她起初嫌弃那盆花，过了一周闻到香气，又拿出新花架；看法已经变了，一周后的她改了之前的主意。",
+    "zh": "一周后她改变了看法。"
+  },
+  "S05:1": {
+    "fr": "Lily a vu une affiche avec sa photo.",
+    "sound": "Lily，啊，玉（vu），une affiche，阿韦克，撒，photo。",
+    "movie": "Lily看见一张像玉片般亮的告示，凑近一看，撒着亮粉的照片竟是自己；她惊讶地指着照片，已经看见这张告示。",
+    "zh": "Lily看到印着自己照片的告示。"
+  },
+  "S05:2": {
+    "fr": "Sarah cherche sa petite chatte.",
+    "sound": "Sarah，cherche，撒，petite，沙特（chatte）。",
+    "movie": "Sarah拨开沙堆旁的小草寻找自己的小母猫；撒出一点猫粮，轻喊猫咪名字，沙色小猫还没露头。",
+    "zh": "Sarah在寻找她的小猫。"
+  },
+  "S05:3": {
+    "fr": "Agathe la rassure avec douceur.",
+    "sound": "Agathe，拉，rassure，阿韦克，豆丝儿（douceur）。",
+    "movie": "Agathe拉住她的手，声音像软豆丝一样轻柔，一句句安慰；对方慢慢放松下来，Agathe正在温柔地让她安心。",
+    "zh": "Agathe温柔地安慰她。"
+  },
+  "S06:1": {
+    "fr": "Il installe la couverture à l’ombre.",
+    "sound": "伊勒，installe，拉，couverture，啊，笼布尔（l’ombre）。",
+    "movie": "他拉开大毯子，铺到树荫下，树叶像一顶大笼罩住阳光；毯子摊平像软布小岛，正好让大家坐在阴凉里。",
+    "zh": "他把毯子铺在树荫下。"
+  },
+  "S06:2": {
+    "fr": "Sa mère termine le ménage.",
+    "sound": "撒，mère，泰尔min（termine），勒，ménage。",
+    "movie": "妈妈撒下最后一点清洁粉，擦好桌子，再把拖把放进小桶；家务已经收尾，地板亮得能映出她伸懒腰的样子。",
+    "zh": "妈妈完成家务。"
+  },
+  "S06:3": {
+    "fr": "Dans son rêve, il découvre un château.",
+    "sound": "当，松，rêve，伊勒，découvre，un，沙头（château）。",
+    "movie": "在他的梦里，松树自己拉开帘子，他发现一座沙头般尖顶的城堡；城堡大门慢慢张开，梦中奇妙发现就在眼前。",
+    "zh": "在梦里，他发现一座城堡。"
+  },
+  "S07:1": {
+    "fr": "Samuel attend devant l’atelier du forgeron.",
+    "sound": "Samuel，啊糖（attend），devant l’atelier，鱼，forgeron。",
+    "movie": "Samuel在铁匠作坊前等候，手里的糖被叮当打铁声震得跳舞；他还没进去，只在门前耐心等铁匠忙完。",
+    "zh": "Samuel在铁匠作坊前等候。"
+  },
+  "S07:2": {
+    "fr": "Le prince protège le village avec ses chevaliers.",
+    "sound": "勒，prince，pro-tège，勒，village，阿韦克，塞，chevaliers。",
+    "movie": "王子领着骑士们，拿锅盖盾牌围住村庄；骑士的披风撒开一圈，大家共同守护房屋和村民，让村庄安全。",
+    "zh": "王子和骑士们保护村庄。"
+  },
+  "S07:3": {
+    "fr": "Alexandre s’est réveillé près de sa mère.",
+    "sound": "Alexandre，塞，réveillé，près de，撒，mère。",
+    "movie": "Alexandre醒来时先眨眼，发现自己就在妈妈旁边；妈妈轻轻撒开被角，他抓住妈妈袖子，还带着刚醒的迷糊笑容。",
+    "zh": "Alexandre在妈妈身旁醒来。"
+  },
+  "S08:1": {
+    "fr": "Le vieux chêne soulève le petit écureuil.",
+    "sound": "勒，vieux，山（chêne），苏莱弗（soulève），勒 petit écureuil。",
+    "movie": "老橡树像小山一样稳，慢慢抬起树枝，把小松鼠举到高处；松鼠抱着酥饼往上升，老树正在温柔地举它。",
+    "zh": "老橡树把小松鼠举高。"
+  },
+  "S08:2": {
+    "fr": "Zoé remercie leur guide.",
+    "sound": "Zoé，热麦尔西（remercie），leur，guide。",
+    "movie": "Zoé给他们的向导递上一块热麦饼，认真说谢谢；向导接过饼干，胡子上沾一点碎屑，大家一起开心笑了。",
+    "zh": "Zoé感谢他们的向导。"
+  },
+  "S08:3": {
+    "fr": "Les enfants retrouvent enfin leur groupe.",
+    "sound": "勒，enfants，retrouvent，昂凡（enfin），leur，groupe。",
+    "movie": "孩子们一路寻找，终于昂起头看见自己的队伍；像找到饭盒的小鸟跑回去，已经和原来的伙伴重新汇合。",
+    "zh": "孩子们终于找回队伍。"
+  },
+  "S09:1": {
+    "fr": "Les frères lisent les dialogues à voix haute.",
+    "sound": "勒，frères，栗兹（lisent），勒，dialogues，啊，哇，哦特（haute）。",
+    "movie": "兄弟们拿栗子当话筒，大声读着一来一回的对话；一个啊，一个哇，声音响得窗边小鸟都转头听他们朗读。",
+    "zh": "兄弟们大声朗读对话。"
+  },
+  "S09:2": {
+    "fr": "Une règle représente le sabre du capitaine.",
+    "sound": "une，règle，représente，勒，撒布尔（sabre），鱼，capitaine。",
+    "movie": "一把尺子被船长举起，撒开威风当作自己的军刀；尺上的刻度还清楚可见，在这场游戏中它代表船长的刀。",
+    "zh": "一把尺子代表船长的军刀。"
+  },
+  "S09:3": {
+    "fr": "Leur butin est une assiette de biscuits.",
+    "sound": "leur，玉坦（butin），诶，une assiette，德，biscuits。",
+    "movie": "他们打开战利品箱，玉色托盘里原来只有一盘饼干；两人装作海盗分饼，咔嚓咬一口，战利品就是这盘点心。",
+    "zh": "他们的战利品是一盘饼干。"
+  },
+  "S10:1": {
+    "fr": "Magali invente un nouveau récit.",
+    "sound": "Magali，invente，un，努沃（nouveau），热西（récit）。",
+    "movie": "Magali把旧纸翻过来，努力想出崭新故事；热乎乎的角色从笔尖蹦出，她正在创作一个新故事。",
+    "zh": "Magali创作一个新故事。"
+  },
+  "S10:2": {
+    "fr": "Éon prend une apparence humaine.",
+    "sound": "Éon，prend，une，啊帕朗斯（apparence），玉曼（humaine）。",
+    "movie": "Éon啊地披上一件人的外套，原本奇特的轮廓慢慢收拢，变成玉色人偶般的人形；他变成了人的模样。",
+    "zh": "Éon变成人的模样。"
+  },
+  "S10:3": {
+    "fr": "Sa mère lui offre un carnet de pages blanches.",
+    "sound": "撒，mère，lui offre，un，卡内（carnet），德，pages，blanches。",
+    "movie": "妈妈把礼物塞到她手里，打开封面，里面每一页都白白的；一本空白页本子像卡住雪花的小盒，等她来写画。",
+    "zh": "妈妈送她一本空白页的本子。"
+  },
+  "S11:1": {
+    "fr": "Hervé râpe le fromage pour la pizza.",
+    "sound": "Hervé，拉普（râpe），勒，fromage，pour 拉，pizza。",
+    "movie": "Hervé拉着刨刀普普地滑过奶酪，细丝像雪落到披萨上；他一边刨一边转盘，正为披萨准备奶酪。",
+    "zh": "Hervé为披萨刨奶酪。"
+  },
+  "S11:2": {
+    "fr": "Marcel préfère une garniture à l’ananas.",
+    "sound": "Marcel，préfère，une garniture，啊，拉娜娜（l’ananas）。",
+    "movie": "Marcel在几种配料里挑中菠萝，开心地拉着菠萝唱娜娜娜；披萨上铺满金黄小块，他更喜欢菠萝配料。",
+    "zh": "Marcel更喜欢菠萝配料。"
+  },
+  "S11:3": {
+    "fr": "Pendant que la pâte lève, les amis préparent la sauce.",
+    "sound": "胖当，que 拉，pâte，莱弗（lève），勒，amis，préparent 拉，sauce。",
+    "movie": "胖面团发酵鼓起来，像慢慢升高的小枕头；朋友们趁这时把番茄捣成酱，面团在长，酱汁也在一起准备。",
+    "zh": "面团发酵时，朋友们准备酱汁。"
+  },
+  "S12:1": {
+    "fr": "Alice part en voyage pour quelques jours.",
+    "sound": "Alice，帕尔（part），昂，voyage，pour，quelques，jour。",
+    "movie": "Alice拖着行李啪地踏上旅程，箱子里只放几天的衣服；她在小日历上圈几格，离家出差几天后就会回来。",
+    "zh": "Alice出差几天。"
+  },
+  "S12:2": {
+    "fr": "Louis attend dans sa caisse de transport.",
+    "sound": "Louis，啊糖（attend），当，撒，caisse，德，transport。",
+    "movie": "Louis在运输笼里等候，像等糖的小家伙紧贴笼门；它把爪子撒开又收回，笼子还停着，运输还没开始。",
+    "zh": "Louis在运输笼里等候。"
+  },
+  "S12:3": {
+    "fr": "Oxy décide de retrouver sa maîtresse.",
+    "sound": "Oxy，得西得（décide），德，retrouver，撒，maîtresse。",
+    "movie": "Oxy终于下定决心，甩甩耳朵，撒开四条腿出发；它沿着熟悉气味去找自己的女主人，准备重新回到她身边。",
+    "zh": "Oxy决定去找主人。"
+  },
+  "S13:1": {
+    "fr": "Les amies donnent un coup de main à leur voisine.",
+    "sound": "勒，amies，栋（donnent），un coup de main，啊，leur voisine。",
+    "movie": "女性朋友们围住邻居要搬的小柜子，栋栋的木柜太重；大家各伸一只手一起搬，正在帮邻居搭把手。",
+    "zh": "朋友们帮邻居搭把手。"
+  },
+  "S13:2": {
+    "fr": "Elles découvrent un ancien album de photos.",
+    "sound": "诶勒，découvrent，un，昂先（ancien），album de photos。",
+    "movie": "她们掀开旧箱布，发现一本旧相册；昂起的照片角里藏着以前的合影，她们轻轻翻页，认出了好多年轻的脸。",
+    "zh": "她们发现一本旧相册。"
+  },
+  "S13:3": {
+    "fr": "Un sourire les aide à se réconcilier.",
+    "sound": "un，苏里尔（sourire），勒，aide，啊，瑟，réconcilier。",
+    "movie": "一个像酥梨般甜的微笑出现在两人中间，她们看着彼此，终于拉起手；这小小微笑帮助她们和好如初。",
+    "zh": "一个微笑帮助她们和好。"
+  },
+  "S14:1": {
+    "fr": "Pingouin est doué pour la pêche.",
+    "sound": "Pingouin，诶，doué，pour 拉，佩什（pêche）。",
+    "movie": "Pingouin把鱼竿一甩，鱼就乖乖佩在钩上，好像等它来领；它动作熟练，一条接一条，说明它特别擅长捕鱼。",
+    "zh": "Pingouin擅长捕鱼。"
+  },
+  "S14:2": {
+    "fr": "Il partage les poissons avec ses coéquipiers.",
+    "sound": "伊勒，帕尔塔日（partage），勒，poissons，阿韦克，塞 coéquipiers。",
+    "movie": "它把捕来的鱼摆成塔，再一条条分给队友；每人都有份，塔虽变小，大家的笑脸变大，它正在和队友分享鱼。",
+    "zh": "它和队友分享鱼。"
+  },
+  "S14:3": {
+    "fr": "Chaque membre apporte quelque chose à l’équipe.",
+    "sound": "沙克（Chaque），membre，阿porte，quelque chose，啊，l’équipe。",
+    "movie": "每位成员都拎来一点有用的东西，沙袋、绳子、点心凑成团队装备；一个人带一样，每个人都为团队作出贡献。",
+    "zh": "每位成员都为团队带来贡献。"
+  },
+  "S15:1": {
+    "fr": "Une flaque d’eau reflète les couleurs du ciel.",
+    "sound": "une，flac，朵（d’eau），热弗莱特（reflète），勒，couleurs，鱼，ciel。",
+    "movie": "一洼水像扁扁的碟子，倒映天空各种颜色；热乎的夕阳红、鱼鳞般的云都躺进水里，水洼映出了天空的色彩。",
+    "zh": "一个水洼映出天空的颜色。"
+  },
+  "S15:2": {
+    "fr": "Angela rencontre une fée nommée Emmeline.",
+    "sound": "Angela，rencontre，une，费（fée），nommée，Emmeline。",
+    "movie": "Angela遇见一位仙女，仙女费力把太长的翅膀收好，笑着自我介绍叫Emmeline；两人第一次见面就相视笑起来。",
+    "zh": "Angela遇见名叫Emmeline的仙女。"
+  },
+  "S15:3": {
+    "fr": "Même dans un monde magique, sa famille lui manque.",
+    "sound": "麦姆（Même），当 un monde magique，撒 famille，lui，忙克（manque）。",
+    "movie": "即使魔法世界像麦田一样会闪光，她仍把家人的画像贴在胸口；花朵忙着跳舞也没分走思念，她还是想念家人。",
+    "zh": "即使在魔法世界，她也想念家人。"
+  },
+  "S16:1": {
+    "fr": "Les chatons imaginent une rivière de lait.",
+    "sound": "勒，沙桶（chatons），imaginent，une，rivière，德，累（lait）。",
+    "movie": "小猫们围着沙桶闭眼想象，桶中小河忽然变成奶河；奶浪轻轻拍岸，它们舔舔嘴，这条奶河还只在想象里。",
+    "zh": "小猫们想象一条奶河。"
+  },
+  "S16:2": {
+    "fr": "Monocle surveille le radar du vaisseau.",
+    "sound": "Monocle，surveille，勒，雷达尔（radar），鱼，vaisseau。",
+    "movie": "Monocle盯着飞船雷达，雷达像大鱼眼一圈圈扫；它凑近看每个亮点，连眨眼都小心，正在监看飞船的雷达。",
+    "zh": "Monocle监看飞船雷达。"
+  },
+  "S16:3": {
+    "fr": "Le lait de leur rêve est chaud et lumineux.",
+    "sound": "勒，lait，德，leur rêve，诶，chaud，诶，lumineux。",
+    "movie": "它们梦里的奶像暖灯冒热气，猫爪伸进去暖暖的；梦里的小猫高兴得来回跳，整片奶河温暖又发光。",
+    "zh": "它们梦里的奶温暖而发光。"
+  },
+  "S17:1": {
+    "fr": "Théo imagine un bureau rempli de souvenirs.",
+    "sound": "Théo，imagine，un，bureau，rempli de souvenirs。",
+    "movie": "Théo想象办公室的桌子堆满回忆盒，像宝物屋；打开是生日，拉开是旅行，整个想象办公室装着许多回忆。",
+    "zh": "Théo想象一间装满回忆的办公室。"
+  },
+  "S17:2": {
+    "fr": "La pièce de sa mère ressemble à une bibliothèque.",
+    "sound": "拉，pièce，德，撒，mère，ressemble，啊，une bibliothèque。",
+    "movie": "妈妈的空间被一扇门拉开，里面书排成小山，椅子像书堆；看起来简直像图书室，Théo都想借本书带走。",
+    "zh": "妈妈的空间像一间图书室。"
+  },
+  "S17:3": {
+    "fr": "Il se demande à quoi ressemble son propre esprit.",
+    "sound": "伊勒，瑟，德忙德（demande），啊 quoi，ressemble son propre esprit。",
+    "movie": "他忙着想妈妈的心灵，转过头又问自己：我的心灵会像什么？脑袋里也许有玩具房，他正想知道自己心灵的样子。",
+    "zh": "他想知道自己的心灵是什么样。"
+  },
+  "S18:1": {
+    "fr": "Au printemps, les fleurs s’ouvrent.",
+    "sound": "哦，printemps，勒，fleurs，苏弗（s’ouvrent）。",
+    "movie": "春天来了，花朵像刚睡醒，苏地舒展开一层层花瓣；太阳一照，整片花田打着哈欠绽放，春天的花都开了。",
+    "zh": "春天，花朵绽放。"
+  },
+  "S18:2": {
+    "fr": "Une assiette compartimentée inspire son dessin.",
+    "sound": "une，阿谢特（assiette），compartimentée，inspire son dessin。",
+    "movie": "她看到分格餐盘，啊地想到把画也分成几块；每格画一个新世界，连豌豆都成了灵感，分格餐盘启发了她作画。",
+    "zh": "一只分格餐盘启发她的图画。"
+  },
+  "S18:3": {
+    "fr": "Dans sa forêt, chaque saison possède son espace.",
+    "sound": "当，撒，forêt，沙克（chaque），saison，possède son espace。",
+    "movie": "在她画的森林里，每个季节占一块地方；春花、夏叶、秋果、冬雪各有家，像撒开的四块拼图，各自有空间。",
+    "zh": "在她的森林里，每个季节都有自己的空间。"
+  },
+  "S19:1": {
+    "fr": "Personne ne connaît tous les mots.",
+    "sound": "佩儿松（Personne），讷，connaît，兔（tous），勒，莫（mots）。",
+    "movie": "谁也认不全这座字词山，小兔搬来更多词，我摸完这边还有那边；连帽子都撑掉，仍没有人认识所有词。",
+    "zh": "没有人认识所有的词。"
+  },
+  "S19:2": {
+    "fr": "Marianne découvre le mot cuniculture.",
+    "sound": "Marianne，得库弗（découvre），勒，莫，cuniculture。",
+    "movie": "Marianne翻书发现cuniculture这个新词，摸摸旁边兔子图才明白；原来是养兔业，兔耳像书签竖起来。",
+    "zh": "Marianne发现了“养兔业”这个词。"
+  },
+  "S19:3": {
+    "fr": "Son frère lui apprend à utiliser un dictionnaire.",
+    "sound": "松，frère，lui apprend，啊，utiliser，un，dictionnaire。",
+    "movie": "哥哥拿松果作书签，教她怎样在词典里按字母找词；她跟着翻页，找到的词像小兔跳出来，正学着使用词典。",
+    "zh": "哥哥教她使用词典。"
+  },
+  "S20:1": {
+    "fr": "Jules garde ses pièces dans une tirelire.",
+    "sound": "Jules，嘎德（garde），塞，pièces，当，une，提尔利尔（tirelire）。",
+    "movie": "Jules把硬币投进储蓄罐，罐子嘎吱一声，像提着小铃铛的猪；每枚硬币都留在里面，他把钱存进储蓄罐。",
+    "zh": "Jules把硬币放进储蓄罐。"
+  },
+  "S20:2": {
+    "fr": "Il économise une partie de son argent.",
+    "sound": "伊勒，économise，une，帕尔梯（partie），德 son argent。",
+    "movie": "他把钱分成两堆，一部分摆在小梯旁留着用，另一部分放进储蓄盒；没有全花完，他正在储蓄自己的部分钱。",
+    "zh": "他储蓄一部分钱。"
+  },
+  "S20:3": {
+    "fr": "Partager un chocolat lui fait plaisir.",
+    "sound": "帕尔塔热（Partager），un，烧可拉（chocolat），lui fait plaisir。",
+    "movie": "他把一块巧克力掰开，像拆一座热乎小塔，分给朋友一半；两人一起吃，分享让他开心，笑得嘴角都沾巧克力。",
+    "zh": "分享一块巧克力让他开心。"
+  },
+  "S21:1": {
+    "fr": "Beth se demande si son cousin a tort.",
+    "sound": "Beth，瑟，德忙德（demande），西，松，cousin，啊，托尔（tort）。",
+    "movie": "Beth忙着琢磨表亲的话，把问题挂在松枝上摇来摇去；表亲是不是弄错了？她还没确定，正想知道答案。",
+    "zh": "Beth想知道表亲是不是弄错了。"
+  },
+  "S21:2": {
+    "fr": "Elle pose une question à son frère.",
+    "sound": "诶勒，坡兹（pose），une，question，啊，松，frère。",
+    "movie": "她把疑问像小包裹放到哥哥面前，松果形问号在上面转；哥哥抬头听她开口，她正在向哥哥提出一个问题。",
+    "zh": "她向哥哥提出一个问题。"
+  },
+  "S21:3": {
+    "fr": "Elle n’a pas encore choisi son art martial.",
+    "sound": "Elle n’a pas encore choisi son art martial：拿帕擦汗，刷子还没选好武术。",
+    "movie": "她拿帕子擦汗，刷子旁摆着拳套和练武棒；她在两样之间来回看，还没有选好自己要学哪一种武术。",
+    "zh": "她还没有选好要学哪种武术。"
+  },
+  "S22:1": {
+    "fr": "Cindy cherche une idée plus pratique.",
+    "sound": "Cindy cherche une idée plus pratique：谢着找，一滴灵感变实用。",
+    "movie": "Cindy边谢边找，把一滴灵感放进小杯，试着吹成折叠垫；她还在比较不同点子，寻找更实用的主意。",
+    "zh": "Cindy寻找更实用的主意。"
+  },
+  "S22:2": {
+    "fr": "Un ascenseur ne fonctionne pas sans électricité.",
+    "sound": "Un ascenseur ne fonctionne pas sans électricité：电梯小熊扑空，没电不动。",
+    "movie": "电梯按键上坐着小熊，大家按来按去它都不动；拿帕子擦汗才发现没电，电梯没有电就无法运转。",
+    "zh": "电梯没有电就无法运转。"
+  },
+  "S22:3": {
+    "fr": "Elle veut tenter sa chance avec un nouveau projet.",
+    "sound": "诶儿，veux；糖忒，撒，香丝；阿韦克，un，努沃，projet。",
+    "movie": "她想碰碰运气，把糖撒成幸运香丝；抱着新计划走到牛形小车边，跃跃欲试，还没有开始这个新项目。",
+    "zh": "她想试试一个新计划。"
+  },
+  "S23:1": {
+    "fr": "Jacob cherche un trèfle à quatre feuilles.",
+    "sound": "Jacob cherche un trèfle à quatre feuilles：谢着找，卡车上四片叶。",
+    "movie": "Jacob边找边谢，问卡车司机有没有四叶草；司机展开四片纸叶说明样子，两人继续寻找真正的四叶草。",
+    "zh": "Jacob寻找四叶草。"
+  },
+  "S23:2": {
+    "fr": "Leah s’améliore grâce à son entraînement.",
+    "sound": "Leah，撒梅廖儿；格拉丝，啊，松，昂特雷芒。",
+    "movie": "Leah撒开腿训练，一路跨过玻璃杯、松树和小芒果障碍；每练一圈跳得更远，进步全靠这些训练。",
+    "zh": "Leah通过训练取得进步。"
+  },
+  "S23:3": {
+    "fr": "Il demande de l’aide pour mieux apprendre.",
+    "sound": "衣儿，德芒德，德，莱德；普儿，谬，阿普朗德儿。",
+    "movie": "他抱着芒果去求助，老师把小灯递来；他铺开书，对着灯把难题重新学一遍，想学得更好。",
+    "zh": "他请求帮助，以便学得更好。"
+  },
+  "S24:1": {
+    "fr": "Charlie promet de mieux se comporter.",
+    "sound": "Charlie，普罗梅；德，谬，瑟，孔波儿忒。",
+    "movie": "Charlie向一颗梅子认真保证，收起乱甩的毛球，扶稳快倒的小桶；他答应今后表现得更好。",
+    "zh": "Charlie答应表现得更好。"
+  },
+  "S24:2": {
+    "fr": "Sa sœur n’aime pas ce jeu.",
+    "sound": "撒，瑟儿，内姆，帕，瑟，热（jeu）。",
+    "movie": "妹妹撒开手，把游戏推给小木偶，拿帕子扇扇玩得发热的脸；她明确表示自己不喜欢这个游戏。",
+    "zh": "妹妹不喜欢这个游戏。"
+  },
+  "S24:3": {
+    "fr": "Il doit écouter les sentiments des autres.",
+    "sound": "衣儿，杜瓦，诶库忒；勒，桑蒂芒，德，哦特儿。",
+    "movie": "他戴上大耳朵，嘟哇一声停下来；听同伴抱着桑叶和芒果诉说委屈，一个个认真听别人的感受。",
+    "zh": "他应该倾听别人的感受。"
+  },
+  "S25:1": {
+    "fr": "Aria dessine les voiles sur du papier.",
+    "sound": "Aria，带丝呢；勒，哇儿，叙儿， dü，帕皮耶。",
+    "movie": "Aria带着丝带，把它弯成船帆轮廓，轻轻画到纸上；纸帆一鼓风，连她的画笔都像小船般漂起来。",
+    "zh": "Aria在纸上画出船帆。"
+  },
+  "S25:2": {
+    "fr": "Son grand-père assemble les pièces dans la bouteille.",
+    "sound": "Son grand-père assemble les pièces dans la bouteille：松帽爷爷，瓶里拼零件。",
+    "movie": "爷爷戴松枝帽，用长镊子把零件伸进瓶子，再一件件在瓶内拼成帆船；瓶外的工具还堆成小山。",
+    "zh": "爷爷在瓶内组装零件。"
+  },
+  "S25:3": {
+    "fr": "Elle ferme la bouteille avec un bouchon.",
+    "sound": "诶儿，费儿姆，拉，布忒；阿韦克，un，布雄。",
+    "movie": "她让小风扇停住，对准瓶口，把软木塞穿上小熊布套再塞进去；瓶子封好了，小熊只露一个圆脑袋。",
+    "zh": "她用瓶塞封住瓶口。"
+  },
+  "S26:1": {
+    "fr": "Jayden demande pourquoi le repas est varié.",
+    "sound": "Jayden，德芒德，普儿夸；勒，热帕，诶，瓦里耶。",
+    "movie": "Jayden举着芒果发问，为什么这顿饭里汤、豆子和蔬菜排成彩虹；小厨师用花围裙转圈展示多样饭菜。",
+    "zh": "Jayden问为什么这顿饭有多种食物。"
+  },
+  "S26:2": {
+    "fr": "Après le déjeuner, il se sent rassasié.",
+    "sound": "阿普雷，勒，得热讷；衣儿，瑟桑，拉撒兹耶。",
+    "movie": "午餐后，他把热饭碗放下，轻拍圆肚子；桑叶围裙都绷成小帐篷，他满足地打嗝，表示已经吃饱。",
+    "zh": "午餐后，他觉得吃饱了。"
+  },
+  "S26:3": {
+    "fr": "Son père a préparé une salade de fruits.",
+    "sound": "松，佩儿，啊，普雷帕雷；une，撒拉德，德，fruits。",
+    "movie": "爸爸头戴松枝，劈里啪啦切水果，把苹果梨块撒进大碗；水果沙拉已经准备好，勺子像小船停在碗边。",
+    "zh": "爸爸准备了水果沙拉。"
+  },
+  "S27:1": {
+    "fr": "Un logiciel malveillant peut se faire passer pour un jeu.",
+    "sound": "Un logiciel malveillant peut se faire passer pour un jeu：马斗篷，假装游戏。",
+    "movie": "恶意软件可以披上马形斗篷，假扮可爱的游戏按钮；它推着小车混进队伍，有可能骗孩子把它当游戏。",
+    "zh": "恶意软件可能冒充游戏。"
+  },
+  "S27:2": {
+    "fr": "Eleanor apprend le sens du mot sauvegarde.",
+    "sound": "Eleanor，阿普朗，勒桑丝， dü莫，索夫嘎儿德。",
+    "movie": "Eleanor抱书学词义，桑叶里的一份文件被她复制进保险柜；两份文件一起点头，让她懂了备份的意思。",
+    "zh": "Eleanor学习“备份”这个词的含义。"
+  },
+  "S27:3": {
+    "fr": "Une connexion chiffrée ne garantit pas un fichier sûr.",
+    "sound": "une connexion，希弗雷；讷，嘎朗蒂，帕，un fichier，叙儿。",
+    "movie": "一条连接穿着加密盔甲，司机却拿帕子挡住保证书；里面的文件可能还藏坏虫，加密也不能保证文件安全。",
+    "zh": "加密连接不保证文件安全。"
+  },
+  "S28:1": {
+    "fr": "Le verre paraît aussi haut qu’une tour.",
+    "sound": "Le verre paraît aussi haut qu’une tour：哦，杯子看着和塔一样高。",
+    "movie": "一只玻璃杯看起来高高耸起，杯沿小旗和旁边塔尖齐平；我哦地仰头，它看着和那座塔一样高。",
+    "zh": "杯子看起来像塔一样高。"
+  },
+  "S28:2": {
+    "fr": "Felicity devient minuscule dans son aventure.",
+    "sound": "Felicity，德维安，mini缩成粒；当，松，aventure。",
+    "movie": "Felicity冒险时追着迷你松鼠跑，身体缩得比米粒还小；一颗松果成了山，她仍抱着冒险地图往前走。",
+    "zh": "Felicity在冒险中变得极小。"
+  },
+  "S28:3": {
+    "fr": "Un papillon la ramène à la fenêtre.",
+    "sound": "un，帕皮扬，拉，拉梅讷，啊拉，弗内特儿。",
+    "movie": "蝴蝶扇着像花帕的翅膀，把她拉上背；越过一颗梅子，最后稳稳停回窗边，窗帘成了降落伞。",
+    "zh": "一只蝴蝶把她带回窗边。"
+  },
+  "S29:1": {
+    "fr": "Riley a mal au genou.",
+    "sound": "Riley，啊，马勒，哦，热努（genou）。",
+    "movie": "Riley抱着膝盖啊地叫了一声，旁边的小马赶忙拿来热毛巾；膝盖疼得他连玩具车都追不上。",
+    "zh": "Riley膝盖疼。"
+  },
+  "S29:2": {
+    "fr": "Son père a versé des larmes de joie.",
+    "sound": "松，佩儿，啊，韦儿塞；德，拉儿姆，德，抓（joie）。",
+    "movie": "爸爸戴着松枝帽，喜得像往外倒水一样流泪；泪珠落进快乐的小碗，他边擦边笑，原来是高兴哭了。",
+    "zh": "爸爸流下了喜悦的泪水。"
+  },
+  "S29:3": {
+    "fr": "Il ose enfin dire ce qu’il ressent.",
+    "sound": "衣儿，哦兹，昂凡，迪儿；瑟，基儿，热桑。",
+    "movie": "他哦了一声，终于放下挡脸的扇子；鼓足勇气开口，把心里像热桑葚一样酸甜的感受全说出来。",
+    "zh": "他终于敢说出自己的感受。"
+  },
+  "S30:1": {
+    "fr": "Cette photo rappelle un voyage à Freya.",
+    "sound": "塞特，佛托，拉佩儿；un，哇雅日，啊，Freya。",
+    "movie": "这张照片从相册跳出来拉住Freya的袖子；照片里的旅行车哇地开动，让她想起那一次快乐旅行。",
+    "zh": "这张照片让Freya想起一次旅行。"
+  },
+  "S30:2": {
+    "fr": "Elle se sent nostalgique en regardant son ancienne maison.",
+    "sound": "诶儿，瑟桑，nostalgique；昂，热嘎儿当，松，昂西耶讷，梅宗。",
+    "movie": "她抱着桑叶靠垫看旧家的照片，眼前慢慢浮出旧屋和松树；梅子落在窗台，她越看越怀念以前的家。",
+    "zh": "看旧家的照片时，她感到怀念。"
+  },
+  "S30:3": {
+    "fr": "Son père accroche les images dans le couloir.",
+    "sound": "松，佩儿，阿克罗什；勒，衣马日，当，勒，库鲁哇儿。",
+    "movie": "爸爸戴松枝帽，踩着小凳把照片挂进走廊；照片里的小马像在跑，一路挂过去，走廊变成回忆赛道。",
+    "zh": "爸爸把照片挂在走廊。"
+  },
+  "S31:1": {
+    "fr": "Caleb veut faire un don à l’association.",
+    "sound": "Caleb veut faire un don à l’association：咚，想把钱投给协会。",
+    "movie": "Caleb抱着捐款罐，想把硬币咚地投进去；协会门口的大篮子张开口等着，他正准备为协会捐款。",
+    "zh": "Caleb想向协会捐款。"
+  },
+  "S31:2": {
+    "fr": "Le perroquet répète quelques mots.",
+    "sound": "勒，佩罗凯；雷佩特，quelques，莫。",
+    "movie": "鹦鹉佩着一把小钥匙，雷鸣般重复几个词；主人只说一次，它就把那几个词一遍遍喊回来。",
+    "zh": "鹦鹉重复几个词。"
+  },
+  "S31:3": {
+    "fr": "Il n’a pas encore choisi son animal.",
+    "sound": "Il n’a pas encore choisi son animal：拿帕擦汗，刷子旁还没选。",
+    "movie": "他拿帕子擦汗，刷子旁的小松鼠和小猫排好队；他看看这只又看看那只，仍没有选好自己的动物。",
+    "zh": "他还没有选好自己的动物。"
+  },
+  "S32:1": {
+    "fr": "Oliver croit qu’une sorcière se fait passer pour Julie.",
+    "sound": "Oliver croit qu’une sorcière se fait passer pour Julie：可颂旁，他以为女巫假扮。",
+    "movie": "Oliver咬着可颂，看见来喝茶的Julie，就以为女巫把扫帚藏好假扮成她；他盯着对方寻找魔法破绽。",
+    "zh": "Oliver以为女巫冒充了Julie。"
+  },
+  "S32:2": {
+    "fr": "En réalité, elle trouve le thé mauvais.",
+    "sound": "昂，雷阿利忒；诶儿，特鲁夫，勒，忒，莫韦。",
+    "movie": "她端起茶哦了一声，实际只是尝到一口难喝的茶；皱着脸把茶杯推远，嘴里的苦味让眉毛打了结。",
+    "zh": "实际上，她觉得茶难喝。"
+  },
+  "S32:3": {
+    "fr": "Julie lui montre des photos de voyage.",
+    "sound": "Julie，吕伊，蒙特儿；德，佛托，德，哇雅日。",
+    "movie": "Julie给他展示旅行照片，一张张从手里蹦出来；照片中的旅行车哇地开过山海，他凑近看得眼睛发亮。",
+    "zh": "Julie给他看旅行照片。"
+  },
+  "S33:1": {
+    "fr": "Amy emporte son parapluie à l’école.",
+    "sound": "Amy，昂波儿特，松，帕拉普吕伊，啊，雷科勒。",
+    "movie": "Amy扛着伞穿过松树旁，伞啪啦一开像大花；她带伞走进学校，书包和伞一起在门口抖水。",
+    "zh": "Amy带伞去学校。"
+  },
+  "S33:2": {
+    "fr": "Un baromètre sert à mesurer la pression de l’air.",
+    "sound": "un，巴罗梅特儿；瑟儿，啊，默叙雷，拉，普雷雄，德，莱儿。",
+    "movie": "气压计像戴着巴掌帽的小裁判，认真测空气的压力；空气坐上跷跷板，指针跟着挪，测量结果一目了然。",
+    "zh": "气压计用来测量气压。"
+  },
+  "S33:3": {
+    "fr": "Elle cherche des livres pour en savoir plus.",
+    "sound": "诶儿，谢儿什，德，利弗儿；普儿，昂，撒哇儿，噗吕。",
+    "movie": "她边谢边找书，书架里的书像礼物排队；为了多了解一些，她扑到书桌前，一本接一本认真翻看。",
+    "zh": "她找书来了解更多。"
+  },
+  "S34:1": {
+    "fr": "Marty collectionne les emballages de chocolat.",
+    "sound": "Marty，科莱克雄；勒，昂巴拉日，德，绍科拉。",
+    "movie": "Marty收集巧克力包装，吃完就把花纸展开，像给巧克力开服装展；纸包装排成一列，谁也不许扔。",
+    "zh": "Marty收藏巧克力包装。"
+  },
+  "S34:2": {
+    "fr": "Il colle le premier dans un carnet neuf.",
+    "sound": "衣儿，科勒，勒，普勒米耶；当，un，卡儿内，讷夫。",
+    "movie": "他把第一张包装纸涂好胶，贴进崭新的小本子；卡车形书签帮忙压平，新本第一页终于有了藏品。",
+    "zh": "他把第一张贴进新本子。"
+  },
+  "S34:3": {
+    "fr": "Les ballons prennent trop de place dans sa chambre.",
+    "sound": "勒，巴隆，普雷讷，特罗，德普拉丝；当，撒，香布儿。",
+    "movie": "房间里的球噗地滚来，挤满地板又占床；他撒开手也找不到站脚处，球实在占了太多地方。",
+    "zh": "球在他房间里占地方太多。"
+  },
+  "S35:1": {
+    "fr": "Lucy enseigne à la classe comment dessiner un ourson.",
+    "sound": "Lucy，昂塞涅，啊拉，克拉丝；科芒，得西内，un，乌儿松。",
+    "movie": "Lucy站在全班前，先画圆脑袋再画耳朵；画出来的小熊抱着松果点头，全班照她的方法学画小熊。",
+    "zh": "Lucy教全班怎样画小熊。"
+  },
+  "S35:2": {
+    "fr": "Colin plie une feuille pour fabriquer un avion.",
+    "sound": "Colin，普利，une feuille；普儿，法布里凯，un，avion。",
+    "movie": "Colin把一张纸折来折去，扑地压平机翼；他为了做出飞机认真折纸，纸尖像飞机鼻子一样翘起来。",
+    "zh": "Colin折一张纸来做飞机。"
+  },
+  "S35:3": {
+    "fr": "Ensuite, les élèves reprennent leur cours de mathématiques.",
+    "sound": "昂叙伊特，勒，诶莱夫，热普雷讷；勒儿，库儿，德，马忒马蒂克。",
+    "movie": "活动结束，学生们把画笔收回盒子，再捧起数学书；一只小马抱着算盘提醒大家继续上数学课。",
+    "zh": "然后学生们继续上数学课。"
+  },
+  "S36:1": {
+    "fr": "Edward remarque une trace de graisse.",
+    "sound": "Edward，热马儿克；une，特拉丝，德，格雷丝。",
+    "movie": "Edward停下来热切地看，地上有一道油脂痕迹；油印像滑梯一路发亮，他蹲下顺着痕迹仔细观察。",
+    "zh": "Edward注意到一道油脂痕迹。"
+  },
+  "S36:2": {
+    "fr": "Le chien dort près du gigot d’agneau.",
+    "sound": "勒，香，朵儿；普雷， dü，鸡狗，达涅哦。",
+    "movie": "小狗香香地睡着，旁边摆着一只大羊腿；它梦里追着鸡跑，鼻子却始终朝向羊腿，睡得直流口水。",
+    "zh": "狗在羊腿旁睡觉。"
+  },
+  "S36:3": {
+    "fr": "La cuisinière découvre enfin le coupable.",
+    "sound": "拉，屈伊兹涅儿，得库弗儿，昂凡；勒，库帕布勒。",
+    "movie": "厨娘提着锅铲掀开餐布，终于发现偷吃的家伙；它嘴边还沾着肉汁，躲在小锅旁也再藏不住了。",
+    "zh": "厨娘终于发现了罪魁。"
+  },
+  "S37:1": {
+    "fr": "Pour elle, ce petit exercice, c’est du gâteau.",
+    "sound": "普儿，诶儿，瑟，珀蒂，exercice；塞， dü，嘎托。",
+    "movie": "她看见小练习，轻轻一碰就做完，像切蛋糕那样简单；蛋糕嘎地弹出庆祝，提醒这是轻而易举的比喻。",
+    "zh": "对她来说，这道小练习轻而易举。"
+  },
+  "S37:2": {
+    "fr": "Emma mime un chat qui dort.",
+    "sound": "Emma，咪姆，un，沙，基，朵儿。",
+    "movie": "Emma咪咪叫着蹲下来，学小猫团成一团；沙色靠垫一抱，眼睛闭上，连呼噜都模仿得像真的睡猫。",
+    "zh": "Emma模仿一只睡着的猫。"
+  },
+  "S37:3": {
+    "fr": "Ses camarades devinent le sens de l’expression.",
+    "sound": "塞，卡马拉德，德维讷；勒桑丝，德，莱克斯普雷雄。",
+    "movie": "同学们围成圈，卡车玩具传到谁手里谁来猜；看过动作后他们都猜出表达的意思，笑着互相击掌。",
+    "zh": "同学们猜出这个表达的意思。"
+  },
+  "S38:1": {
+    "fr": "Toby échange sa voiture contre un T-shirt.",
+    "sound": "Toby，诶香日，撒，哇叙儿；孔特儿，un，踢恤。",
+    "movie": "Toby闻到香气，把自己的玩具汽车递过去；对方递回一件T恤，两人交换成功，汽车还在衣袖里鸣笛。",
+    "zh": "Toby用小汽车换了一件T恤。"
+  },
+  "S38:2": {
+    "fr": "Les voisins prêtent des tables aux enfants.",
+    "sound": "勒，哇赞，普雷特；德，塔布勒，哦，昂凡。",
+    "movie": "邻居们哇地搬出几张桌子，稳稳借给孩子们；孩子铺好纸准备活动，桌腿像小队伍一样站得整整齐齐。",
+    "zh": "邻居把桌子借给孩子们。"
+  },
+  "S38:3": {
+    "fr": "Le groupe fait un don à un programme pour les enfants.",
+    "sound": "勒，格鲁普，费，un，咚；啊，un，普罗格拉姆，普儿，勒，昂凡。",
+    "movie": "小组围成圆圈，把捐款咚地放进罐里；罐子送到儿童项目，变成孩子们的新书和球，大家笑着鼓掌。",
+    "zh": "小组向一个儿童项目捐款。"
+  },
+  "S39:1": {
+    "fr": "La tortue porte une île sur sa carapace.",
+    "sound": "拉，托儿 dü，波儿特，une，衣儿；叙儿，撒，卡拉帕丝。",
+    "movie": "乌龟托着一座小岛慢慢走，岛上的椅子纹丝不动；它撒开小腿，甲壳上的小卡车还以为自己上了渡船。",
+    "zh": "乌龟的甲壳上托着一座岛。"
+  },
+  "S39:2": {
+    "fr": "Elena présente une théière venue de Russie.",
+    "sound": "Elena，普雷赞特，une，忒耶儿；弗纽，德，吕西。",
+    "movie": "Elena介绍一把俄罗斯来的茶壶，壶盖像小礼帽；茶壶一路旅行过来，喷出的茶香也像在挥手打招呼。",
+    "zh": "Elena介绍一把来自俄罗斯的茶壶。"
+  },
+  "S39:3": {
+    "fr": "Carter veut créer son propre livre illustré.",
+    "sound": "Carter veut créer son propre livre illustré：想画松树和小卡车，做自己的书。",
+    "movie": "Carter想创作自己的图画书，脑中先画一棵松树再画小卡车；想象书页翻动时图画跑出，全是自己的作品。",
+    "zh": "Carter想创作自己的图画书。"
+  },
+  "S40:1": {
+    "fr": "Marshall fait la vaisselle avec soin.",
+    "sound": "Marshall，费，拉，韦塞勒；阿韦克，苏安。",
+    "movie": "Marshall认真洗碗，一只只碗泡着细泡泡；他轻轻擦净再摆好，连滑溜溜的小勺都得到细心照顾。",
+    "zh": "Marshall认真洗碗。"
+  },
+  "S40:2": {
+    "fr": "Jennie passe l’aspirateur dans le salon.",
+    "sound": "Jennie，帕丝，拉斯皮拉特儿；当，勒，撒隆。",
+    "movie": "Jennie推着吸尘器穿过客厅，帕子跟着飘；沙发下的灰尘排队被吸进去，客厅地毯干净得能打滚。",
+    "zh": "Jennie在客厅吸尘。"
+  },
+  "S40:3": {
+    "fr": "Ophelia s’occupe du linge pendant que son père nettoie les fenêtres.",
+    "sound": "Ophelia，索屈普， dü，兰日；庞当克，松佩儿，内托哇，勒，弗内特儿。",
+    "movie": "Ophelia照管衣物，把衬衣折成小方块；同时戴松枝帽的爸爸擦窗，父女两边忙，阳光照着干净衣服。",
+    "zh": "爸爸擦窗时，Ophelia负责衣物。"
+  },
+  "T01:1": {
+    "fr": "Bonjour, Madame Chen.",
+    "sound": "蹦入儿（bonjour），马达姆，Chen陈女士！",
+    "movie": "我蹦进咖啡馆，陈女士正扶着打转的马达杯；我赶忙站稳，笑着向她说您好，杯里的咖啡也晃着打招呼。",
+    "zh": "陈女士，您好。"
+  },
+  "T01:2": {
+    "fr": "Bonsoir, Monsieur Martin.",
+    "sound": "蹦苏哇儿（bonsoir），默修，Martin马丁！",
+    "movie": "晚上我蹦到路灯下，看见马丁先生正在默默修自行车；我挥手向他说晚上好，车铃叮当回应。",
+    "zh": "马丁先生，晚上好。"
+  },
+  "T01:3": {
+    "fr": "Une soupe et un thé, s’il vous plaît.",
+    "sound": "Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。",
+    "movie": "我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+    "zh": "请给我一份汤和一杯茶。"
+  },
+  "T01:4": {
+    "fr": "Le gâteau, c’est combien ?",
+    "sound": "勒，嘎托；塞，孔边（combien）？",
+    "movie": "蛋糕嘎地托起自己，我凑近看它有多大；手指摸到钱包的小孔，问老板这块蛋糕要多少钱。",
+    "zh": "这块蛋糕多少钱？"
+  },
+  "T01:5": {
+    "fr": "Deux jus, ça fait huit euros.",
+    "sound": "德，橘（jus）；撒，费，üit，欧罗。",
+    "movie": "两杯果汁橘香扑鼻，老板把八枚一欧元的钱摆成花；撒开的硬币告诉我，两杯总共八欧元。",
+    "zh": "两杯果汁合计八欧元。"
+  },
+  "T01:6": {
+    "fr": "Bonne nuit, Léa. À demain !",
+    "sound": "波讷，nuit；Léa，啊，德曼！",
+    "movie": "我抱着波点睡帽祝Léa晚安，她缩进软被子；门外的小熊慢慢挥手，约好明天再见。",
+    "zh": "晚安，莱娅。明天见！"
+  },
+  "T02:1": {
+    "fr": "Il y a une pharmacie près de la gare.",
+    "sound": "衣里啊，une，法儿马西；普雷，德拉，嘎儿。",
+    "movie": "我沿着小马留下的蹄印找药店，发现它就在车站附近；药瓶们在门口排队，小火车还在旁边鸣笛。",
+    "zh": "车站附近有一家药店。"
+  },
+  "T02:2": {
+    "fr": "Où sont les toilettes ?",
+    "sound": "乌，松，勒，托瓦莱特？",
+    "movie": "我抱着乌龟在松树旁着急转圈，寻找厕所；转到屋后看见好多扇门，只好开口问厕所到底在哪里。",
+    "zh": "厕所在哪里？"
+  },
+  "T02:3": {
+    "fr": "Continuez tout droit jusqu’au pont.",
+    "sound": "孔蒂涅，图，杜瓦， ü斯科，蓬。",
+    "movie": "我沿路继续一直走，小兔用长胡萝卜指着正前方；直到蓬松小桥出现才停，途中一步也没拐弯。",
+    "zh": "一直走到桥边。"
+  },
+  "T02:4": {
+    "fr": "Tournez à gauche après le musée.",
+    "sound": "图儿内，啊，狗什；阿普雷，勒，musée。",
+    "movie": "我让玩具小车先经过博物馆，再到小狗站的地方左转；小狗爪子向左伸，示范过了博物馆才左转。",
+    "zh": "过了博物馆后左转。"
+  },
+  "T02:5": {
+    "fr": "La banque est en face du cinéma.",
+    "sound": "拉，邦克，诶，昂，法丝， dü，西内马。",
+    "movie": "银行像大钱罐站在路一边，电影院像大爆米花桶站在对面；两边隔街互相挥手，位置一眼就看明白。",
+    "zh": "银行在电影院对面。"
+  },
+  "T02:6": {
+    "fr": "C’est au numéro cinquante et un.",
+    "sound": "塞，哦，纽梅罗；cinquante et un，五十一门牌！",
+    "movie": "我捧着牛奶杯寻找门牌，数到五十后再往前一步；五十一号门开成一只笑脸，位置就在这个门牌下。",
+    "zh": "就在五十一号。"
+  },
+  "T03:1": {
+    "fr": "Il est six heures et demie.",
+    "sound": "衣儿，诶，西瑟儿，诶，德米。",
+    "movie": "六只小西瓜围着钟表，半块米糕躺在旁边；大钟指向六点半，我赶紧把六只瓜和半块糕记在一起。",
+    "zh": "现在六点半。"
+  },
+  "T03:2": {
+    "fr": "Le cours commence à neuf heures moins le quart.",
+    "sound": "勒，库儿，科芒丝，啊，讷弗儿；莫安，勒，卡儿。",
+    "movie": "课堂的小鼓准备敲响，九点钟前小卡车搬走一刻钟；钟表退到八点四十五，课程正是在这个时间开始。",
+    "zh": "课程八点四十五开始。"
+  },
+  "T03:3": {
+    "fr": "Je travaille mercredi.",
+    "sound": "热，特拉瓦伊，梅儿克勒迪。",
+    "movie": "我穿好工作围裙，拉着玩具娃娃走进办公室；桌上的周三格子放着梅子，提醒我这周三要工作。",
+    "zh": "我这周三工作。"
+  },
+  "T03:4": {
+    "fr": "Je ne travaille pas le mercredi.",
+    "sound": "热，讷，特拉瓦伊，帕，勒，梅儿克勒迪。",
+    "movie": "每周三，娃娃拉我去工作，我都拿帕子盖好电脑；日历上的每个周三都有梅子，我这天固定不工作。",
+    "zh": "我每周三不工作。"
+  },
+  "T03:5": {
+    "fr": "Nous finissons à dix-huit heures.",
+    "sound": "努，菲尼松，啊，迪兹üit，儿。",
+    "movie": "我们努着嘴收好工具，松鼠把最后一颗果放好；钟到十八点，大家一起结束工作，拍掌回家。",
+    "zh": "我们十八点结束。"
+  },
+  "T03:6": {
+    "fr": "Quel jour est libre ?",
+    "sound": "凯儿，入儿，诶，利布儿？",
+    "movie": "我抱着空日历去问朋友，哪一天能一起玩；小布袋里装着玩具，等选好有空的那天就出发。",
+    "zh": "哪一天有空？"
+  },
+  "T03:7": {
+    "fr": "C’est le numéro quatre-vingt-douze.",
+    "sound": "塞，勒，纽梅罗；卡特儿，万，杜兹。",
+    "movie": "牛奶盒上的号码让小卡车停下：九十二号到了；九个气球和两只鸭子守在门口，帮我牢牢记住号码。",
+    "zh": "这是九十二号。"
+  },
+  "T04:1": {
+    "fr": "Salut, Zoé ! Tu vas bien ?",
+    "sound": "Salut Zoé，Tu vas bien：撒手招呼，玉兔也问好吗？",
+    "movie": "我向Zoé撒开手打招呼，玉兔也抱着小瓦罐探出头；我笑着问她最近好吗，她把笑脸贴到瓦罐边。",
+    "zh": "嗨，佐伊！你好吗？"
+  },
+  "T04:2": {
+    "fr": "On déjeune ensemble samedi ?",
+    "sound": "昂，得热讷，昂桑布勒，桑姆迪？",
+    "movie": "我们把热午饭摆到桑树下，两张凳子挨在一起；我指着周六日历邀请朋友，那天一起吃午饭好吗。",
+    "zh": "周六一起吃午饭吗？"
+  },
+  "T04:3": {
+    "fr": "Samedi, je travaille jusqu’à midi.",
+    "sound": "桑姆迪，热，特拉瓦伊， ü斯卡，米迪。",
+    "movie": "周六我拉着工具箱工作，桌旁米粒钟慢慢走；到中午十二点才放下工具，米饭这时才端上桌。",
+    "zh": "周六我工作到中午。"
+  },
+  "T04:4": {
+    "fr": "Alors, à midi et demi ?",
+    "sound": "阿洛儿，啊，米迪，诶，德米？",
+    "movie": "我哦了一声，搬出午餐钟，在十二点旁添半碗米；抬头问朋友，那么改约十二点半怎么样。",
+    "zh": "那么十二点半怎么样？"
+  },
+  "T04:5": {
+    "fr": "Le restaurant est à côté de l’église.",
+    "sound": "勒，雷斯托朗，诶，啊，科忒，德，雷格利兹。",
+    "movie": "餐馆的烤面包香飘到隔壁教堂，钟声又飘回来；我在两扇相邻的门之间站好，餐馆就在教堂旁边。",
+    "zh": "餐馆在教堂旁边。"
+  },
+  "T04:6": {
+    "fr": "Tournez à droite aux feux.",
+    "sound": "图儿内，啊，杜瓦特，哦，弗。",
+    "movie": "小车一路开到红绿灯前，司机嘟一下喇叭再向右转；灯上的小风车挥手，提醒转弯就在这个路口。",
+    "zh": "在红绿灯处右转。"
+  },
+  "T05:1": {
+    "fr": "J’ai une réservation pour deux nuits.",
+    "sound": "热，une，雷泽儿瓦雄；普儿，德，nuit。",
+    "movie": "我拿出预订凭证，旅馆的娃娃服务员点头；枕头旁放着两个月亮，我订好的房间可以住两晚。",
+    "zh": "我预订了两晚。"
+  },
+  "T05:2": {
+    "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+    "sound": "热，马佩儿，Lin林；撒，塞克里，L-I-N。",
+    "movie": "我抱着小马介绍自己叫林，再把L、I、N三块积木按顺序摆好；小马一边点头，一边看清名字怎么拼。",
+    "zh": "我叫林，拼作L-I-N。"
+  },
+  "T05:3": {
+    "fr": "Avez-vous un emplacement en août ?",
+    "sound": "Avez-vous un emplacement en août：啊，乌龟芒果，八月想扎帐篷。",
+    "movie": "我推着帐篷问营地管理员，八月有没有空营位；一颗芒果躺在待搭的帐篷里，小乌龟也等着入住。",
+    "zh": "八月有营位吗？"
+  },
+  "T05:4": {
+    "fr": "Le petit déjeuner est compris ?",
+    "sound": "勒，珀蒂，得热讷，诶，孔普里？",
+    "movie": "我指着热早餐和房价单问，早餐包含吗；小土豆厨师把早餐往房间托盘里推，又停下来等答复。",
+    "zh": "包含早餐吗？"
+  },
+  "T05:5": {
+    "fr": "Nous avons deux belles chambres.",
+    "sound": "努，阿翁，德，贝勒，香布儿。",
+    "movie": "我们努着嘴推开两间漂亮卧室，贝壳灯一间一个；柔软床铺香香的，大家得意地介绍这两个卧室。",
+    "zh": "我们有两个漂亮的卧室。"
+  },
+  "T05:6": {
+    "fr": "La chambre coûte deux cents euros.",
+    "sound": "拉，香布儿，库特；德，桑，欧罗。",
+    "movie": "房间香香的，床上却铺着桑叶做的两张一百欧元大钞；我看清价格，这间房要花两百欧元。",
+    "zh": "房间两百欧元。"
+  },
+  "T05:7": {
+    "fr": "Je prends l’escalier jusqu’au premier étage.",
+    "sound": "热，普朗，莱斯卡利耶； ü斯科，普勒米耶，诶塔日。",
+    "movie": "我走楼梯，鞋子扑扑踩过每一级；到地面层上面第一层才停，那就是法国的premier étage，中文常说的二楼。",
+    "zh": "我走楼梯到二楼（法国楼层的premier étage）。"
+  },
+  "T06:1": {
+    "fr": "J’ai vingt-sept ans.",
+    "sound": "热，vingt-sept，昂；二十七支生日烛！",
+    "movie": "我生日时捧着二十七根蜡烛，七根挤在二十根旁边；大家欢呼，我二十七岁，蛋糕差点被蜡烛挤没。",
+    "zh": "我二十七岁。"
+  },
+  "T06:2": {
+    "fr": "Elle est canadienne et habite à Québec.",
+    "sound": "诶儿，诶，卡纳蒂耶讷，诶，阿比特，啊，凯贝克。",
+    "movie": "她戴着加拿大枫叶帽，抱着地图介绍自己；地图上的小屋立在魁北克市，她是加拿大人，也住在那里。",
+    "zh": "她是加拿大人，住在魁北克市。"
+  },
+  "T06:3": {
+    "fr": "Le frère de Nora est infirmier.",
+    "sound": "勒，弗雷儿，德，Nora，诶，昂菲儿米耶。",
+    "movie": "Nora的哥哥把护理帽戴正，温柔地递来一杯米汤；他是护士，连玩具熊的绷带也包得整整齐齐。",
+    "zh": "诺拉的哥哥是护士。"
+  },
+  "T06:4": {
+    "fr": "Sa mère travaille dans une école.",
+    "sound": "撒，梅儿，特拉瓦伊；当，une，诶科勒。",
+    "movie": "妈妈放好梅子点心，拉开学校办公室的门开始工作；孩子看见她忙着整理课本，知道母亲在学校上班。",
+    "zh": "他/她的母亲在学校工作。"
+  },
+  "T06:5": {
+    "fr": "Nous nous levons à sept heures.",
+    "sound": "努努，勒翁，啊，塞特儿。",
+    "movie": "我们努努嘴从被窝爬起来，闹钟的七只小手一起敲铃；七点一到，大家把枕头推走准备起床。",
+    "zh": "我们七点起床。"
+  },
+  "T06:6": {
+    "fr": "Je m’habille avant le petit déjeuner.",
+    "sound": "热，马比，阿旺，勒，珀蒂，得热讷。",
+    "movie": "我跟小马比谁先穿好衣服，早餐香味已经飘来；赶在热早餐端上桌前，我把衣服裤子全部穿好。",
+    "zh": "我在早餐前穿好衣服。"
+  },
+  "T06:7": {
+    "fr": "Mon amie parle trois langues.",
+    "sound": "蒙，阿米，帕儿勒，特鲁瓦，朗格。",
+    "movie": "我的女性朋友抱着米袋聊天，三个不同颜色的话泡轮流蹦出；她能说三种语言，连米袋都听得点头。",
+    "zh": "我的女性朋友说三种语言。"
+  },
+  "T07:1": {
+    "fr": "Je préfère cette tasse bleue.",
+    "sound": "热，普雷费儿，塞特，塔丝，布勒。",
+    "movie": "我把最喜欢的蓝杯子放到小塔顶，旁边别的杯子排队争宠；我依然抱紧这个蓝杯，更喜欢它。",
+    "zh": "我更喜欢这个蓝色杯子。"
+  },
+  "T07:2": {
+    "fr": "Cet objet coûte douze euros.",
+    "sound": "塞特，哦布热，库特，杜兹，欧罗。",
+    "movie": "我指着那件物品，店主拿出十二枚欧元；物品咕嘟一声坐在钱堆上，价格正好十二欧元。",
+    "zh": "这件物品十二欧元。"
+  },
+  "T07:3": {
+    "fr": "Ces robes sont belles ; je prends celle-là.",
+    "sound": "塞，罗布，松，贝勒；热，普朗，塞拉。",
+    "movie": "漂亮连衣裙挂成一排，裙摆像贝壳闪光；我看了一圈伸手选那一件，把它拉到自己身前比一比。",
+    "zh": "这些连衣裙很漂亮；我选那件。"
+  },
+  "T07:4": {
+    "fr": "Je voudrais un kilo de pommes.",
+    "sound": "热，乌德雷，un，鸡啰（kilo），德，蓬。",
+    "movie": "我向摊主礼貌要一公斤苹果，一只小鸡在秤边啰嗦；苹果蓬地跳进袋子，直到秤显示一公斤才停。",
+    "zh": "我要一公斤苹果。"
+  },
+  "T07:5": {
+    "fr": "Vous avez des poires ? J’en prends trois.",
+    "sound": "乌，阿韦，德，普哇儿？让，普朗，特鲁瓦。",
+    "movie": "我问摊主有没有梨，梨子扑哇地探出篮子；我伸手挑出三个，让它们排成一列，准备买这三个。",
+    "zh": "你们有梨吗？我买三个。"
+  },
+  "T07:6": {
+    "fr": "Je n’ai pas de monnaie.",
+    "sound": "热，内，帕，德，莫内。",
+    "movie": "我翻钱包，只有大钞没有零钱；拿帕子把钱包里外擦一遍，连一枚硬币都没找到，只好摊开手。",
+    "zh": "我没有零钱。"
+  },
+  "T07:7": {
+    "fr": "Je peux les essayer ?",
+    "sound": "热，peux，勒，诶塞耶？",
+    "movie": "我捧着两只鞋，脚尖想诶地塞进去又停住；先礼貌问能不能试穿它们，双脚急得在凳子下摇摆。",
+    "zh": "我可以试穿它们吗？"
+  },
+  "T07:8": {
+    "fr": "Vous faites quelle pointure ?",
+    "sound": "乌，费特，凯儿，普安叙儿？",
+    "movie": "店员扶着鞋盒，拿出脚形尺问您穿多大码；小乌龟也想测脚，结果整只身体都站到了尺子上。",
+    "zh": "您穿多大鞋码？"
+  },
+  "T08:1": {
+    "fr": "Pour moi, une soupe aux légumes.",
+    "sound": "普儿，莫哇，une，苏普，哦，雷居姆。",
+    "movie": "我把勺子铺好，请给我一份蔬菜汤；胡萝卜和青菜在汤里咕嘟跳舞，雷声一样响的小肚子终于有盼头。",
+    "zh": "我要一份蔬菜汤。"
+  },
+  "T08:2": {
+    "fr": "Je vais prendre le poisson.",
+    "sound": "热，韦，普朗德儿，勒，普哇松。",
+    "movie": "我准备点鱼，把菜单上的鱼圈出来；想象那条鱼扑哇地竖起松树形尾巴，我还在向服务员报菜名。",
+    "zh": "我打算点鱼。"
+  },
+  "T08:3": {
+    "fr": "Qu’est-ce que vous avez comme dessert ?",
+    "sound": "凯斯，克，乌，阿韦，科姆，得瑟儿？",
+    "movie": "我抱着空甜点盘问服务员有什么甜点；乌龟推来菜单，蛋糕、布丁和冰淇淋在上面轮流探头。",
+    "zh": "你们有什么甜点？"
+  },
+  "T08:4": {
+    "fr": "Pouvez-vous nous apporter deux verres ?",
+    "sound": "普韦乌，努，阿波儿忒，德，韦儿？",
+    "movie": "我们努着嘴看空桌子，礼貌请服务员拿两个杯子；他端来两只圆杯，杯口对碰一下像在笑。",
+    "zh": "您可以给我们拿两个杯子吗？"
+  },
+  "T08:5": {
+    "fr": "Nous n’avons plus de pain.",
+    "sound": "努，纳翁，噗吕，德，潘。",
+    "movie": "我们翻开面包篮，里面只剩几粒碎屑；小面包车扑空，篮底露得干干净净，我们已经没有面包了。",
+    "zh": "我们没有面包了。"
+  },
+  "T08:6": {
+    "fr": "Cette glace à la vanille est délicieuse.",
+    "sound": "Cette glace à la vanille est délicieuse：瓦碗香草冰淇淋，得了就馋。",
+    "movie": "我舀起香草冰淇淋，香味从瓦形小碗里冒出；尝一口眼睛立刻弯起来，连勺子都高兴地转圈说好吃。",
+    "zh": "这份香草冰淇淋很好吃。"
+  },
+  "T08:7": {
+    "fr": "L’addition, s’il vous plaît.",
+    "sound": "拉蒂雄，西尔，乌，普莱。",
+    "movie": "吃完饭我把小梯子般折好的餐巾放下，礼貌请结账；小乌龟服务员推来账单，硬币排队等付款。",
+    "zh": "请结账。"
+  },
+  "T09:1": {
+    "fr": "Nous voudrions une chambre pour trois personnes.",
+    "sound": "努，乌德里翁，une，香布儿，普儿，特鲁瓦，佩儿松。",
+    "movie": "我们三个人抱着枕头到前台，想要一间三人房；房内三张香香的小床排好，每张都躺着一只松果玩偶。",
+    "zh": "我们想要一间三人房。"
+  },
+  "T09:2": {
+    "fr": "Ma sœur est architecte.",
+    "sound": "马，瑟儿，诶，阿儿希泰克特。",
+    "movie": "我姐姐戴着建筑师帽，小马帮她搬尺子；她画出房屋图纸，一栋小屋照着图慢慢搭起来。",
+    "zh": "我姐姐是建筑师。"
+  },
+  "T09:3": {
+    "fr": "Elle se réveille tôt.",
+    "sound": "诶儿，瑟，雷韦，托。",
+    "movie": "她一大早醒来，雷声形闹钟还没响就伸了懒腰；托盘上的早茶还在冒热气，她已经坐起来了。",
+    "zh": "她醒得早。"
+  },
+  "T09:4": {
+    "fr": "Je peux essayer cette veste ?",
+    "sound": "热，peux，诶塞耶，塞特，韦斯特？",
+    "movie": "我抱着这件外套，袖子像小手向我招呼；我想塞进去试试，先礼貌问能不能试穿这件外套。",
+    "zh": "我可以试穿这件外套吗？"
+  },
+  "T09:5": {
+    "fr": "J’en voudrais deux kilos.",
+    "sound": "让，乌德雷，德，鸡啰（kilos）。",
+    "movie": "我指着刚才说的那堆商品，礼貌要两公斤；小鸡啰嗦着盯住秤，等摊主按我的要求称好。",
+    "zh": "我想要两公斤（前文所说的东西）。"
+  },
+  "T09:6": {
+    "fr": "Je vais prendre une tarte au citron.",
+    "sound": "热，韦，普朗德儿，une，塔儿特，哦，西特隆。",
+    "movie": "我打算点一份柠檬馅饼，盘子像小塔托住它；柠檬香一冒出来，旁边的小西瓜都凑过来闻。",
+    "zh": "我打算点一份柠檬馅饼。"
+  },
+  "T09:7": {
+    "fr": "Vous pouvez lui apporter une cuillère ?",
+    "sound": "乌，普韦，吕伊，阿波儿忒，une，屈伊耶儿？",
+    "movie": "我指着朋友空空的甜点盘，礼貌请服务员给他拿勺子；一把小勺骑着托盘来到朋友面前，正好开吃。",
+    "zh": "您能给他/她拿一个勺子吗？"
+  },
+  "T10:1": {
+    "fr": "Je vais à Lyon en train.",
+    "sound": "热，韦，啊，Lyon里昂，昂，特兰。",
+    "movie": "我背好行李坐火车去里昂，车窗里一只小狼陪着看风景；火车穿过田野，车头直朝里昂方向。",
+    "zh": "我乘火车去里昂。"
+  },
+  "T10:2": {
+    "fr": "Nous y allons à vélo.",
+    "sound": "努，衣，阿隆，啊，韦洛。",
+    "movie": "我们努着嘴骑自行车去那里，衣角被风吹成小旗；车轮沿路咕噜转，目的地就在前方。",
+    "zh": "我们骑自行车去那里。"
+  },
+  "T10:3": {
+    "fr": "Je voudrais un aller retour pour Lille.",
+    "sound": "热，乌德雷，un，阿雷，热图儿，普儿，Lille里尔。",
+    "movie": "我想买去里尔的往返票，售票员把两头箭头画在同一张票上；去程的小车和回程的小车隔票互相挥手。",
+    "zh": "我想买一张去里尔的往返票。"
+  },
+  "T10:4": {
+    "fr": "Le train qui part à seize heures est direct.",
+    "sound": "Le train qui part à seize heures est direct：十六点啪出发，直达不用换。",
+    "movie": "十六点钟一到，火车啪地关门出发；我抱着行李一路坐到终点，途中一直不用换车，这班车是直达车。",
+    "zh": "十六点出发的那班火车是直达车。"
+  },
+  "T10:5": {
+    "fr": "Je dois arriver avant dix-huit heures.",
+    "sound": "热，杜瓦，阿里韦，阿旺，dix-huit heures。",
+    "movie": "我对着车票嘟哇一声，必须在十八点前到；赶紧把小轮子装在箱底，盯着终点大钟规划出发时间。",
+    "zh": "我必须十八点前到。"
+  },
+  "T10:6": {
+    "fr": "Ma voiture est en panne près du pont.",
+    "sound": "马，哇叙儿，诶，昂，潘，普雷， dü，蓬。",
+    "movie": "我的车在桥附近坏了，发动机噗地停住；小马从车窗探头，望着近处蓬蓬的桥，怎么推都走不了。",
+    "zh": "我的车在桥附近坏了。"
+  },
+  "T10:7": {
+    "fr": "La batterie est à plat.",
+    "sound": "拉，巴特里，诶，啊，普拉。",
+    "movie": "电池像一块软饼啪地趴平，完全没电；我按按钮它连眼睛都不睁，充电线赶紧跑过来帮忙。",
+    "zh": "电池没电了。"
+  },
+  "T10:8": {
+    "fr": "Pouvez-vous venir rapidement ?",
+    "sound": "普韦乌，弗尼儿，拉皮德芒？",
+    "movie": "我抱着坏车模型打电话，问您能尽快过来吗；想象修理员拉着工具箱飞奔，芒果形轮子转得冒烟。",
+    "zh": "您能尽快过来吗？"
+  },
+  "T11:1": {
+    "fr": "J’ai mal au dos depuis ce matin.",
+    "sound": "热，马勒，哦，朵，德 pü伊，瑟，马坦。",
+    "movie": "从今天早上起我的背就疼，小马一碰背部我就躲；太阳越升越高，背上那块痛痛的地方还没消停。",
+    "zh": "我从今天早上起背疼。"
+  },
+  "T11:2": {
+    "fr": "Elle a mal aux dents.",
+    "sound": "诶儿，啊，马勒，哦，当。",
+    "movie": "她捂着嘴啊地叫，小马递来的硬糖也吃不了；牙齿像小锣当当地疼，她只好把糖放回盒子。",
+    "zh": "她牙疼。"
+  },
+  "T11:3": {
+    "fr": "J’ai froid et j’ai soif.",
+    "sound": "热，弗鲁哇，诶，热，苏瓦夫。",
+    "movie": "我冷得弗地打抖，伸手抱紧围巾；嘴巴又干得像沙地，只想喝水，冷和渴一起找上门。",
+    "zh": "我冷而且口渴。"
+  },
+  "T11:4": {
+    "fr": "J’ai mal dormi cette nuit.",
+    "sound": "热，马勒，朵儿米，塞特，nuit。",
+    "movie": "昨晚我翻来翻去没睡好，小马和米粒枕头也被翻下床；月亮一整夜看着我，天亮时眼皮直打架。",
+    "zh": "我昨晚没睡好。"
+  },
+  "T11:5": {
+    "fr": "Nous avons appelé le médecin.",
+    "sound": "努，阿翁，阿普莱，勒，梅德桑。",
+    "movie": "我们努着嘴拨过电话，请医生帮忙；梅子护士在桑树旁接起听筒，电话已经打过，现在我们放下话筒。",
+    "zh": "我们给医生打过电话了。"
+  },
+  "T11:6": {
+    "fr": "Je n’ai pas pris ce médicament.",
+    "sound": "热，内，帕，普里，瑟，梅蒂卡芒。",
+    "movie": "我摇头说没吃过这种药，用帕子把药瓶推回桌边；梅子形药片仍在瓶里，一颗也没被我拿走。",
+    "zh": "我没吃过这种药。"
+  },
+  "T11:7": {
+    "fr": "Il faut demander conseil au pharmacien.",
+    "sound": "衣儿，福，德芒德，孔塞伊，哦，法儿马香。",
+    "movie": "我捧着药盒需要咨询药剂师，小福娃带路；到药房后把问题一条条问清，药剂师扶着小马眼镜听。",
+    "zh": "需要向药剂师咨询。"
+  },
+  "T11:8": {
+    "fr": "Ne prenez pas mon verre.",
+    "sound": "讷，普勒内，帕，蒙，韦儿。",
+    "movie": "我赶紧伸手阻止：别拿我的杯子；帕子盖住杯口，小熊只好把爪子缩回，换去拿自己的那一只。",
+    "zh": "不要拿我的杯子。"
+  },
+  "T12:1": {
+    "fr": "Ma sœur est arrivée hier.",
+    "sound": "马，瑟儿，诶，阿里韦，耶儿。",
+    "movie": "我姐姐昨天到了，小马拉着她的行李进门；昨天那页日历还留在桌上，姐姐已经把外套挂好。",
+    "zh": "我姐姐昨天到了。"
+  },
+  "T12:2": {
+    "fr": "Elles sont restées trois jours.",
+    "sound": "诶儿，松，雷斯忒，特鲁瓦，入儿。",
+    "movie": "她们在这里待了三天，松果日历一天翻一页；第三页翻完，她们收好三个小枕头，回味这三天。",
+    "zh": "她们待了三天。"
+  },
+  "T12:3": {
+    "fr": "Elle s’est lavé les mains.",
+    "sound": "诶儿，塞，拉韦，勒，曼。",
+    "movie": "她洗了手，水哗啦冲过掌心；洗完的手像两只亮亮的小贝壳，甩出的水珠还在空中跳舞。",
+    "zh": "她洗了手。"
+  },
+  "T12:4": {
+    "fr": "Je joue du violon depuis un an.",
+    "sound": "热，入， dü，维哦隆，德 pü伊，un，昂。",
+    "movie": "我拉小提琴已经一年，一颗米粒从去年日历跑到今年；琴弓每天继续唱，整整一年连成一条旋律。",
+    "zh": "我拉小提琴已有一年了。"
+  },
+  "T12:5": {
+    "fr": "Nous jouons aux cartes deux fois par mois.",
+    "sound": "努，抓翁，哦，卡特，德，弗哇，帕儿，莫哇。",
+    "movie": "我们每月抓两次扑克牌来玩，小卡车帮忙搬牌；月历上两个固定日子都放一副牌，提醒每月两次的习惯。",
+    "zh": "我们每月玩两次牌。"
+  },
+  "T12:6": {
+    "fr": "Je ne vais jamais au stade.",
+    "sound": "热，讷，韦，扎梅，哦，斯塔德。",
+    "movie": "我从来不去体育场，扎着梅子辫的小球向我招手；我每次都摇头，沿着自己的散步路走开。",
+    "zh": "我从不去体育场。"
+  },
+  "T12:7": {
+    "fr": "Quand j’étais enfant, je lisais le soir.",
+    "sound": "康，热忒，昂凡；热，利泽，勒，苏哇儿。",
+    "movie": "小时候的我躺在小床上，晚上常把书立在膝头读；窗外月亮每晚探头，陪着小小的我翻页。",
+    "zh": "我小时候晚上常读书。"
+  },
+  "T12:8": {
+    "fr": "Je lisais quand il a téléphoné.",
+    "sound": "热，利泽，康，衣儿，啊，忒雷佛内。",
+    "movie": "我正立着书读得入迷，他的电话突然响起来；书页还夹在手指里，另一只手已经伸向电话。",
+    "zh": "他打电话来时我正在读书。"
+  },
+  "T13:1": {
+    "fr": "Avant, je prenais toujours le bus.",
+    "sound": "阿旺，热，普勒内，图入儿，勒，bü丝。",
+    "movie": "以前我总拿好公交卡去坐车，娃娃司机天天同一站等我；旧日历翻了一页又一页，我一直坐公交。",
+    "zh": "以前我总乘公交车。"
+  },
+  "T13:2": {
+    "fr": "Hier, je suis rentré à pied.",
+    "sound": "耶儿，热，suis，朗特雷，啊，皮耶。",
+    "movie": "昨天我这个小男孩没有乘车，踏着皮鞋一步步回家；鞋印从路口排到家门，昨天的太阳刚好落下。",
+    "zh": "昨天我步行回家了（说话者为男性）。"
+  },
+  "T13:3": {
+    "fr": "Je marche tous les jours depuis un mois.",
+    "sound": "热，马儿什，图，勒，入儿，德 pü伊，un，莫哇。",
+    "movie": "我每天像小马一样迈步走路，已坚持了一个月；月历每天都盖一个脚印，今天还在接着走。",
+    "zh": "我每天步行已有一个月。"
+  },
+  "T13:4": {
+    "fr": "J’ai eu mal à la tête hier.",
+    "sound": "热，ü，马勒，啊拉，忒特，耶儿。",
+    "movie": "昨天我的头疼，小马碰一下帽檐我就皱眉；昨天的日历压在枕头边，我抱着脑袋安静躺着。",
+    "zh": "我昨天头疼。"
+  },
+  "T13:5": {
+    "fr": "Aujourd’hui, je n’ai plus mal.",
+    "sound": "哦入儿 dü伊，热，内，噗吕，马勒。",
+    "movie": "今天我摇摇头又伸伸胳膊，已经不疼了；昨天贴着痛点的小马贴纸退场，我高兴地出去活动。",
+    "zh": "今天我不再疼了。"
+  },
+  "T13:6": {
+    "fr": "Je jouais aux cartes quand elle est arrivée.",
+    "sound": "热，抓韦，哦，卡特，康，诶儿，诶，阿里韦。",
+    "movie": "我正抓着扑克牌准备出牌，她这时进门到达；手里的牌还悬在半空，我抬头向她打招呼。",
+    "zh": "她到来时我正在打牌。"
+  },
+  "T13:7": {
+    "fr": "Nous y sommes allés en train.",
+    "sound": "努，衣，松姆，阿雷，昂，特兰。",
+    "movie": "我们努着嘴挪行李，松果箱跟着从火车下来；火车票收进相册，我们已经乘火车去了那里。",
+    "zh": "我们乘火车去了那里。"
+  },
+  "T14:1": {
+    "fr": "Entrez et asseyez-vous, s’il vous plaît.",
+    "sound": "昂特雷，诶，阿塞耶乌；西尔，乌，普莱。",
+    "movie": "我请客人进门再坐下，门边的小椅子自己滑出来；乌龟端着托盘等客人坐好，礼貌地迎接到家。",
+    "zh": "请进，请坐。"
+  },
+  "T14:2": {
+    "fr": "Vous prendrez du thé ?",
+    "sound": "乌，普朗德雷， dü，忒？",
+    "movie": "我托着茶壶问客人喝点茶吗，小乌龟举着空杯等答复；茶香轻轻飘过，客人还没决定。",
+    "zh": "您喝点茶吗？"
+  },
+  "T14:3": {
+    "fr": "Non merci, j’en ai assez.",
+    "sound": "农，梅儿西；让，诶，阿塞。",
+    "movie": "我摇头说不了谢谢，把梅子杯拿稳；再让手掌盖住杯口，表示我已经够了，不需要继续添。",
+    "zh": "不，谢谢，我已经够了。"
+  },
+  "T14:4": {
+    "fr": "Votre cuisine est plus claire que la mienne.",
+    "sound": "沃特儿，屈伊兹讷，诶，噗吕，克莱儿，克，拉，米耶讷。",
+    "movie": "您的厨房亮得像开了小太阳，我的厨房在对面暗一点；两只小锅互相照照，您的那边明显更明亮。",
+    "zh": "您的厨房比我的明亮。"
+  },
+  "T14:5": {
+    "fr": "Cette pièce est la plus calme de la maison.",
+    "sound": "塞特，皮耶丝，诶，拉，噗吕，卡勒姆，德拉，梅宗。",
+    "movie": "这个房间里连小卡车都轻轻滚，家中其他房间还在叮当响；我放下梅子枕头，这里是全家最安静的一间。",
+    "zh": "这个房间是家里最安静的。"
+  },
+  "T14:6": {
+    "fr": "Ce gâteau est meilleur que le mien.",
+    "sound": "瑟，嘎托，诶，梅耶儿，克，勒，米安。",
+    "movie": "我咬一口这个蛋糕，眉毛开心翘起来；自己的那块放在旁边，比较后承认这个蛋糕比我的更好吃。",
+    "zh": "这个蛋糕比我的好吃。"
+  },
+  "T14:7": {
+    "fr": "Elle chante mieux que moi.",
+    "sound": "诶儿，尚特，谬，克，莫哇。",
+    "movie": "她一开口就唱得小鸟点头，我唱时小鸟歪脑袋；我们轮流唱同一首，她唱得比我好，我拍拍手认输。",
+    "zh": "她唱得比我好。"
+  },
+  "T14:8": {
+    "fr": "Merci pour cette agréable soirée.",
+    "sound": "梅儿西，普儿，塞特，阿格雷阿布勒，苏哇雷。",
+    "movie": "愉快的晚间聚会结束，我抱着梅子礼物感谢主人；月亮照着笑脸，大家把今晚的快乐装进回忆袋。",
+    "zh": "谢谢这段愉快的晚间时光。"
+  },
+  "T15:1": {
+    "fr": "Il y a du brouillard ce matin.",
+    "sound": "衣里啊， dü，布鲁雅儿，瑟，马坦。",
+    "movie": "今天早上的雾像白布铺满街，连小马鼻子都遮住；我掀一掀眼前的白雾，路灯变成朦胧的圆球。",
+    "zh": "今天早上有雾。"
+  },
+  "T15:2": {
+    "fr": "Il va pleuvoir cet après-midi.",
+    "sound": "衣儿，瓦，噗勒哇儿，塞特，阿普雷米迪。",
+    "movie": "天气娃娃举着下午的钟，乌云里水滴已经排队；我望着天空准备带伞，今天下午将要下雨。",
+    "zh": "今天下午要下雨。"
+  },
+  "T15:3": {
+    "fr": "Au printemps, je marche dans le parc.",
+    "sound": "哦，普兰坦，热，马儿什，当，勒，帕儿克。",
+    "movie": "春天我像小马一样慢慢走进公园，新芽从地里探头；小帕子被暖风吹起，我边散步边看春花。",
+    "zh": "春天我在公园散步。"
+  },
+  "T15:4": {
+    "fr": "J’aimerais visiter ce château.",
+    "sound": "热姆雷，维兹忒，瑟，沙托。",
+    "movie": "我看着城堡图片，想去参观这座城堡；沙做的小塔摆在桌上，我让玩具脚印沿着城堡门走一遍。",
+    "zh": "我想参观这座城堡。"
+  },
+  "T15:5": {
+    "fr": "On pourrait se retrouver devant la gare.",
+    "sound": "昂，普雷，瑟，热特鲁韦，德旺，拉，嘎儿。",
+    "movie": "我们商量可以在车站前碰面，把两只玩具放到站前空地；它们从两头走来，但真正的见面还等约好时间。",
+    "zh": "我们可以在车站前碰面。"
+  },
+  "T15:6": {
+    "fr": "Je ne peux pas venir ; je dois travailler.",
+    "sound": "热，讷，peux，帕，弗尼儿；热，杜瓦，特拉瓦耶。",
+    "movie": "我拿着帕子摇头，没法前来参加；工具箱拉住我的袖口，我必须工作，只好把邀约放到一旁。",
+    "zh": "我不能来，我得工作。"
+  },
+  "T15:7": {
+    "fr": "Voici l’artiste qui expose ici.",
+    "sound": "哇西，拉儿蒂斯特，基，诶克斯波兹，衣西。",
+    "movie": "我哇地指给朋友看，这位就是在这里办展的艺术家；他站在自己的画旁，画框里还探出一只调皮小猫。",
+    "zh": "这是在这里办展的艺术家。"
+  },
+  "T15:8": {
+    "fr": "C’est le tableau que je préfère.",
+    "sound": "塞，勒，塔布洛，克，热，普雷费儿。",
+    "movie": "我从一排画里抱紧最喜欢的那幅，画上小塔笑弯了腰；其他画围在旁边，这一幅最合我的心意。",
+    "zh": "这是我最喜欢的那幅画。"
+  },
+  "T16:1": {
+    "fr": "Nous avons passé une semaine au Canada.",
+    "sound": "努，阿翁，帕塞，une，瑟曼，哦，Canada加拿大。",
+    "movie": "我们已在加拿大待过一周，七片枫叶分别装进七格盒子；把旅行袋打开，每格都藏着当天的小纪念。",
+    "zh": "我们在加拿大待了一周。"
+  },
+  "T16:2": {
+    "fr": "Elle est née aux États-Unis.",
+    "sound": "Elle est née aux États-Unis：诶，她出生在星星帽医院。",
+    "movie": "她翻开出生相册，第一张照片就是美国的医院；小婴儿戴着星星帽，说明她出生在美国。",
+    "zh": "她出生在美国。"
+  },
+  "T16:3": {
+    "fr": "Je suis rentré il y a quatre jours.",
+    "sound": "热，suis，朗特雷，衣里啊，卡特儿，入儿。",
+    "movie": "我这个男孩四天前已经回来，行李箱旁排着四只小卡车；四张日历从回来那天一路翻到今天。",
+    "zh": "我四天前回来了（说话者为男性）。"
+  },
+  "T16:4": {
+    "fr": "J’habite ici depuis quatre jours.",
+    "sound": "扎比特，衣西，德 pü伊，卡特儿，入儿。",
+    "movie": "我住在这里已经四天，四只小卡车守着新床；日历添了四个印，我现在仍住在这间屋里。",
+    "zh": "我住在这里已有四天了。"
+  },
+  "T16:5": {
+    "fr": "Je n’ai pas le moral aujourd’hui.",
+    "sound": "热，内，帕，勒，莫拉勒，哦入儿 dü伊。",
+    "movie": "今天我心情低落，连梅子味点心也提不起劲；抱着帕子缩在沙发里，头顶的小云垂着脸陪我。",
+    "zh": "我今天心情低落。"
+  },
+  "T16:6": {
+    "fr": "Je lui ai téléphoné hier.",
+    "sound": "热，吕伊，诶，忒雷佛内，耶儿。",
+    "movie": "昨天我已经给他打过电话，耳边还像有嘟嘟声；把昨天的电话记录收好，小话筒终于安静下来。",
+    "zh": "我昨天给他/她打电话了。"
+  },
+  "T16:7": {
+    "fr": "Je vais les remercier.",
+    "sound": "热，韦，勒，热梅儿西耶。",
+    "movie": "我打算感谢他们，抱着热乎乎的梅子礼盒练习谢谢；礼物还在手里，我正准备把谢意送到他们面前。",
+    "zh": "我打算感谢他们/她们。"
+  },
+  "T16:8": {
+    "fr": "Donne-moi ton adresse.",
+    "sound": "多讷莫哇，通，阿德雷丝。",
+    "movie": "我伸出手请你把地址给我，你把房屋小地图递过来；图上的小路通向你的门，我仔细收进口袋。",
+    "zh": "把你的地址给我。"
+  },
+  "T17:1": {
+    "fr": "Je voudrais parler à Madame Roy.",
+    "sound": "热，乌德雷，帕儿雷，啊，马达姆，Roy鲁瓦。",
+    "movie": "我抱着电话想找鲁瓦女士讲话，小马在旁边举着听筒；我礼貌报出要找的人，等她来接电话。",
+    "zh": "我想找鲁瓦女士讲话。"
+  },
+  "T17:2": {
+    "fr": "Puis-je laisser un message ?",
+    "sound": " pü伊热，莱塞，un，梅萨日？",
+    "movie": "我举着话筒问能留口信吗，梅子形录音盒还空着；只要获准，我想说的话就能留在盒子里等对方来听。",
+    "zh": "我能留个口信吗？"
+  },
+  "T17:3": {
+    "fr": "C’est de la part de Mei Lin, de la société Atlas.",
+    "sound": "塞，德拉，帕儿德，Mei Lin梅林，德拉，索西耶忒，Atlas。",
+    "movie": "梅林抱着电话自报来处，Atlas公司的小地图铺在桌上；他说清自己来自这家公司，话筒像礼貌的小耳朵认真听。",
+    "zh": "来电的是阿特拉斯公司的梅林。"
+  },
+  "T17:4": {
+    "fr": "Elle vient de partir en réunion.",
+    "sound": "Elle vient de partir en réunion：她刚啪地出门去开会。",
+    "movie": "她刚刚出发去开会，椅子还带着一点温度；抱着会议资料的身影才走到门外，会议室的桌椅在等她。",
+    "zh": "她刚去开会了。"
+  },
+  "T17:5": {
+    "fr": "Je rappellerai demain matin.",
+    "sound": "热，拉佩儿雷，德曼，马坦。",
+    "movie": "我把电话轻轻放下，约好明天上午再打来；日历明早那一格放着小马，提醒我到时重新拿起听筒。",
+    "zh": "我明天上午会再打来。"
+  },
+  "T17:6": {
+    "fr": "Nous serons disponibles jeudi.",
+    "sound": "努，瑟隆，迪斯波尼布勒，热迪。",
+    "movie": "我们努着嘴把周四日历腾空，热水壶独自在那格里坐着；这表示周四会有空，可以安排见面。",
+    "zh": "我们周四有空。"
+  },
+  "T17:7": {
+    "fr": "Quel jour vous conviendrait ?",
+    "sound": "凯儿，入儿，乌，孔维安德雷？",
+    "movie": "我把日历摊给您看，问哪一天对您合适；小乌龟拿着圈圈笔等答复，先不急着圈下日期。",
+    "zh": "哪一天对您合适？"
+  },
+  "T17:8": {
+    "fr": "Vous trouverez mon CV ci-joint.",
+    "sound": "乌，特鲁弗雷，蒙，CV塞韦，西抓安。",
+    "movie": "我的简历跟着邮件夹在附件里，小乌龟负责托住；您一打开附件就能找到CV，像掀开书包看见整齐的纸。",
+    "zh": "附件中有我的简历。"
+  },
+  "T18:1": {
+    "fr": "Tu veux dîner chez nous vendredi ?",
+    "sound": "Tu veux dîner chez nous vendredi：玉兔，周五来我们家晚饭吗？",
+    "movie": "我指着我们家餐桌问朋友，周五想来吃晚饭吗；玉兔在日历旁抱着碗，周五那格还等朋友点头。",
+    "zh": "周五你想来我们家吃晚饭吗？"
+  },
+  "T18:2": {
+    "fr": "J’aimerais bien, mais je dois travailler.",
+    "sound": "热姆雷，边，梅，热，杜瓦，特拉瓦耶。",
+    "movie": "我很想去赴约，脚尖已经朝门口；但梅子形工作钟响起，工具箱拉住我，我还得工作。",
+    "zh": "我很想去，但我得工作。"
+  },
+  "T18:3": {
+    "fr": "Il faisait froid quand nous sommes arrivés.",
+    "sound": "衣儿，弗泽，弗鲁哇，康，努，松姆，阿里韦。",
+    "movie": "我们到达那时冷得直打抖，松果箱上都像结了霜；一群人缩在围巾里，回想刚下车的寒冷天气。",
+    "zh": "我们到达时天气很冷。"
+  },
+  "T18:4": {
+    "fr": "Demain, il fera plus chaud.",
+    "sound": "德曼，衣儿，弗拉，噗吕，绍。",
+    "movie": "明天的天气娃娃抱来更大的暖太阳，吹走一点寒气；我今天先把薄外套备好，等明天更暖的时候穿。",
+    "zh": "明天天气会更暖。"
+  },
+  "T18:5": {
+    "fr": "Je suis ici depuis trois semaines.",
+    "sound": "热，suis，衣西，德 pü伊，特鲁瓦，瑟曼。",
+    "movie": "我在这里已经三周，三排七格日历都填满了脚印；小床还是我的床，今天我继续住在这里。",
+    "zh": "我在这里已有三周了。"
+  },
+  "T18:6": {
+    "fr": "Je lui ai écrit la semaine dernière.",
+    "sound": "热，吕伊，诶，诶克里，拉，瑟曼，得儿涅儿。",
+    "movie": "上周我给他写过信，绿墨水沿着纸面排成行；信已寄走，上周的日历和空信封留在桌上作证。",
+    "zh": "我上周给他/她写过信了。"
+  },
+  "T18:7": {
+    "fr": "Pouvez-vous lui dire que j’ai appelé ?",
+    "sound": "普韦乌，吕伊，迪儿，克，热，阿普莱？",
+    "movie": "我拿着电话，请乌龟转告他我打过电话；乌龟捧起绿话筒准备传话，别让他以为我没有联系。",
+    "zh": "您能告诉他/她我打过电话吗？"
+  },
+  "T18:8": {
+    "fr": "Je rentrerai mardi prochain.",
+    "sound": "热，朗特勒雷，马儿迪，普罗香。",
+    "movie": "我指着下周二的日历说那天会回来，小马拉着回程箱；现在先把票收好，回来这件事还在下周。",
+    "zh": "我下周二回来。"
+  },
+  "T19:1": {
+    "fr": "J’ai choisi la réponse B.",
+    "sound": "热，刷子（choisi），拉，雷蓬丝，B贝。",
+    "movie": "我已经选了B答案，刷子拉着贝壳形的B坐进答案栏；其他选项排在旁边，B被我清楚圈了起来。",
+    "zh": "我选了B答案。"
+  },
+  "T19:2": {
+    "fr": "Je vérifie le numéro de l’activité.",
+    "sound": "热，韦里菲，勒，纽梅罗，德，拉克蒂维忒。",
+    "movie": "我把活动题号拿来核对，牛奶杯形放大镜一格格看；确认题目的数字对上，才把铅笔放回旁边。",
+    "zh": "我核对活动题号。"
+  },
+  "T19:3": {
+    "fr": "Cette phrase respecte la consigne.",
+    "sound": "塞特，弗拉兹，雷斯佩克特，拉，孔西涅。",
+    "movie": "这句话走到题目要求前，把每项要求逐个对上；检查员小兔点头，句子像穿好合适衣服一样符合要求。",
+    "zh": "这个句子符合题目要求。"
+  },
+  "T19:4": {
+    "fr": "Voici une autre réponse possible.",
+    "sound": "哇西，une，哦特儿，雷蓬丝，波西布勒。",
+    "movie": "我哇地拿出另一个可能的答案，放在原答案旁边；两只小答案握握手，表示这也是可行的回答。",
+    "zh": "这是另一个可能的答案。"
+  },
+  "T19:5": {
+    "fr": "Il manque un article dans ma phrase.",
+    "sound": "衣儿，芒克，un，阿儿蒂克勒，当，马，弗拉兹。",
+    "movie": "我的句子像一排小车，却缺了冠词那辆；芒果工头发现空位，赶忙指出少了一个冠词，队伍还不完整。",
+    "zh": "我的句子少了一个冠词。"
+  },
+  "T19:6": {
+    "fr": "Je dois vérifier ce mot sur l’image.",
+    "sound": "热，杜瓦，韦里菲耶，瑟，莫，叙儿，利马日。",
+    "movie": "我必须回到原图核查这个词，放大镜贴近图上的字；图里的小马扶住纸角，让我逐字看清再确认。",
+    "zh": "我需要在原图上核查这个词。"
+  },
+  "T19:7": {
+    "fr": "Je n’ai pas écouté l’enregistrement original.",
+    "sound": "热，内，帕，诶库忒，l’enregistrement，哦里日纳勒。",
+    "movie": "我摇头说明没有听原录音，帕子盖在还未按下的播放键旁；原始录音带仍安静躺着，耳机还没戴上。",
+    "zh": "我没有听原录音。"
+  },
+  "T20:1": {
+    "fr": "Les nouveaux bureaux sont calmes.",
+    "sound": "勒，努沃，bü罗，松，卡勒姆。",
+    "movie": "新的办公室安静极了，牛形椅子慢慢挪也不响；松果时钟轻轻走，大家在新桌前安静做自己的事。",
+    "zh": "新办公室很安静。"
+  },
+  "T20:2": {
+    "fr": "C’est mon sac ; le tien est là-bas.",
+    "sound": "塞，蒙，撒克；勒，天，诶，拉巴。",
+    "movie": "我抱起这个包说这是我的，指向那边另一只包；你的小包在远处挥带子，两个包各归各的主人。",
+    "zh": "这是我的包；你的在那边。"
+  },
+  "T20:3": {
+    "fr": "Je leur ai donné deux billets.",
+    "sound": "热，勒儿，诶，多内，德，毕业（billets）。",
+    "movie": "我给了他们两张票，像毕业后发车票让大家回家；两人各拿一张，票已递出，我的票夹变空了。",
+    "zh": "我给了他们/她们两张票。"
+  },
+  "T20:4": {
+    "fr": "Je vais lui répondre.",
+    "sound": "热，韦，吕伊，雷蓬德儿。",
+    "movie": "我打算回复他，绿信纸摊开在面前；铅笔举着小手准备写，回复还在筹备，马上就要开始。",
+    "zh": "我打算回复他/她。"
+  },
+  "T20:5": {
+    "fr": "Finis ton exercice, puis parle doucement.",
+    "sound": "菲尼，通，exercice； pü伊，帕儿勒，杜丝芒。",
+    "movie": "先把练习做完，铅笔才可以休息；然后像吹软丝线一样轻声说话，别把旁边睡着的小芒果吵醒。",
+    "zh": "做完练习，然后轻声说话。"
+  },
+  "T20:6": {
+    "fr": "Nous vendions des livres.",
+    "sound": "努，旺迪扬，德，利弗儿。",
+    "movie": "我们以前卖书，旧照片里摊位上的书排成小山；一只旺旺小狗看摊，顾客来时我们一本本递过去。",
+    "zh": "我们以前卖书。"
+  },
+  "T20:7": {
+    "fr": "Elles partiront demain.",
+    "sound": "诶儿，帕儿蒂隆，德曼。",
+    "movie": "她们明天出发，打包好的箱子靠着门排队；明天那页日历藏在最上面，现在大家还在做出发准备。",
+    "zh": "她们明天出发。"
+  },
+  "T20:8": {
+    "fr": "Je pourrais venir vendredi.",
+    "sound": "Je pourrais venir vendredi：这，周五也许能来。",
+    "movie": "我看看周五那格日历，说那天也许可以来；小车先把路线画好，还要等安排确定，这只是能来的可能。",
+    "zh": "我周五可以来。"
+  },
+  "T21:1": {
+    "fr": "Je cherche le mot « billet » dans le glossaire.",
+    "sound": "热，谢儿什，勒莫，毕业（billet），当，勒，glossaire。",
+    "movie": "我边谢边在词汇附录查billet，毕业帽书签帮忙停住；看到票的词义，就想起毕业买票回家。",
+    "zh": "我在词汇附录里查billet这个词。"
+  },
+  "T21:2": {
+    "fr": "Il me faut un billet aller retour.",
+    "sound": "衣儿，默，福，un，毕业（billet），阿雷，热图儿。",
+    "movie": "我需要一张往返票，毕业后想去一趟再回来；票上的去回两条路线一起亮起，少一程都不够。",
+    "zh": "我需要一张往返票。"
+  },
+  "T21:3": {
+    "fr": "Ce mot a deux sens dans ce livre.",
+    "sound": "Ce mot a deux sens dans ce livre：这词两只桑叶盒，两种意思。",
+    "movie": "这个词在本书里有两个意思，一只小手举出两只不同的桑叶盒；翻开各自例句，两个意思都住在书中。",
+    "zh": "这个词在本书有两个意思。"
+  },
+  "T21:4": {
+    "fr": "J’apprends « une cuillère » avec son article.",
+    "sound": "扎普朗，une cuillère，阿韦克，松，阿儿蒂克勒。",
+    "movie": "我学习une cuillère时，让冠词une骑在勺柄上；小松鼠提醒整组一起记，不能把冠词和勺子分开。",
+    "zh": "我把une cuillère连同冠词一起学。"
+  },
+  "T21:5": {
+    "fr": "Je classe « se lever » avec les activités quotidiennes.",
+    "sound": "热，克拉丝，se lever，阿韦克，勒，activités quotidiennes。",
+    "movie": "我给词语分类，把se lever放进日常活动篮；篮里起床、刷牙的玩具排成队，和每天的生活放在一起。",
+    "zh": "我把se lever归在日常活动组。"
+  },
+  "T21:6": {
+    "fr": "Je voudrais laisser un message.",
+    "sound": "热，乌德雷，莱塞，un，梅萨日。",
+    "movie": "我想留个口信，拿起电话对着梅子录音盒准备说话；盒子打开小耳朵等着，还没录下我的消息。",
+    "zh": "我想留个口信。"
+  },
+  "T21:7": {
+    "fr": "Quel temps fera-t-il samedi ?",
+    "sound": "Quel temps fera-t-il samedi：糖人问周六天气，太阳雨云待定。",
+    "movie": "我指着周六问天气会怎么样，日历旁的小糖人也仰头；太阳和雨云躲在后面，答案还等天气预报揭晓。",
+    "zh": "周六天气会怎样？"
+  },
+  "T21:8": {
+    "fr": "Je vérifie le sens dans la phrase.",
+    "sound": "热，韦里菲，勒桑丝，当，拉，弗拉兹。",
+    "movie": "我把词放回句子里核对意思，桑叶形放大镜沿着整句滑；看清前后内容，再检查这个词该怎样理解。",
+    "zh": "我在句中核对词义。"
+  },
+  "T22:1": {
+    "fr": "Dans cette phrase, « Léa » est le sujet.",
+    "sound": "当，塞特，弗拉兹；Léa，诶，勒，叙热。",
+    "movie": "在这个句子里，Léa坐上主语的小椅子；句子的动作从她这里出发，大家一看就知道主语是她。",
+    "zh": "在这个句子里，Léa是主语。"
+  },
+  "T22:2": {
+    "fr": "Le mot « calme » est un adjectif ici.",
+    "sound": "勒莫，卡勒姆，诶，un，阿杰克蒂夫，衣西。",
+    "movie": "calme这个词在这里穿上形容词的小围裙，给对象描绘安静的样子；一只小卡车轻轻停好，展示它的用途。",
+    "zh": "calme这个词在这里是形容词。"
+  },
+  "T22:3": {
+    "fr": "« Venir » est un infinitif.",
+    "sound": "venir，诶，un，昂菲尼蒂夫。",
+    "movie": "venir站在词语更衣室，保持原来的基本模样；它戴着不定式小帽，不换人称外套，说明它是不定式。",
+    "zh": "venir是不定式。"
+  },
+  "T22:4": {
+    "fr": "Dans « elle a fini », « a » est un auxiliaire.",
+    "sound": "当，elle a fini；啊（a），诶，un，auxiliaire。",
+    "movie": "elle a fini像小车，a啊地跑来当助动词推一把；fini坐在后面，两者配合表达她已经完成。",
+    "zh": "在elle a fini中，a是助动词。"
+  },
+  "T22:5": {
+    "fr": "« Fini » est un participe passé.",
+    "sound": "菲尼（fini），诶，un，participe，帕塞。",
+    "movie": "fini穿着过去分词的小背心，菲尼小人拿帕子擦好完成的练习；它展示自己是过去分词的身份。",
+    "zh": "fini是过去分词。"
+  },
+  "T22:6": {
+    "fr": "Je cherche la position des pronoms dans l’index.",
+    "sound": "热，谢儿什，拉，波兹雄，德，普罗农，当，兰代克斯。",
+    "movie": "我在索引里查代词的位置，波点小放大镜沿条目移动；找到代词相关条目，再顺着索引去看位置说明。",
+    "zh": "我在索引里查代词的位置。"
+  },
+  "T22:7": {
+    "fr": "La page indiquée est une page du livre.",
+    "sound": "拉，帕日，昂蒂凯，诶，une，帕日， dü，利弗儿。",
+    "movie": "标出的页码贴在书页下角，帕子形书签指向那里；我翻开实体书核对，这是书上印着的页码。",
+    "zh": "标出的页码是书的印刷页。"
+  },
+  "T22:8": {
+    "fr": "Je vérifie la règle avec un exemple.",
+    "sound": "热，韦里菲，拉，雷格勒，阿韦克，un，诶格赞普勒。",
+    "movie": "我把规则和例句并排放好，用小雷形铅笔逐处核对；例句像做示范的小朋友，让我看清规则怎样使用。",
+    "zh": "我用例句核对规则。"
+  }
+}

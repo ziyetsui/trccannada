@@ -1,0 +1,3 @@
+# Preserve OCR whitespace from source transcriptions.
+docs/source/*OCR.md -whitespace
+learning-library/sources/** -whitespace

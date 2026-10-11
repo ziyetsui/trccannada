@@ -1,0 +1,51 @@
+# lesson|three sentence-specific sound mnemonics, separated by ;;
+P01|见面问好嘴先圆，鼻音 bon、轻擦 jour，尾巴 r 别卷舌。;;想喝水，把词缩：de 轻轻，l’eau 圆圆，一个 o 收住口。;;问拼写，分两步：comment 鼻音先问路，ça s’écrit 接着说，é 亮、i 细记清楚。
+P02|小小 si 一声细，s 送气，i 舌前，别加滑音拖尾巴。;;夏天来到三步走：l’été 两个 é 亮，arrive 的 v 别漏，尾 e 不另走。;;妈妈在这儿：ma 张口，mère 开口配轻 r；est ici 常搭 t 桥，i 声细细落这里。
+P03|问你来：tu 圆唇舌头前，viens 鼻音不补 n。;;一切都好：tout 用后圆 u，va 张口，bien 鼻音收尾不添 n。;;街道安静：la 张，rue 前圆，est 开，calme 的 lm 都留在。
+P04|他想要一点：il 的 l 接 en，en 鼻音，veut、peu 小口圆，两颗圆珠接着转。;;我害怕：j’ai 轻擦开口走，peur 圆唇张大口，最后 r 轻轻收。;;一家小咖啡：c’est un 常搭 t，小 petit，亮 café，鼻音 un 不读成英文字。
+P05|面团好了：pâte 张口，prête 开口，两个 t 都要在，尾 e 不添拍。;;小猫小爪：chat 的 t 藏好，patte 的 t 要到；petite 也有 t，猫爪分清就读好。;;爸爸来了：papa 两口 a，arrive 尾 v 留下，书写 e 不加一拍啦。
+P06|真好看：c’est 开，beau 圆；eau 三字只一音，别拆开排队念。;;白碗摆好：bol 开圆带 l，blanc 鼻音不叫 c，est 的 t 不乱添。;;小船过：bateau 最后圆成 o，passe 的 ss 只送气，尾 e 不跟着走。
+P07|他没车：il 的 l 接 est，sans 用鼻音，voiture 先滑 wa、后前圆，r 轻轻收。;;包在这：son 鼻音，sac 的 k 接 est；est ici 常搭 t，别把两个桥混在一起。;;风很大：vent 鼻音藏 t，fort 圆开带 r，末尾 t 继续藏，不往 est 偷搭桥。
+P08|我拿面包：je 轻，prends 鼻，du 前圆，pain 再鼻；两种鼻音别一锅煮。;;棕衣穿好：porte 的 rt 留，un、manteau、brun 各守鼻音；manteau 尾 o 圆，不补 n。;;车坏了：voiture 先 wa 再前圆，est en 常搭 t；panne 的 n 真要响，鼻音 en 别再添 n。
+P09|面包好：pain 前鼻、bon 后圆鼻，两个都不补 n，中间 est 不乱出 t。;;都准备好：tout est 叫醒 t，prêt 的 t 却睡着，一醒一睡记得牢。;;车站大：gare 的 r 接 est，grande 的 d 真要响，书写 e 不加场。
+P10|看美酒：voici 的 oi 滑成 wa，du 前圆，vin 鼻化；最后 n 不单发。;;鱼很鲜：poisson 双 s 送气、on 鼻音，frais 的 ai 开口，末尾 s 藏起来。;;房子大：maison 的 s 要振成 z，on 鼻音不接 n；grande 的 d 留到尾。
+P11|猫睡觉：chat 送气别振喉，dort 的 r 轻轻留，t 躲着不出头。;;我玩耍：je、joue 都让喉咙振，joue 的 ou 后圆唇，一口气不添 d。;;长颈鹿高：girafe 的 g 轻擦振喉，f 接 est 往前走，grande 的 d 别漏。
+P12|长长街：rue 前圆别后缩，longue 鼻音后有 g，尾 e 不加一个呃。;;书在那：livre 的 vr 都留下，est、là 顺着到，là 用 a 张口落。;;看月亮：regarde 的 rd 留住，lune 前圆不是后圆，n 真响，尾 e 不添步。
+P13|妈妈来了：maman 后鼻音，arrive 的 v 清楚听；别在鼻音后添 n。;;我们去山里：nous allons 搭 z 桥，montagne 鼻音后，gn 合成一个软鼻音。;;停车场满：parking 留 ng 的鼻尾，不硬添 g；plein 用法语鼻元音，别读成英语 plane。
+P14|是，我来：oui 滑过去，je 轻轻，viens 鼻音收；一句别逐字顿成三小楼。;;八点钟：il 的 l 接 est，huit 的 t 本来在，接 heures，不再多搭一个 t。;;脚好疼：j’ai 开，mal 带 l，au 圆成 o，pied 滑到 é，d 藏着不出头。
+P15|小猫睡：petit 的 t 藏，chat 的 t 也藏，dort 只留 r，别把尾字都读响。;;包在这儿：sac 本有 k，接 est 别再加；est ici 常用 t，小桥各守各的家。;;小房子：une 的 n、petite 的 t 真发声，maison 的 on 鼻化，最后 n 不单生。
+P16|点咖啡说请：café 的 é 亮，s’il 的 l 留，vous 的 s 藏；plaît 尾 t 也别响。;;天气冷：il 的 l 留，fait 的 t 藏，froid 先 fr 再 wa，d 藏到最后呀。;;男孩在那：garçon 的 ç 送气、on 鼻化；est là 平顺走，là 张口落下。
+P17|礼貌点咖啡：voudrais 先后圆 u 再开口，un 鼻化，café 末 é 亮亮收。;;明早早走：demain、matin 前鼻音，partirons 后鼻音；tôt 圆 o，尾 t 不跟进。;;小书真有用：petit 藏 t，livre 留 vr，très utile 搭 z，utile 的 u 要前圆。
+P18|朋友到了：les amis 搭 z 桥，amis 尾 s 藏好；arrivent 只收 v，ent 不另报到。;;您有时间：vous avez 搭 z，avez 的 ez 亮成 é；temps 鼻化，ps 都藏起。;;我们有两孩：nous avons 先搭 z，deux enfants 再搭 z；两座桥各走一回，鼻音尾巴别添 n。
+P19|莉娅朋友来：l’ami 连着念，Léa 两颗元音亮，arrive 尾 v 别丢掉。;;我和她来：viens 鼻音不补 n，avec 的 k 接 elle，桥是原来的 k，不是新来的 z。;;英雄勇敢：héros 的 h 不响却守门，别乱搭桥；courageux 尾 eu 小圆口，x 藏好。
+P20|您来吗：vous 后圆 u，venez 末 é 亮；问句靠语调，s、z 不逐字响。;;六点钟：six 单读像 sis，接 heures 变 z；il est 留 l，数字变化牢牢记。;;十二十四别说混：douze 的 z 要留，quatorze 的 rz 都到位；逗号停一下，数字清楚再继续。
+M01|问词怎么读：comment 鼻，prononce 鼻后 s，倒装搭 t-on；ce 轻、mot 圆，别念字母串。;;请放句里说：pouvez 的 ez 亮，vous 后圆，dire 留 r；phrase 的 s 振成 z，末 e 不添拍。;;核对发音：vérifie 的 i 细，prononciation 的 tion 走 sjɔ̃；最后鼻音不添 n。
+M02|和她一切好：avec 的 k 接 elle，tout 的 t 在 va 前藏；bien 鼻化，别把桥搭错方向。;;中午他来：il 的 l 接 arrive，arrive 的 v 接 à；midi 两颗 i，连着却不吞。;;朋友住这里：une 的 n 接 amie，habite 的 h 不响，t 接 ici，已有辅音接着跑。
+M03|我喝杯咖啡：je 轻，prends 鼻，un 再鼻；café 最后 é 亮，尾 n 不补起。;;和莉娅喝咖啡：先把咖啡说完整，avec Léa 加后面；Léa 两元音，别挤成一声呀。;;明早再见：demain matin 两鼻音，on 又后圆鼻；retrouve 收 v，e 不添新拍子。
+M04|给他那本书：je 轻，lui 前圆滑，donne 真 n；livre 留 vr，小词别吞光。;;她去车站：elle 的 l 留，va à 两个 a 自然接，gare 的 r 轻轻歇。;;朋友在这里：nous avons 搭 z，des amis 再搭 z；ici 两个 i，小词排队不丢失。
+M05|给你它：je、te、le 三小步，donne 真 n 稳稳收；先留弱 e，再练快，代词顺序不乱走。;;小男孩来：petit 藏 t，garçon 鼻化，arrive 留 v；尾字不乱醒，人物说清楚。;;不知道：je、ne 轻，sais 开，pas 张；ne…pas 两头在，别先把否定吞光。
+M06|孩子来了：les enfants 搭 z，enfants 鼻音藏 ts；arrivent 的 ent 不另唱。;;保罗和安娜：et 的 t 永不搭桥，Paul、Anne 的 l、n 真要在，arrivent 尾 v 留下来。;;英雄归来：les héros 门口不搭 z，reviennent 的 n 真发声，ent 继续悄悄藏。
+M07|我说法语：je 轻，parle 留 rl，français 鼻后开口；ais 藏 s，别加一拍走。;;你说法语：tu 前圆，parles 只收 rl；français 尾 s 不报到，说话人换了音不乱跑。;;他们说法语：ils 在 parle 前藏 s，parlent 的 ent 都不念；三种人称，parle 一样听。
+M08|餐馆近：restaurant 鼻音尾 t 藏，proche 的 ch 只送气；别在 est 前硬搭桥。;;真方便：c’est 开口，très 的 s 在 p 前藏；pratique 的 qu 是 k，尾 e 不拖长。;;好几班车：il y a 熟成一小组，plusieurs 留 z、收 r，trains 鼻音不念 s。
+M09|问好报姓名：bonjour 鼻后圆，m’appelle 收 l，Lina 的 i、a 亮；逗号歇一口再报上。;;明天愿意去公园：demain 鼻，si tu veux 前圆嘴；on 鼻，ira au parc 收 rk，三组说齐不抢嘴。;;他说准备好：dit 的 t 藏，je suis 的 ui 滑，prêt 开口藏 t；引用前留个小空隙。
+M10|等一下再想：un instant 搭 n，鼻音仍留下；réfléchis 的 ch 送气，尾 s 藏起来。;;换问法：reformule 的 u 前圆，question 的 qu 是 k，tion 走 sjɔ̃，最后别补 n。;;请重复末一段：pouvez、répéter 的 é 要亮，dernière 开口留 r，partie 收 i 不带 e。
+M11|周一不是周二：lundi 鼻后 i，mardi 张口带 r；pas 要说清，别把对比糊过去。;;电话我打的：moi 滑 wa，qui ai 两元音，appelé 末 é 亮；把 moi 托出来，别靠大声吼。;;我要小包：veux 小圆口，petit 尾 t 藏，sac 的 k 真要响；重点落 petit，小包记心上。
+M12|你明天来：tu 前圆，viens、demain 都鼻化；问不问靠句调，末尾别添 n 啊。;;真的明天来：vraiment 的 ai 开、ment 鼻，惊讶先一问；tu viens demain 再一组，别用音高硬换词音。;;住哪里：où 后圆 u，habitez 的 h 不响、ez 亮；倒装接 vous，z 属于这个结构别乱放。
+M13|购物三件套：pain 鼻，lait 开，œufs 复数常圆 ø；et 不搭 t，des œufs 搭 z，清单分组说。;;茶还是咖啡：préférez 的 é 亮，thé 也亮，ou 后圆；两边分清楚，别把 ou 念成前圆 u。;;一方方便一方贵：part、pratique 的 r 留，cher 的 ch 送气；两段对称说，结尾一个 r。
+M14|拼名字：vous épelle 搭 z，épelle 收 l；mon nom 两后鼻音，鼻尾不添 n。;;B 像 bonjour 的 B：字母 B 念 /be/，bonjour 鼻后圆；字母和整词分开听，别照英语字母读。;;读回号码：pouvez 的 é 亮，relire 的 r 留；numéro 的 u 前圆、末 o 圆，数字一组组守。
+M15|重复这句话：répète 的 è 开、t 响，phrase 的 s 振成 z，尾 e 不添响。;;录音来对比：m’enregistre 鼻音后轻擦振喉，comparer 末 é 亮；两组读清再快走。;;一次练一音：travaille 的 ill 滑，un son 保鼻化，fois 的 oi 走 wa；一个声音一遍抓。
+F01|带口音说法语：parle 留 rl，français 鼻化；mon accent 搭 n，鼻音还得在，不追一口假腔调。;;请您换个说法：pour reformuler 记后圆 u、再前圆 u，结尾 er 亮 é；pouvez-vous 先稳再快去。;;理解最重要：important 鼻音、t 藏，comprendre 鼻后 dr 留；小词 de、se 先保留，整组连着走。
+F02|约在十五点：rendez-vous 不搭 z，est à 常搭 t，quinze 鼻音带原有 z 接 heures；三处各管各，十五才不读成十六。;;没说十六点：n’ai 缩成一组，pas 张口守否定；seize 开口不鼻化，z 接 heures，和 quinze 分得清。;;再说重要点：répéter 的 é 亮，point 鼻音藏 t；important 鼻音开头不借 t，重点说清不挤快。
+F03|完整不知道：je、ne 两个轻，sais 开、pas 张；先把 ne 留住，否定架子搭稳当。;;口语不知道：je sais pas 少个 ne，sais 开口、pas 张口；少词不等于乱吞音，先清楚再流利。;;还没有：pas 张，encore 鼻后带 kr；pas encore 可有 z 连接，听见别惊讶，没桥也别硬加。
+F04|我想这可能：pense 鼻音后 s，que 轻，c’est 开，possible 的 bl 留；先读完整再学快。;;大桌备好：grande 真 d，table 真 bl，prête 真 t；尾 e 不添拍，辅音别全躲。;;我能告诉你：peux 小圆，te、le 两轻，dire 留 r；代词按顺序，别快到都不见。
+F05|首先讲项目：pour 留 r，commencer 尾 é 亮；présente 鼻后 t，projet 末开口，逗号换气再登场。;;接着看结果：ensuite 鼻后 ui 滑、t 留，verrons 后圆鼻；résultats 的 u 前圆，ts 藏，别把结果吞。;;最后答问题：enfin 两鼻音，répondrai 鼻后开口；questions 的 tion 走 sjɔ̃，三组有序收。
+F06|这书读过啦：livre 留 vr，l’ai 先缩，déjà 轻擦振喉，lu 前圆；话题先摆，再说读过它。;;莉娅来组织：Léa 两元音，organise 的 s 振成 z，réunion 前圆带滑音、尾鼻；姓名亮，尾组稳。;;变的是日期：change 鼻后轻擦振喉，c’est 开，date 的 t 留；先说变化，再落日期别糊涂。
+F07|在我看有可能：semble 鼻后 bl，possible 也留 bl；中间小词轻轻过，两头辅音不丢失。;;这一点我同意：suis 前圆滑，d’accord 收 r，point 鼻化藏 t；观点稳稳落，不靠猛抬音。;;仍然谨慎：reste 的 st 留，prudent 的 u 前圆、尾鼻；最后 t 藏，谨慎二字音要稳。
+F08|我懂您的意思：vois 走 wa，vous voulez 后圆 u、末 é，dire 收 r；长句拆两组，小词别失踪。;;对了收到消息没：propos 圆 o 藏 s，reçu 的 ç 送气、u 前圆，message 末轻擦振喉；问句别抢跑。;;回到话题：revenir 留 r，notre 留 tr，sujet 的 u 前圆、尾开口；两组接着走，末 t 不出口。
+F09|起初都平静：début 前圆藏 t，tout était 搭 t；calme 留 lm，平静的尾巴也清晰。;;突然电话响：tout à coup 搭 t，coup 的 p 藏；téléphone 的 n 真发，sonné 尾 é 亮。;;最后回家：finalement 尾鼻，sommes 的 m 真响，rentrés 鼻后 é；最后 s 藏，回家别添声。
+F10|礼貌关窗：pourriez 的 r 后滑 j，vous 后圆，fermer 尾 é；fenêtre 开口带 tr，窗尾不添一格。;;可否改时间：serait-il 的 t 连出来，possible 留 bl；changer 鼻后 é，l’heure 圆开收 r，礼貌一组组来。;;谢谢真帮忙：merci 开后 i，aiderait 开口收，beaucoup 后圆 u；p 藏起来，感谢别拖尾。
+F11|我讲三个点：présenter 鼻后 é，trois 滑 wa，points 鼻化藏 ts；三个点说清，别一口冲到底。;;现在看结果：passons、maintenant 鼻化，aux 圆成 o；résultats 的 u 前圆、尾 a，ts 藏起来。;;最后记想法：conclure 鼻后前圆 u，retenons 尾后鼻；cette 的 t 真发，idée 的 é 亮，收尾不慌张。
+F12|项目昨天开：projet 开口藏 t，savez 尾 é；commencé 鼻后 é，hier 的 r 留，插句放轻再回主线。;;她说会议延：selon 后圆鼻，elle 留 l；réunion 鼻化，reportée 尾 é，结尾说完整。;;他说明天确认：dit 的 t 藏，confirme 鼻后 rm 留；demain 鼻音收，引用另成组，别把两层糊一起。
+F13|总结两选项：résumé 的 é 亮，deux options 搭 z；restent 收 st、possibles 收 bl，词尾 ent、s 不加拍。;;不过费用高：cependant 鼻化，coût 圆 u 藏 t；reste 留 st，élevé 三个 é，一步步把高价说清晰。;;感谢聆听：merci 收 i，votre 留 tr；attention 的 tion 走 sjɔ̃，鼻音收好别添 n。
+F14|周一你来：tu 前圆、viens 鼻化，lundi 鼻后 i；口音会变鼻音色，别跟 n 再来一遍。;;棕外套穿好：porte 留 rt，manteau 鼻后 o，brun 圆唇鼻化；地区音色可变，末 n 不单挂。;;庆祝快开始：fête 的 è 开、t 留，commence 鼻后 s，bientôt 鼻后 o；尾 t 藏好，别读成字母表。
+F15|信息清楚吗：est-ce 的 s 留，mon 鼻化，message 振喉，clair 开口收 r；问句整组走，关键名词清楚说。;;这句慢重说：reprendre 鼻后 dr，cette 留 t，phrase 振 z；lentement 鼻音走，plus 在这里 s 藏，慢也不乱加声。;;感谢您反馈：merci 收 i，pour 留 r，votre 留 tr，retour 后圆 u 收 r；两组稳稳合，轻轻把尾收。

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "nine books, 230 lessons",
+    "passed": true
+  },
+  {
+    "name": "40 stories book filter",
+    "passed": true
+  },
+  {
+    "name": "22 Oxford sections book filter",
+    "passed": true
+  },
+  {
+    "name": "global source quality reminder visible on any story",
+    "passed": true
+  },
+  {
+    "name": "French original disabled until voices arrive",
+    "passed": true
+  },
+  {
+    "name": "original story uses French TTS",
+    "passed": true
+  },
+  {
+    "name": "all first story, vocab, questions and answer blocks retained",
+    "passed": true
+  },
+  {
+    "name": "French selection in mixed Oxford page can be spoken",
+    "passed": true
+  },
+  {
+    "name": "all first Oxford source blocks retained",
+    "passed": true
+  },
+  {
+    "name": "scan links resolve",
+    "passed": true
+  },
+  {
+    "name": "source answer defect visibly flagged",
+    "passed": true
+  },
+  {
+    "name": "last story direct link",
+    "passed": true
+  },
+  {
+    "name": "new exercise explanations",
+    "passed": true
+  },
+  {
+    "name": "Oxford appendices available",
+    "passed": true
+  },
+  {
+    "name": "source front matter renders without schema mismatch",
+    "passed": true
+  },
+  {
+    "name": "all 40 story mappings",
+    "passed": true
+  },
+  {
+    "name": "all 22 Oxford mappings",
+    "passed": true
+  },
+  {
+    "name": "dark source reading has no mobile overflow",
+    "passed": true
+  },
+  {
+    "name": "mixed Oxford source has no mobile overflow",
+    "passed": true
+  },
+  {
+    "name": "nine-book mobile dashboard has no overflow",
+    "passed": true
+  },
+  {
+    "name": "no JavaScript errors",
+    "passed": true
+  }
+]

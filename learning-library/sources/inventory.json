@@ -1,0 +1,79 @@
+[
+  {
+    "id": "grammar",
+    "source_file": "English Grammar in Use Book with Answers -- A self-study reference and practice book for intermediate learners of English (Raymond Murphy) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 392,
+    "native_pages": 390,
+    "ocr_pages": 2,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "phrasal-verbs",
+    "source_file": "English Phrasal Verbs in Use (Michael McCarthy, Felicity ODell) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 210,
+    "native_pages": 210,
+    "ocr_pages": 0,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "phrasal-verbs-advanced",
+    "source_file": "English Phrasal Verbs in Use Advanced (Vocabulary in Use) (McCarthy, Michael, ODell, Felicity) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 189,
+    "native_pages": 0,
+    "ocr_pages": 189,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "pronunciation-introduction",
+    "source_file": "English Pronunciation In Use - Introduction (Mark Hancock) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 19,
+    "native_pages": 7,
+    "ocr_pages": 12,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "pronunciation-elementary",
+    "source_file": "English Pronunciation in Use - Elementary (Jonathan Marks) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 168,
+    "native_pages": 0,
+    "ocr_pages": 168,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "pronunciation-advanced",
+    "source_file": "English Pronunciation in Use Advanced (Martin Hewings) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 191,
+    "native_pages": 191,
+    "ocr_pages": 0,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "oxford-idioms",
+    "source_file": "Oxford Word Skills Advanced Idioms  Phrasal Verbs Student Book with Key (Ruth Gairns, Stuart Redman) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf_pages": 200,
+    "native_pages": 200,
+    "ocr_pages": 0,
+    "conversion_status": "automatic-extraction-needs-review"
+  },
+  {
+    "id": "french-stories",
+    "source_file": "Learn French for Beginners - 3 in 1 Bundle 40 Exciting French Short Stories to Easily Learn French  Improve Your Vocabulary… (Language Learning, Touri) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "conversion_status": "complete-spine-extraction",
+    "format": "epub",
+    "sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "reader_units": 40,
+    "spine_documents": 313,
+    "story_units": 40
+  },
+  {
+    "id": "oxford-take-off",
+    "source_file": "/Users/ziye/Downloads/Oxford take off in French (Marie-Thérèse Bougard) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "conversion_status": "automatic-extraction-needs-review",
+    "format": "pdf",
+    "sha256": "ceeb86981e4e2cfd5ac34924bb1c1bbc8fe06909d42bf76038aa06ae5cfcad02",
+    "reader_units": 22,
+    "pdf_pages": 131,
+    "native_pages": 0,
+    "ocr_pages": 131
+  }
+]
