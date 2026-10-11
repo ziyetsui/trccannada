@@ -1,0 +1,51 @@
+# lesson|three examples separated by ;; ; each chunk French~Chinese, separated by §
+P01|Bonjour~你好;;De l’eau~一些水;;Comment~怎样§ça s’écrit~这个拼写
+P02|Si~如果／反驳否定时的“是的”;;L’été~夏天§arrive~来了;;Ma mère~我母亲§est ici~在这里
+P03|Tu viens~你来吗;;Tout~一切§va bien~都很好;;La rue~街道§est calme~很安静
+P04|Il~他§en veut peu~想要的不多（en 指前文提到的东西）;;J’ai peur~我害怕（字面：我有害怕的感觉）;;C’est~这是§un petit café~一家小咖啡馆
+P05|La pâte~面团§est prête~准备好了;;Le chat~猫§a une petite patte~有一只小爪子;;Papa~爸爸§arrive~来了
+P06|C’est beau~这很美;;Le bol~碗§est blanc~是白色的;;Un bateau~一艘船§passe~经过
+P07|Il est~他处于……状态§sans voiture~没有车;;Son sac~他／她的包§est ici~在这里;;Le vent~风§est fort~很大
+P08|Je prends~我拿／我要§du pain~一些面包;;Il porte~他穿着§un manteau brun~一件棕色外套;;La voiture~汽车§est en panne~坏了（en panne 表示故障状态）
+P09|Le pain~面包§est bon~很好吃;;Tout~一切§est prêt~准备好了;;La gare~车站§est grande~很大
+P10|Voici~这是§du vin~一些葡萄酒;;Le poisson~鱼§est frais~很新鲜;;La maison~房子§est grande~很大
+P11|Le chat~猫§dort~在睡觉;;Je joue~我在玩;;La girafe~长颈鹿§est grande~很高
+P12|La rue~这条街§est longue~很长;;Le livre~书§est là~在那里;;Il regarde~他看着§la lune~月亮
+P13|Maman~妈妈§arrive~来了;;Nous allons~我们去§à la montagne~山区;;Le parking~停车场§est plein~满了
+P14|Oui~是的§je viens~我来;;Il est~现在是§huit heures~八点;;J’ai mal~我疼§au pied~在脚部（合起来：我脚疼）
+P15|Le petit chat~小猫§dort~在睡觉;;Le sac~包§est ici~在这里;;Une petite maison~一所小房子
+P16|Un café~一杯咖啡§s’il vous plaît~请（固定礼貌表达）;;Il fait froid~天气冷（il fait 用于描述天气）;;Le garçon~男孩§est là~在那里
+P17|Je voudrais~我想要（礼貌表达）§un café~一杯咖啡;;Demain matin~明天早晨§nous partirons tôt~我们会早出发;;Ce petit livre~这本小书§est très utile~很有用
+P18|Les amis~朋友们§arrivent~来了;;Vous avez~您有§le temps~时间;;Nous avons~我们有§deux enfants~两个孩子
+P19|L’ami de Léa~莉娅的朋友§arrive~来了;;Je viens~我来§avec elle~和她一起;;Le héros~这位英雄§est courageux~很勇敢
+P20|Vous venez~您来吗;;Il est~现在是§six heures~六点;;Je répète~我重复一下§douze~十二§quatorze~十四
+M01|Comment~怎样§prononce-t-on~人们读§ce mot~这个词;;Pouvez-vous~您能否§le dire~说出它§dans une phrase~放进一个句子里;;Je vérifie~我核对§la prononciation~发音
+M02|Avec elle~和她一起§tout va bien~一切都好;;Il arrive~他到达§à midi~在中午;;Une amie~一位女性朋友§habite ici~住在这里
+M03|Je prends~我要／我喝§un café~一杯咖啡;;Je prends un café~我喝一杯咖啡§avec Léa~和莉娅一起;;Demain matin~明天早晨§on se retrouve~我们再见面
+M04|Je lui donne~我给他／她§le livre~这本书;;Elle va~她去§à la gare~车站;;Nous avons~我们有§des amis ici~一些朋友在这里
+M05|Je te le donne~我把它给你（te：给你；le：它）;;Le petit garçon~小男孩§arrive~来了;;Je ne sais pas~我不知道（ne…pas 构成否定）
+M06|Les enfants~孩子们§arrivent~来了;;Paul et Anne~保罗和安娜§arrivent~来了;;Les héros~英雄们§reviennent~回来了
+M07|Je parle~我说§français~法语;;Tu parles~你说§français~法语;;Ils parlent~他们说§français~法语
+M08|Le restaurant~餐馆§est proche~很近;;C’est~这§très pratique~很方便;;Il y a~有（固定结构）§plusieurs trains~好几班火车
+M09|Bonjour~你好§je m’appelle Lina~我叫莉娜;;Demain~明天§si tu veux~如果你愿意§on ira au parc~我们去公园;;Il dit~他说§Je suis prêt~我准备好了
+M10|Un instant~稍等一下§je réfléchis~我想一想;;Je reformule~我重新表述§ma question~我的问题;;Vous pouvez~您能否§répéter~重复§la dernière partie~最后一部分
+M11|C’est lundi~是周一§pas mardi~不是周二;;C’est moi~是我§qui ai appelé~打了电话（qui 指 moi，所以用 ai）;;Je veux~我想要§le petit sac~小的那个包
+M12|Tu viens~你来吗§demain~明天;;Vraiment~真的吗§Tu viens demain~你明天来吗;;Où~哪里§habitez-vous~您住
+M13|Il faut~需要§du pain~面包§du lait~牛奶§et des œufs~和鸡蛋;;Vous préférez~您更喜欢§le thé~茶§ou le café~还是咖啡;;D’une part~一方面§c’est pratique~很方便§d’autre part~另一方面§c’est cher~很贵
+M14|Je vous épelle~我为您拼写§mon nom~我的姓名;;C’est B~是字母 B§comme dans bonjour~像 bonjour 里的 B;;Pouvez-vous~您能否§me relire~给我读回§le numéro~号码
+M15|Je répète~我重复§la phrase~这句话;;Je m’enregistre~我录下自己§pour comparer~用来比较;;Je travaille~我练习§un son~一个声音§à la fois~一次（合起来：一次只练一个）
+F01|Je parle français~我说法语§avec mon accent~带着自己的口音;;Pouvez-vous~您能否§reformuler~换一种说法;;L’important~重要的事§c’est de se comprendre~是彼此理解
+F02|Le rendez-vous~这次预约§est à quinze heures~定在十五点（下午三点）;;Je n’ai pas dit~我没有说§seize heures~十六点（下午四点）;;Je vais répéter~我将重复§le point important~重要的那个要点
+F03|Je ne sais pas~我不知道（完整否定形式）;;Je sais pas~我不知道（常见口语中省去 ne）;;Pas encore~还没有
+F04|Je pense~我觉得§que c’est possible~这有可能;;Une grande table~一张大桌子§est prête~准备好了;;Je peux~我能§te le dire~把它告诉你（te：给你；le：它）
+F05|Pour commencer~首先§je présente le projet~我介绍这个项目;;Ensuite~接着§nous verrons les résultats~我们看结果;;Enfin~最后§je répondrai~我会回答§à vos questions~您的问题
+F06|Ce livre~这本书§je l’ai déjà lu~我已经读过它（l’ 指前面的 livre）;;C’est Léa~是莉娅§qui organise la réunion~组织会议;;Ce qui change~改变的事情§c’est la date~是日期
+F07|Il me semble~在我看来§que c’est possible~这有可能;;Je suis d’accord~我同意§sur ce point~在这一点上;;Je reste prudent~我仍持谨慎态度
+F08|Je vois~我明白§ce que vous voulez dire~您想说的意思;;À propos~对了§avez-vous reçu~您收到过吗§le message~这条消息;;Pour revenir~为了回到§à notre sujet~我们的话题（合起来：回到我们的话题）
+F09|Au début~起初§tout était calme~一切都很平静;;Tout à coup~突然（固定短语）§le téléphone a sonné~电话响了;;Finalement~最后§nous sommes rentrés~我们回去了（sommes 在这里是过去时助动词）
+F10|Pourriez-vous~您能否（礼貌请求）§fermer la fenêtre~关上窗户;;Serait-il possible~是否可以§de changer l’heure~改一下时间;;Merci~谢谢§cela m’aiderait beaucoup~这会很帮忙
+F11|Je vais présenter~我将介绍§trois points~三个要点;;Passons maintenant~现在让我们转到§aux résultats~结果;;Pour conclure~最后／作个总结§retenons cette idée~让我们记住这个想法
+F12|Le projet~这个项目§comme vous le savez~如您所知（le 指前面这个事实）§a commencé hier~昨天开始了;;Selon elle~据她说§la réunion est reportée~会议推迟了;;Il a dit~他说过§Je confirme demain~我明天确认
+F13|En résumé~总之§deux options~两个选项§restent possibles~仍然可行;;Cependant~不过§le coût~费用§reste élevé~仍然很高;;Merci~感谢§de votre attention~您的聆听
+F14|Tu viens~你来吗§lundi~周一;;Il porte~他穿着§un manteau brun~一件棕色外套;;La fête~庆祝活动§commence bientôt~很快开始
+F15|Est-ce que~是否（引出是非问句）§mon message~我的信息§est clair~清楚;;Je vais reprendre~我将重新说§cette phrase~这句话§plus lentement~更慢一些;;Merci~感谢§pour votre retour~您的反馈

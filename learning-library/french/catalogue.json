@@ -1,0 +1,5321 @@
+[
+  {
+    "id": "G01",
+    "title": "谁在做事：主语与 être",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "P01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:82",
+      "grammar:83",
+      "grammar:84",
+      "pronunciation-elementary:39",
+      "pronunciation-introduction:35"
+    ],
+    "file": "french/grammar/G01.md"
+  },
+  {
+    "id": "G02",
+    "title": "拥有与感受：avoir",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:17"
+    ],
+    "file": "french/grammar/G02.md"
+  },
+  {
+    "id": "G03",
+    "title": "规律动作：-er 动词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:2"
+    ],
+    "file": "french/grammar/G03.md"
+  },
+  {
+    "id": "G04",
+    "title": "常见不规则动词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/grammar/G04.md"
+  },
+  {
+    "id": "G05",
+    "title": "动作回到自己：自反动词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/grammar/G05.md"
+  },
+  {
+    "id": "G06",
+    "title": "给句子加“不”",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:31",
+      "grammar:32"
+    ],
+    "file": "french/grammar/G06.md"
+  },
+  {
+    "id": "G07",
+    "title": "怎样问问题",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:49",
+      "grammar:50",
+      "grammar:51",
+      "grammar:52"
+    ],
+    "file": "french/grammar/G07.md"
+  },
+  {
+    "id": "G08",
+    "title": "现在、习惯与正在发生",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "基础句子",
+    "prerequisites": [
+      "G07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:1",
+      "grammar:2",
+      "grammar:3",
+      "grammar:4"
+    ],
+    "file": "french/grammar/G08.md"
+  },
+  {
+    "id": "G09",
+    "title": "做完的事：passé composé 与 avoir",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "过去与持续",
+    "prerequisites": [
+      "G08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:5",
+      "grammar:7",
+      "grammar:8",
+      "grammar:9",
+      "grammar:10",
+      "pronunciation-elementary:40",
+      "pronunciation-elementary:43",
+      "pronunciation-introduction:27"
+    ],
+    "file": "french/grammar/G09.md"
+  },
+  {
+    "id": "G10",
+    "title": "使用 être 的复合过去时",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "过去与持续",
+    "prerequisites": [
+      "G09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/grammar/G10.md"
+  },
+  {
+    "id": "G11",
+    "title": "过去的背景：imparfait",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "过去与持续",
+    "prerequisites": [
+      "G10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:6",
+      "grammar:18",
+      "phrasal-verbs:55"
+    ],
+    "file": "french/grammar/G11.md"
+  },
+  {
+    "id": "G12",
+    "title": "背景与事件：两种过去时",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "过去与持续",
+    "prerequisites": [
+      "G11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:6",
+      "grammar:13",
+      "grammar:14"
+    ],
+    "file": "french/grammar/G12.md"
+  },
+  {
+    "id": "G13",
+    "title": "比过去更早：plus-que-parfait",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "过去与持续",
+    "prerequisites": [
+      "G12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:15",
+      "grammar:16"
+    ],
+    "file": "french/grammar/G13.md"
+  },
+  {
+    "id": "G14",
+    "title": "多久、从何时起与多久以后",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "过去与持续",
+    "prerequisites": [
+      "G13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:7",
+      "grammar:8",
+      "grammar:9",
+      "grammar:10",
+      "grammar:11",
+      "grammar:12",
+      "grammar:119",
+      "grammar:120"
+    ],
+    "file": "french/grammar/G14.md"
+  },
+  {
+    "id": "G15",
+    "title": "接下来的计划：futur proche",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "将来、条件与语气",
+    "prerequisites": [
+      "G14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:19",
+      "grammar:20"
+    ],
+    "file": "french/grammar/G15.md"
+  },
+  {
+    "id": "G16",
+    "title": "将来的事件与提前完成",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "将来、条件与语气",
+    "prerequisites": [
+      "G15"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:21",
+      "grammar:22",
+      "grammar:23",
+      "grammar:24",
+      "grammar:25"
+    ],
+    "file": "french/grammar/G16.md"
+  },
+  {
+    "id": "G17",
+    "title": "能、想、必须",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "将来、条件与语气",
+    "prerequisites": [
+      "G16"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:26",
+      "grammar:28",
+      "grammar:29",
+      "grammar:30",
+      "grammar:31",
+      "grammar:32",
+      "grammar:51",
+      "grammar:52",
+      "pronunciation-introduction:36"
+    ],
+    "file": "french/grammar/G17.md"
+  },
+  {
+    "id": "G18",
+    "title": "礼貌请求与建议：conditionnel",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "将来、条件与语气",
+    "prerequisites": [
+      "G17"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:27",
+      "grammar:33",
+      "grammar:34",
+      "grammar:35",
+      "grammar:36",
+      "grammar:37"
+    ],
+    "file": "french/grammar/G18.md"
+  },
+  {
+    "id": "G19",
+    "title": "如果……：si 条件句",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "将来、条件与语气",
+    "prerequisites": [
+      "G18"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:25",
+      "grammar:38",
+      "grammar:39",
+      "grammar:40",
+      "grammar:41",
+      "grammar:114",
+      "grammar:115",
+      "grammar:117",
+      "grammar:118"
+    ],
+    "file": "french/grammar/G19.md"
+  },
+  {
+    "id": "G20",
+    "title": "愿望、必要与怀疑：subjonctif",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "将来、条件与语气",
+    "prerequisites": [
+      "G19"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:38",
+      "grammar:39",
+      "grammar:40",
+      "grammar:41",
+      "grammar:114",
+      "grammar:115"
+    ],
+    "file": "french/grammar/G20.md"
+  },
+  {
+    "id": "G21",
+    "title": "谁受到动作：被动与 on",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "动作与复杂句",
+    "prerequisites": [
+      "G20"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:42",
+      "grammar:43",
+      "grammar:44",
+      "grammar:45",
+      "grammar:46"
+    ],
+    "file": "french/grammar/G21.md"
+  },
+  {
+    "id": "G22",
+    "title": "转述别人的话",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "动作与复杂句",
+    "prerequisites": [
+      "G21"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:47",
+      "grammar:48",
+      "grammar:49",
+      "grammar:50"
+    ],
+    "file": "french/grammar/G22.md"
+  },
+  {
+    "id": "G23",
+    "title": "两个动作怎样接：不定式与 gérondif",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "动作与复杂句",
+    "prerequisites": [
+      "G22"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:53",
+      "grammar:54",
+      "grammar:55",
+      "grammar:56",
+      "grammar:57",
+      "grammar:58",
+      "grammar:59",
+      "grammar:60",
+      "grammar:61",
+      "grammar:62",
+      "grammar:63",
+      "grammar:64",
+      "grammar:65",
+      "grammar:66",
+      "grammar:67",
+      "grammar:68",
+      "grammar:97",
+      "grammar:98",
+      "grammar:99"
+    ],
+    "file": "french/grammar/G23.md"
+  },
+  {
+    "id": "G24",
+    "title": "邀请、指示与命令式",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "动作与复杂句",
+    "prerequisites": [
+      "G23"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/grammar/G24.md"
+  },
+  {
+    "id": "G25",
+    "title": "一个还是特定的那个：冠词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "名词与限定词",
+    "prerequisites": [
+      "G24"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:71",
+      "grammar:72",
+      "grammar:73",
+      "grammar:74",
+      "grammar:75",
+      "grammar:76",
+      "grammar:77",
+      "grammar:78"
+    ],
+    "file": "french/grammar/G25.md"
+  },
+  {
+    "id": "G26",
+    "title": "一点、一些与数量：部分冠词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "名词与限定词",
+    "prerequisites": [
+      "G25"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:69",
+      "grammar:70",
+      "grammar:71",
+      "grammar:72",
+      "grammar:73",
+      "grammar:74",
+      "grammar:75",
+      "grammar:85",
+      "grammar:86",
+      "grammar:87",
+      "grammar:88",
+      "grammar:89",
+      "grammar:90",
+      "grammar:91"
+    ],
+    "file": "french/grammar/G26.md"
+  },
+  {
+    "id": "G27",
+    "title": "名词的性与数",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "名词与限定词",
+    "prerequisites": [
+      "G26"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:69",
+      "grammar:70",
+      "grammar:79",
+      "grammar:80"
+    ],
+    "file": "french/grammar/G27.md"
+  },
+  {
+    "id": "G28",
+    "title": "我的、这个与那个",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "名词与限定词",
+    "prerequisites": [
+      "G27"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:81",
+      "grammar:82",
+      "grammar:83",
+      "grammar:84"
+    ],
+    "file": "french/grammar/G28.md"
+  },
+  {
+    "id": "G29",
+    "title": "把重复宾语换成小代词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "代词与关系从句",
+    "prerequisites": [
+      "G28"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:109",
+      "grammar:110"
+    ],
+    "file": "french/grammar/G29.md"
+  },
+  {
+    "id": "G30",
+    "title": "对谁说：间接宾语代词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "代词与关系从句",
+    "prerequisites": [
+      "G29"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:109",
+      "grammar:110"
+    ],
+    "file": "french/grammar/G30.md"
+  },
+  {
+    "id": "G31",
+    "title": "y、en 与代词顺序",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "代词与关系从句",
+    "prerequisites": [
+      "G30"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:109",
+      "grammar:110"
+    ],
+    "file": "french/grammar/G31.md"
+  },
+  {
+    "id": "G32",
+    "title": "自己、彼此与不定的人",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "代词与关系从句",
+    "prerequisites": [
+      "G31"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:82",
+      "grammar:83",
+      "grammar:84",
+      "grammar:85",
+      "grammar:86",
+      "grammar:87",
+      "grammar:88",
+      "grammar:89",
+      "grammar:90",
+      "grammar:91",
+      "pronunciation-advanced:38"
+    ],
+    "file": "french/grammar/G32.md"
+  },
+  {
+    "id": "G33",
+    "title": "把两句话连起来：qui 与 que",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "代词与关系从句",
+    "prerequisites": [
+      "G32"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:92",
+      "grammar:93"
+    ],
+    "file": "french/grammar/G33.md"
+  },
+  {
+    "id": "G34",
+    "title": "dont、où 与更复杂的关系词",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "代词与关系从句",
+    "prerequisites": [
+      "G33"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:94",
+      "grammar:95",
+      "grammar:96"
+    ],
+    "file": "french/grammar/G34.md"
+  },
+  {
+    "id": "G35",
+    "title": "形容词的配合与位置",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "描述与连接",
+    "prerequisites": [
+      "G34"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:97",
+      "grammar:98",
+      "grammar:99",
+      "grammar:100",
+      "grammar:101",
+      "grammar:117",
+      "grammar:118",
+      "grammar:129",
+      "grammar:130",
+      "grammar:131",
+      "phrasal-verbs-advanced:4"
+    ],
+    "file": "french/grammar/G35.md"
+  },
+  {
+    "id": "G36",
+    "title": "比较与最高级",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "描述与连接",
+    "prerequisites": [
+      "G35"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:102",
+      "grammar:103",
+      "grammar:104",
+      "grammar:105",
+      "grammar:106",
+      "grammar:107",
+      "grammar:108"
+    ],
+    "file": "french/grammar/G36.md"
+  },
+  {
+    "id": "G37",
+    "title": "副词与更细的否定",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "描述与连接",
+    "prerequisites": [
+      "G36"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:85",
+      "grammar:86",
+      "grammar:87",
+      "grammar:88",
+      "grammar:89",
+      "grammar:90",
+      "grammar:91",
+      "grammar:100",
+      "grammar:101",
+      "grammar:102",
+      "grammar:103",
+      "grammar:104",
+      "grammar:109",
+      "grammar:110",
+      "grammar:111",
+      "grammar:112"
+    ],
+    "file": "french/grammar/G37.md"
+  },
+  {
+    "id": "G38",
+    "title": "因为、所以与为了",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "描述与连接",
+    "prerequisites": [
+      "G37"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:116"
+    ],
+    "file": "french/grammar/G38.md"
+  },
+  {
+    "id": "G39",
+    "title": "虽然、但是与让步",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "描述与连接",
+    "prerequisites": [
+      "G38"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:113",
+      "pronunciation-advanced:46"
+    ],
+    "file": "french/grammar/G39.md"
+  },
+  {
+    "id": "G40",
+    "title": "在哪里与去哪里",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A1",
+    "section": "时间、地点与搭配",
+    "prerequisites": [
+      "G39"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:76",
+      "grammar:77",
+      "grammar:78",
+      "grammar:123",
+      "grammar:124",
+      "grammar:125",
+      "grammar:126",
+      "grammar:127",
+      "grammar:128",
+      "phrasal-verbs:24",
+      "phrasal-verbs-advanced:49"
+    ],
+    "file": "french/grammar/G40.md"
+  },
+  {
+    "id": "G41",
+    "title": "什么时候与时间边界",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "A2",
+    "section": "时间、地点与搭配",
+    "prerequisites": [
+      "G40"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:116",
+      "grammar:119",
+      "grammar:120",
+      "grammar:121",
+      "grammar:122"
+    ],
+    "file": "french/grammar/G41.md"
+  },
+  {
+    "id": "G42",
+    "title": "动词与介词：不能逐字拼接",
+    "book": "grammar",
+    "book_title": "语法：从句子到论证",
+    "book_fr": "Grammaire en pratique",
+    "category": "语法",
+    "level": "B1",
+    "section": "时间、地点与搭配",
+    "prerequisites": [
+      "G41"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:53",
+      "grammar:54",
+      "grammar:55",
+      "grammar:56",
+      "grammar:57",
+      "grammar:58",
+      "grammar:59",
+      "grammar:60",
+      "grammar:61",
+      "grammar:62",
+      "grammar:63",
+      "grammar:64",
+      "grammar:65",
+      "grammar:66",
+      "grammar:67",
+      "grammar:68",
+      "grammar:127",
+      "grammar:128",
+      "grammar:129",
+      "grammar:130",
+      "grammar:131",
+      "grammar:132",
+      "grammar:133",
+      "grammar:134",
+      "grammar:135",
+      "grammar:136",
+      "grammar:145",
+      "phrasal-verbs-advanced:2",
+      "oxford-idioms:3",
+      "oxford-idioms:53"
+    ],
+    "file": "french/grammar/G42.md"
+  },
+  {
+    "id": "E01",
+    "title": "把表达当成小积木",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "学习表达",
+    "prerequisites": [
+      "G01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:145",
+      "phrasal-verbs:1",
+      "phrasal-verbs-advanced:1",
+      "pronunciation-elementary:32",
+      "pronunciation-introduction:29",
+      "pronunciation-advanced:16",
+      "pronunciation-advanced:17",
+      "pronunciation-advanced:18",
+      "pronunciation-advanced:19",
+      "pronunciation-advanced:20",
+      "pronunciation-advanced:35",
+      "oxford-idioms:3"
+    ],
+    "file": "french/expressions/E01.md"
+  },
+  {
+    "id": "E02",
+    "title": "同一意思，不同场合",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "学习表达",
+    "prerequisites": [
+      "E01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:5",
+      "phrasal-verbs:69",
+      "phrasal-verbs-advanced:6"
+    ],
+    "file": "french/expressions/E02.md"
+  },
+  {
+    "id": "E03",
+    "title": "表达不是字面拼图",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "学习表达",
+    "prerequisites": [
+      "E02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:2",
+      "phrasal-verbs:5"
+    ],
+    "file": "french/expressions/E03.md"
+  },
+  {
+    "id": "E04",
+    "title": "动词变成名词和形容词",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "学习表达",
+    "prerequisites": [
+      "E03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:79",
+      "grammar:80",
+      "grammar:129",
+      "grammar:130",
+      "grammar:131",
+      "phrasal-verbs:4",
+      "phrasal-verbs-advanced:3",
+      "oxford-idioms:4"
+    ],
+    "file": "french/expressions/E04.md"
+  },
+  {
+    "id": "E05",
+    "title": "faire：做事与天气",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "核心动词",
+    "prerequisites": [
+      "E04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:10",
+      "phrasal-verbs:57"
+    ],
+    "file": "french/expressions/E05.md"
+  },
+  {
+    "id": "E06",
+    "title": "prendre：选择、交通与预约",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "核心动词",
+    "prerequisites": [
+      "E05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:12",
+      "phrasal-verbs-advanced:60"
+    ],
+    "file": "french/expressions/E06.md"
+  },
+  {
+    "id": "E07",
+    "title": "mettre：放置、穿戴与开始",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "核心动词",
+    "prerequisites": [
+      "E06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:11"
+    ],
+    "file": "french/expressions/E07.md"
+  },
+  {
+    "id": "E08",
+    "title": "avoir：需要、想要与看法",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "核心动词",
+    "prerequisites": [
+      "E07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:17",
+      "phrasal-verbs:7",
+      "phrasal-verbs-advanced:57"
+    ],
+    "file": "french/expressions/E08.md"
+  },
+  {
+    "id": "E09",
+    "title": "être：准备好与正在路上",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "核心动词",
+    "prerequisites": [
+      "E08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:121",
+      "grammar:122",
+      "phrasal-verbs:7"
+    ],
+    "file": "french/expressions/E09.md"
+  },
+  {
+    "id": "E10",
+    "title": "aller 与 venir：来、去和近况",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "核心动词",
+    "prerequisites": [
+      "E09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:6",
+      "phrasal-verbs:8",
+      "phrasal-verbs-advanced:56",
+      "phrasal-verbs-advanced:58"
+    ],
+    "file": "french/expressions/E10.md"
+  },
+  {
+    "id": "E11",
+    "title": "donner 与 tenir：消息与承诺",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "核心动词",
+    "prerequisites": [
+      "E10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:59"
+    ],
+    "file": "french/expressions/E11.md"
+  },
+  {
+    "id": "E12",
+    "title": "à：对象、用途与参与",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "介词与方向",
+    "prerequisites": [
+      "E11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:132",
+      "grammar:133",
+      "grammar:134",
+      "grammar:135",
+      "grammar:136",
+      "phrasal-verbs:3",
+      "phrasal-verbs:16",
+      "phrasal-verbs:19",
+      "phrasal-verbs-advanced:12",
+      "phrasal-verbs-advanced:14"
+    ],
+    "file": "french/expressions/E12.md"
+  },
+  {
+    "id": "E13",
+    "title": "de：来源、需要与停止",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "介词与方向",
+    "prerequisites": [
+      "E12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:132",
+      "grammar:133",
+      "grammar:134",
+      "grammar:135",
+      "grammar:136",
+      "phrasal-verbs:3",
+      "phrasal-verbs:16",
+      "phrasal-verbs:19"
+    ],
+    "file": "french/expressions/E13.md"
+  },
+  {
+    "id": "E14",
+    "title": "向前、出去与回来",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "介词与方向",
+    "prerequisites": [
+      "E13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:123",
+      "grammar:124",
+      "grammar:125",
+      "grammar:126",
+      "grammar:137",
+      "grammar:138",
+      "grammar:140",
+      "phrasal-verbs:8",
+      "phrasal-verbs:14",
+      "phrasal-verbs:18",
+      "phrasal-verbs:20",
+      "phrasal-verbs:21",
+      "phrasal-verbs:24",
+      "phrasal-verbs:29",
+      "phrasal-verbs-advanced:15",
+      "phrasal-verbs-advanced:46"
+    ],
+    "file": "french/expressions/E14.md"
+  },
+  {
+    "id": "E15",
+    "title": "做完、用完与耗尽",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "介词与方向",
+    "prerequisites": [
+      "E14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:137",
+      "grammar:138",
+      "grammar:143",
+      "grammar:144",
+      "phrasal-verbs:14",
+      "phrasal-verbs:15",
+      "phrasal-verbs:30",
+      "phrasal-verbs-advanced:13"
+    ],
+    "file": "french/expressions/E15.md"
+  },
+  {
+    "id": "E16",
+    "title": "增加、减少与变化",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "介词与方向",
+    "prerequisites": [
+      "E15"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:139",
+      "phrasal-verbs:13",
+      "phrasal-verbs:17",
+      "phrasal-verbs:26",
+      "phrasal-verbs-advanced:11",
+      "phrasal-verbs-advanced:16"
+    ],
+    "file": "french/expressions/E16.md"
+  },
+  {
+    "id": "E17",
+    "title": "时间怎样花掉",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "概念",
+    "prerequisites": [
+      "E16"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:22",
+      "phrasal-verbs:23"
+    ],
+    "file": "french/expressions/E17.md"
+  },
+  {
+    "id": "E18",
+    "title": "原因与影响的常用表达",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "B1",
+    "section": "概念",
+    "prerequisites": [
+      "E17"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:25"
+    ],
+    "file": "french/expressions/E18.md"
+  },
+  {
+    "id": "E19",
+    "title": "开始、继续与结束",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "概念",
+    "prerequisites": [
+      "E18"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:141",
+      "grammar:142",
+      "phrasal-verbs:13",
+      "phrasal-verbs:20",
+      "phrasal-verbs:28"
+    ],
+    "file": "french/expressions/E19.md"
+  },
+  {
+    "id": "E20",
+    "title": "成功、失败与再试一次",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "概念",
+    "prerequisites": [
+      "E19"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:141",
+      "grammar:142",
+      "phrasal-verbs:27"
+    ],
+    "file": "french/expressions/E20.md"
+  },
+  {
+    "id": "E21",
+    "title": "联系、说明与确认",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "交流功能",
+    "prerequisites": [
+      "E20"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:9",
+      "phrasal-verbs:31",
+      "phrasal-verbs:50",
+      "phrasal-verbs:54"
+    ],
+    "file": "french/expressions/E21.md"
+  },
+  {
+    "id": "E22",
+    "title": "描述人、地方与情况",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "交流功能",
+    "prerequisites": [
+      "E21"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:9",
+      "phrasal-verbs:32",
+      "phrasal-verbs:34"
+    ],
+    "file": "french/expressions/E22.md"
+  },
+  {
+    "id": "E23",
+    "title": "询问信息与请求澄清",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A1",
+    "section": "交流功能",
+    "prerequisites": [
+      "E22"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:33",
+      "grammar:34",
+      "grammar:35",
+      "grammar:36",
+      "grammar:37",
+      "phrasal-verbs:35",
+      "phrasal-verbs:50",
+      "pronunciation-introduction:47"
+    ],
+    "file": "french/expressions/E23.md"
+  },
+  {
+    "id": "E24",
+    "title": "同意、反对与说服",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "B1",
+    "section": "交流功能",
+    "prerequisites": [
+      "E23"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:38",
+      "phrasal-verbs:39",
+      "phrasal-verbs:40",
+      "oxford-idioms:35"
+    ],
+    "file": "french/expressions/E24.md"
+  },
+  {
+    "id": "E25",
+    "title": "发现问题并作决定",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "B1",
+    "section": "交流功能",
+    "prerequisites": [
+      "E24"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:143",
+      "grammar:144",
+      "phrasal-verbs:36",
+      "phrasal-verbs:37"
+    ],
+    "file": "french/expressions/E25.md"
+  },
+  {
+    "id": "E26",
+    "title": "工作、学习与预算",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "生活场景",
+    "prerequisites": [
+      "E25"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:42",
+      "phrasal-verbs:43",
+      "phrasal-verbs:45",
+      "phrasal-verbs:47",
+      "phrasal-verbs:48"
+    ],
+    "file": "french/expressions/E26.md"
+  },
+  {
+    "id": "E27",
+    "title": "家庭、关系与日常安排",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "生活场景",
+    "prerequisites": [
+      "E26"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:51",
+      "phrasal-verbs:52",
+      "phrasal-verbs:55",
+      "phrasal-verbs:58",
+      "phrasal-verbs:59"
+    ],
+    "file": "french/expressions/E27.md"
+  },
+  {
+    "id": "E28",
+    "title": "出行、饮食与身体需要",
+    "book": "expressions",
+    "book_title": "表达：日常搭配",
+    "book_fr": "Expressions du quotidien",
+    "category": "表达",
+    "level": "A2",
+    "section": "生活场景",
+    "prerequisites": [
+      "E27"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:56",
+      "phrasal-verbs:60",
+      "phrasal-verbs:62",
+      "phrasal-verbs:63",
+      "phrasal-verbs-advanced:49",
+      "phrasal-verbs-advanced:50",
+      "phrasal-verbs-advanced:55"
+    ],
+    "file": "french/expressions/E28.md"
+  },
+  {
+    "id": "A01",
+    "title": "搭配、语体与表达精度",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "搭配、语体与隐喻",
+    "prerequisites": [
+      "E01",
+      "G23"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:1",
+      "phrasal-verbs-advanced:2",
+      "phrasal-verbs-advanced:5",
+      "phrasal-verbs-advanced:6",
+      "oxford-idioms:53"
+    ],
+    "file": "french/advanced-expressions/A01.md"
+  },
+  {
+    "id": "A02",
+    "title": "从动作到抽象概念",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "搭配、语体与隐喻",
+    "prerequisites": [
+      "A01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:3",
+      "phrasal-verbs-advanced:4",
+      "oxford-idioms:4",
+      "oxford-idioms:56"
+    ],
+    "file": "french/advanced-expressions/A02.md"
+  },
+  {
+    "id": "A03",
+    "title": "理解隐喻而不乱延伸",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "搭配、语体与隐喻",
+    "prerequisites": [
+      "A02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:7",
+      "phrasal-verbs-advanced:8",
+      "oxford-idioms:2",
+      "oxford-idioms:55"
+    ],
+    "file": "french/advanced-expressions/A03.md"
+  },
+  {
+    "id": "A04",
+    "title": "数字生活与新词",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "搭配、语体与隐喻",
+    "prerequisites": [
+      "A03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:64",
+      "phrasal-verbs:65",
+      "phrasal-verbs:70",
+      "phrasal-verbs-advanced:9",
+      "phrasal-verbs-advanced:54"
+    ],
+    "file": "french/advanced-expressions/A04.md"
+  },
+  {
+    "id": "A05",
+    "title": "介词让意义转弯",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "搭配、语体与隐喻",
+    "prerequisites": [
+      "A04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:10",
+      "phrasal-verbs-advanced:11",
+      "phrasal-verbs-advanced:12",
+      "phrasal-verbs-advanced:13",
+      "phrasal-verbs-advanced:14",
+      "phrasal-verbs-advanced:15",
+      "phrasal-verbs-advanced:16",
+      "oxford-idioms:57"
+    ],
+    "file": "french/advanced-expressions/A05.md"
+  },
+  {
+    "id": "A06",
+    "title": "围绕高频动词扩展表达",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "搭配、语体与隐喻",
+    "prerequisites": [
+      "A05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:7",
+      "phrasal-verbs-advanced:56",
+      "phrasal-verbs-advanced:57",
+      "phrasal-verbs-advanced:58",
+      "phrasal-verbs-advanced:59",
+      "phrasal-verbs-advanced:60"
+    ],
+    "file": "french/advanced-expressions/A06.md"
+  },
+  {
+    "id": "A07",
+    "title": "时间跨度与提前量",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "抽象概念",
+    "prerequisites": [
+      "A06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:23",
+      "phrasal-verbs-advanced:17"
+    ],
+    "file": "french/advanced-expressions/A07.md"
+  },
+  {
+    "id": "A08",
+    "title": "影响、归因与谨慎判断",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B2",
+    "section": "抽象概念",
+    "prerequisites": [
+      "A07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:28",
+      "grammar:29",
+      "grammar:30",
+      "phrasal-verbs-advanced:18"
+    ],
+    "file": "french/advanced-expressions/A08.md"
+  },
+  {
+    "id": "A09",
+    "title": "进展与转变",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "抽象概念",
+    "prerequisites": [
+      "A08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:26",
+      "phrasal-verbs-advanced:19",
+      "phrasal-verbs-advanced:21"
+    ],
+    "file": "french/advanced-expressions/A09.md"
+  },
+  {
+    "id": "A10",
+    "title": "记得、忘记与想起来",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "抽象概念",
+    "prerequisites": [
+      "A09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:20"
+    ],
+    "file": "french/advanced-expressions/A10.md"
+  },
+  {
+    "id": "A11",
+    "title": "支持、保留与反对",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B2",
+    "section": "交流与决策",
+    "prerequisites": [
+      "A10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:68",
+      "phrasal-verbs-advanced:24"
+    ],
+    "file": "french/advanced-expressions/A11.md"
+  },
+  {
+    "id": "A12",
+    "title": "理解、意识到与提出想法",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B2",
+    "section": "交流与决策",
+    "prerequisites": [
+      "A11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:25"
+    ],
+    "file": "french/advanced-expressions/A12.md"
+  },
+  {
+    "id": "A13",
+    "title": "安排、取舍与改变计划",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "交流与决策",
+    "prerequisites": [
+      "A12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:37",
+      "phrasal-verbs-advanced:26",
+      "phrasal-verbs-advanced:30"
+    ],
+    "file": "french/advanced-expressions/A13.md"
+  },
+  {
+    "id": "A14",
+    "title": "规模、数量与大致估计",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "交流与决策",
+    "prerequisites": [
+      "A13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:27"
+    ],
+    "file": "french/advanced-expressions/A14.md"
+  },
+  {
+    "id": "A15",
+    "title": "困难、应付与找出办法",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "交流与决策",
+    "prerequisites": [
+      "A14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:28",
+      "phrasal-verbs-advanced:29",
+      "oxford-idioms:45"
+    ],
+    "file": "french/advanced-expressions/A15.md"
+  },
+  {
+    "id": "A16",
+    "title": "冲突、风险与提醒",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "交流与决策",
+    "prerequisites": [
+      "A15"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:30",
+      "phrasal-verbs:41",
+      "phrasal-verbs:67",
+      "phrasal-verbs-advanced:22",
+      "phrasal-verbs-advanced:31",
+      "oxford-idioms:28",
+      "oxford-idioms:31"
+    ],
+    "file": "french/advanced-expressions/A16.md"
+  },
+  {
+    "id": "A17",
+    "title": "工作与业务责任",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A16"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:45",
+      "phrasal-verbs:46",
+      "phrasal-verbs:49",
+      "phrasal-verbs-advanced:32",
+      "phrasal-verbs-advanced:35",
+      "oxford-idioms:17",
+      "oxford-idioms:37"
+    ],
+    "file": "french/advanced-expressions/A17.md"
+  },
+  {
+    "id": "A18",
+    "title": "学习、写作与社会议题",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B2",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A17"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:44",
+      "phrasal-verbs:66",
+      "phrasal-verbs-advanced:33",
+      "phrasal-verbs-advanced:34",
+      "phrasal-verbs-advanced:51",
+      "oxford-idioms:54"
+    ],
+    "file": "french/advanced-expressions/A18.md"
+  },
+  {
+    "id": "A19",
+    "title": "金钱、支出与量入为出",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A18"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:47",
+      "phrasal-verbs:48",
+      "phrasal-verbs-advanced:36",
+      "oxford-idioms:12"
+    ],
+    "file": "french/advanced-expressions/A19.md"
+  },
+  {
+    "id": "A20",
+    "title": "居家、物品与衣着",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A19"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:58",
+      "phrasal-verbs-advanced:37",
+      "phrasal-verbs-advanced:38"
+    ],
+    "file": "french/advanced-expressions/A20.md"
+  },
+  {
+    "id": "A21",
+    "title": "关系、性格与情绪变化",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A20"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:53",
+      "phrasal-verbs-advanced:39",
+      "phrasal-verbs-advanced:40",
+      "phrasal-verbs-advanced:41",
+      "phrasal-verbs-advanced:42",
+      "oxford-idioms:46"
+    ],
+    "file": "french/advanced-expressions/A21.md"
+  },
+  {
+    "id": "A22",
+    "title": "身体、症状与恢复",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A21"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:56",
+      "phrasal-verbs-advanced:43",
+      "phrasal-verbs-advanced:44",
+      "oxford-idioms:13"
+    ],
+    "file": "french/advanced-expressions/A22.md"
+  },
+  {
+    "id": "A23",
+    "title": "声音、说话方式与动作",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A22"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:29",
+      "phrasal-verbs-advanced:23",
+      "phrasal-verbs-advanced:45",
+      "phrasal-verbs-advanced:46"
+    ],
+    "file": "french/advanced-expressions/A23.md"
+  },
+  {
+    "id": "A24",
+    "title": "环境、天气与突发状况",
+    "book": "advanced-expressions",
+    "book_title": "表达：精确与深入",
+    "book_fr": "Expressions et nuances",
+    "category": "表达",
+    "level": "B1",
+    "section": "工作、生活与世界",
+    "prerequisites": [
+      "A23"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:61",
+      "phrasal-verbs-advanced:47",
+      "phrasal-verbs-advanced:48",
+      "oxford-idioms:33"
+    ],
+    "file": "french/advanced-expressions/A24.md"
+  },
+  {
+    "id": "P01",
+    "title": "字母与声音不是同一回事",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:1",
+      "pronunciation-introduction:1"
+    ],
+    "file": "french/pronunciation-basic/P01.md"
+  },
+  {
+    "id": "P02",
+    "title": "前元音 /i/、/e/ 与 /ɛ/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:2",
+      "pronunciation-elementary:6",
+      "pronunciation-elementary:8",
+      "pronunciation-introduction:2",
+      "pronunciation-introduction:6",
+      "pronunciation-introduction:11"
+    ],
+    "file": "french/pronunciation-basic/P02.md"
+  },
+  {
+    "id": "P03",
+    "title": "tu 与 tout：/y/ 和 /u/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:3",
+      "pronunciation-introduction:18"
+    ],
+    "file": "french/pronunciation-basic/P03.md"
+  },
+  {
+    "id": "P04",
+    "title": "peu、peur 与弱化的 e",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:7",
+      "pronunciation-elementary:8",
+      "pronunciation-elementary:29",
+      "pronunciation-introduction:7",
+      "pronunciation-introduction:14",
+      "pronunciation-introduction:19",
+      "pronunciation-advanced:23"
+    ],
+    "file": "french/pronunciation-basic/P04.md"
+  },
+  {
+    "id": "P05",
+    "title": "开放元音与地区差异",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:4",
+      "pronunciation-introduction:14"
+    ],
+    "file": "french/pronunciation-basic/P05.md"
+  },
+  {
+    "id": "P06",
+    "title": "圆唇后元音 /o/ 与 /ɔ/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:5",
+      "pronunciation-elementary:10",
+      "pronunciation-introduction:16"
+    ],
+    "file": "french/pronunciation-basic/P06.md"
+  },
+  {
+    "id": "P07",
+    "title": "鼻化元音：sans 与 son",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-basic/P07.md"
+  },
+  {
+    "id": "P08",
+    "title": "pain、brun 与鼻音合并",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-basic/P08.md"
+  },
+  {
+    "id": "P09",
+    "title": "成对辅音：/p b t d k g/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:11",
+      "pronunciation-elementary:12",
+      "pronunciation-elementary:13",
+      "pronunciation-introduction:3",
+      "pronunciation-introduction:5",
+      "pronunciation-introduction:9"
+    ],
+    "file": "french/pronunciation-basic/P09.md"
+  },
+  {
+    "id": "P10",
+    "title": "摩擦音：/f v s z/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:14",
+      "pronunciation-elementary:15",
+      "pronunciation-elementary:16",
+      "pronunciation-introduction:4",
+      "pronunciation-introduction:8",
+      "pronunciation-introduction:17"
+    ],
+    "file": "french/pronunciation-basic/P10.md"
+  },
+  {
+    "id": "P11",
+    "title": "ch 与 j：/ʃ/ 和 /ʒ/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:15",
+      "pronunciation-elementary:17",
+      "pronunciation-elementary:18",
+      "pronunciation-introduction:12",
+      "pronunciation-introduction:17"
+    ],
+    "file": "french/pronunciation-basic/P11.md"
+  },
+  {
+    "id": "P12",
+    "title": "法语 r 与清楚的 l",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:20",
+      "pronunciation-elementary:21",
+      "pronunciation-elementary:22",
+      "pronunciation-introduction:13"
+    ],
+    "file": "french/pronunciation-basic/P12.md"
+  },
+  {
+    "id": "P13",
+    "title": "/m n ɲ/ 与词尾鼻音",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:19",
+      "pronunciation-introduction:15",
+      "pronunciation-advanced:24"
+    ],
+    "file": "french/pronunciation-basic/P13.md"
+  },
+  {
+    "id": "P14",
+    "title": "半元音 /j w ɥ/",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:9",
+      "pronunciation-elementary:10",
+      "pronunciation-elementary:23",
+      "pronunciation-introduction:10",
+      "pronunciation-introduction:11",
+      "pronunciation-introduction:20"
+    ],
+    "file": "french/pronunciation-basic/P14.md"
+  },
+  {
+    "id": "P15",
+    "title": "词尾写了，未必发音",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:20",
+      "pronunciation-elementary:26",
+      "pronunciation-elementary:42",
+      "pronunciation-introduction:10",
+      "pronunciation-introduction:25",
+      "pronunciation-introduction:26",
+      "pronunciation-advanced:8",
+      "pronunciation-advanced:29",
+      "pronunciation-advanced:30"
+    ],
+    "file": "french/pronunciation-basic/P15.md"
+  },
+  {
+    "id": "P16",
+    "title": "重音符号与常见字母组合",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "声音与拼写",
+    "prerequisites": [
+      "P15"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-basic/P16.md"
+  },
+  {
+    "id": "P17",
+    "title": "音节与节奏组",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "音节、连接与语调",
+    "prerequisites": [
+      "P16"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:28",
+      "pronunciation-elementary:36",
+      "pronunciation-introduction:21",
+      "pronunciation-introduction:43",
+      "pronunciation-advanced:24",
+      "pronunciation-advanced:31"
+    ],
+    "file": "french/pronunciation-basic/P17.md"
+  },
+  {
+    "id": "P18",
+    "title": "必需的联诵",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "音节、连接与语调",
+    "prerequisites": [
+      "P17"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-basic/P18.md"
+  },
+  {
+    "id": "P19",
+    "title": "省音、连读与联诵不同",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "音节、连接与语调",
+    "prerequisites": [
+      "P18"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:34",
+      "pronunciation-elementary:35",
+      "pronunciation-introduction:38",
+      "pronunciation-introduction:39",
+      "pronunciation-advanced:26"
+    ],
+    "file": "french/pronunciation-basic/P19.md"
+  },
+  {
+    "id": "P20",
+    "title": "语调、数字与确认",
+    "book": "pronunciation-basic",
+    "book_title": "发音：第一步",
+    "book_fr": "Les sons du français",
+    "category": "发音",
+    "level": "A1",
+    "section": "音节、连接与语调",
+    "prerequisites": [
+      "P19"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:49",
+      "pronunciation-elementary:50",
+      "pronunciation-introduction:54",
+      "pronunciation-advanced:39"
+    ],
+    "file": "french/pronunciation-basic/P20.md"
+  },
+  {
+    "id": "M01",
+    "title": "从音标找到实际声音",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "P17",
+      "P18",
+      "P19"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-advanced:3",
+      "pronunciation-advanced:4",
+      "pronunciation-advanced:25"
+    ],
+    "file": "french/pronunciation-connected/M01.md"
+  },
+  {
+    "id": "M02",
+    "title": "音节边界不等于词边界",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:27",
+      "pronunciation-elementary:34",
+      "pronunciation-elementary:35",
+      "pronunciation-introduction:38",
+      "pronunciation-introduction:39",
+      "pronunciation-advanced:9",
+      "pronunciation-advanced:26"
+    ],
+    "file": "french/pronunciation-connected/M02.md"
+  },
+  {
+    "id": "M03",
+    "title": "法语组末重音",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:30",
+      "pronunciation-elementary:31",
+      "pronunciation-elementary:32",
+      "pronunciation-elementary:36",
+      "pronunciation-introduction:22",
+      "pronunciation-introduction:23",
+      "pronunciation-introduction:28",
+      "pronunciation-introduction:29",
+      "pronunciation-introduction:30",
+      "pronunciation-introduction:31",
+      "pronunciation-advanced:10",
+      "pronunciation-advanced:11",
+      "pronunciation-advanced:12",
+      "pronunciation-advanced:13",
+      "pronunciation-advanced:14",
+      "pronunciation-advanced:15",
+      "pronunciation-advanced:16",
+      "pronunciation-advanced:17",
+      "pronunciation-advanced:18",
+      "pronunciation-advanced:19",
+      "pronunciation-advanced:20",
+      "pronunciation-advanced:35"
+    ],
+    "file": "french/pronunciation-connected/M03.md"
+  },
+  {
+    "id": "M04",
+    "title": "小词也要清楚但不抢拍",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:37",
+      "pronunciation-elementary:38",
+      "pronunciation-elementary:39",
+      "pronunciation-introduction:23",
+      "pronunciation-introduction:33",
+      "pronunciation-introduction:37",
+      "pronunciation-advanced:21"
+    ],
+    "file": "french/pronunciation-connected/M04.md"
+  },
+  {
+    "id": "M05",
+    "title": "弱 e 与自然语速",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:29",
+      "pronunciation-elementary:41",
+      "pronunciation-introduction:7",
+      "pronunciation-introduction:34",
+      "pronunciation-advanced:21",
+      "pronunciation-advanced:23",
+      "pronunciation-advanced:27",
+      "pronunciation-advanced:31"
+    ],
+    "file": "french/pronunciation-connected/M05.md"
+  },
+  {
+    "id": "M06",
+    "title": "联诵：必需、可选、禁止",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-connected/M06.md"
+  },
+  {
+    "id": "M07",
+    "title": "变位拼写与实际读音",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:40",
+      "pronunciation-elementary:42",
+      "pronunciation-elementary:43",
+      "pronunciation-introduction:26",
+      "pronunciation-introduction:27",
+      "pronunciation-introduction:35",
+      "pronunciation-introduction:36",
+      "pronunciation-advanced:11",
+      "pronunciation-advanced:12",
+      "pronunciation-advanced:13",
+      "pronunciation-advanced:14",
+      "pronunciation-advanced:15"
+    ],
+    "file": "french/pronunciation-connected/M07.md"
+  },
+  {
+    "id": "M08",
+    "title": "辅音群与顺畅连接",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "音节、词组与语流",
+    "prerequisites": [
+      "M07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:24",
+      "pronunciation-elementary:25",
+      "pronunciation-elementary:26",
+      "pronunciation-elementary:27",
+      "pronunciation-introduction:24",
+      "pronunciation-introduction:25",
+      "pronunciation-introduction:40",
+      "pronunciation-advanced:7",
+      "pronunciation-advanced:8",
+      "pronunciation-advanced:9"
+    ],
+    "file": "french/pronunciation-connected/M08.md"
+  },
+  {
+    "id": "M09",
+    "title": "读标点，也读意思",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:33",
+      "pronunciation-introduction:42",
+      "pronunciation-advanced:40"
+    ],
+    "file": "french/pronunciation-connected/M09.md"
+  },
+  {
+    "id": "M10",
+    "title": "留住话轮与请人重复",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:41",
+      "pronunciation-introduction:44",
+      "pronunciation-introduction:47"
+    ],
+    "file": "french/pronunciation-connected/M10.md"
+  },
+  {
+    "id": "M11",
+    "title": "对比与纠正的突出",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:44",
+      "pronunciation-elementary:47",
+      "pronunciation-elementary:48",
+      "pronunciation-introduction:32",
+      "pronunciation-introduction:49",
+      "pronunciation-introduction:50",
+      "pronunciation-introduction:51",
+      "pronunciation-introduction:53",
+      "pronunciation-advanced:22",
+      "pronunciation-advanced:38",
+      "pronunciation-advanced:47",
+      "oxford-idioms:39"
+    ],
+    "file": "french/pronunciation-connected/M11.md"
+  },
+  {
+    "id": "M12",
+    "title": "问题、确认与惊讶",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:51",
+      "grammar:52",
+      "pronunciation-elementary:49",
+      "pronunciation-elementary:50",
+      "pronunciation-introduction:54",
+      "pronunciation-introduction:55",
+      "pronunciation-introduction:56",
+      "pronunciation-advanced:39",
+      "pronunciation-advanced:41",
+      "pronunciation-advanced:43",
+      "pronunciation-advanced:44",
+      "pronunciation-advanced:45"
+    ],
+    "file": "french/pronunciation-connected/M12.md"
+  },
+  {
+    "id": "M13",
+    "title": "列举、对比与继续说",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:52",
+      "pronunciation-advanced:46",
+      "pronunciation-advanced:59"
+    ],
+    "file": "french/pronunciation-connected/M13.md"
+  },
+  {
+    "id": "M14",
+    "title": "报姓名、数字与拼写",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "A2",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-advanced:45"
+    ],
+    "file": "french/pronunciation-connected/M14.md"
+  },
+  {
+    "id": "M15",
+    "title": "跟读、录音与自我核对",
+    "book": "pronunciation-connected",
+    "book_title": "发音：连成句子",
+    "book_fr": "Du mot à la conversation",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话与训练",
+    "prerequisites": [
+      "M14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-connected/M15.md"
+  },
+  {
+    "id": "F01",
+    "title": "口音、可懂度与自己的目标",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "口音与自然语流",
+    "prerequisites": [
+      "M03",
+      "M06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-advanced:1",
+      "pronunciation-advanced:2"
+    ],
+    "file": "french/pronunciation-fluent/F01.md"
+  },
+  {
+    "id": "F02",
+    "title": "快慢语速中的信息不丢失",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "口音与自然语流",
+    "prerequisites": [
+      "F01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-advanced:5",
+      "pronunciation-advanced:6"
+    ],
+    "file": "french/pronunciation-fluent/F02.md"
+  },
+  {
+    "id": "F03",
+    "title": "省略与口语缩减",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "口音与自然语流",
+    "prerequisites": [
+      "F02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:41",
+      "pronunciation-introduction:34",
+      "pronunciation-advanced:27",
+      "pronunciation-advanced:28"
+    ],
+    "file": "french/pronunciation-fluent/F03.md"
+  },
+  {
+    "id": "F04",
+    "title": "声音接触时的变化",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "口音与自然语流",
+    "prerequisites": [
+      "F03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:40",
+      "pronunciation-advanced:29",
+      "pronunciation-advanced:30"
+    ],
+    "file": "french/pronunciation-fluent/F04.md"
+  },
+  {
+    "id": "F05",
+    "title": "呼吸、意义组与信息包装",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话中的信息组织",
+    "prerequisites": [
+      "F04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:43",
+      "pronunciation-advanced:32",
+      "pronunciation-advanced:54",
+      "pronunciation-advanced:55"
+    ],
+    "file": "french/pronunciation-fluent/F05.md"
+  },
+  {
+    "id": "F06",
+    "title": "新信息、旧信息与焦点",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B2",
+    "section": "会话中的信息组织",
+    "prerequisites": [
+      "F05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:44",
+      "pronunciation-elementary:47",
+      "pronunciation-elementary:48",
+      "pronunciation-introduction:50",
+      "pronunciation-introduction:51",
+      "pronunciation-introduction:57",
+      "pronunciation-advanced:33",
+      "pronunciation-advanced:34",
+      "pronunciation-advanced:36",
+      "pronunciation-advanced:37",
+      "pronunciation-advanced:40",
+      "pronunciation-advanced:42",
+      "pronunciation-advanced:57"
+    ],
+    "file": "french/pronunciation-fluent/F06.md"
+  },
+  {
+    "id": "F07",
+    "title": "语气：赞同、保留与不确定",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话中的信息组织",
+    "prerequisites": [
+      "F06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:59",
+      "pronunciation-introduction:60",
+      "pronunciation-advanced:44",
+      "pronunciation-advanced:49",
+      "pronunciation-advanced:50",
+      "pronunciation-advanced:51"
+    ],
+    "file": "french/pronunciation-fluent/F07.md"
+  },
+  {
+    "id": "F08",
+    "title": "回应、接话与转题",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话中的信息组织",
+    "prerequisites": [
+      "F07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:46",
+      "pronunciation-introduction:46",
+      "pronunciation-advanced:52",
+      "pronunciation-advanced:53",
+      "oxford-idioms:34",
+      "oxford-idioms:37"
+    ],
+    "file": "french/pronunciation-fluent/F08.md"
+  },
+  {
+    "id": "F09",
+    "title": "讲故事的语调层次",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话中的信息组织",
+    "prerequisites": [
+      "F08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-elementary:45",
+      "pronunciation-introduction:45"
+    ],
+    "file": "french/pronunciation-fluent/F09.md"
+  },
+  {
+    "id": "F10",
+    "title": "请求的语气与余地",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B1",
+    "section": "会话中的信息组织",
+    "prerequisites": [
+      "F09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-advanced:48"
+    ],
+    "file": "french/pronunciation-fluent/F10.md"
+  },
+  {
+    "id": "F11",
+    "title": "正式陈述的开场与路标",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B2",
+    "section": "正式陈述与整合",
+    "prerequisites": [
+      "F10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-advanced:54",
+      "pronunciation-advanced:55",
+      "pronunciation-advanced:57",
+      "oxford-idioms:26",
+      "oxford-idioms:36"
+    ],
+    "file": "french/pronunciation-fluent/F11.md"
+  },
+  {
+    "id": "F12",
+    "title": "插入说明与引用",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B2",
+    "section": "正式陈述与整合",
+    "prerequisites": [
+      "F11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:48",
+      "pronunciation-advanced:56",
+      "pronunciation-advanced:60"
+    ],
+    "file": "french/pronunciation-fluent/F12.md"
+  },
+  {
+    "id": "F13",
+    "title": "总结、转折与结束的声音",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B2",
+    "section": "正式陈述与整合",
+    "prerequisites": [
+      "F12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "pronunciation-introduction:58",
+      "pronunciation-advanced:58",
+      "pronunciation-advanced:60"
+    ],
+    "file": "french/pronunciation-fluent/F13.md"
+  },
+  {
+    "id": "F14",
+    "title": "地区发音观察：法国与加拿大",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B2",
+    "section": "正式陈述与整合",
+    "prerequisites": [
+      "F13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:69",
+      "pronunciation-advanced:1",
+      "pronunciation-advanced:25"
+    ],
+    "file": "french/pronunciation-fluent/F14.md"
+  },
+  {
+    "id": "F15",
+    "title": "面向听众的完整发音自检",
+    "book": "pronunciation-fluent",
+    "book_title": "发音：自然陈述",
+    "book_fr": "Parler avec clarté",
+    "category": "发音",
+    "level": "B2",
+    "section": "正式陈述与整合",
+    "prerequisites": [
+      "F14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [],
+    "file": "french/pronunciation-fluent/F15.md"
+  },
+  {
+    "id": "I01",
+    "title": "怎样学习语与固定表达",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "学习习语",
+    "prerequisites": [
+      "E01",
+      "E02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:8",
+      "oxford-idioms:1",
+      "oxford-idioms:2"
+    ],
+    "file": "french/idioms/I01.md"
+  },
+  {
+    "id": "I02",
+    "title": "人物性格：开放与耐心",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "人物与行为",
+    "prerequisites": [
+      "I01"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:40",
+      "oxford-idioms:5",
+      "oxford-idioms:56"
+    ],
+    "file": "french/idioms/I02.md"
+  },
+  {
+    "id": "I03",
+    "title": "行为与态度：冷静或冲动",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "人物与行为",
+    "prerequisites": [
+      "I02"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:6",
+      "oxford-idioms:46"
+    ],
+    "file": "french/idioms/I03.md"
+  },
+  {
+    "id": "I04",
+    "title": "关系与家庭：互相理解",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "人物与行为",
+    "prerequisites": [
+      "I03"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:52",
+      "phrasal-verbs:53",
+      "phrasal-verbs-advanced:39",
+      "oxford-idioms:7",
+      "oxford-idioms:8",
+      "oxford-idioms:22",
+      "oxford-idioms:23",
+      "oxford-idioms:24"
+    ],
+    "file": "french/idioms/I04.md"
+  },
+  {
+    "id": "I05",
+    "title": "情绪：高兴、难过与害怕",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "人物与行为",
+    "prerequisites": [
+      "I04"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:51",
+      "phrasal-verbs-advanced:41",
+      "oxford-idioms:9"
+    ],
+    "file": "french/idioms/I05.md"
+  },
+  {
+    "id": "I06",
+    "title": "身体与动作的比喻",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "人物与行为",
+    "prerequisites": [
+      "I05"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs-advanced:44",
+      "oxford-idioms:10"
+    ],
+    "file": "french/idioms/I06.md"
+  },
+  {
+    "id": "I07",
+    "title": "钱与生活压力",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "日常生活",
+    "prerequisites": [
+      "I06"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:11",
+      "oxford-idioms:12"
+    ],
+    "file": "french/idioms/I07.md"
+  },
+  {
+    "id": "I08",
+    "title": "健康、精力与疲倦",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "日常生活",
+    "prerequisites": [
+      "I07"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:13"
+    ],
+    "file": "french/idioms/I08.md"
+  },
+  {
+    "id": "I09",
+    "title": "出行与驾驶",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "日常生活",
+    "prerequisites": [
+      "I08"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:63",
+      "phrasal-verbs-advanced:50",
+      "oxford-idioms:14"
+    ],
+    "file": "french/idioms/I09.md"
+  },
+  {
+    "id": "I10",
+    "title": "饮食与日常满足",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "日常生活",
+    "prerequisites": [
+      "I09"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:60",
+      "phrasal-verbs-advanced:55",
+      "oxford-idioms:15",
+      "oxford-idioms:20"
+    ],
+    "file": "french/idioms/I10.md"
+  },
+  {
+    "id": "I11",
+    "title": "学习与工作",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "日常生活",
+    "prerequisites": [
+      "I10"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:46",
+      "oxford-idioms:16",
+      "oxford-idioms:17"
+    ],
+    "file": "french/idioms/I11.md"
+  },
+  {
+    "id": "I12",
+    "title": "商业与合作",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "日常生活",
+    "prerequisites": [
+      "I11"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:49",
+      "phrasal-verbs-advanced:35",
+      "oxford-idioms:18",
+      "oxford-idioms:19"
+    ],
+    "file": "french/idioms/I12.md"
+  },
+  {
+    "id": "I13",
+    "title": "事件、聚会与比赛",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "事件",
+    "prerequisites": [
+      "I12"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:33",
+      "phrasal-verbs:57",
+      "phrasal-verbs:59",
+      "phrasal-verbs-advanced:42",
+      "oxford-idioms:20",
+      "oxford-idioms:21",
+      "oxford-idioms:22",
+      "oxford-idioms:23",
+      "oxford-idioms:24",
+      "oxford-idioms:25"
+    ],
+    "file": "french/idioms/I13.md"
+  },
+  {
+    "id": "I14",
+    "title": "新闻、媒体与公众关注",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B2",
+    "section": "新闻与社会",
+    "prerequisites": [
+      "I13"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:66",
+      "phrasal-verbs-advanced:51",
+      "oxford-idioms:27",
+      "oxford-idioms:32"
+    ],
+    "file": "french/idioms/I14.md"
+  },
+  {
+    "id": "I15",
+    "title": "政治、冲突与天气比喻",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B2",
+    "section": "新闻与社会",
+    "prerequisites": [
+      "I14"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:68",
+      "oxford-idioms:29",
+      "oxford-idioms:30",
+      "oxford-idioms:31",
+      "oxford-idioms:33"
+    ],
+    "file": "french/idioms/I15.md"
+  },
+  {
+    "id": "I16",
+    "title": "讨论、发言与强调",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "沟通",
+    "prerequisites": [
+      "I15"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:26",
+      "oxford-idioms:34",
+      "oxford-idioms:35",
+      "oxford-idioms:36",
+      "oxford-idioms:38",
+      "oxford-idioms:39"
+    ],
+    "file": "french/idioms/I16.md"
+  },
+  {
+    "id": "I17",
+    "title": "诚实、隐瞒与承认",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "态度与选择",
+    "prerequisites": [
+      "I16"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:54",
+      "phrasal-verbs-advanced:52",
+      "oxford-idioms:40"
+    ],
+    "file": "french/idioms/I17.md"
+  },
+  {
+    "id": "I18",
+    "title": "竞争、领先与公平",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "态度与选择",
+    "prerequisites": [
+      "I17"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:41"
+    ],
+    "file": "french/idioms/I18.md"
+  },
+  {
+    "id": "I19",
+    "title": "幽默与批评的边界",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "态度与选择",
+    "prerequisites": [
+      "I18"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:40",
+      "oxford-idioms:42",
+      "oxford-idioms:43"
+    ],
+    "file": "french/idioms/I19.md"
+  },
+  {
+    "id": "I20",
+    "title": "建议、困难与换个角度",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "态度与选择",
+    "prerequisites": [
+      "I19"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:44",
+      "oxford-idioms:45"
+    ],
+    "file": "french/idioms/I20.md"
+  },
+  {
+    "id": "I21",
+    "title": "决定与风险",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "态度与选择",
+    "prerequisites": [
+      "I20"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:47",
+      "oxford-idioms:48"
+    ],
+    "file": "french/idioms/I21.md"
+  },
+  {
+    "id": "I22",
+    "title": "熟人口语与常见回应",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "A2",
+    "section": "语体",
+    "prerequisites": [
+      "I21"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-idioms:49",
+      "oxford-idioms:50"
+    ],
+    "file": "french/idioms/I22.md"
+  },
+  {
+    "id": "I23",
+    "title": "正式表达与法律语境用语",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B2",
+    "section": "语体",
+    "prerequisites": [
+      "I22"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "phrasal-verbs:67",
+      "phrasal-verbs-advanced:53",
+      "oxford-idioms:28",
+      "oxford-idioms:51",
+      "oxford-idioms:52",
+      "oxford-idioms:54"
+    ],
+    "file": "french/idioms/I23.md"
+  },
+  {
+    "id": "I24",
+    "title": "比喻、成对词与谚语",
+    "book": "idioms",
+    "book_title": "习语：理解与运用",
+    "book_fr": "Images et idiomes",
+    "category": "习语",
+    "level": "B1",
+    "section": "习语类型",
+    "prerequisites": [
+      "I23"
+    ],
+    "minutes": 8,
+    "status": "original-edited-draft",
+    "source_units": [
+      "grammar:117",
+      "grammar:118",
+      "oxford-idioms:58",
+      "oxford-idioms:59",
+      "oxford-idioms:60"
+    ],
+    "file": "french/idioms/I24.md"
+  },
+  {
+    "id": "S01",
+    "title": "学车风波：耐心改变结果",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:1"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 1
+    },
+    "source_title": "Ça Roule !",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S01.md"
+  },
+  {
+    "id": "S02",
+    "title": "雨天游戏：现实与想象的切换",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S01"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:2"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 2
+    },
+    "source_title": "Sauvons le village!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S02.md"
+  },
+  {
+    "id": "S03",
+    "title": "仙人掌朋友：好心也要懂方法",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S02"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:3"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 3
+    },
+    "source_title": "Un nouvel ami",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S03.md"
+  },
+  {
+    "id": "S04",
+    "title": "西兰花协定：先尝一口",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S03"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:4"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 4
+    },
+    "source_title": "Ce n’est pas bon!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S04.md"
+  },
+  {
+    "id": "S05",
+    "title": "小猫出走：误会怎样解开",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S04"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:5"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 5
+    },
+    "source_title": "Fugue",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S05.md"
+  },
+  {
+    "id": "S06",
+    "title": "棋盘王国上篇：梦的入口",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S05"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:6"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 6
+    },
+    "source_title": "Au royaume du damier",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S06.md"
+  },
+  {
+    "id": "S07",
+    "title": "棋盘王国下篇：找出梦中对应物",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S06"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:7"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 7
+    },
+    "source_title": "Au royaume du damier (continuation)",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S07.md"
+  },
+  {
+    "id": "S08",
+    "title": "特别的远足：线索与礼貌",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S07"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:8"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 8
+    },
+    "source_title": "Une randonnée un peu spéciale",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S08.md"
+  },
+  {
+    "id": "S09",
+    "title": "海盗游戏：书页变舞台",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S08"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:9"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 9
+    },
+    "source_title": "Hissez-ho! Matelots!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S09.md"
+  },
+  {
+    "id": "S10",
+    "title": "太空涂色：改写故事的自由",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第1卷 · 故事阅读",
+    "prerequisites": [
+      "S09"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:10"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 10
+    },
+    "source_title": "Coloriage spatiale",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S10.md"
+  },
+  {
+    "id": "S11",
+    "title": "巨型披萨：想象中的分工",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S10"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:11"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 11
+    },
+    "source_title": "Les choses géantes sont faites dans une usine !",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S11.md"
+  },
+  {
+    "id": "S12",
+    "title": "准备起飞：担心与信任",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S11"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:12"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 12
+    },
+    "source_title": "Paré au décollage!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S12.md"
+  },
+  {
+    "id": "S13",
+    "title": "最好的朋友：小争执与长久回忆",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S12"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:13"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 13
+    },
+    "source_title": "Meilleures amies",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S13.md"
+  },
+  {
+    "id": "S14",
+    "title": "鸟舍小队：找到自己的长处",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S13"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:14"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 14
+    },
+    "source_title": "La volière",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S14.md"
+  },
+  {
+    "id": "S15",
+    "title": "Galazio：奇妙世界与家的价值",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S14"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:15"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 15
+    },
+    "source_title": "Galazio",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S15.md"
+  },
+  {
+    "id": "S16",
+    "title": "银河小猫：字面想象与词义",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S15"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:16"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 16
+    },
+    "source_title": "Voie lactée",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S16.md"
+  },
+  {
+    "id": "S17",
+    "title": "不同的心灵：想象不能代替了解",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S16"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:17"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 17
+    },
+    "source_title": "Esprits différents",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S17.md"
+  },
+  {
+    "id": "S18",
+    "title": "四季森林：把选择题变创作题",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S17"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:18"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 18
+    },
+    "source_title": "La forêt quatre-saisons",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S18.md"
+  },
+  {
+    "id": "S19",
+    "title": "我认识所有词：词典打开新路",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S18"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:19"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 19
+    },
+    "source_title": "Je connais tous les mots !",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S19.md"
+  },
+  {
+    "id": "S20",
+    "title": "零花钱：储蓄与分享",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第2卷 · 故事阅读",
+    "prerequisites": [
+      "S19"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:20"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 20
+    },
+    "source_title": "Argent de poche",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S20.md"
+  },
+  {
+    "id": "S21",
+    "title": "武术梦想：先弄清消息来源",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S20"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:21"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 21
+    },
+    "source_title": "Arts martiaux",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S21.md"
+  },
+  {
+    "id": "S22",
+    "title": "这是什么主意：结果与尝试",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S21"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:22"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 22
+    },
+    "source_title": "Mais c'est quoi, cette idée?",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S22.md"
+  },
+  {
+    "id": "S23",
+    "title": "好运与努力：用实例支持观点",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S22"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:23"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 23
+    },
+    "source_title": "Quelle chance !",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S23.md"
+  },
+  {
+    "id": "S24",
+    "title": "生活不是游戏：读懂别人的感受",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S23"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:24"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 24
+    },
+    "source_title": "La vie n'est pas un jeu",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S24.md"
+  },
+  {
+    "id": "S25",
+    "title": "瓶中船：传说与手工过程",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S24"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:25"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 25
+    },
+    "source_title": "Bateau en bouteille",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S25.md"
+  },
+  {
+    "id": "S26",
+    "title": "每顿吃糖吗：追问为什么",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S25"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:26"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 26
+    },
+    "source_title": "Des Bonbons Pour Chaque Repas?",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S26.md"
+  },
+  {
+    "id": "S27",
+    "title": "网络安全故事：区分故事与可靠规则",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S26"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:27"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 27
+    },
+    "source_title": "Sûr et sécurisé",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S27.md"
+  },
+  {
+    "id": "S28",
+    "title": "缩小的一天：用比较看世界",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S27"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:28"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 28
+    },
+    "source_title": "Minuscule",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S28.md"
+  },
+  {
+    "id": "S29",
+    "title": "可以哭：勇敢与表达",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S28"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:29"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 29
+    },
+    "source_title": "Ce n'est pas grave de pleurer",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S29.md"
+  },
+  {
+    "id": "S30",
+    "title": "照片与回忆：感受也被留下",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S29"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:30"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 30
+    },
+    "source_title": "Photos et souvenirs",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S30.md"
+  },
+  {
+    "id": "S31",
+    "title": "和我说话：动物对话的想象",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S30"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:31"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 31
+    },
+    "source_title": "Parle avec moi",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S31.md"
+  },
+  {
+    "id": "S32",
+    "title": "变形女巫：误读与新认识",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S31"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:32"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 32
+    },
+    "source_title": "Sorcière métamorphe!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S32.md"
+  },
+  {
+    "id": "S33",
+    "title": "天气的秘密：从猜想走向解释",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S32"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:33"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 33
+    },
+    "source_title": "Météo",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S33.md"
+  },
+  {
+    "id": "S34",
+    "title": "收藏什么：兴趣与实际条件",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S33"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:34"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 34
+    },
+    "source_title": "Collection",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S34.md"
+  },
+  {
+    "id": "S35",
+    "title": "人人都能教：把步骤讲清楚",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S34"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:35"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 35
+    },
+    "source_title": "Tout le monde est un enseignant",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S35.md"
+  },
+  {
+    "id": "S36",
+    "title": "谁拿了羊腿：让线索说话",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S35"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:36"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 36
+    },
+    "source_title": "Qui a pris l’agneau ?",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S36.md"
+  },
+  {
+    "id": "S37",
+    "title": "猜猜惯用语：字面与实际意思",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S36"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:37"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 37
+    },
+    "source_title": "Devine-moi ça!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S37.md"
+  },
+  {
+    "id": "S38",
+    "title": "儿童集市：从观察到公益行动",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S37"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:38"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 38
+    },
+    "source_title": "Marché d'enfants",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S38.md"
+  },
+  {
+    "id": "S39",
+    "title": "乌龟岛：移动的文化展馆",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S38"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:39"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 39
+    },
+    "source_title": "L’île tortue",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S39.md"
+  },
+  {
+    "id": "S40",
+    "title": "一起打扫：分工让家务有趣",
+    "book": "stories",
+    "book_title": "故事阅读：40个小世界",
+    "book_fr": "40 histoires à lire",
+    "category": "阅读",
+    "level": "B1",
+    "section": "第3卷 · 故事阅读",
+    "prerequisites": [
+      "S39"
+    ],
+    "minutes": 12,
+    "status": "original-edited-draft",
+    "source_units": [
+      "french-stories:40"
+    ],
+    "source_reader": {
+      "book_id": "french-stories",
+      "unit": 40
+    },
+    "source_title": "Nettoyons ça!",
+    "source_sha256": "8ad23f46fd0f053d0f6c1358952887cac4a5a39b629889629661f77a35970d90",
+    "file": "french/stories/S40.md"
+  },
+  {
+    "id": "T01",
+    "title": "初次开口：问候、点单与价格",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "1 · Starting out — Ça va ?",
+    "prerequisites": [],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:1"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 1
+    },
+    "file": "french/take-off/T01.md"
+  },
+  {
+    "id": "T02",
+    "title": "城里问路：位置、方向与门牌",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "2 · Asking the way — Pour aller… ?",
+    "prerequisites": [
+      "T01"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:2"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 2
+    },
+    "file": "french/take-off/T02.md"
+  },
+  {
+    "id": "T03",
+    "title": "时间和日程：约在星期几几点",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "3 · Numbers, times and dates — Quel jour et à quelle heure ?",
+    "prerequisites": [
+      "T02"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:3"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 3
+    },
+    "file": "french/take-off/T03.md"
+  },
+  {
+    "id": "T04",
+    "title": "复习一：把咖啡馆、地图和日程串起来",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "Review 1",
+    "prerequisites": [
+      "T03"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:4"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 4
+    },
+    "file": "french/take-off/T04.md"
+  },
+  {
+    "id": "T05",
+    "title": "住宿：预订、登记与介绍房间",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "4 · Accommodation — L’hébergement",
+    "prerequisites": [
+      "T04"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:5"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 5
+    },
+    "file": "french/take-off/T05.md"
+  },
+  {
+    "id": "T06",
+    "title": "个人资料：年龄、家人、职业与一天",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "5 · Personal information — Renseignements personnels",
+    "prerequisites": [
+      "T05"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:6"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 6
+    },
+    "file": "french/take-off/T06.md"
+  },
+  {
+    "id": "T07",
+    "title": "购物：指物、数量与试穿",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "6 · Shopping — Dans les magasins",
+    "prerequisites": [
+      "T06"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:7"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 7
+    },
+    "file": "french/take-off/T07.md"
+  },
+  {
+    "id": "T08",
+    "title": "餐馆：点菜、追加与结账",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "7 · Eating out — Au restaurant",
+    "prerequisites": [
+      "T07"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:8"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 8
+    },
+    "file": "french/take-off/T08.md"
+  },
+  {
+    "id": "T09",
+    "title": "复习二：住宿、家庭、购物与用餐",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "Review 2",
+    "prerequisites": [
+      "T08"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:9"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 9
+    },
+    "file": "french/take-off/T09.md"
+  },
+  {
+    "id": "T10",
+    "title": "出行：交通、车票与汽车故障",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1",
+    "section": "8 · Getting around — En route",
+    "prerequisites": [
+      "T09"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:10"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 10
+    },
+    "file": "french/take-off/T10.md"
+  },
+  {
+    "id": "T11",
+    "title": "健康表达：症状、过去发生的事与指令",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "9 · Health and fitness — En bonne santé",
+    "prerequisites": [
+      "T10"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:11"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 11
+    },
+    "file": "french/take-off/T11.md"
+  },
+  {
+    "id": "T12",
+    "title": "闲暇：经历、习惯与过去背景",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "10 · Free time — Les loisirs",
+    "prerequisites": [
+      "T11"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:12"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 12
+    },
+    "file": "french/take-off/T12.md"
+  },
+  {
+    "id": "T13",
+    "title": "复习三：出行、健康与过去叙事",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "Review 3",
+    "prerequisites": [
+      "T12"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:13"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 13
+    },
+    "file": "french/take-off/T13.md"
+  },
+  {
+    "id": "T14",
+    "title": "在家待客：欢迎、比较与致谢",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "11 · At home — Chez nous",
+    "prerequisites": [
+      "T13"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:14"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 14
+    },
+    "file": "french/take-off/T14.md"
+  },
+  {
+    "id": "T15",
+    "title": "做计划：天气、邀请和关系从句",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "12 · Making plans — Faire des projets",
+    "prerequisites": [
+      "T14"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:15"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 15
+    },
+    "file": "french/take-off/T15.md"
+  },
+  {
+    "id": "T16",
+    "title": "回顾过去：海外经历、假期和心情",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "13 · All in the past — Le passé",
+    "prerequisites": [
+      "T15"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:16"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 16
+    },
+    "file": "french/take-off/T16.md"
+  },
+  {
+    "id": "T17",
+    "title": "工作联系：电话留言、约见与将来",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "14 · The world of work — Au travail",
+    "prerequisites": [
+      "T16"
+    ],
+    "minutes": 18,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:17"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 17
+    },
+    "file": "french/take-off/T17.md"
+  },
+  {
+    "id": "T18",
+    "title": "复习四：从来访到工作电话的综合表达",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "Review 4",
+    "prerequisites": [
+      "T17"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:18"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 18
+    },
+    "file": "french/take-off/T18.md"
+  },
+  {
+    "id": "T19",
+    "title": "答案附录：定位、核对和改错",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1/A2",
+    "section": "Answers",
+    "prerequisites": [
+      "T18"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:19"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 19
+    },
+    "file": "french/take-off/T19.md"
+  },
+  {
+    "id": "T20",
+    "title": "语法总表：按问题检索规则和变位",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A2",
+    "section": "Grammar Summary",
+    "prerequisites": [
+      "T19"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:20"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 20
+    },
+    "file": "french/take-off/T20.md"
+  },
+  {
+    "id": "T21",
+    "title": "词汇附录：把字母索引变成主题词卡",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1/A2",
+    "section": "Vocabulary",
+    "prerequisites": [
+      "T20"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:21"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 21
+    },
+    "file": "french/take-off/T21.md"
+  },
+  {
+    "id": "T22",
+    "title": "术语表与索引：看懂语法说明的路标",
+    "book": "take-off",
+    "book_title": "生活法语：Oxford起飞",
+    "book_fr": "Le français au quotidien",
+    "category": "情景",
+    "level": "A1/A2",
+    "section": "Glossary of Grammatical Terms / Grammar index",
+    "prerequisites": [
+      "T21"
+    ],
+    "minutes": 15,
+    "status": "original-edited-draft",
+    "source_units": [
+      "oxford-take-off:22"
+    ],
+    "source_reader": {
+      "book_id": "oxford-take-off",
+      "unit": 22
+    },
+    "file": "french/take-off/T22.md"
+  }
+]
