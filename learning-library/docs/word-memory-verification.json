@@ -1,0 +1,19 @@
+{
+  "forms": 1394,
+  "occurrences": 4485,
+  "checks": [
+    "all word occurrences use the authored 1394-entry catalog",
+    "missing authored entry fails explicitly",
+    "all word occurrences have explicit sound hooks, scenes and articulation routes",
+    "all eight I07 selections update the mnemonic",
+    "yeux has sound-picture mnemonic and pronunciation warning",
+    "billet links graduation to a ticket",
+    "mouth practice is collapsed initially and can be expanded",
+    "rules retained",
+    "no-voice access and French slow playback",
+    "mobile fit",
+    "three word views supported",
+    "recall hides word hints",
+    "no JavaScript errors"
+  ]
+}
