@@ -1,0 +1,53 @@
+{
+  "I07": [
+    {
+      "fr": "Ce billet coûte les yeux de la tête.",
+      "mnemonic": "声音梗：瑟比耶，库特雷兹 yeux，德拉 tête——毕业买票钱包哭，售票员竟收眼睛！ 脑内电影：票价牌上画两只眼睛，头顶装着提款机；你捂眼逃跑：太贵啦！les yeux 的 z 小桥后，眼睛喊耶、嘴巴亲亲；tête 摸头只点一拍。",
+      "rule_memory": "billet 的 ill 在这里滑成 /j/，尾 t 不读；coûte 的 û 读 /u/，t 要读。les yeux 必须联诵 /z/，像 /le.z‿jø/。tête 的 ê 是 /ɛ/，t 要读，尾 e 不另加一拍。",
+      "chunks": [
+        {
+          "fr": "Ce billet",
+          "zh": "这张票"
+        },
+        {
+          "fr": "coûte les yeux de la tête",
+          "zh": "贵得惊人；字面夸张成要花掉头上的眼睛"
+        }
+      ]
+    },
+    {
+      "fr": "Ne jette pas l’argent par les fenêtres.",
+      "mnemonic": "声音梗：「呢热特帕，拉让帕尔雷弗奈特」——‘热特’钱太多，想给窗户发工资？ 脑内电影：钞票从窗户飞出去，窗框戴着老板帽大喊‘发财啦’，你抓着钱袋喊‘别乱花钱’！让 l’argent 跟钱袋、fenêtres 跟收钞票的窗户绑定。",
+      "rule_memory": "ne…pas 夹住 jette，保留否定；jette 的 j 读 /ʒ/、t 要读。l’argent 的撇号省去冠词元音，en 是 /ɑ̃/；fenêtres 的 ê 是 /ɛ/，末 s 不读，/tʁ/ 要留。",
+      "chunks": [
+        {
+          "fr": "Ne jette pas",
+          "zh": "别扔／不要扔"
+        },
+        {
+          "fr": "l’argent par les fenêtres",
+          "zh": "把钱从窗户扔出去；整句劝人别挥霍"
+        }
+      ]
+    },
+    {
+      "fr": "Je mets vingt euros de côté.",
+      "mnemonic": "声音梗：「热梅，万特油螺，德科泰」——梅梅养了二十只‘油螺’，每只都往旁边存钱罐滚！ 脑内电影：二十欧元硬币变成二十只油亮小螺，排队躲到一旁，今天存下就不花。‘万特油螺’里的‘特’专门提醒 vingt euros 的 /t/ 连接。",
+      "rule_memory": "mets 独读 /mɛ/，ts 不读；vingt 独读 /vɛ̃/，在 euros 前必须联诵 /t/，成为 /vɛ̃.t‿ø.ʁo/，不要补成 /z/。côté 的 ô 读 /o/、é 读 /e/；de côté 作为整体记成‘存下／搁到一旁’。",
+      "chunks": [
+        {
+          "fr": "Je mets",
+          "zh": "我放／我存"
+        },
+        {
+          "fr": "vingt euros",
+          "zh": "二十欧元（注意 /t/ 连接）"
+        },
+        {
+          "fr": "de côté",
+          "zh": "留在一旁；和前文合起来表示存下"
+        }
+      ]
+    }
+  ]
+}

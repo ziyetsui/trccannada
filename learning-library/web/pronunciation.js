@@ -49,6 +49,7 @@ window.createPronunciationExample = function(example, index, api) {
   const book=()=>path('M60 25Q40 12 20 20v48q20-8 40 5 20-13 40-5V20Q80 12 60 25v48');
   const balloon=()=>path('M18 16h84v43H62L43 74V59H18z');
   const forms={
+   concept:()=>{path('M21 13h78v58H21zM37 24h46M37 36h46');text(word.zh.split(/[；（]/)[0].slice(0,5),60,57,12);},
    person:()=>human(60),people:()=>{human(40);human(83);},self:()=>{human(75);arrow(12,34);},wave:()=>{human(40);path('M55 47l20-26m8-8q17 8 0 17');},
    point:()=>{circle(83,42,18);arrow(16);},own:()=>{human(32);path('M67 44h34v28H67zM32 42h28m-6-6 6 6-6 6');},
    have:()=>{human(32);path('M62 40h39v30H62zM22 49q38 24 70 0');},give:()=>{human(24);human(96);arrow(44);},
@@ -107,12 +108,22 @@ window.createPronunciationExample = function(example, index, api) {
   choose.setAttribute('aria-label',`${w.fr}：${w.zh}，查看解释并慢读`);
   if(showImage)choose.append(portrait(w.picture,w));
   const label=el('strong',w.fr);label.lang='fr';choose.append(label,el('span',w.zh,'word-meaning'),el('span',`/${w.ipa}/`,'word-ipa'));
+  choose.append(el('span','点我看发音巧记','word-memory-hint'));
   item.append(choose,audio('▶ 单词慢读',w.fr,.65));return item;
  }
  let wordInfo;
  function showWord(){
   if(!wordInfo)return;const w=p.words[selected];wordInfo.replaceChildren();
-  wordInfo.append(el('h3',`${w.fr} · /${w.ipa}/`),el('p',`这句话里的意思：${w.zh}`),el('p',w.reason));
+  wordInfo.append(el('h3',`${w.fr} · /${w.ipa}/`),el('p',`${p.annotation_source==='expanded'?'词义提示（结合整句）':'这句话里的意思'}：${w.zh}`));
+  const memory=window.wordPronunciationMemory(w),box=el('section',undefined,'word-memory');box.setAttribute('aria-label',`${w.fr} 的发音巧记`);
+  const scene=el('p',undefined,'word-memory-cue');scene.append(el('strong','小画面：'),document.createTextNode(memory.cue.replace(/^(?:小画面|小动作)[：:]/,'')));
+  box.append(el('h4',`${w.fr} 的发音巧记`),el('p',`谐音钩子：${memory.hook}`,'word-memory-hook'),el('p',memory.line,'word-memory-line'),scene,audio('▶ 听这个词，再跟一遍',w.fr,.65));
+  const practice=el('details',undefined,'word-memory-practice');practice.open=stage===1;
+  practice.append(el('summary','想读得更准？看口形练法'),el('p',`声音路线：${memory.route}`,'word-memory-route'),el('h4','照着做，一步步读'));
+  const steps=el('ol',undefined,'word-memory-steps');for(const step of memory.steps)steps.append(el('li',step));
+  practice.append(steps,el('p',memory.avoid,'small muted'));box.append(practice);wordInfo.append(box,el('h4','发音规则（保留）'),el('p',w.reason));
+  if(w.ipa_source==='dictionary-checked broad transcription')wordInfo.append(el('p','这处宽式音标已按词典和滑音规则修正；播放仍由设备合成，独读与句中读法可能不同。','small muted'));
+  else if(w.ipa_source&&w.ipa_source!=='authored')wordInfo.append(el('p','音标为法语合成参考，尚未逐词人工听校；专名、借词、词尾与地区读法请结合整句试听。','small muted'));
   const mouth=el('div',undefined,'mouth-tips');
   const tips=[['y','/y/：舌头靠前，先摆 /i/ 的舌位再圆唇；不要变成 /u/。'],['u','/u/：嘴唇圆，舌头靠后；与 tu 的 /y/ 区别开。'],['ɛ̃','/ɛ̃/：元音带鼻化，气流可经鼻腔；末尾不另加响亮的 n。'],['ɑ̃','/ɑ̃/：保持开放元音的鼻化；别在尾巴上再拼一个 n。'],['ɔ̃','/ɔ̃/：圆唇并带鼻化；不要先发 /o/ 再补一个 n。'],['œ̃','/œ̃/：圆唇、较开放且鼻化；部分口音与 /ɛ̃/ 合并。'],['œ','/œ/：圆唇、开口比 /ø/ 大一些，像 peur 的元音。'],['ø','/ø/：圆唇、开口较小，像 peu 的元音。'],['ʁ','/ʁ/：轻轻使用口腔后部气流，不用力刮嗓子。'],['ʒ','/ʒ/：让气流持续摩擦，声带振动；别加英语 j 开头的闭塞。'],['ʃ','/ʃ/：持续送出“嘘”似的气流，喉部不必振动。'],['ɲ','/ɲ/：舌面贴近硬腭，气流从鼻腔通过；gn 不拆成两个辅音。'],['ɥ','/ɥ/：从前圆唇口形快速滑向后面的元音，不额外增加音节。'],['wa','/wa/：快速从圆唇口形滑到 /a/，oi 不拆成 o、i 两个音。'],['ə','/ə/：轻轻发弱 e；先保留练清楚，再观察自然语流中是否省去。'],['ɛ','/ɛ/：舌头靠前，开口比 /e/ 更大，元音保持稳定。'],['e','/e/：舌头靠前，开口较小；别拖成英语式双元音。'],['i','/i/：舌位靠前且高，嘴唇不必圆起。']];
   let count=0;for(const [symbol,tip]of tips){const relevant=['ɛ','œ','e','i','u','y','ø'].includes(symbol)?w.ipa.replace(/[ɛœɔɑae]̃/g,'').includes(symbol):w.ipa.includes(symbol);if(relevant&&count<3){mouth.append(el('p',tip));count++;}}
@@ -127,16 +138,28 @@ window.createPronunciationExample = function(example, index, api) {
  function render(){
   wordInfo=null;body.replaceChildren();tabs.forEach((t,i)=>t.setAttribute('aria-pressed',String(i===stage)));
   linkLegend.hidden=stage===4;linkDetail.hidden=true;
+  if(stage!==4){
+   const memory=el('aside',undefined,'sound-memory sentence-memory');memory.setAttribute('aria-label',`${example.fr} 的整句发音巧记`);
+   const story=el('div',undefined,'sound-mnemonic');
+   const joke=el('p',undefined,'sentence-sound-joke');joke.append(el('strong','谐音梗 · '),document.createTextNode(p.sound_joke));
+   const movie=el('p',undefined,'sentence-mental-movie');movie.append(el('strong','脑内电影 · '),document.createTextNode(p.mental_movie));story.append(joke,movie);
+   memory.append(el('h3','整句发音巧记 · 谐音梗＋小画面'),story,audio('▶ 听整句，再跟一遍',example.fr,.65),el('p','谐音只当记忆钩子：汉字不能准确表示法语鼻音、圆唇音和连读，也不按汉字声调念。先听法语，再借画面回忆，最后回听校准。','small muted'));
+   const rules=el('details',undefined,'memory-rules');rules.open=stage===1;rules.append(el('summary','发音规则口诀（保留）'),el('p',p.rule_memory,'sound-rule-memory'));memory.append(rules);
+   const rhythm=el('div',undefined,'memory-rhythm');rhythm.setAttribute('aria-label','整句跟读节奏');
+   p.chunks.forEach((c,i)=>{if(i)rhythm.append(el('span','／','rhythm-divider'));rhythm.append(audio(c.fr,c.fr,.7));});
+   const run=button('▶ 分组记 → 整句说',()=>sequence([...p.chunks.map(c=>({text:c.fr,rate:.7,gap:1800})),{text:example.fr,rate:1,gap:0}],run),'quiet');run.disabled=!available();run.dataset.speak='memory';
+   memory.append(rhythm,run);body.append(memory);
+  }
   if(stage===0||stage===1||stage===2){
    body.append(el('h3',stage===0?'先看懂，再听懂':stage===1?'把拼写、声音和口形对应起来':'一个词一个词，留出跟读的空隙'));
    body.append(el('p',stage===0?'点每张词卡：看它在这句话里的意思，有声音时也会慢读。图画是记忆提示，短语意思请看下面。':stage===1?'点一个词看具体原因。/ / 里面是声音符号，不用先背整张音标表，也不要照汉字谐音读。':'每个单词都可单独点击；连续练习会逐词慢读，每遍之后留 1.4 秒给你跟读。','small muted'));
    if(stage===2){body.append(controls());const run=button('▶ 逐词跟读',()=>playSteps(p.words.map((w,i)=>({text:w.fr,rate:.65,gap:1400,node:body.querySelectorAll('.word-select')[i]})),run),'primary');run.dataset.speak='words';run.disabled=!available();body.append(run);}
    const grid=el('div',undefined,'word-grid');p.words.forEach((w,i)=>grid.append(wordCard(w,i,stage===0)));body.append(grid);
    wordInfo=el('div',undefined,'word-detail');wordInfo.setAttribute('aria-live','polite');body.append(wordInfo);showWord();
-   if(stage===0){const meanings=el('div',undefined,'phrase-meanings');meanings.append(el('h3','合起来是什么意思'));for(const c of p.chunks){const row=el('p');row.append(el('strong',c.fr+' '),document.createTextNode(c.zh));meanings.append(row);}meanings.append(el('p','整句：'+example.zh,'sentence-translation'));body.append(meanings);}
+   if(stage===0){const meanings=el('div',undefined,'phrase-meanings');meanings.append(el('h3','合起来是什么意思'));if(p.chunks.some(c=>c.gloss_kind==='literal'))meanings.append(el('p','下面“逐词提示”帮助对应词卡，不是短语翻译；习语、语法和自然中文意思以整句译文及本课讲解为准。','small muted'));for(const c of p.chunks){const row=el('p');row.append(el('strong',c.fr+' '),document.createTextNode((c.gloss_kind==='literal'?'逐词提示：':'')+c.zh));meanings.append(row);}meanings.append(el('p','整句：'+example.zh,'sentence-translation'));body.append(meanings);}
   }else if(stage===3){
    body.append(el('h3','从小组到整句，慢慢搭起来'),el('p','① 单独听小组 → ② 逐渐扩展 → ③ 听完整句。分段用于练习，最后要回到整句的自然节奏。下划线 ‿ 表示声音连接，不是额外的一个词。','small muted'),controls());
-   const rows=el('div',undefined,'chunk-list');for(const [i,c]of p.chunks.entries()){const row=el('div',undefined,'chunk-row'),copy=el('div');copy.append(el('strong',`${i+1}. ${c.fr}`),el('p',c.zh,'small'));row.append(copy,audio('▶ 听这组',c.fr,.7));rows.append(row);}body.append(rows);
+   const rows=el('div',undefined,'chunk-list');for(const [i,c]of p.chunks.entries()){const row=el('div',undefined,'chunk-row'),copy=el('div');copy.append(el('strong',`${i+1}. ${c.fr}`),el('p',(c.gloss_kind==='literal'?'逐词提示：':'')+c.zh,'small'));row.append(copy,audio('▶ 听这组',c.fr,.7));rows.append(row);}body.append(rows);
    const joined=el('div',undefined,'join-ladder');joined.append(el('h4','逐渐扩展'));for(let i=0;i<p.chunks.length;i++){const fr=p.chunks.slice(0,i+1).map(c=>c.fr).join(' '),row=el('div',undefined,'chunk-row');row.append(el('span',fr),audio('▶ 连起来',fr,.75));joined.append(row);}body.append(joined);
    const run=button('▶ 自动分组 → 扩展 → 整句',()=>{const steps=p.chunks.map(c=>({text:c.fr,rate:.7,gap:1500}));for(let i=1;i<p.chunks.length;i++)steps.push({text:p.chunks.slice(0,i+1).map(c=>c.fr).join(' '),rate:.75,gap:2000});steps.push({text:example.fr,rate:1,gap:2500});playSteps(steps,run);},'primary');run.dataset.speak='chunks';run.disabled=!available();body.append(run);
    const notes=el('div',undefined,'connection-notes');notes.append(el('h3','这里的声音怎样接起来'));

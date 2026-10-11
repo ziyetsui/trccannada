@@ -48,7 +48,7 @@ with sync_playwright() as p:
  check('exercise feedback reveals explanations',lambda: page.locator('.quiz-feedback').count()==2 and page.locator('#quiz-score').inner_text()!='')
  page.get_by_role('button',name='标记已学',exact=True).click();page.reload()
  check('progress restored',lambda: page.get_by_role('button',name='已学 · 点击取消',exact=True).is_visible())
- page.evaluate('window.__setVoices()');check('late voices restore saved fr-CA preference',lambda: page.get_by_label('法语声音').input_value()=='ca');page.get_by_role('button',name='讲解',exact=True).click();page.get_by_role('button',name='播放例句 1',exact=True).click()
+ page.evaluate('window.__setVoices()');check('late voices restore saved fr-CA preference',lambda: page.get_by_label('法语声音').input_value()=='ca');page.get_by_role('button',name='讲解',exact=True).click();page.get_by_role('button',name='▶ 听完整句',exact=True).first.click()
  check('only French selected voice is used',lambda: all(x['lang'].startswith('fr') for x in page.evaluate('window.__spoken')))
  page.keyboard.press('Control+k');page.wait_for_function("document.activeElement.id==='search'");check('keyboard search opens visible catalogue',lambda: page.locator('#dashboard').is_visible());page.goto(URL+'#G01')
  page.get_by_role('button',name='停止播放',exact=True).click()

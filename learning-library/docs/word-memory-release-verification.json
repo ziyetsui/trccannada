@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-12",
+  "lessons": 230,
+  "examples": 814,
+  "word_forms": 1394,
+  "clicked_word_occurrences": 4485,
+  "explicit_chinese_sound_hooks": 1394,
+  "individual_scenes": 1394,
+  "editorial_review": {
+    "self_reviewed": 1394,
+    "cross_reviewed": 1394,
+    "cross_review_revisions": 118,
+    "record": "word-sound-review.json"
+  },
+  "browser_checks": {
+    "word_memory": "passed",
+    "all_4485_word_clicks_match_hook_line_and_scene": "passed",
+    "all_lessons_five_mobile_views": "passed",
+    "original_pronunciation_checks": 72,
+    "main_site_checks": 24,
+    "T02_context_and_continuez_screenshot": "passed"
+  },
+  "unit_tests": {
+    "word_memory": 8,
+    "sentence_memory": 7,
+    "library": 7,
+    "passed": 22
+  },
+  "not_rerun": [
+    {
+      "checks": "two original-source archive checks",
+      "reason": "Original Downloads EPUB/PDF are absent from their former locations."
+    }
+  ],
+  "limitations": [
+    "Near-sound hooks capture selected sounds and are not exact Chinese transcriptions.",
+    "Editorial review is not an auditory validation or a memorability study.",
+    "Device French TTS remains in use.",
+    "Local website updated; no deployment performed."
+  ]
+}

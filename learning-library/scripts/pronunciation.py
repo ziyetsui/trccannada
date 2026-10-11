@@ -33,9 +33,27 @@ def enrich(lessons, content: Path):
             raise ValueError(f'duplicate pronunciation lesson: {lid}')
         groups[lid] = [[dict(zip(('fr', 'zh'), chunk.split('~'))) for chunk in ex.split('§')] for ex in examples.split(';;')]
     links = json.loads((content / 'pronunciation-links.json').read_text())
+    memory = {}
+    for line in (content / 'pronunciation-memory.txt').read_text().splitlines():
+        if not line or line.startswith('#'):
+            continue
+        lid, text = line.split('|', 1)
+        if lid in memory:
+            raise ValueError(f'duplicate pronunciation mnemonic: {lid}')
+        memory[lid] = text.split(';;')
+    rule_memory = {}
+    for line in (content / 'pronunciation-rule-memory.txt').read_text().splitlines():
+        if not line or line.startswith('#'):
+            continue
+        lid, text = line.split('|', 1)
+        rule_memory[lid] = text.split(';;')
     ids = {l['id'] for l in lessons if l['category'] == '发音'}
     if set(groups) != ids:
         raise ValueError('pronunciation lesson coverage mismatch')
+    if set(memory) != ids or any(len(memory[lid]) != len(groups[lid]) or any(not text.strip() for text in memory[lid]) for lid in ids):
+        raise ValueError('pronunciation mnemonic coverage mismatch')
+    if set(rule_memory) != ids or any(len(rule_memory[lid]) != len(groups[lid]) for lid in ids):
+        raise ValueError('pronunciation rule mnemonic coverage mismatch')
     for lesson in lessons:
         if lesson['id'] not in ids:
             continue
@@ -73,6 +91,6 @@ def enrich(lessons, content: Path):
                 if pair in links:
                     label, reason = links[pair]
                     notes.append(dict(fr=match1.group() + ' → ' + match2.group(), label=label, reason=reason, after=match1.end()))
-            example['pronunciation'] = dict(words=annotated, chunks=chunks, links=notes)
+            example['pronunciation'] = dict(words=annotated, chunks=chunks, links=notes, mnemonic=memory[lesson['id']][index], rule_memory=rule_memory[lesson['id']][index])
         lesson['pronunciation_guide'] = True
     return {'lessons': len(ids), 'examples': sum(len(l['examples']) for l in lessons if l['id'] in ids), 'words': len(lexicon)}
