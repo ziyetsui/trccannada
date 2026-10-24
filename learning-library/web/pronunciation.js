@@ -34,6 +34,17 @@ window.createPronunciationExample = function(example, index, api) {
  const body=el('div',undefined,'pronunciation-body');
  const tabs=stages.map((label,i)=>{const b=button(`${i+1} ${label}`,()=>{stop();stage=i;render();},'pronunciation-tab');nav.append(b);return b;});
  card.append(nav,body);
+ function memoryIllustration(recall=false){
+  const visual=example.illustration;
+  if(!visual)return null;
+  const figure=el('figure',undefined,'sentence-illustration');
+  const img=document.createElement('img');img.src=visual.src;img.alt=visual.alt;
+  img.width=visual.width;img.height=visual.height;img.loading='lazy';img.decoding='async';
+  const caption=el('figcaption',recall?'看着同一张图，试着用法语说出来；卡住了就回听。':'先听法语，再看动作；用自己的话说说，声音钩子怎样和句意连起来。');
+  const fallback=el('p','插图暂时无法显示，可以继续用文字画面和法语慢读练习。','illustration-fallback small muted');fallback.hidden=true;
+  img.addEventListener('error',()=>{img.hidden=true;caption.hidden=true;fallback.hidden=false;});
+  figure.append(img,caption,fallback);return figure;
+ }
  function portrait(group,word){
   const ns='http://www.w3.org/2000/svg',svg=document.createElementNS(ns,'svg');
   svg.setAttribute('viewBox','0 0 120 84');svg.setAttribute('role','img');
@@ -143,7 +154,9 @@ window.createPronunciationExample = function(example, index, api) {
    const story=el('div',undefined,'sound-mnemonic');
    const joke=el('p',undefined,'sentence-sound-joke');joke.append(el('strong','谐音梗 · '),document.createTextNode(p.sound_joke));
    const movie=el('p',undefined,'sentence-mental-movie');movie.append(el('strong','脑内电影 · '),document.createTextNode(p.mental_movie));story.append(joke,movie);
-   memory.append(el('h3','整句发音巧记 · 谐音梗＋小画面'),story,audio('▶ 听整句，再跟一遍',example.fr,.65),el('p','谐音只当记忆钩子：汉字不能准确表示法语鼻音、圆唇音和连读，也不按汉字声调念。先听法语，再借画面回忆，最后回听校准。','small muted'));
+   memory.append(el('h3','整句发音巧记 · 谐音梗＋小画面'));
+   const illustration=memoryIllustration();if(illustration)memory.append(illustration);
+   memory.append(story,audio('▶ 听整句，再跟一遍',example.fr,.65),el('p','谐音只当记忆钩子：汉字不能准确表示法语鼻音、圆唇音和连读，也不按汉字声调念。先听法语，再借画面回忆，最后回听校准。','small muted'));
    const rules=el('details',undefined,'memory-rules');rules.open=stage===1;rules.append(el('summary','发音规则口诀（保留）'),el('p',p.rule_memory,'sound-rule-memory'));memory.append(rules);
    const rhythm=el('div',undefined,'memory-rhythm');rhythm.setAttribute('aria-label','整句跟读节奏');
    p.chunks.forEach((c,i)=>{if(i)rhythm.append(el('span','／','rhythm-divider'));rhythm.append(audio(c.fr,c.fr,.7));});
@@ -170,7 +183,10 @@ window.createPronunciationExample = function(example, index, api) {
   }else{
    body.append(el('h3','现在，轮到你说'),el('p','先听一遍 → 隐藏法语 → 根据中文或图画自己说 → 显示原句并核对。播放完成不代表已经学会，能独立说出来后再标记本课已学。'));
    body.append(audio('▶ 先听一次',example.fr,.85));
-   const prompt=el('div',undefined,'recall-prompt');prompt.append(portrait(p.words.find(w=>!['point','of','at'].includes(w.picture))?.picture||p.words[0].picture,p.words.find(w=>!['point','of','at'].includes(w.picture))||p.words[0]),el('p',example.zh));
+   const prompt=el('div',undefined,'recall-prompt'),recallImage=memoryIllustration(true);
+   if(recallImage){prompt.classList.add('has-illustration');prompt.append(recallImage);}
+   else prompt.append(portrait(p.words.find(w=>!['point','of','at'].includes(w.picture))?.picture||p.words[0].picture,p.words.find(w=>!['point','of','at'].includes(w.picture))||p.words[0]));
+   prompt.append(el('p',example.zh));
    body.append(prompt);french.hidden=!reveal;head.querySelector('.example-zh').hidden=false;
    const answer=el('div',undefined,'recall-answer');answer.hidden=!reveal;answer.append(el('p',example.fr,'example-fr'),el('p',p.chunks.map(c=>c.fr).join(' / '),'small'));
    const toggle=button(reveal?'隐藏法语，自己说':'显示法语，核对一下',()=>{stop();reveal=!reveal;answer.hidden=!reveal;french.hidden=!reveal;toggle.textContent=reveal?'隐藏法语，自己说':'显示法语，核对一下';},'primary');body.append(toggle,answer,audio('▶ 再听整句核对',example.fr,1));

@@ -3,11 +3,19 @@ from pathlib import Path
 import json,re,zipfile
 ROOT=Path(__file__).resolve().parents[1]
 files={ROOT/'index.html',ROOT/'AI-READING-GUIDE.md',ROOT/'requirements.txt'}
-for folder in ['french','web','scripts','tests','docs','research']:
+for folder in ['french','web','scripts','tests','docs','research','assets']:
  files.update(p for p in (ROOT/folder).rglob('*') if p.is_file() and '__pycache__' not in p.parts and p.suffix!='.pyc')
 files.update([ROOT/'sources/verification.md',ROOT/'sources/verification.json',ROOT/'sources/inventory.json'])
 for d in (ROOT/'sources').iterdir():
  if not d.is_dir() or d.name in ['french-stories','oxford-take-off']:continue
+ if not (d/'manifest.json').exists():
+  # The published checkout contains TOC extracts, not the private originals.
+  contents=d/'contents.md'
+  if not contents.exists():raise ValueError('Missing source TOC: '+d.name)
+  files.add(contents)
+  for n in re.findall(r'^## PDF page (\d+)$',contents.read_text(),re.M):
+   for sub,ext in [('pages','md'),('images','jpg'),('raw','txt')]:files.add(d/sub/f'{int(n):04}.{ext}')
+  continue
  manifest=json.loads((d/'manifest.json').read_text())
  files.add(d/'contents.md')
  for n in manifest['contents_pdf_pages']:
@@ -29,7 +37,7 @@ while queue:
 if broken:raise ValueError(broken)
 output=ROOT/'francais-en-pratique.zip'
 with zipfile.ZipFile(output,'w',zipfile.ZIP_DEFLATED) as z:
- z.write(ROOT/'START-HERE.md','README.md')
+ z.write(ROOT/('START-HERE.md' if (ROOT/'START-HERE.md').exists() else 'README.md'),'README.md')
  for p in sorted(files):
   if p==ROOT/'index.html':
    page=p.read_text();match=re.search(r'(<script id="library-data" type="application/json">)(.*?)(</script>)',page,re.S)

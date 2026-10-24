@@ -1,5 +1,7 @@
 # 法语，一点点
 
+Oxford 起飞的 22 课、163 条例句配有逐句生成的记忆插图。每张图把谐音物件和句意中的动作联系起来，在“整句发音巧记”和“自己说一次”中显示。先听法语，再借图回忆，最后回听核对；图像与近音不代替准确发音，也不保证一次观看即可长期记住。[研究与设计依据](docs/research/visual-memory-design.md)。下载的 ZIP 同样包含插图。
+
 直接双击 `index.html` 开始学习，无需服务器。9 册、230 课、814 条法语例句、482 道课内练习，配中文讲解、小朋友比喻、解释答案和应用任务。
 
 [教材总目录](french/README.md) · [学习路线](french/study-guide.md) · [参考表](french/reference.md) · [综合复习](french/review.md) · [框架对应](french/coverage.md) · [验证记录](docs/verification.md)

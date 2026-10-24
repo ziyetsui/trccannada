@@ -47,3 +47,12 @@
 .sentence-memory{border-left-color:var(--green);background:var(--paper)}.sentence-memory .sentence-sound-joke{font-size:20px;font-weight:650;line-height:1.8}.sentence-memory .sentence-mental-movie{font-size:16px;line-height:1.9}
 
 .word-memory-hook{font-size:14px;color:var(--green);font-weight:650;margin-bottom:6px}
+
+/* One scene links the sound association to the intended meaning. */
+.sentence-illustration{margin:14px 0 20px;max-width:820px;overflow:hidden;border:1px solid var(--line);border-radius:12px;background:var(--paper)}
+.sentence-illustration img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:contain;background:#faf7ef}
+.sentence-illustration figcaption{padding:11px 14px;color:var(--muted);font-size:13px;line-height:1.7;border-top:1px solid var(--line)}
+.illustration-fallback{padding:14px;margin:0}
+.recall-prompt.has-illustration{display:block;padding:14px}
+.recall-prompt.has-illustration .sentence-illustration{margin:0 0 16px;max-width:700px}
+@media(max-width:600px){.sentence-illustration{margin:12px 0 16px;border-radius:8px}.sentence-illustration figcaption{font-size:12px;padding:9px 11px}.recall-prompt.has-illustration{padding:10px}}

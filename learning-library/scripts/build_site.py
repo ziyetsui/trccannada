@@ -84,12 +84,15 @@ def build():
  pronunciation_report=expand_library(lessons,ROOT/'scripts/content')
  from word_memory import load_memories
  memories=load_memories(ROOT/'scripts/content/word-memories.json',lessons)
+ from illustrations import apply_illustrations
+ illustration_count=apply_illustrations(lessons,ROOT/'scripts/content/sentence-illustrations.json',ROOT)
  memory_js='window.wordMemoryCatalog='+json.dumps(memories,ensure_ascii=False).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')+';\n'
  documents={name:(ROOT/'french'/f'{name}.md').read_text() for name in ['study-guide','reference','review']}
  sources={book:json.loads((ROOT/'sources'/book/'reader.json').read_text()) for book in ['french-stories','oxford-take-off'] if (ROOT/'sources'/book/'reader.json').exists()}
  payload=json.dumps({'sources':sources,'lessons':lessons,'documents':documents,'coverage':json.loads((ROOT/'french/coverage.json').read_text())},ensure_ascii=False).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
  page=(ROOT/'web/template.html').read_text().replace('/*__CSS__*/',(ROOT/'web/style.css').read_text()).replace('/*__DATA__*/',payload).replace('/*__JS__*/',memory_js+(ROOT/'web/word-memory.js').read_text()+'\n'+(ROOT/'web/pronunciation.js').read_text()+'\n'+(ROOT/'web/app.js').read_text()).replace('{{BOOK_COUNT}}',str(len(EXPECTED))).replace('{{LESSON_COUNT}}',str(len(lessons)))
  (ROOT/'index.html').write_text(page)
+ print(json.dumps({'illustrated_examples':illustration_count,'illustration_book':'take-off'}))
  print(json.dumps({'lessons':len(lessons),'examples':sum(len(l['examples']) for l in lessons),'pronunciation':pronunciation_report,'word_memories':len(memories),'sentence_memories':sum(len(l['examples']) for l in lessons),'exercises':sum(len(l['quiz']) for l in lessons),'html_bytes':len(page.encode()),'output':str(ROOT/'index.html')},ensure_ascii=False))
 
 if __name__=='__main__':build()
