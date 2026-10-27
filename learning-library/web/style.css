@@ -56,3 +56,6 @@
 .recall-prompt.has-illustration{display:block;padding:14px}
 .recall-prompt.has-illustration .sentence-illustration{margin:0 0 16px;max-width:700px}
 @media(max-width:600px){.sentence-illustration{margin:12px 0 16px;border-radius:8px}.sentence-illustration figcaption{font-size:12px;padding:9px 11px}.recall-prompt.has-illustration{padding:10px}}
+
+/* Preparation entry shares the existing responsive, scrollable tool navigation. */
+.topbar nav .prep-entry{display:inline-block;font-size:13px;padding:9px 11px;border-radius:7px;text-decoration:none;white-space:nowrap;align-self:center}.topbar nav .prep-entry:hover{background:var(--soft)}

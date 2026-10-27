@@ -15,3 +15,9 @@ Oxford 起飞的 22 课、163 条例句配有逐句生成的记忆插图。每�
 修改 french/ 中的课文后，用 Python 3.10+ 执行 `python3 scripts/build_site.py` 重建网页。不要运行 author_curriculum.py 覆盖自己的手工修改。详见教材目录末尾说明。
 
 页面顶部提供明／暗模式切换。首次打开跟随系统外观；手动选择后保存在当前浏览器，下次打开继续使用。
+
+## TCF Canada 备考入口
+
+打开 [TCF Canada 备考](tcf-canada/index.html)，从官方样题与四项训练开始；内含三组沿用 Oxford 原图原句的基础开口热身。资料核验截至 2026-10-27，适用范围和访问限制逐项说明。
+
+维护时遵循 [Oxford 起飞最佳实践](../docs/french-learning-best-practices.md)；新任务可复用 [开发与插图提示词](../docs/prompts/french-learning-task.md)。
