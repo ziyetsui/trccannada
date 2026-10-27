@@ -1,0 +1,2405 @@
+{
+  "id": "jianming-2",
+  "title": "简明法语·下",
+  "subtitle": "时态、语式与主题阅读",
+  "level": "进阶补充",
+  "role": "基础稳固后的句法与阅读补充；不能替代缺失的 A2 主线",
+  "source_slugs": [
+    "jianming-french-volume-2"
+  ],
+  "editorial_notes": "本站原创中文辅助课程，按原课与复习覆盖；无需逐本线性通读。源书部分音素表是图片，字体依赖 IPA 提取不完整；不信任源文自定义字形，本课采用通行法语读音规则。中文近音只是记忆提示，不是音标。阅读篇中的统计、医学、社会与商业论述属于原书历史材料，不作为当前事实或建议。",
+  "lessons": [
+    {
+      "id": "JM201",
+      "number": 1,
+      "title": "回到过去之前：先发生了什么",
+      "source_title": "LEÇON TRENTE ET UN",
+      "minutes": 25,
+      "goal": "用五句讲一次迟到经历：标出到达、先发生的准备、后来结果，并补一句过去转述",
+      "prerequisites": [],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-002.md",
+          "label": "LEÇON TRENTE ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "讲一件过去的事时，如果还要交代在它之前已经完成的动作，就需要另设一个更早的时间层。愈过去时由 avoir 或 être 的未完成过去时加过去分词构成，例如 avait préparé。它不是“很久以前”的专用时态：即使只早五分钟，只要从过去参照点回看先完成的事，也能使用。\n\n转述者把主句放到过去时，原话中的复合过去时常随之转成愈过去时；助动词选择和分词配合规则仍然保留。时间词也要从实际说话位置调整，例如同一天转述和隔一天转述，“今天”未必指同一天。原课借叙事推进这套关系，学习时先画三个点：转述现在、过去主事件、更早动作，再决定时态，避免把一切过去都写成复合过去时。",
+      "analogy": "愈过去时像翻看昨天照片中的另一张旧照片，里面那张比外面那张还早。",
+      "teaching_points": [
+        "助动词 imparfait + 过去分词",
+        "强调相对先后，不等于年代久远",
+        "间接引语回溯仍检查人称与时间词"
+      ],
+      "anchor": {
+        "fr": "Quand je suis arrivé, Léa avait déjà préparé le repas.",
+        "zh": "我到的时候，莱娅已经准备好了饭。",
+        "sound": "“阿维”围裙上的“德加”小章表示已准备。",
+        "movie": "莱娅穿着围裙把饭摆好，来访者刚提着包进门，桌上完成章显示准备在先。",
+        "pronunciation": "avait /a.vɛ/；déjà /de.ʒa/；repas /ʁə.pɑ/ 末 s 不读；arrivé 主语男性，女性书写 arrivée；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "过去到达时，饭早已准备好，准备动作宜用？",
+          "choices": [
+            "avait préparé",
+            "préparera",
+            "prépare 明确表示过去前完成"
+          ],
+          "answer": 0,
+          "reason": "以过去到达为参照，更早完成的准备适合愈过去时。"
+        },
+        {
+          "prompt": "愈过去时是否必须表示多年前？",
+          "choices": [
+            "必须超过一年",
+            "必须与现在完全没有关系",
+            "不必，关键是相对过去参照点更早"
+          ],
+          "answer": 2,
+          "reason": "这是相对时间关系，不是按年份远近分类。"
+        }
+      ],
+      "application": "用五句讲一次迟到经历：标出到达、先发生的准备、后来结果，并补一句过去转述。",
+      "self_check": [
+        "能画出至少两个过去时间层",
+        "助动词采用未完成过去时而非现在时"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM202",
+      "number": 2,
+      "title": "读懂故事里的简单过去时",
+      "source_title": "LEÇON TRENTE-DEUX",
+      "minutes": 25,
+      "goal": "写一个三句微型故事，分别承担背景、推进事件、回溯更早事件；再口头改写推进句",
+      "prerequisites": [
+        "JM201"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-003.md",
+          "label": "LEÇON TRENTE-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "文学叙事和历史文本常用简单过去时推动事件，尤其常见第三人称形式。il entra、ils partirent、il fut、il eut 等应先练识别与还原原形，不必立刻把所有人称都当口语高频形式背熟。用口头复述故事时，很多这类事件可以改用复合过去时，但书面作品本身的叙述节奏仍值得辨认。\n\n简单过去时不独自承担整段故事：未完成过去时可以描述布景、状态与习惯，愈过去时交代主事件之前已完成的动作。不能把动词在句中出现顺序当成真实时间顺序，回忆段落可能在后文才补早发生的事。原课还总结主从句时态配合，应先确定参照点与同先后关系，再观察作者选用的具体时态。",
+      "analogy": "简单过去时像故事的一格格翻页按钮，背景没有每按一次按钮就全部重画。",
+      "teaching_points": [
+        "简单过去时以阅读识别为先",
+        "fut/eut 等形式单独辨认",
+        "与 imparfait、plus-que-parfait 合作构成叙事",
+        "口头复述可改用复合过去时"
+      ],
+      "anchor": {
+        "fr": "Le voyageur entra dans la maison.",
+        "zh": "旅人走进了屋子。",
+        "sound": "“昂特拉”入口地毯迎接旅人。",
+        "movie": "一位成人旅人踩上门口地毯，推开门走进屋子，故事镜头记录进入的一刻。",
+        "pronunciation": "entra /ɑ̃.tʁa/；voyageur /vwa.ja.ʒœʁ/；maison /mɛ.zɔ̃/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "故事中 il fut 的原形是？",
+          "choices": [
+            "faire",
+            "fuir",
+            "être"
+          ],
+          "answer": 2,
+          "reason": "fut 是 être 的第三人称单数简单过去时，不是 faire 或 fuir。"
+        },
+        {
+          "prompt": "把 il entra 改成日常口头复述通常可用？",
+          "choices": [
+            "il entrait 永远等义",
+            "il est entré",
+            "il a entre"
+          ],
+          "answer": 1,
+          "reason": "entrer 的不及物进入用 être，复合过去时为 est entré；imparfait 会改变视角。"
+        }
+      ],
+      "application": "写一个三句微型故事，分别承担背景、推进事件、回溯更早事件；再口头改写推进句。",
+      "self_check": [
+        "能识别原形而不只猜中文意思",
+        "三种过去时各有叙事任务"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM203",
+      "number": 3,
+      "title": "用 dont 连接带 de 的信息",
+      "source_title": "LEÇON TRENTE-TROIS",
+      "minutes": 25,
+      "goal": "介绍一个你谈论的项目和一位你知道姓名的人，各造 dont 句；再用中性 le 回答一个状态问题",
+      "prerequisites": [
+        "JM202"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-004.md",
+          "label": "LEÇON TRENTE-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "dont 能把一个需要 de 的关系接到先行词后面。先还原完整结构：parler de ce projet 变为 le projet dont je parle；le nom de cette personne 则可在从句中保留 le nom，让 dont 表达所属连接。关键是确认 de 关系，而不是看到“某人的”或“关于”就随意插入 dont。\n\n中性 le 可以回指一种身份、性质或整段内容，不随所代形容词阴阳性变成 la 或 les。例如问是否准备好，回答 je le suis，le 回指 prêt 或 prête 这项状态。它与代替阳性物件的直接宾语 le 字形相同但范围不同。pour 也可表示目的、用途或立场，阅读时要看后接的是名词、不定式还是时间长度，不把所有 pour 都硬译成“为了”。若从句已经通过关系词表示所属，通常不再保留同一关系的物主限定词；可以先拆成两句完整陈述，检查重复表达究竟发生在哪里。",
+      "analogy": "dont 像一枚把 de 关系折进夹层的回形针，夹好了就不再露出第二个 de。",
+      "teaching_points": [
+        "dont 回指 de 关系",
+        "dont 从句避免重复 de 或物主限定词",
+        "中性 le 可回指性质与内容",
+        "pour 的意义取决于结构"
+      ],
+      "anchor": {
+        "fr": "Voici le projet dont je parle.",
+        "zh": "这就是我所谈的项目。",
+        "sound": "“东”边的项目夹被讲话者举起。",
+        "movie": "成人在会议桌旁举起放在东侧的项目夹，向听众介绍正在谈论的项目。",
+        "pronunciation": "dont /dɔ̃/ 的 t 不读；projet /pʁɔ.ʒɛ/；parle /paʁl/ 不添加尾元音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "parler de ce livre 合并为 le livre ___ je parle，选？",
+          "choices": [
+            "qui",
+            "dont",
+            "que"
+          ],
+          "answer": 1,
+          "reason": "parler de 引出 de 补语，dont 承担这个连接关系。"
+        },
+        {
+          "prompt": "女性回答“我准备好了”Je le suis. 中 le 是否改成 la？",
+          "choices": [
+            "不用，le 回指 prête 这个状态",
+            "必须用 la",
+            "必须用 elles"
+          ],
+          "answer": 0,
+          "reason": "中性 le 无性数变化，回指表语状态而不是某个阴性实物。"
+        }
+      ],
+      "application": "介绍一个你谈论的项目和一位你知道姓名的人，各造 dont 句；再用中性 le 回答一个状态问题。",
+      "self_check": [
+        "每句 dont 能还原出 de 结构",
+        "不在 dont 从句重复物主关系"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM204",
+      "number": 4,
+      "title": "压缩说明：现在分词与 tout",
+      "source_title": "LEÇON TRENTE-QUATRE",
+      "minutes": 25,
+      "goal": "把两组 qui 从句压缩为现在分词说明，并用 tout 的两种词类各写一句",
+      "prerequisites": [
+        "JM203"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-005.md",
+          "label": "LEÇON TRENTE-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "现在分词常从 nous 现在时去掉 -ons 加 -ant，avoir、être、savoir 分别有 ayant、étant、sachant。它可以给名词补充动作说明，也可以压缩原因或时间信息。作为动词分词时通常不做形容词的性数变化；已经成为形容词的词则可配合，所以不要见 -ant 就只按词尾机械判断。\n\ntout 可限定名词、独立代指整体，也可作副词加强程度。tous les collègues 与 ils sont tous là 中，tous 的语法身份和通常读音不同。副词 tout 多不变，但在辅音或嘘音 h 开头的阴性形容词前有配合现象，如 toute seule。avec 可表同行、工具特征或方式，原课要求把它放回完整搭配；练分词时先确保动作承担者明确。看见分词与形容词相似时，观察它是否带动作对象或过程补语；不能仅用中文里有没有“的”来判断词类和配合。",
+      "analogy": "现在分词像把两张说明卡折成一张，折小了，谁在做事仍必须看得出来。",
+      "teaching_points": [
+        "现在分词通常不变，形容词可配合",
+        "ayant/étant/sachant 为特殊形式",
+        "tout 先判断词类再判断变化",
+        "avec 也能说明方式与附带特征"
+      ],
+      "anchor": {
+        "fr": "Les personnes travaillant ici arrivent tôt.",
+        "zh": "在这里工作的人来得早。",
+        "sound": "“特拉瓦扬”工具带系在工作人员腰上。",
+        "movie": "几位腰系工具带的成人清晨走进同一处工作场所，工具带标明他们在这里工作。",
+        "pronunciation": "travaillant /tʁa.va.jɑ̃/；personnes /pɛʁ.sɔn/ 不是鼻元音结尾；arrivent 末 -ent 不读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "les femmes travaillant ici 中 travaillant 是否加 es？",
+          "choices": [
+            "不加，它是动词现在分词",
+            "必须加成 travaillantes",
+            "按 femmes 的人数改成 travaillont"
+          ],
+          "answer": 0,
+          "reason": "这里分词保留动词性质和地点补语，不作可变形容词。"
+        },
+        {
+          "prompt": "tous les jours 中 tous 的 s 通常怎样？",
+          "choices": [
+            "一律读 /s/",
+            "读 /z/ 而不看环境",
+            "不读"
+          ],
+          "answer": 2,
+          "reason": "在 tous les + 复数名词的限定结构里通常读 /tu/；独立代词 tous 常读 /tus/。"
+        }
+      ],
+      "application": "把两组 qui 从句压缩为现在分词说明，并用 tout 的两种词类各写一句。",
+      "self_check": [
+        "分词的动作承担者清楚",
+        "能解释 tout 的词类而非只记词尾"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM205",
+      "number": 5,
+      "title": "提建议、设想结果和一边做事",
+      "source_title": "LEÇON TRENTE-CINQ",
+      "minutes": 25,
+      "goal": "给朋友两条委婉建议，写一组 si 假设句，再用副动词描述一种可行的学习方式",
+      "prerequisites": [
+        "JM204"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-006.md",
+          "label": "LEÇON TRENTE-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "条件式现在时用简单将来词干加未完成过去时词尾，可以表达礼貌愿望、建议或假设结果。si 条件从句若使用未完成过去时，结果主句常用条件式；不要把条件式直接放进表示“如果”的 si 从句。较现实的未来条件通常用 si 加现在时，结果用将来时，语义上的可能性与说话方式共同决定结构。\n\n副动词是 en 加现在分词，常说明同一主语的方式、同时动作或条件。en lisant 的执行者应与主句动作执行者一致，不能让“我读书”莫名变成“火车读书”。它与单独现在分词的句法用途并不完全相同。原课还梳理语式：直陈、命令、条件、虚拟分别提供不同表达视角，不能仅凭动作发生时间给语式命名。",
+      "analogy": "条件式像在桌上摆一个“假设世界”模型，只在模型条件成立时看结果。",
+      "teaching_points": [
+        "futur 词干 + imparfait 词尾",
+        "si 假设从句不使用条件式来表达该条件",
+        "en + 现在分词的逻辑主语需清楚",
+        "现实条件与假设条件分开练"
+      ],
+      "anchor": {
+        "fr": "Si j’avais le temps, je voyagerais davantage.",
+        "zh": "如果我有时间，我会多旅行。",
+        "sound": "“阿韦”围裙里装着时间，“瓦亚热雷”旅行车等出发。",
+        "movie": "成人望着排满工作事项的日程表，身旁旅行箱尚未打开；他想象如果能腾出时间，就会带着箱子去更多地方旅行。",
+        "pronunciation": "avais /a.vɛ/；voyagerais /vwa.ja.ʒə.ʁɛ/；davantage /da.vɑ̃.taʒ/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "假设“如果我有车，我会去”，si 后通常选？",
+          "choices": [
+            "j’aurais une voiture",
+            "j’aurai une voiture",
+            "j’avais une voiture"
+          ],
+          "answer": 2,
+          "reason": "这种假设搭配 si + imparfait，条件式留在结果主句。"
+        },
+        {
+          "prompt": "En marchant, je téléphone. 谁走路？",
+          "choices": [
+            "不需要与主句有关",
+            "je 所指的说话者",
+            "电话自己"
+          ],
+          "answer": 1,
+          "reason": "副动词通常与主句共享主语，这里两项动作都由 je 承担。"
+        }
+      ],
+      "application": "给朋友两条委婉建议，写一组 si 假设句，再用副动词描述一种可行的学习方式。",
+      "self_check": [
+        "si 从句与主句时态搭配正确",
+        "副动词没有悬空的执行者"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM206",
+      "number": 6,
+      "title": "比较物主，并讲清时间跨度",
+      "source_title": "LEÇON TRENTE-SIX",
+      "minutes": 25,
+      "goal": "比较你与朋友的两件物品，再用 depuis、il y a、dans 各写一个真实或虚构的时间句",
+      "prerequisites": [
+        "JM205"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-007.md",
+          "label": "LEÇON TRENTE-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "le mien、la mienne、les miens、les miennes 等物主代词替代“物主限定词加名词”。性数看被代的东西：男士的房间仍是 la sienne，女士的包仍可用 le sien。代词自带定冠词，遇 à 或 de 要按规则缩合，例如 au mien、des leurs；不要省略冠词后只剩 mien。\n\n时间表达要看起点和动作是否持续：depuis 常把过去开始的状态延续到参照现在，il y a 指多久以前，dans 指从现在起多久以后，pendant 描述持续多长。comme 可表示像、作为、由于或正当某时，应结合句法和上下文判断。原课将物主比较与时间先后合在一起，适合用两个人的学习经历练：谁的资料、从何时开始、下一步什么时候做。时间句要明确参照点是现在还是故事中的过去；同一个“已经两年”在不同参照点上，动词时态可能相应改变。",
+      "analogy": "物主代词像替物品挂牌的代班员，手里仍拿着原物品的性数标签。",
+      "teaching_points": [
+        "物主代词随被代物性数变化",
+        "自带冠词并按规则缩合",
+        "depuis/il y a/dans 区分参照方向",
+        "comme 结合语境判义"
+      ],
+      "anchor": {
+        "fr": "Mon sac est plus lourd que le tien.",
+        "zh": "我的包比你的包重。",
+        "sound": "“勒蒂昂”天平称两只包。",
+        "movie": "两位旅客把各自的包放在天平上，介绍者的那侧明显下沉。",
+        "pronunciation": "lourd /luʁ/ 末 d 不读；tien /tjɛ̃/；plus lourd 中 s 通常不读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "代替 ta valise 应选？",
+          "choices": [
+            "les tiens",
+            "la tienne",
+            "le tien"
+          ],
+          "answer": 1,
+          "reason": "valise 是阴性单数，物主代词应为 la tienne，与物主男女无关。"
+        },
+        {
+          "prompt": "“两年前开始学，现在仍在学”最直接的句型是？",
+          "choices": [
+            "J’apprends depuis deux ans.",
+            "J’apprendrai dans deux ans.",
+            "J’ai appris il y a deux ans 直接保证持续至今"
+          ],
+          "answer": 0,
+          "reason": "depuis + 现在时突出从过去延续到现在；il y a 只标过去时间点。"
+        }
+      ],
+      "application": "比较你与朋友的两件物品，再用 depuis、il y a、dans 各写一个真实或虚构的时间句。",
+      "self_check": [
+        "物主代词含冠词",
+        "时间句能说清动作是否持续"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM2R01",
+      "number": "复习1",
+      "title": "复习31—36：时间层与压缩句",
+      "source_title": "EXERCICES DE REVISION",
+      "minutes": 25,
+      "goal": "写八句资料整理经历：一个更早完成动作、一个 dont、一处物主比较、一组假设与一个副动词；逐句还原",
+      "prerequisites": [
+        "JM206"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-008.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第31—36课的独立复习同时检验过去先后、故事时态、dont、物主代词、现在分词与条件式。先把复杂句展开成两三句普通句，标出各动作是谁做、何时发生，再尝试压缩。结构越短不一定越好：如果读者找不到动作执行者，就应保留完整从句。\n\n描述学习经历时，depuis、il y a、dans 的参照方向要和时态一致；比较两人的资料用物主代词时，性数随资料而非随持有人。dont 从句可还原 de 关系，副动词通常与主句同主语；假设 si 从句与结果主句各有时态位置。复习的目的不是一次写出最长的句子，而是能把一句复杂话解释成清楚的关系，再在新场景重新表达。",
+      "analogy": "复杂句像折叠地图，展开能看清方向，折回去也不能把路口折丢。",
+      "teaching_points": [
+        "映射 JM201—JM206，对应原31—36",
+        "先展开再压缩，检查逻辑主语",
+        "dont 还原 de",
+        "物主代词性数与时间参照双重核对"
+      ],
+      "anchor": {
+        "fr": "En relisant mes notes, j’ai retrouvé son adresse.",
+        "zh": "重读笔记时，我找到了他／她的地址。",
+        "sound": "“勒利藏”栗子书签夹出地址卡。",
+        "movie": "成人重读带栗子书签的笔记，翻页时露出一张遗失的地址卡。",
+        "pronunciation": "relisant /ʁə.li.zɑ̃/；retrouvé /ʁə.tʁu.ve/；adresse /a.dʁɛs/；en 前置副动词与 je 同主语；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "En relisant..., j’ai retrouvé... 谁重读？",
+          "choices": [
+            "主句的 je",
+            "adresse",
+            "不必存在执行者"
+          ],
+          "answer": 0,
+          "reason": "副动词与主句共享逻辑主语，重读和找到均由 je 完成。"
+        },
+        {
+          "prompt": "把 parler de mes notes 接成关系从句，应是？",
+          "choices": [
+            "les notes que je parle de",
+            "les notes qui je parle",
+            "les notes dont je parle"
+          ],
+          "answer": 2,
+          "reason": "dont 吸收 de 关系，不能用 que 后再悬放 de 来照搬外语结构。"
+        }
+      ],
+      "application": "写八句资料整理经历：一个更早完成动作、一个 dont、一处物主比较、一组假设与一个副动词；逐句还原。",
+      "self_check": [
+        "压缩句展开后角色不变",
+        "先后关系与参照点一致",
+        "si 假设从句不误用条件式"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "review_mapping": [
+        "JM201",
+        "JM202",
+        "JM203",
+        "JM204",
+        "JM205",
+        "JM206"
+      ]
+    },
+    {
+      "id": "JM207",
+      "number": 7,
+      "title": "表达希望与必要，而不只陈述事实",
+      "source_title": "LEÇON TRENTE-SEPT",
+      "minutes": 25,
+      "goal": "提出三项合作要求，至少用一次 il faut que 和一次 je souhaite que；为其中一项补清楚地点",
+      "prerequisites": [
+        "JM206"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-009.md",
+          "label": "LEÇON TRENTE-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "虚拟式常出现在由意愿、感情、必要性或某些判断支配的 que 从句里。选择虚拟式不是因为动作必然虚假，而是说话者把它放进要求、评价等框架。il faut que 后用虚拟式，je sais que 后通常用直陈式；要把触发表达与整个从句一起记，而不是见 que 就一律变成虚拟式。\n\n常见词尾是 -e、-es、-e、-ions、-iez、-ent，但词干和不规则形式需要分别处理，être 的 soit、avoir 的 ait、faire 的 fasse 尤其常用。主从句主语相同时，许多意愿结构常改用不定式，避免不必要的重复从句。原课还复习位置介词，输出时可把请求和地点结合：请对方来某处、把某物放到某物旁，而不是只背抽象变位。对要求句改写时还应确认主从句是否为同一执行者，避免用新从句无意改变请求对象。\n\n虚拟式还要注意同一动词可能有两套词干。venir 的 ils 现在时是 viennent，以 vienn- 构成 que je vienne、que tu viennes、qu’il vienne、qu’ils viennent；nous、vous 则参照 nous venons 的 ven-，写 que nous venions、que vous veniez。不能把单数词干直接套成 nous viennions。前一套常从 ils 形式辨认，后一套常从 nous 形式辨认，但 être、avoir 等仍有专门不规则形式。练变位时把词干和词尾分两种颜色标出，才能发现错在词干还是人称结尾。",
+      "analogy": "虚拟式像给行动套一个“希望／要求”相框，框里可以是将来真实会发生的事。",
+      "teaching_points": [
+        "虚拟式由结构和表达态度触发",
+        "que 本身不保证虚拟式",
+        "soit/ait/fasse 等不规则形式",
+        "相同主语常用不定式改写",
+        "venir 的两词干：viennent→vienn-；venons→ven-。",
+        "que je vienne，但 que nous venions、que vous veniez。",
+        "虚拟式不能仅背词尾；先确定该人称采用哪套词干。"
+      ],
+      "anchor": {
+        "fr": "Il faut que tu viennes ici.",
+        "zh": "你得来这里。",
+        "sound": "“福克”小叉指着“维耶讷”来访座位。",
+        "movie": "一位成人拿小叉形指示棒指向身边空椅，招呼同伴必须到这里来。",
+        "pronunciation": "faut /fo/；viennes /vjɛn/ 不鼻化，末 -es 不读；ici /i.si/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "il faut que tu ___ 中 venir 选？",
+          "choices": [
+            "viens",
+            "viendras",
+            "viennes"
+          ],
+          "answer": 2,
+          "reason": "il faut que 触发虚拟式，tu 的形式为 viennes。"
+        },
+        {
+          "prompt": "看到 que 就必须用虚拟式吗？",
+          "choices": [
+            "只有否定句才有 que",
+            "不是，需看支配结构与语境",
+            "是，所有 que 都一样"
+          ],
+          "answer": 1,
+          "reason": "je sais que 等通常接直陈式，que 只是连接词，不是万能触发器。"
+        },
+        {
+          "prompt": "Il faut que ___ ici. 主语分别为 je 和 nous，哪组 venir 形式正确？",
+          "choices": [
+            "je vienne / nous venions",
+            "je venie / nous viennions",
+            "je viens / nous venons"
+          ],
+          "answer": 0,
+          "reason": "单数 je 用由 viennent 辨认的 vienn-，nous 用由 venons 辨认的 ven- 加 -ions；第三组是直陈式现在时。"
+        }
+      ],
+      "application": "提出三项合作要求，至少用一次 il faut que 和一次 je souhaite que；为其中一项补清楚地点。 把同一项到场要求分别对 je、nous、vous 写成虚拟式，从 viennent 与 venons 找出两套词干并标色。",
+      "self_check": [
+        "从句动词与触发表达相配",
+        "不会把虚拟式解释成必然不真实",
+        "能解释 vienne 与 venions 为什么不使用同一词干"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM208",
+      "number": 8,
+      "title": "表达让步、目的与尚未发生",
+      "source_title": "LEÇON TRENTE-HUIT",
+      "minutes": 25,
+      "goal": "为同一个请求分别补一个目的和一个让步，再写一句寻找尚未确认对象的话",
+      "prerequisites": [
+        "JM207"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-010.md",
+          "label": "LEÇON TRENTE-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "bien que、pour que、avant que 等常要求虚拟式，分别组织让步、目的和某动作之前的信息；parce que 通常接直陈式，因为它在解释已作为事实提出的原因。连词决定句子关系，也常决定语式，因此应把连词与一个完整例句绑定，而不是把一张中文意思相近的词表当成可随意互换。\n\n关系从句也可能用虚拟式，例如寻找一个尚未确认存在、符合愿望条件的对象；如果明确报告已有对象的事实，直陈式更自然。这里是语义选择，不能把所有 chercher 后的从句都强制虚拟。quel que 等让步结构还需配合性数。par 可以说明动作执行者、路径、方式或分配频率，阅读时先确定它修饰哪一项动作，再选择中文说法。",
+      "analogy": "连词像岔路口的路标：目的、让步和原因各把句子带到不同道路。",
+      "teaching_points": [
+        "bien que/pour que/avant que 常用虚拟式",
+        "parce que 通常用直陈式",
+        "未确定存在的关系从句可用虚拟式",
+        "par 的意义随动作关系变化"
+      ],
+      "anchor": {
+        "fr": "Je parle lentement pour que tu comprennes.",
+        "zh": "我慢慢说，好让你听懂。",
+        "sound": "“普尔克”小勺把话语慢慢递给听者。",
+        "movie": "说话者用小勺形指示棒缓慢展示信息，听者点头，表现放慢是为了让对方理解。",
+        "pronunciation": "lentement /lɑ̃t.mɑ̃/ 可有轻微 schwa 变体；comprennes /kɔ̃.pʁɛn/，后半不鼻化；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "pour que tu ___ 选 comprendre 形式？",
+          "choices": [
+            "comprendras",
+            "comprennes",
+            "comprends"
+          ],
+          "answer": 1,
+          "reason": "目的连词 pour que 触发虚拟式，tu comprennes。"
+        },
+        {
+          "prompt": "“我找一个能接待十人的房间”尚未确认存在，关系从句可用？",
+          "choices": [
+            "虚拟式突出所求条件",
+            "只能简单过去时",
+            "必须用条件式且无其他可能"
+          ],
+          "answer": 0,
+          "reason": "非特指的寻求对象可用虚拟式，表达待满足而未确认的条件。"
+        }
+      ],
+      "application": "为同一个请求分别补一个目的和一个让步，再写一句寻找尚未确认对象的话。",
+      "self_check": [
+        "连词与语式相配",
+        "能说清关系从句是已知事实还是所求条件"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM209",
+      "number": 9,
+      "title": "表达对已完成事情的反应",
+      "source_title": "LEÇON TRENTE-NEUF",
+      "minutes": 25,
+      "goal": "对朋友两项已经完成的事情表达反应，再用 sur laquelle 或 avec lequel 说明一件物品",
+      "prerequisites": [
+        "JM208"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-011.md",
+          "label": "LEÇON TRENTE-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "虚拟式过去时由 avoir 或 être 的虚拟式现在时加过去分词构成。触发它的仍然是感情、意愿或评价框架，而过去形式表达动作相对于参照点已完成。说“很高兴你来了”，重点是现在的高兴和已完成的来访；不能因为主句现在时就把从句也一律限制为未完成的现在动作。\n\nlequel、laquelle、lesquels、lesquelles 可在关系从句中承接介词并回指名词，性数与先行词一致；à 与 de 还可能产生 auquel、duquel 等缩合形式。指人时很多介词后也可用 qui；dont 与介词短语后的复合关系词并非处处互换。先把完整介词搭配还原，再找对应形式，比背四个词形后随意挑选更可靠。完成判断应看动作相对于参照点的先后，不能只看到主句现在时就排除复合形式。",
+      "analogy": "虚拟式过去时像“评价相框”里放一张已经洗好的照片，态度与完成先后各管一层。",
+      "teaching_points": [
+        "虚拟式助动词 + 分词",
+        "先后关系相对于参照点理解",
+        "复合关系代词随先行词性数",
+        "介词 à/de 缩合形式需核对"
+      ],
+      "anchor": {
+        "fr": "Je suis content que tu aies réussi.",
+        "zh": "我很高兴你已经成功了。",
+        "sound": "“耶雷于西”成功钥匙递进高兴的相框。",
+        "movie": "朋友把成功后得到的钥匙递给说话者，说话者笑着把完成照片放进相框。",
+        "pronunciation": "aies /ɛ/；réussi /ʁe.y.si/，é 和 u 是不同元音，不读成一个 /ʁɥi/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "content que 后表达已经完成，选？",
+          "choices": [
+            "tu aies fini",
+            "tu as fini",
+            "tu finiras"
+          ],
+          "answer": 0,
+          "reason": "感情结构触发虚拟式，完成先后用 aies + 过去分词。"
+        },
+        {
+          "prompt": "la chaise sur ___ je m’assieds 选？",
+          "choices": [
+            "lequel",
+            "lesquels",
+            "laquelle"
+          ],
+          "answer": 2,
+          "reason": "先行词 chaise 阴性单数，介词 sur 后关系代词用 laquelle。"
+        }
+      ],
+      "application": "对朋友两项已经完成的事情表达反应，再用 sur laquelle 或 avec lequel 说明一件物品。",
+      "self_check": [
+        "虚拟式过去时有助动词",
+        "关系代词与先行词性数一致"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM210",
+      "number": 10,
+      "title": "用不定式串起行动顺序",
+      "source_title": "LEÇON QUARANTE",
+      "minutes": 25,
+      "goal": "写一个提交材料流程，用 avant de、après avoir 和一个动词 + à/de 的搭配，各表达一步",
+      "prerequisites": [
+        "JM209"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-012.md",
+          "label": "LEÇON QUARANTE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "不定式可作动作名称、动词补语，也可跟在介词后。前面用不用 à、de，不由汉语意思随意决定，要看支配词搭配：commencer à、décider de、vouloir 直接接不定式。记录动词时把它需要的接口一起记录，才能把新动作稳稳接上，避免所有第二动词前一律加 de。\n\n不定式过去时由 avoir 或 être 的不定式加过去分词，表示相对于主动作更早完成。après avoir vérifié 说核对在先，发出在后；avant de vérifier 则把核对置于之后。介词 à 与 de 也能表示地点、来源、用途、数量等，原课做全面归纳；输出时不要企图逐字对应，而要问整个搭配在说明什么关系。描述流程时将连接词和动作画成箭头，确认先后没有被颠倒；再核对不定式的助动词选择，必要时回到完整过去句来验证。",
+      "analogy": "支配词像插座，à、de 或直接连接是不同接口；第二动词要用匹配的插头。",
+      "teaching_points": [
+        "动词搭配决定 à/de/零介词",
+        "après + 过去不定式表达先完成",
+        "avoir/être 不定式 + 分词",
+        "à/de 多义须放回整体结构"
+      ],
+      "anchor": {
+        "fr": "Après avoir vérifié le dossier, je l’ai envoyé.",
+        "zh": "核对文件后，我把它发出去了。",
+        "sound": "“韦里菲耶”放大镜先看文件，再交给邮筒。",
+        "movie": "成人先用放大镜核对文件，随后把同一文件放进寄送口，动作先后清楚。",
+        "pronunciation": "vérifié /ve.ʁi.fje/；dossier /dɔ.sje/；envoyé /ɑ̃.vwa.je/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "après 后强调先完成检查，应选？",
+          "choices": [
+            "après vérifier",
+            "après de vérifié",
+            "après avoir vérifié"
+          ],
+          "answer": 2,
+          "reason": "après 接完成的不定式结构，使用 avoir + 过去分词。"
+        },
+        {
+          "prompt": "décider 后接动词应怎样？",
+          "choices": [
+            "décider part",
+            "décider de partir",
+            "décider à partir 为本课标准搭配"
+          ],
+          "answer": 1,
+          "reason": "décider de + 不定式为决定做某事的常用结构。"
+        }
+      ],
+      "application": "写一个提交材料流程，用 avant de、après avoir 和一个动词 + à/de 的搭配，各表达一步。",
+      "self_check": [
+        "能够指出每步的逻辑执行者",
+        "不定式的介词有搭配依据"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM211",
+      "number": 11,
+      "title": "谈没有实现的过去可能",
+      "source_title": "LEÇON QUARANTE ET UN",
+      "minutes": 25,
+      "goal": "写三句反思一次错过的活动，交代真实原因，再写一组过去条件与未实现结果",
+      "prerequisites": [
+        "JM210"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-013.md",
+          "label": "LEÇON QUARANTE ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "条件式过去时用 avoir 或 être 的条件式现在时加过去分词，常表达过去本来可能发生却未实现的结果。si 加愈过去时提出与过去事实相反的条件，主句用条件式过去时说明设想结果。说这类话要交代真实情况与假设差别，不能只把句子换个词尾就以为意思自动清楚。\n\n条件与结果也可能跨越不同时间层：过去没学习某项技能，影响现在能否完成工作，此时过去条件可以配现在条件式结果。原课提醒不要把条件式现在时的被动与条件式过去时混淆：serait envoyé 是可能被发出，aurait envoyé 是本会发出。en 作介词时也可表达材料、时间或状态，与数量代词 en 需要按语法岗位区分。",
+      "analogy": "过去假设像回放中按下另一条支线，能讨论另一种结果，但不能改写真实录像。",
+      "teaching_points": [
+        "si + plus-que-parfait 常配 conditionnel passé",
+        "条件与结果可跨时间层",
+        "serait envoyé 与 aurait envoyé 结构不同",
+        "介词 en 与代词 en 依岗位区分"
+      ],
+      "anchor": {
+        "fr": "Si j’avais su, je serais venu plus tôt.",
+        "zh": "如果我早知道，我就会更早来了。",
+        "sound": "“叙”小书提前到手，“斯雷维讷”来访鞋就会早到。",
+        "movie": "成人看着迟到的自己，想象若更早拿到通知书，来访鞋就能在钟表前更早跨进门。",
+        "pronunciation": "su /sy/；serais /sə.ʁɛ/；venu /və.ny/，两个 /y/ 都圆唇；男性 venu，女性 venue；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "过去没赶上车的反事实结果应选？",
+          "choices": [
+            "j’ai pris le train 表示没坐上",
+            "j’aurais pris le train",
+            "je prendrai le train"
+          ],
+          "answer": 1,
+          "reason": "aurais pris 表示在未实现条件下本会坐车，另外两句是未来或实际完成。"
+        },
+        {
+          "prompt": "serait envoyé 与 aurait envoyé 的差别是？",
+          "choices": [
+            "前者是条件式现在时被动，后者是条件式过去时主动",
+            "完全同义",
+            "前者一定是昨天已发生"
+          ],
+          "answer": 0,
+          "reason": "être + 分词构成被动；avoir 条件式 + 分词构成主动完成式。"
+        }
+      ],
+      "application": "写三句反思一次错过的活动，交代真实原因，再写一组过去条件与未实现结果。",
+      "self_check": [
+        "假设与真实情况清楚分开",
+        "主句和 si 从句时态各有位置"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM212",
+      "number": 12,
+      "title": "核对分词配合，压缩先完成动作",
+      "source_title": "LEÇON QUARANTE-DEUX",
+      "minutes": 25,
+      "goal": "写两句结构不同的代词式过去句并解释配合，再把一个先完成动作压缩为 ayant + 分词",
+      "prerequisites": [
+        "JM211"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-014.md",
+          "label": "LEÇON QUARANTE-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "过去分词配合先看结构：être 的常见不及物复合时态通常随主语，avoir 则查看是否存在前置直接宾语。代词式动词不能只因为助动词为 être 就一律随主语，要判断反身代词是否直接宾语。elles se sont parlé 中 se 是间接宾语，不触发配合；elles se sont lavées 中 se 是直接宾语，情况不同。\n\n复合分词由 ayant 或 étant 加过去分词构成，可压缩一个更早完成的动作，如 ayant terminé。其逻辑执行者必须清楚，通常与主句相关名词一致；若压缩后导致“文件完成了工作”这类错配，就应恢复成完整从句。阅读新闻或叙事时，先识别这块压缩信息在交代原因还是先后，再用直白句子展开，有助于避免只顾词尾而丢失意思。\n\n还应把固有代词式动词与间接宾语型相互动作区分开。se souvenir de 表示记得，Elle s’est souvenue de son rendez-vous. 的 souvenue 按阴性单数主语配合；不能因后面有 de 就认定 se 是间接宾语并删掉 e。相对地，Elles se sont parlé. 的 parler à 明确让 se 承担间接对象，因此 parlé 不按主语加 es。分词也可作形容词说明状态：将 Les portes sont fermées. 理解为门处于关闭状态时，fermées 与阴性复数 portes 配合。具体语境也可能把该句理解为被动结构，但两种分析都不能忽略主语的性数。",
+      "analogy": "配合像核对包裹收件栏：先找真正的直接对象，再决定分词贴哪张标签。",
+      "teaching_points": [
+        "avoir 配合看前置直接宾语",
+        "代词式分词须分析 se 的功能",
+        "ayant/étant + 分词表示先完成",
+        "压缩结构需明确逻辑主语",
+        "固有代词式 se souvenir 的分词通常与主语配合：elle s’est souvenue。",
+        "互相说话 se parler 中 se 是间接对象，elles se sont parlé 不加 es。",
+        "分词作状态形容词仍按名词性数变化：les portes sont fermées。"
+      ],
+      "anchor": {
+        "fr": "Ayant terminé son travail, Léa est partie.",
+        "zh": "完成工作后，莱娅离开了。",
+        "sound": "“艾扬”完成章盖在工作纸上，莱娅拿包离开。",
+        "movie": "莱娅给工作文件盖完工章，接着提包从办公室离开，章与离开的动作连在同一场景。",
+        "pronunciation": "ayant /ɛ.jɑ̃/；terminé /tɛʁ.mi.ne/；partie 的 e 表阴性不另发音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "Elles se sont parlé. 为什么 parlé 不加 es？",
+          "choices": [
+            "se 是 parler à 的间接宾语",
+            "所有 elles 都不配合",
+            "parler 没有过去分词"
+          ],
+          "answer": 0,
+          "reason": "互相说话的 se 对应 à quelqu’un，非前置直接宾语。"
+        },
+        {
+          "prompt": "Ayant terminé..., Léa est partie. 谁完成工作？",
+          "choices": [
+            "travail 自动作主语",
+            "说话者必定是 je",
+            "Léa"
+          ],
+          "answer": 2,
+          "reason": "压缩分词动作与主句 Léa 相连，两个动作由同一人承担。"
+        },
+        {
+          "prompt": "哪组分词同时符合本课三种结构？",
+          "choices": [
+            "Elle s’est souvenu... / Elles se sont parlées. / Les portes sont fermé.",
+            "Elle s’est souvenue... / Elles se sont parlées. / Les portes sont fermés.",
+            "Elle s’est souvenue... / Elles se sont parlé. / Les portes sont fermées."
+          ],
+          "answer": 2,
+          "reason": "se souvenir 是固有代词式，此处 souvenue 随 elle；se parler 的 se 是间接宾语，不触发 parlé 的 es；fermées 描述阴性复数 portes 的状态。"
+        }
+      ],
+      "application": "写两句结构不同的代词式过去句并解释配合，再把一个先完成动作压缩为 ayant + 分词。 再写一条女性主语 se souvenir 的完成句、一条 se parler 的相互动作句，以及一条分词形容词状态句，逐项解释配合依据。",
+      "self_check": [
+        "能还原动词是否带 à",
+        "压缩句不出现执行者错配",
+        "能区分固有代词式、间接宾语型相互动作和分词形容词",
+        "不把 se souvenir de 的 de 错当成免配合依据"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM2R02",
+      "number": "复习2",
+      "title": "复习37—42：态度、完成与配合",
+      "source_title": "EXERCICES DE REVISION",
+      "minutes": 25,
+      "goal": "写一封六句活动后邮件：对已完成事项的反应、一个过去遗憾、一个 après + 过去不定式和一个复合关系代词",
+      "prerequisites": [
+        "JM212"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-015.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第37—42课复习把虚拟式、条件式过去时、不定式、分词和复合关系代词集中起来。先问句子是在报告事实、提出要求、表达感情还是设想未发生结果，再选语式；然后问动作相对于参照点是否已经完成，再选简单或复合形式。把语气判断和时间判断拆成两步，比只凭一个过去时间词套时态可靠。\n\n完成形式里的助动词和分词各有任务：助动词承载语式、人称与时间，分词需要按结构检查配合。关系代词先找先行词与介词，分词压缩句则检查逻辑主语。复习时把每个错误改写成最简单的完整句，再重新合并；能解释为什么 bien que 后用虚拟式、为什么 après 后用过去不定式，才算抓到可迁移的规则。",
+      "analogy": "语式和完成先后像两只抽屉：先选要表达的态度，再把动作放进正确时间格。",
+      "teaching_points": [
+        "映射 JM207—JM212，对应原37—42",
+        "语式选择与时间先后分两步",
+        "复合形式核对助动词与分词",
+        "介词关系与逻辑主语分别检查"
+      ],
+      "anchor": {
+        "fr": "Je suis heureux que vous ayez accepté.",
+        "zh": "我很高兴您已经接受了。",
+        "sound": "“阿耶”钥匙旁“阿克塞普特”接纳章已盖好。",
+        "movie": "成人看到对方在邀请卡上盖好接纳章，高兴地把钥匙递给已接受邀请的来客。",
+        "pronunciation": "heureux /ø.ʁø/；ayez /ɛ.je/；accepté /ak.sɛp.te/；heureux 为男性，女性书写 heureuse；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "heureux que 后强调已经接受，选？",
+          "choices": [
+            "vous avez accepté",
+            "vous accepterez",
+            "vous ayez accepté"
+          ],
+          "answer": 2,
+          "reason": "感情结构引出虚拟式，完成先后由 ayez + 分词表达。"
+        },
+        {
+          "prompt": "两位女性互相打电话 Elles se sont téléphoné. 分词为何不加 es？",
+          "choices": [
+            "女性复数不需要配合规则",
+            "se 是间接宾语",
+            "être 后任何分词都不变"
+          ],
+          "answer": 1,
+          "reason": "téléphoner à quelqu’un，se 对应间接对象，不是触发配合的前置直接宾语。"
+        }
+      ],
+      "application": "写一封六句活动后邮件：对已完成事项的反应、一个过去遗憾、一个 après + 过去不定式和一个复合关系代词。",
+      "self_check": [
+        "每处语式能说出触发依据",
+        "完成先后与上下文一致",
+        "分词配合可还原为宾语结构"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "review_mapping": [
+        "JM207",
+        "JM208",
+        "JM209",
+        "JM210",
+        "JM211",
+        "JM212"
+      ]
+    },
+    {
+      "id": "JM213",
+      "number": 13,
+      "title": "体育议题：分清事实、指代与责任",
+      "source_title": "LEÇON QUARANTE-TROIS",
+      "minutes": 25,
+      "goal": "用六句概述一个虚构比赛争议：问题、角色、动机、检查、责任、个人立场；至少两处代词可还原",
+      "prerequisites": [
+        "JM212"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-002.md",
+          "label": "LEÇON QUARANTE-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第43课转入主题阅读，以竞技体育中的违规行为为话题。本课不增加一套新时态，而是练读者怎样追回 en、le、ils 的指代对象：一句“大家都在谈”并没有说明谈的是什么，必须向前找完整主题。découvrir 在不同语境可表示发现或查出，不能只套“发明”这一个中文解释。\n\n议题文章常先提出问题，再列手段、动机与相关角色。把运动员、教练、组织者分别列成三栏，能避免把作者对某些环境的批评误读成对所有人的断言。整理词汇时区分比赛成绩、打破纪录、检查与责任等语义组；复述只概括文本如何论证，不把教材的历史例子当成当前赛事新闻，也不从阅读训练推导用药或检查结论。\n\n原课的转化构词法还要求从句中识别词类，而不只解释体育词汇。同一拼写 dîner 在 Nous dînons tôt. 中变成谓语动词，在 Le dîner commence à sept heures. 中则受冠词限定，作主语名词，表示晚餐。类似地，jeune 可在 une collègue jeune 中修饰名词，也可在 un jeune arrive 中独立指年轻人。判断时看冠词、变位、句法岗位与意义是否相合；不是词前偶然出现一个 le，就能忽略整句结构。转化未必增添新的字母，与添加前后缀形成新词不同。",
+      "analogy": "阅读指代像接力跑，代词接到哪根棒，要向前看交棒的人。",
+      "teaching_points": [
+        "en 等代词须追回具体对象",
+        "découvrir 根据语境理解",
+        "论证角色与责任不混为一谈",
+        "词汇按体育、检查、动机分组",
+        "转化构词不必改变拼写：dîner 可作动词或名词。",
+        "Le dîner 中 dîner 是名词；nous dînons 中 dînons 是变位动词。",
+        "先观察限定词与句法功能，再判定词类。"
+      ],
+      "anchor": {
+        "fr": "L’entraîneur refuse de tricher.",
+        "zh": "教练拒绝作弊。",
+        "sound": "“昂特雷讷尔”教练推开“特里谢”作弊纸条。",
+        "movie": "教练站在比赛场边，把递来的作弊纸条推开，神情坚定。",
+        "pronunciation": "entraîneur /ɑ̃.tʁɛ.nœʁ/；refuse /ʁə.fyz/；tricher /tʁi.ʃe/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“Tout le monde en parle.” 中 en 应怎样确定？",
+          "choices": [
+            "永远翻成在那里",
+            "向前找 parler de 所指主题",
+            "永远指运动员本人"
+          ],
+          "answer": 1,
+          "reason": "parler de + 主题可用 en 回指，需要上下文识别具体内容。"
+        },
+        {
+          "prompt": "阅读“有些教练被批评”，合理复述是？",
+          "choices": [
+            "文章批评了某些教练的行为",
+            "所有教练必然违规",
+            "该教材直接证明当前每场比赛有问题"
+          ],
+          "answer": 0,
+          "reason": "某些对象和特定语境不能扩大成对全体或当前事实的断言。"
+        },
+        {
+          "prompt": "比较 Nous dînons tôt. 与 Le dîner est prêt.，哪项分析正确？",
+          "choices": [
+            "两句 dîner 都是动词，因为意思与吃饭有关",
+            "dînons 是变位动词；le dîner 是作主语的名词",
+            "有重音符号的词都只能是名词"
+          ],
+          "answer": 1,
+          "reason": "第一句 dînons 是 nous 的谓语；第二句 dîner 有冠词 le，整体是 est 的主语，词义相关而词类不同。"
+        }
+      ],
+      "application": "用六句概述一个虚构比赛争议：问题、角色、动机、检查、责任、个人立场；至少两处代词可还原。 另写 dîner 的一个动词句和一个名词句，圈出帮助你判断词类的变位或限定词。",
+      "self_check": [
+        "概括不把部分扩大为全部",
+        "每个代词都有明确回指对象",
+        "能用同一词根构造两种词类的完整句"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM214",
+      "number": 14,
+      "title": "童年叙事：背景、发现与人物反应",
+      "source_title": "LEÇON QUARANTE-QUATRE",
+      "minutes": 25,
+      "goal": "写一段六句学习回忆：习惯背景、一次意外发现、两个人反应；把事实和你的推测分开",
+      "prerequisites": [
+        "JM213"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-003.md",
+          "label": "LEÇON QUARANTE-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第44课围绕父亲与孩子阅读经历展开，阅读任务是跟住叙述者的观察范围。未完成过去时搭建教室习惯和人物状态，完成事件则把意外发现推进到眼前。读到“他没有察觉”时，先追问没有察觉哪件事，再找 en 或 le 回指的整段内容，不要只抓最近一个名词。\n\n人物反应常通过停顿、动作和说话方式表现，不能只依一个形容词就判定动机。un beau matin 在叙事中常是“有一天早晨”，未必说明天气好；习语整体含义与单词直译可能分开。原课还练词缀和派生，适合把 re-、in-、mal- 放回熟悉词中验证，而不是假定每个同字母开头的词都有同一词源。\n\n本课前缀模块可以用 lire→relire 看清“重新读”，possible→impossible 看清否定；词类在这两组中保持原样，但词义改变。相对地，后缀加在词尾，如 rapide→rapidement 从形容词变成副词，这与前缀不是同一位置的变化。前缀只能提供猜义线索，不能保证 relire 与所有 re- 开头的词都严格表示重复，也不能把不熟悉的词任意剥去头几个字母。先找真实存在的基词，再用句子核对新词的搭配和意义。",
+      "analogy": "童年叙事像孩子拿着摄像机，镜头拍到的反应不等于知道所有大人的内心。",
+      "teaching_points": [
+        "区分叙述观察与心理推断",
+        "背景与关键事件时态配合",
+        "un beau matin 可作叙事时间标记",
+        "词缀帮助猜词但需语境核实",
+        "lire→relire：前缀 re- 表重新；possible→impossible：否定前缀。",
+        "rapide→rapidement 是后缀派生，并可改变词类。",
+        "先确认基词真实存在，再用语境验证前缀猜义。"
+      ],
+      "anchor": {
+        "fr": "Mon père m’a appris à lire.",
+        "zh": "我父亲教会了我阅读。",
+        "sound": "“阿普里”梨子书由父亲递给孩子。",
+        "movie": "父亲坐在桌边，用一本梨子封面的读本教孩子认字，孩子正指着书页阅读。",
+        "pronunciation": "père /pɛʁ/；appris /a.pʁi/ 末 s 不读；lire /liʁ/；apprendre à 为搭配；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "un beau matin 在故事里最可能是？",
+          "choices": [
+            "某个早晨，不必说明晴天",
+            "必定是气温很高的早晨",
+            "一整年的名称"
+          ],
+          "answer": 0,
+          "reason": "这是常见叙事时间表达，不能仅按 beau 断定天气。"
+        },
+        {
+          "prompt": "读到“他没有意识到这一点”应先做什么？",
+          "choices": [
+            "直接认定他什么都不知道",
+            "只找离代词最近的名词",
+            "还原“这一点”对应的前文事件"
+          ],
+          "answer": 2,
+          "reason": "指代可回指整段事实，需结合上下文而非机械邻近原则。"
+        },
+        {
+          "prompt": "哪组确实用前缀表达否定，而不是把后缀加到词尾？",
+          "choices": [
+            "rapide→rapidement",
+            "lire→relire",
+            "possible→impossible"
+          ],
+          "answer": 2,
+          "reason": "im- 加在 possible 前表示否定；re- 在 relire 中表示重新，-ment 在 rapidement 中是后缀。"
+        }
+      ],
+      "application": "写一段六句学习回忆：习惯背景、一次意外发现、两个人反应；把事实和你的推测分开。 再给回忆故事添加一句 relire 或 impossible，并解释你是怎样从基词推到新词意思的。",
+      "self_check": [
+        "事件顺序清楚",
+        "推测使用适当措辞而不冒充文本明确事实",
+        "能指出前缀与后缀各加在什么位置"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM215",
+      "number": 15,
+      "title": "工作与家庭：读懂选择背后的限制",
+      "source_title": "LEÇON QUARANTE-CINQ",
+      "minutes": 25,
+      "goal": "编一个虚构人物的三阶段工作经历，每阶段写状态和原因，至少一次使用 pour 与 parce que",
+      "prerequisites": [
+        "JM214"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-004.md",
+          "label": "LEÇON QUARANTE-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第45课用个人工作经历组织家庭、收入与照护条件。阅读时把“本人愿望”“外部限制”“实际行动”分成三条线，才能看见选择为何改变。trancher 在这类语境可表示作出决定，而非真的切开物体；couvrir les dépenses 表示足以支付支出，也不能只按覆盖的空间意义理解。\n\n过去习惯、完成事件和从过去看将来会在同一篇人物材料中交错。复述时先按时间节点列出工作状态，再补每次变化的原因。pour 加不定式说明目的，parce que 加完整从句说明原因，两者不能直接互换。原书社会统计属于历史阅读内容；本课练语言证据与因果链，不把一个人物故事或旧数字概括为所有女性的共同意愿。\n\n原课还系统介绍后缀：-tion 可形成动作名词，如 organiser→organisation；-age 常形成活动或结果名词，如 laver→lavage；-eur 在 vendeur 中表示从事销售的人；-ité 在 égalité 中表示性质；-able 在 lavable 中表示可被洗的；-ment 在 calmement 中形成方式副词。后缀只是线索，不是无例外分类器：chaleur 是抽象名词而非职业，bâtiment 是建筑物名词而非方式副词。读句子时再看冠词、所修饰成分和实际意思，不能把所有末尾相同的词都塞进同一类别。",
+      "analogy": "选择像过桥：想去哪里是一条线，桥是否开放是另一条线，两条都要看。",
+      "teaching_points": [
+        "愿望、条件与行动分开归纳",
+        "trancher/couvrir 关注抽象义",
+        "pour + 不定式与 parce que + 从句",
+        "个案不可扩大为全体结论",
+        "-tion/-age 常见动作名词；-eur 可指施动者，但有 chaleur 等不同类型。",
+        "-ité 常见性质名词；-able 常见可能性形容词；-ment 常见方式副词。",
+        "bâtiment 是名词；不能仅看 -ment 就认定副词。"
+      ],
+      "anchor": {
+        "fr": "Elle travaille pour payer le loyer.",
+        "zh": "她工作以支付房租。",
+        "sound": "“佩耶”硬币落进“卢瓦耶”房租信封。",
+        "movie": "一位成人下班后把工资中的硬币放进房租信封，桌上有住所钥匙。",
+        "pronunciation": "payer /pe.je/；loyer /lwa.je/；travaille /tʁa.vaj/，末 e 不另读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "pour payer le loyer 表达什么关系？",
+          "choices": [
+            "已经证明的医学结果",
+            "人物身份",
+            "目的"
+          ],
+          "answer": 2,
+          "reason": "pour + 不定式可说明工作要达到的目的，payer 的执行者与主语一致。"
+        },
+        {
+          "prompt": "“个人想工作，但照护安排不足”复述应保留？",
+          "choices": [
+            "由此判定所有家庭情况相同",
+            "愿望与外部限制两层",
+            "只保留她不想工作"
+          ],
+          "answer": 1,
+          "reason": "保留两层才能准确表达愿望和现实行动之间的差别。"
+        },
+        {
+          "prompt": "比较 Il répond calmement. 与 Le bâtiment est ancien.，哪项正确？",
+          "choices": [
+            "两词都以 -ment 结尾，所以都是副词",
+            "calmement 修饰回答方式；bâtiment 有冠词并作名词主语",
+            "bâtiment 修饰 ancien，所以是副词"
+          ],
+          "answer": 1,
+          "reason": "calmement 描述 répond 的方式；le bâtiment 是 est 的主语。相同结尾不保证词类相同，须结合句法。"
+        },
+        {
+          "prompt": "把“可洗的衣物”写成 des vêtements ___，哪项合适？",
+          "choices": [
+            "lavables",
+            "lavage",
+            "lavent"
+          ],
+          "answer": 0,
+          "reason": "lavable 是可洗的形容词，这里与复数 vêtements 配合加 s；lavage 是名词，lavent 是变位动词。"
+        }
+      ],
+      "application": "编一个虚构人物的三阶段工作经历，每阶段写状态和原因，至少一次使用 pour 与 parce que。 另外把六个后缀各找一个本课已解释的例词，任选两个放进完整句，并指出句法岗位。",
+      "self_check": [
+        "不把限制误写成个人偏好",
+        "时间节点和因果关系可复查",
+        "六种后缀能各举一个例子",
+        "不会把 -ment 结尾一律判成副词"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM216",
+      "number": 16,
+      "title": "历史叙述：事件、象征与时间线",
+      "source_title": "LEÇON QUARANTE-SIX",
+      "minutes": 25,
+      "goal": "以一个虚构城市庆典写五句历史式记录：明确日期、群体聚集、行动、决定、象征解释",
+      "prerequisites": [
+        "JM215"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-005.md",
+          "label": "LEÇON QUARANTE-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第46课以巴士底狱事件为历史阅读材料。先识别日期、参与者、地点与动作，把行动按时间排好，再判断作者何处从事件描述转向象征意义。历史文本可能用现在时让事件显得眼前发生，这叫历史现在时；它不意味着事件发生在今天，也不能只凭时态来确定真实年份。\n\n被动句和 se 加动词可把机构、决定或群体变化放到焦点位置；se fonde 这类表达需结合上下文理解为成立，而非一定是某个人给自己做动作。n’en…pas moins 等结构常保留“尽管如此仍然”的方向，不要看到 ne 就把整句读成未发生。复述应同时保住时间线与转折，避免把作者的解释误当成另一个行动事件。\n\n派生词不仅换意思，也可能换句法岗位。organiser une réunion 的 organiser 是动词，l’organisation de la réunion 中 organisation 是名词；名词 téléphone 可派生动词 téléphoner，名词 culture 可形成形容词 culturel。形容词变副词时常参考阴性形式加 -ment，例如 prudent→prudente→prudemment 是特殊拼写模式之一，simple→simplement 则直接接 -ment；不能机械把任何词尾都叠起来。写作时先想句中缺动作、事物、性质还是方式，再选择同词族中的形式。",
+      "analogy": "历史阅读像给长卷贴时间便签，行动贴一色，作者的解释贴另一色。",
+      "teaching_points": [
+        "历史现在时不等于当下事件",
+        "se 可有被动或变化意义",
+        "n’en...pas moins 表尽管如此仍然",
+        "事件事实与象征解释分开",
+        "organiser→organisation：动词转名词；téléphone→téléphoner：名词转动词。",
+        "culture→culturel：名词转形容词；simple→simplement：形容词转副词。",
+        "-ent 形容词的常见副词形式为 -emment，如 prudent→prudemment，不能写 prudentement。"
+      ],
+      "anchor": {
+        "fr": "La foule se rassemble sur la place.",
+        "zh": "人群在广场上聚集。",
+        "sound": "“拉福勒”风铃把人群引到广场。",
+        "movie": "广场上的大风铃轻响，许多成人从四周走来，正在形成聚集的人群。",
+        "pronunciation": "foule /ful/；rassemble /ʁa.sɑ̃bl/；place /plas/，结尾 e 不另发音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "历史文用现在时叙述十八世纪事件，意味着？",
+          "choices": [
+            "所有日期应删除",
+            "作者使用历史现在时呈现过去",
+            "事件刚刚在今天发生"
+          ],
+          "answer": 1,
+          "reason": "时态可服务叙事表现，真实年代仍依据文本日期。"
+        },
+        {
+          "prompt": "“尽管如此，决定仍然作出”保留哪种关系？",
+          "choices": [
+            "让步后的持续结论",
+            "完全取消决定",
+            "两个互不相关的名单"
+          ],
+          "answer": 0,
+          "reason": "让步承认前一条件，同时保留后一结论，不能把否定词孤立翻译。"
+        },
+        {
+          "prompt": "补全 L’___ de la fête prend du temps.，表示活动组织工作，选哪项？",
+          "choices": [
+            "organiser",
+            "organise",
+            "organisation"
+          ],
+          "answer": 2,
+          "reason": "冠词 l’ 后需要可作主语的名词 organisation；organiser 是不定式，organise 是变位动词。"
+        },
+        {
+          "prompt": "要描述“谨慎地行动”的方式，选哪项？",
+          "choices": [
+            "agir prudent",
+            "agir prudemment",
+            "agir prudence"
+          ],
+          "answer": 1,
+          "reason": "修饰 agir 的方式用副词 prudemment；prudent 是形容词，prudence 是名词，后者需如 avec prudence 的结构。"
+        }
+      ],
+      "application": "以一个虚构城市庆典写五句历史式记录：明确日期、群体聚集、行动、决定、象征解释。 给庆典记录补两个同词族句：一个 organiser 动词句，一个 organisation 名词句，再用一个副词描述行动方式。",
+      "self_check": [
+        "现在时叙事有过去日期支撑",
+        "事件与解释没有混成一件事",
+        "能按句中岗位选择动词、名词、形容词或副词"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM217",
+      "number": 17,
+      "title": "对话叙事：谁在期待，谁在判断",
+      "source_title": "LEÇON QUARANTE-SEPT",
+      "minutes": 25,
+      "goal": "写六句虚构等候场景，分别含可观察事实、两个人不同预期，以及一次带 mais 的转折",
+      "prerequisites": [
+        "JM216"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-006.md",
+          "label": "LEÇON QUARANTE-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第47课以约会冲突推进人物关系。阅读时给每句心理活动标上持有者：他以为、她希望、叙述者描述，三者不能混在一起。过去将来时常呈现人物当时的预期，即使后来结果没有如愿，也不需要把每个形式都解释成独立的假设条件句。\n\n人物对白中的礼貌、讽刺与埋怨要靠语境理解，表面赞美可能带反向评价，不能只抽一句话判定态度。时间表达也应结合叙事情境核对，旧式钟点说法不要脱离上下文猜。原课还练反义词与复合词，输出可用早晚、接近远离、打开关闭来组织冲突变化。复述先说可观察行为，再用“似乎、认为”标记推测，保留人物各自的声音。\n\n复合构词把多个词结合成一个相对固定的新概念，不要求所有字母都写在一起。porte-monnaie 由动词成分 porte 与名词 monnaie 通过连字符结合，指钱包；brosse à dents 用 à 连接并说明用途，pomme de terre 则已形成固定词义，不能只按“地里的苹果”逐词猜。与之不同，une grande maison 通常只是可自由替换的修饰语加名词，不因相邻就一定成为词典中的复合词。遇到新词先找组成、连接方式与整体所指，再查证固定写法和复数形式。",
+      "analogy": "人物视角像三副眼镜：叙述者和两位当事人看到的画面不必完全相同。",
+      "teaching_points": [
+        "人物预期与叙述事实分层",
+        "过去将来时可承载人物当时预期",
+        "对白语气结合上下文",
+        "反义动作词帮助组织转折",
+        "复合词可用连字符、à/de 或直接并列连接。",
+        "porte-monnaie 与 brosse à dents 的连接机制不同，均作为整体理解。",
+        "自由形容词名词组不自动等于固定复合词。"
+      ],
+      "anchor": {
+        "fr": "Elle attend, mais il ne vient pas.",
+        "zh": "她在等，但他没有来。",
+        "sound": "“阿唐”等候椅旁空着“维昂”来访拖鞋。",
+        "movie": "女士坐在等候椅上看钟，另一侧给来访者准备的拖鞋一直无人穿。",
+        "pronunciation": "attend /a.tɑ̃/ 末 d 不读；vient /vjɛ̃/；mais /mɛ/ 保留转折停顿；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "人物“以为她会来”能直接证明她后来来了吗？",
+          "choices": [
+            "不能，这是人物当时的预期",
+            "能，一切预期必定实现",
+            "能，因为条件式总是既成事实"
+          ],
+          "answer": 0,
+          "reason": "期待与结果属于不同信息层，需后文确认实际行动。"
+        },
+        {
+          "prompt": "复述带讽刺的赞美最应依靠什么？",
+          "choices": [
+            "只按每个词最常见字面义",
+            "人物姓名的拼写",
+            "前后行为与对话语境"
+          ],
+          "answer": 2,
+          "reason": "语境能表明字面赞美是否表达不满或反讽。"
+        },
+        {
+          "prompt": "哪项分析最准确？",
+          "choices": [
+            "brosse à dents 的 à 连接刷子与用途，整体指牙刷",
+            "porte-monnaie 只能表示把钱搬走的一个完整句子",
+            "所有“形容词＋名词”都是固定复合词"
+          ],
+          "answer": 0,
+          "reason": "brosse à dents 以 à 引出用途，形成固定器物名；复合词的整体词义与自由短语不同。"
+        }
+      ],
+      "application": "写六句虚构等候场景，分别含可观察事实、两个人不同预期，以及一次带 mais 的转折。 另外用 porte-monnaie 与 brosse à dents 各写一句，并说明连字符和介词在构词中承担什么连接作用。",
+      "self_check": [
+        "每项判断有明确持有者",
+        "不把预期当作发生结果",
+        "能把固定复合词与自由修饰词组区分开"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM218",
+      "number": 18,
+      "title": "科普说明：定义与过程动词",
+      "source_title": "LEÇON QUARANTE-HUIT",
+      "minutes": 25,
+      "goal": "选一个简单日常装置，用一条定义和四个过程动词解释它的工作，不写未经验证的操作指令",
+      "prerequisites": [
+        "JM217"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-007.md",
+          "label": "LEÇON QUARANTE-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第48课通过蒸汽机说明工作原理。读这类文章先找定义，再找物体怎样从状态一变到状态二：加热、转化、推动、返回等动词把过程连接起来。c’est、qui、dans lequel 可以把类别、性质与工作环境接成定义句，不能只背零件名却说不出各零件承担什么动作。\n\n现在时在说明文中常表达机制的一般关系，而不是报告某台机器此刻正转。主动句可说明某部件推动什么，被动句可让受作用部件作主语，两种镜头可以互相核对。n’importe qui、où、quand、comment 分别泛化人物、地点、时间和方式，不能见 n’importe 就一律译成随便什么。原文是语言与机制阅读材料，不提供制造或操作设备的安全步骤。\n\n原课缩略语模块区分截短与首字母组合。professeur→prof、photographie→photo 是保留原词一部分形成常用短词；prof 常用于较熟悉的交流，正式文书可以保留 professeur。SNCF 则由名称各词的首字母组成，常按法语字母名称逐个念，不是把一个单词随手截成前几字母。有些首字母组合又按一个词读，如 ONU，因此“全大写”本身不能决定一定逐字母念。首次遇到缩略形式时应查全称、实际读法与使用场合，不凭字母数量推断含义。",
+      "analogy": "过程说明像一排多米诺骨牌，每个动词说明哪一块推动下一块。",
+      "teaching_points": [
+        "定义包含类别与区别特征",
+        "过程动词标记状态变化",
+        "一般机制常用现在时",
+        "n’importe 系列按语法对象区分",
+        "professeur→prof 是截短；photographie→photo 同类。",
+        "SNCF 是首字母组合，常逐字母念；ONU 常按一个词念。",
+        "缩略语需核对全称、读法、语体，不按大写形式一概处理。"
+      ],
+      "anchor": {
+        "fr": "La vapeur fait tourner la roue.",
+        "zh": "蒸汽使轮子转动。",
+        "sound": "“瓦珀尔”蒸汽推着“图尔内”转轮。",
+        "movie": "一个透明展示模型中，蒸汽推动连接机构，侧面的轮子正在转动，成人在旁观察。",
+        "pronunciation": "vapeur /va.pœʁ/；fait /fɛ/；tourner /tuʁ.ne/；roue /ʁu/ 只有一个元音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "fait tourner 在这里表示？",
+          "choices": [
+            "已经完成一次轮子考试",
+            "轮子拒绝转动",
+            "使某物转动"
+          ],
+          "answer": 2,
+          "reason": "faire + 不定式可表达使役关系，这里蒸汽使轮子转。"
+        },
+        {
+          "prompt": "n’importe où 泛指什么？",
+          "choices": [
+            "时间",
+            "地点",
+            "人物"
+          ],
+          "answer": 1,
+          "reason": "où 指地点；人物用 qui，时间用 quand。"
+        },
+        {
+          "prompt": "professeur→prof 与 SNCF 的形成方式，哪项正确？",
+          "choices": [
+            "两者都只是删除原单词末尾几个字母",
+            "前者截短原词，后者组合名称的首字母",
+            "前者只能用于书面，后者只能用于口语"
+          ],
+          "answer": 1,
+          "reason": "prof 保留 professeur 的词首部分；SNCF 来自多个词的首字母。构词方法不同，使用媒介也不因此固定。"
+        }
+      ],
+      "application": "选一个简单日常装置，用一条定义和四个过程动词解释它的工作，不写未经验证的操作指令。 给装置说明补一条面向同学的口语开场，使用 prof 或 photo；再说明一个首字母缩略形式该查哪些信息。",
+      "self_check": [
+        "每个零件与动作关系明确",
+        "定义能区分类别与用途",
+        "能区分单词截短与首字母构成"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM219",
+      "number": 19,
+      "title": "人口议题：趋势、比例与条件结论",
+      "source_title": "LEÇON QUARANTE-NEUF",
+      "minutes": 25,
+      "goal": "自设两年图书馆访客数据，用三句写趋势，另写一个带明确条件的未来推演，并注明数据为虚构",
+      "prerequisites": [
+        "JM218"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-008.md",
+          "label": "LEÇON QUARANTE-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第49课借人口与家庭讨论趋势。阅读时先把数据的时间、对象和计量单位圈出来：人数、比例、每人的平均值不是同一件事；某年的降低也不自动意味着今天仍降低。描述趋势可用 augmenter、diminuer、la hausse、la baisse，但数值变化和作者对变化的评价应分开记录。\n\n家庭词组也会因结构改变意思：des familles nombreuses 常指子女较多的家庭，而 de nombreuses familles 指许多家庭。条件式可提出“若趋势继续可能怎样”的推演，不能把它改成已经发生的结论。原课中的统计有明确历史背景，本课不更新也不延伸为当代人口判断；练习使用自行设定的小型数据，任务是准确复述方向与条件，保留不确定性。\n\n不精确数量仍要区分词类。plusieurs visiteurs、quelques visiteurs 都直接限定复数名词，表示多个或一些，不给固定数目；quelques-uns 则独立代替前文已知的一群对象，后面不直接再接 visiteurs，阴性群体可用 quelques-unes。选几个对象出来时可说 quelques-uns des visiteurs。environ trente personnes 中 environ 修饰数值，约三十人；vers dix-huit heures 中 vers 表大约时刻，也可表空间方向。不能把 environ 和 vers 当成能在所有名词前自由替换的一对同义词。",
+      "analogy": "趋势像温度计的两次读数，要先看刻度、日期和测量对象，才能说升降。",
+      "teaching_points": [
+        "趋势词与评价词分开",
+        "familles nombreuses 与 nombreuses familles 意义不同",
+        "条件推演不是既成事实",
+        "数字须带时间、对象与单位",
+        "plusieurs/quelques + 复数名词；quelques-uns/quelques-unes 独立代指。",
+        "quelques-uns des visiteurs 表部分访客。",
+        "environ + 数量；vers + 大约时刻，vers 另有空间方向义。"
+      ],
+      "anchor": {
+        "fr": "Le nombre de visiteurs diminue.",
+        "zh": "访客人数在减少。",
+        "sound": "“迪米纽”变小的计数球记录访客。",
+        "movie": "展馆门口成人管理员看着一个逐渐变小的计数球，进门的访客比前一时段少。",
+        "pronunciation": "nombre /nɔ̃bʁ/；visiteurs /vi.zi.tœʁ/；diminue /di.mi.ny/，主语中心 nombre 为单数；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "de nombreuses familles 意思是？",
+          "choices": [
+            "唯一一个家庭",
+            "许多家庭",
+            "每个家庭都很多孩子"
+          ],
+          "answer": 1,
+          "reason": "前置 nombreuses 强调家庭数量；familles nombreuses 常描述多子女家庭。"
+        },
+        {
+          "prompt": "Le nombre de visiteurs 后动词单数还是复数？",
+          "choices": [
+            "通常单数，与 nombre 配合",
+            "一定复数，与 visiteurs 配合",
+            "不能接动词"
+          ],
+          "answer": 0,
+          "reason": "名词组中心是 le nombre，de visiteurs 是补语。"
+        },
+        {
+          "prompt": "前文已提到一群访客，“其中一些离开了”应选？",
+          "choices": [
+            "Quelques visiteurs-uns sont partis.",
+            "Quelques sont partis.",
+            "Quelques-uns sont partis."
+          ],
+          "answer": 2,
+          "reason": "quelques-uns 是可独立作主语的代词；quelques 通常需限定后面的复数名词，不能直接这样独立使用。"
+        },
+        {
+          "prompt": "用近似数量和近似时刻补全 ___ trente personnes arrivent ___ dix-huit heures.，最自然的是？",
+          "choices": [
+            "Environ / vers",
+            "Quelques-uns / environ",
+            "Plusieurs / quelques"
+          ],
+          "answer": 0,
+          "reason": "environ 修饰 trente 这一人数，vers 引出大约十八点；代词 quelques-uns 不能直接限定 trente personnes。"
+        }
+      ],
+      "application": "自设两年图书馆访客数据，用三句写趋势，另写一个带明确条件的未来推演，并注明数据为虚构。 给虚构数据补一句 environ 人数、一句 vers 时刻，再用 quelques-uns 回指其中部分访客。",
+      "self_check": [
+        "数据单位与时间齐全",
+        "推演未写成已经证实的结果",
+        "数量限定词、独立代词与近似副词不混用"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM220",
+      "number": 20,
+      "title": "讽刺阅读：观察礼貌表面下的反差",
+      "source_title": "LEÇON CINQUANTE",
+      "minutes": 25,
+      "goal": "写五句虚构办公室微故事：两句环境、两项同时动作、一句对白；再用中性语言解释反差",
+      "prerequisites": [
+        "JM219"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-009.md",
+          "label": "LEÇON CINQUANTE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第50课以办公室场景写讽刺。先找真实可观察的布置、姿态与等待动作，再看人物怎样说话，才能发现制度位置与实际行为之间的反差。讽刺常不直接写“这很荒唐”，而是把细节排列出来让读者推断；因此不能只凭一个夸张词就替作者补出不存在的事件。\n\npendant que、tandis que 可以并置两个同时发生的动作，也可能借并置突出对比，具体方向由语境决定。过去时背景常用于办公室陈设与人物状态，事件动词则推进对话。复述时尽量改用中性语言列行为，再说明哪里产生反差；保留叙事证据，避免把讽刺文本中的人物直接等同于现实中某一职业的所有成员。\n\n原课时间模块还区分持续、完成耗时与延续起点：Je travaille ici depuis deux mois. 指工作持续至今；J’ai travaillé pendant deux heures. 只说明那次持续两小时；J’ai rédigé la lettre en vingt minutes. 表示二十分钟完成。avant que 引出不同主语时接虚拟式，如 Je pars avant qu’elle arrive.；après que 在规范表达中接直陈式，如 Je pars après qu’elle a terminé.，不能因两者都有 que 就套同一语式。同一执行者可压缩为 avant de partir、après avoir terminé；压缩后必须仍能还原谁做动作。",
+      "analogy": "讽刺像镜子旁放一把歪尺子，不说尺子歪，两个细节并排就让人看见不对劲。",
+      "teaching_points": [
+        "讽刺从细节反差推断",
+        "pendant que/tandis que 可表并置或对比",
+        "背景描写与对白推进区分",
+        "人物行为不扩大成职业偏见",
+        "depuis：从过去延续；pendant：持续多久；en：完成所用时间。",
+        "avant que + 虚拟式；après que 在规范书面语中用直陈式。",
+        "同一逻辑主语可用 avant de / après avoir；不同执行者保留从句更清楚。"
+      ],
+      "anchor": {
+        "fr": "Le directeur lit pendant que j’attends.",
+        "zh": "主任在读书，而我在等候。",
+        "sound": "“迪雷克特”办公桌旁，“阿唐”等候椅一直空耗时间。",
+        "movie": "主任在大办公桌后专心读书，来访者坐在等候椅上看钟，双方动作并置。",
+        "pronunciation": "directeur /di.ʁɛk.tœʁ/；lit /li/；pendant que /pɑ̃.dɑ̃.kə/；attends /a.tɑ̃/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "判断一段文字在讽刺，最可靠的依据是？",
+          "choices": [
+            "陈述细节之间反复出现的反差",
+            "出现一个办公室名词",
+            "所有人物名字都很长"
+          ],
+          "answer": 0,
+          "reason": "讽刺依赖叙事与语气的组织，不是由场所或姓名自动决定。"
+        },
+        {
+          "prompt": "pendant que 首先能表达什么？",
+          "choices": [
+            "一个动作必定在另一个前完成",
+            "只表示所属关系",
+            "两个动作在同一时间段发生"
+          ],
+          "answer": 2,
+          "reason": "它通常组织同时关系，语境也可能让这种并置呈现对比。"
+        },
+        {
+          "prompt": "“他花二十分钟完成摘要”最合适的时间表达是？",
+          "choices": [
+            "Il a résumé le texte depuis vingt minutes.",
+            "Il a résumé le texte en vingt minutes.",
+            "Il résume le texte avant vingt minutes."
+          ],
+          "answer": 1,
+          "reason": "en vingt minutes 表完成任务所用的时间；depuis 不是单次完成耗时，avant 表截止点或先后而非耗时。"
+        },
+        {
+          "prompt": "按规范书面语补全 Je rentrerai après qu’elle ___ son travail.，强调完成在先，选？",
+          "choices": [
+            "ait terminé",
+            "terminer",
+            "aura terminé"
+          ],
+          "answer": 2,
+          "reason": "après que 接直陈式；aura terminé 是直陈式先将来，突出先完成。ait terminé 是虚拟式过去时，terminer 则缺从句变位谓语。"
+        }
+      ],
+      "application": "写五句虚构办公室微故事：两句环境、两项同时动作、一句对白；再用中性语言解释反差。 给办公室故事补三句，分别用 depuis、pendant、en；再用不同主语写一组 avant que / après que 时间句。",
+      "self_check": [
+        "推断能引用自己写出的具体细节",
+        "同时时间关系表达准确",
+        "能区分持续与完成耗时",
+        "时间压缩句的逻辑主语清楚"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM221",
+      "number": 21,
+      "title": "职业变化：解释能力与岗位的关系",
+      "source_title": "LEÇON CINQUANTE ET UN",
+      "minutes": 25,
+      "goal": "写一份四周技能补充安排：两项行动、各自目的、一个比较尺度和一个尚不确定的因素",
+      "prerequisites": [
+        "JM220"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-010.md",
+          "label": "LEÇON CINQUANTE ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第51课围绕职业压力、技能变化和继续学习组织论述。阅读时把工作角色与指代它的不同说法归并，避免以为每换一个称呼就多出一类人。经济变化、组织变化、个人能力与岗位结果可能构成多层关系，作者提到某因素不等于证明它是唯一原因。\n\n学习目的可用 pour 加不定式，持续行动可用 continuer à；比较结构如 plus…que、moins…que 需要说清比较的是时间、数量还是做事程度。复述原文时保留“有时、某些、可能”等范围词，不能把旧文本中的年龄或就业判断直接当作今天的招聘规则。迁移到自己的学习计划，应说可执行动作与期望用途，而不是承诺学习必然保证岗位或收入。\n\n比较关系需要按被比较成分选择结构：aussi compétent que 比较形容词性质，autant de dossiers que 比较名词数量，travailler autant que 则比较动作程度或数量。不能说 aussi de dossiers，因为 aussi 不能直接代替数量结构中的 autant de。原课还练渐进对应：Plus je pratique, plus je comprends. 表示练习增加时理解也增加；第二个 plus 引出相应变化，不是单纯列出两个并列优点。比较前确认双方单位一致，再决定比较性质、物件数量还是动作表现。",
+      "analogy": "技能像工具箱，工作任务换了，先看缺哪件工具，不是把旧工具全部扔掉。",
+      "teaching_points": [
+        "同一群体的不同称呼归并",
+        "多因素关系不简化成唯一因果",
+        "continuer à 与 pour + 不定式",
+        "比较须标明尺度",
+        "aussi + 形容词/副词 + que；autant de + 名词 + que。",
+        "动词 + autant que：比较动作程度或数量。",
+        "plus...plus... 表两项程度的联动变化。"
+      ],
+      "anchor": {
+        "fr": "Je continue à apprendre pour garder mon emploi.",
+        "zh": "我继续学习，以保住工作。",
+        "sound": "“孔蒂纽”工具箱不断装入学习工具。",
+        "movie": "成人下班后打开工具箱旁的教材，边学习边整理工作工具，工牌放在桌边。",
+        "pronunciation": "continue /kɔ̃.ti.ny/；apprendre /a.pʁɑ̃dʁ/；emploi /ɑ̃.plwa/；两个不定式不再变位；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "continuer 后接“学习”可用？",
+          "choices": [
+            "continuer que apprendre",
+            "continuer apprend",
+            "continuer à apprendre"
+          ],
+          "answer": 2,
+          "reason": "continuer à + 不定式是常用搭配，apprendre 保持不定式。"
+        },
+        {
+          "prompt": "“学习可能帮助适应岗位”能改成“学习必保住工作”吗？",
+          "choices": [
+            "可以，只要使用 futur",
+            "不能，可能性被错误扩大为保证",
+            "可以，目的等于必然结果"
+          ],
+          "answer": 1,
+          "reason": "目的、可能效果与已证实必然结果是不同层次。"
+        },
+        {
+          "prompt": "“我和你有一样多的材料”补全 J’ai ___ documents que toi.，选？",
+          "choices": [
+            "aussi de",
+            "autant de",
+            "aussi"
+          ],
+          "answer": 1,
+          "reason": "比较 documents 的数量用 autant de；aussi 用于形容词或副词的同级比较。"
+        },
+        {
+          "prompt": "Plus je révise, plus je retiens. 表示？",
+          "choices": [
+            "只是在说我复习且记住，与程度无关",
+            "只要记住就不再需要复习",
+            "复习程度增加时，记住所学的程度也增加"
+          ],
+          "answer": 2,
+          "reason": "两个 plus 建立对应的程度变化，不能删掉联动关系，只译成普通并列。"
+        }
+      ],
+      "application": "写一份四周技能补充安排：两项行动、各自目的、一个比较尺度和一个尚不确定的因素。 给技能安排补三个比较句：aussi…que、autant de…que、plus…plus 各一条，标出所比较的尺度。",
+      "self_check": [
+        "目标落在可执行动作",
+        "不把希望结果写成保证",
+        "性质比较、数量比较与程度联动结构分别使用"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM222",
+      "number": 22,
+      "title": "解释身体机制：定义、类比与限制",
+      "source_title": "LEÇON CINQUANTE-DEUX",
+      "minutes": 25,
+      "goal": "向非专业朋友解释一张虚构的流程图：一句定义、三步变化、一处类比与一处类比不能涵盖的限制",
+      "prerequisites": [
+        "JM221"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-011.md",
+          "label": "LEÇON CINQUANTE-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第52课用医学主题练定义和过程说明。读者先分清术语定义、机制描述与作者使用的战争类比：微生物像敌人、抗体像士兵，是帮助理解的表达方式，并不表示人体真的有意识作战。c’est-à-dire、consister à、en quoi 等结构可把专业词转成解释性句子。\n\n机制文本的时间和范围限制不能丢掉：certain、spécifique、dans certains cas 等词控制结论适用范围。si 条件句的时态要随事实条件或假设条件选择，而不是遇医学词就自动采用某一语式。原书所述医学细节属于历史教材内容，本课只练语言组织，不把它变成个人诊疗或接种建议；输出任务可解释一张虚构示意图，并明确哪些信息是图上显示、哪些并未提供。\n\n原课条件模块要区分开放条件与过去反事实。Si tu as le temps demain, tu viendras. 的条件尚可实现，si 从句用现在时、结果用将来时；Si tu avais eu le temps hier, tu serais venu. 把昨天已有的事实改作假设，从句用愈过去时、结果用条件式过去时。不能在表达“如果”的 si 从句写成 si tu aurais eu。现在或未来较设想性的条件又可用 si tu avais le temps, tu viendrais，不等同于昨天没发生。选择形式前先标条件是待定、现时设想还是过去反事实。",
+      "analogy": "科普类比像儿童地图上的小图标，能指路，但不能把图标当成真实地形。",
+      "teaching_points": [
+        "定义与类比分层理解",
+        "c’est-à-dire/consister à 组织解释",
+        "保留范围与条件词",
+        "历史医学材料不用于个人决策",
+        "开放未来条件：si + 现在时，结果可用将来时。",
+        "过去反事实：si + 愈过去时，结果常用条件式过去时。",
+        "si 表条件时不把条件式移进该从句；现时设想与过去反事实要分开。"
+      ],
+      "anchor": {
+        "fr": "Ce schéma explique comment le corps réagit.",
+        "zh": "这张示意图解释身体如何反应。",
+        "sound": "“谢马”线团图配着“雷阿吉”反应箭头。",
+        "movie": "成人指着一张由线团和箭头组成的人体反应示意图，向同伴解释变化关系。",
+        "pronunciation": "schéma /ʃe.ma/；explique /ɛks.plik/；réagit /ʁe.a.ʒi/，é 与 a 分开；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "把“对某种情况有效”改成“对所有情况有效”主要丢失什么？",
+          "choices": [
+            "标点颜色",
+            "适用范围限制",
+            "人物姓名"
+          ],
+          "answer": 1,
+          "reason": "某种与所有的量化范围不同，删限制会扩大原结论。"
+        },
+        {
+          "prompt": "机制说明里的“士兵”比喻应理解为？",
+          "choices": [
+            "帮助说明防御关系的类比",
+            "人体中真实穿制服的人",
+            "任何治疗都必然成功的证明"
+          ],
+          "answer": 0,
+          "reason": "类比帮助理解某种关系，本身不证明现实机制的全部细节。"
+        },
+        {
+          "prompt": "明确表示“昨天没有时间，若有本会来”，哪句正确？",
+          "choices": [
+            "Si tu aurais eu le temps hier, tu serais venu.",
+            "Si tu avais eu le temps hier, tu serais venu.",
+            "Si tu as le temps hier, tu viendras."
+          ],
+          "answer": 1,
+          "reason": "过去反事实用 si + avais eu（愈过去时），结果为 serais venu（条件式过去时）；不能用 si + 条件式过去时。"
+        },
+        {
+          "prompt": "“如果你明天有时间，你会来”的开放条件，选？",
+          "choices": [
+            "Si tu as le temps demain, tu viendras.",
+            "Si tu avais eu le temps demain, tu es venu.",
+            "Si tu auras le temps demain, tu viendras."
+          ],
+          "answer": 0,
+          "reason": "这里 si 条件从句用现在时 as，主句用将来时 viendras；不因谈未来而把 si 后也改将来时。"
+        }
+      ],
+      "application": "向非专业朋友解释一张虚构的流程图：一句定义、三步变化、一处类比与一处类比不能涵盖的限制。 另用非医学场景写两组条件句：一组明天仍可能实现，一组昨天实际未实现，并写明真实情况。",
+      "self_check": [
+        "定义不用新术语循环解释旧术语",
+        "范围限制与类比边界明确",
+        "条件的时间参照与现实状态能明确区分"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM223",
+      "number": 23,
+      "title": "文学人物：从动作细节推断性格",
+      "source_title": "LEÇON CINQUANTE-TROIS",
+      "minutes": 25,
+      "goal": "为虚构人物写六句画像：两个反复动作、一个物件、一次使役安排、一个性格判断与证据",
+      "prerequisites": [
+        "JM222"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-012.md",
+          "label": "LEÇON CINQUANTE-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第53课通过物件、重复动作和人物反应刻画葛朗台。阅读时先记录钥匙、钱袋、门等物件怎样反复出现，再判断它们如何支持对性格的推断。人物衰弱与执念持续可以形成对比，但“仍然如此”不等于“越来越如此”；程度词和省略结构会影响判断，不能为了鲜明评价随意加重。\n\n文学长句常把谁让谁做什么嵌入 faire 加不定式，读到 se faisait 或 faisait ouvrir 时，需区分安排动作的人与真正执行动作的人。罕见的虚拟式未完成过去时、先过去时可先识别功能并用现代常见结构释义，不把它们当初学口语必须主动使用的形式。人物画像用两项行为证据支撑一个判断，比只罗列贪婪、善良等标签更扎实。\n\n目的关系需明确行动者。Léa ferme la porte pour travailler au calme. 中关门与工作都由 Léa 做，pour 后接不定式；Léa ferme la porte pour que son père puisse se reposer. 中关门者与休息者不同，pour que 引出完整主语并接虚拟式 puisse。afin de 与 afin que 也有类似选择。换成 pour ne pas déranger 时，否定放在不定式前，仍由主句行动者承担；不要把目的误写成已经发生的原因，也不要因省略主语而让读者误以为另一个人在做动作。",
+      "analogy": "人物描写像从脚印认走路习惯，先收集脚印，再下判断，不先画结论。",
+      "teaching_points": [
+        "物件与重复动作构成人物证据",
+        "仍然与更加的程度区分",
+        "faire + 不定式区分安排者与执行者",
+        "文学罕见时态以识别为先",
+        "同一执行者的目的常用 pour/afin de + 不定式。",
+        "不同执行者用 pour que/afin que + 明确主语 + 虚拟式。",
+        "pour ne pas + 不定式表达避免某事的目的。"
+      ],
+      "anchor": {
+        "fr": "Il garde la clé dans sa poche.",
+        "zh": "他把钥匙放在自己的口袋里。",
+        "sound": "“加尔德”护栏围着口袋里的“克莱”钥匙。",
+        "movie": "老人把钥匙紧握后塞进有小护栏形装饰的口袋，并不时摸口袋确认。",
+        "pronunciation": "garde /ɡaʁd/；clé /kle/；poche /pɔʃ/；sa 随 poche 阴性而非主人性别；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“他的吝啬并未减轻”能推出哪项？",
+          "choices": [
+            "吝啬仍然存在，不必表示程度增加",
+            "一定变得更吝啬",
+            "已经完全不吝啬"
+          ],
+          "answer": 0,
+          "reason": "未减轻只保留原状态，不自动引入更强程度。"
+        },
+        {
+          "prompt": "Il fait ouvrir la porte par sa fille. 谁实际开门？",
+          "choices": [
+            "门自己",
+            "一定是他说话的朋友",
+            "他的女儿"
+          ],
+          "answer": 2,
+          "reason": "faire 表使役，par sa fille 指实际执行 ouvrir 的人。"
+        },
+        {
+          "prompt": "“她关门，好让父亲休息”涉及两个行动者，应选？",
+          "choices": [
+            "Elle ferme la porte pour son père se reposer.",
+            "Elle ferme la porte pour que son père peut se reposer.",
+            "Elle ferme la porte pour que son père puisse se reposer."
+          ],
+          "answer": 2,
+          "reason": "pour que 后保留父亲作从句主语，并用虚拟式 puisse；pour 后不能这样直接放主语加不定式。"
+        }
+      ],
+      "application": "为虚构人物写六句画像：两个反复动作、一个物件、一次使役安排、一个性格判断与证据。 给人物画像补一组目的句：一次同主语用 pour，一次不同主语用 pour que，分别标出行动者。",
+      "self_check": [
+        "性格判断有可观察证据",
+        "使役句两种角色能还原",
+        "目的压缩前后不改变行动执行者"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM224",
+      "number": 24,
+      "title": "社会报道：谨慎处理比较与归因",
+      "source_title": "LEÇON CINQUANTE-QUATRE",
+      "minutes": 25,
+      "goal": "写五句关于倾听年轻人需求的虚构小报告：两项观察、一项谨慎推测、一项补充和一项支持行动",
+      "prerequisites": [
+        "JM223"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-013.md",
+          "label": "LEÇON CINQUANTE-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第54课讨论青少年困境，阅读训练重点是区分事件次数、涉及人数与后果，而不是记住旧材料的统计。比较句中的两倍、较少、比例更高都需要明确分母与对象；不同群体用不同计量口径时，不能只看两个数字就下结论。把这些信息做成小表，会比凭情绪记住一个大数字更可靠。\n\n报道中“常同时出现”与“造成”不是同一个关系。néanmoins、en revanche、en outre 等连接词分别引出保留、对照与补充；换掉连接词会改变作者的论证方向。复述敏感社会议题宜用中性语言描述处境与支持需求，避免把一类人贴上负面标签。原文年代与术语有局限，本课不延伸其统计结论，迁移练习使用支持与倾听的日常场景。\n\n表达阻碍下仍然行动时，连接结构要匹配。Bien qu’elle soit fatiguée, elle écoute son ami. 承认疲劳而保留倾听行为，bien que 后用虚拟式；Même si elle est fatiguée, elle écoute son ami. 用直陈式提出即使存在该条件仍会如此的关系。malgré 后通常接名词组，如 malgré sa fatigue，不能直接照搬 malgré elle est fatiguée。三种结构可服务相近话题，但语法接口和说话者呈现条件的方式不同；改写时既检查语式，也检查从句是否已压成名词组。",
+      "analogy": "比较比例像分两块不同大小的蛋糕，先看每块有多大，才数上面的果粒。",
+      "teaching_points": [
+        "人数、次数与比例分开",
+        "对照需同一口径",
+        "相关伴随不等于因果",
+        "连接词区分补充、保留、转折",
+        "bien que + 虚拟式：承认情况而保留相反预期的结论。",
+        "même si + 直陈式：即使该条件成立，主句仍然成立。",
+        "malgré + 名词组；不能无标记直接接变位从句。"
+      ],
+      "anchor": {
+        "fr": "Il est important d’écouter les jeunes.",
+        "zh": "倾听年轻人很重要。",
+        "sound": "“艾库特”耳朵形座椅让年轻人开口。",
+        "movie": "一位成人坐在耳朵形扶手椅旁，认真听几位年轻人讲述自己的处境。",
+        "pronunciation": "important /ɛ̃.pɔʁ.tɑ̃/；écouter /e.ku.te/；jeunes /ʒœn/，不是鼻化元音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "两个群体“事件人数”不同，能直接判断发生率高低吗？",
+          "choices": [
+            "能，人数多必定率高",
+            "不需要日期和统计范围",
+            "不能，还要知道群体总人数与口径"
+          ],
+          "answer": 2,
+          "reason": "比例要有分母，比较还需确认计量范围一致。"
+        },
+        {
+          "prompt": "en outre 通常表达？",
+          "choices": [
+            "因而保证得到结果",
+            "此外，补充一项信息",
+            "与前面必定相反"
+          ],
+          "answer": 1,
+          "reason": "en outre 标记补充，不等于 en revanche 的对照或 donc 的结论。"
+        },
+        {
+          "prompt": "按本课规范补全 ___ sa fatigue, elle vient. 与 Bien qu’elle ___ fatiguée, elle vient.，选？",
+          "choices": [
+            "Malgré / soit",
+            "Même si / est",
+            "Malgré / est"
+          ],
+          "answer": 0,
+          "reason": "malgré 后接名词组 sa fatigue；bien que 后从句用虚拟式 soit。même si 后需要完整从句，不能直接接 sa fatigue。"
+        },
+        {
+          "prompt": "Même si elle ___ fatiguée, elle nous aide. 应选？",
+          "choices": [
+            "soit",
+            "est",
+            "être"
+          ],
+          "answer": 1,
+          "reason": "même si 接直陈式，此处 est；bien que 才在本组对比中要求 soit。"
+        }
+      ],
+      "application": "写五句关于倾听年轻人需求的虚构小报告：两项观察、一项谨慎推测、一项补充和一项支持行动。 另把一项支持行动各用 bien que、même si、malgré 改写，并说明哪里仍是完整从句、哪里已变成名词组。",
+      "self_check": [
+        "事实、推测和建议区分清楚",
+        "不用负面标签替代具体处境",
+        "让步连接词与语式、名词接口对应"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM225",
+      "number": 25,
+      "title": "经济论证：承诺、措施和矛盾",
+      "source_title": "LEÇON CINQUANTE-CINQ",
+      "minutes": 25,
+      "goal": "写六句虚构社区采购争论：承诺、实际措施、反差、理由、反对意见与一项可核查证据",
+      "prerequisites": [
+        "JM224"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-014.md",
+          "label": "LEÇON CINQUANTE-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第55课用国际贸易材料呈现公开承诺与实际措施之间的张力。读者先列“谁承诺什么”，再列“谁采取什么措施”，最后检查二者是否在同一议题上冲突。战争、障碍、解除武装等词在此常是商业与关税关系的比喻，不一定描述真实军事行动；词义必须服从主题语境。\n\ns’engager à 和 promettre de 都可表达承诺，后接不定式的介词不同，需要整体记忆。pourtant 提出反差，en conséquence 推出结果，不能用同一个“然后”抹平论证方向。原文中的地区称呼、机构与经济数字有历史背景，本课不把它们更新为当代政策事实；迁移可用虚构社区采购讨论，练承诺与执行的证据关系，不作商业投资判断。\n\n原课原因模块区分给出新解释与援引共同前提。Je prends le bus parce que ma voiture est en panne. 用 parce que 说明原因；Puisque nous sommes tous ici, commençons. 用 puisque 把已知或此刻显然的情况作为理由，语气不必等同于责备。后两种结构 à cause de、grâce à 接名词组而非直接接完整变位从句；à cause de 常引不利原因，grâce à 常引有利帮助。若说 Grâce à ton aide, le travail avance.，肯定的是帮助作用，不能把同一句误译成由于你的妨碍。",
+      "analogy": "承诺与行动像两张透明纸，叠在一起，线条对不上才看见矛盾。",
+      "teaching_points": [
+        "承诺、措施、理由三栏核对",
+        "经济战争词汇常为比喻",
+        "promettre de 与 s’engager à",
+        "pourtant 与 en conséquence 逻辑不同",
+        "parce que 常回答为什么；puisque 常援引已知或显然的前提。",
+        "à cause de + 名词常表不利原因；grâce à + 名词常表有利帮助。",
+        "连词接从句，介词短语接名词，改写需同步调整句法。"
+      ],
+      "anchor": {
+        "fr": "Ils promettent de réduire les obstacles.",
+        "zh": "他们承诺减少障碍。",
+        "sound": "“普罗梅特”承诺带缠住“雷迪尔”剪刀。",
+        "movie": "几位成人在协商桌上共同握住剪刀，准备剪断挡住通道的绳索，表示承诺减少障碍。",
+        "pronunciation": "promettent /pʁɔ.mɛt/ 末 -ent 不读；réduire /ʁe.dɥiʁ/；obstacles /ɔp.stakl/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“承诺减少”哪个搭配正确？",
+          "choices": [
+            "promettre réduit",
+            "promettre de réduire",
+            "promettre à réduire"
+          ],
+          "answer": 1,
+          "reason": "promettre de + 不定式；s’engager 则常用 à。"
+        },
+        {
+          "prompt": "承诺开放，却增加限制，连接两项最适合？",
+          "choices": [
+            "pourtant",
+            "en conséquence 表示毫无冲突的因果",
+            "d’abord 作为最终总结"
+          ],
+          "answer": 0,
+          "reason": "pourtant 突出承诺和措施的反差，不能把冲突改成顺承因果。"
+        },
+        {
+          "prompt": "要表达“多亏你的帮助，我们提前完成了”，最贴切的是？",
+          "choices": [
+            "À cause que ton aide, nous avons fini tôt.",
+            "Grâce à ton aide, nous avons fini tôt.",
+            "Parce que ton aide, nous avons fini tôt."
+          ],
+          "answer": 1,
+          "reason": "grâce à 引出有利原因的名词组 ton aide；parce que 需要完整从句，à cause que 不是本课规范搭配。"
+        },
+        {
+          "prompt": "已知大家都到齐，用这个共同前提建议开始，哪句最贴切？",
+          "choices": [
+            "Malgré nous sommes tous ici, commençons.",
+            "Pour que nous sommes tous ici, commençons.",
+            "Puisque nous sommes tous ici, commençons."
+          ],
+          "answer": 2,
+          "reason": "puisque 把已知前提作为开始的理由；malgré 不直接接这种从句，pour que 表目的且需要虚拟式。"
+        }
+      ],
+      "application": "写六句虚构社区采购争论：承诺、实际措施、反差、理由、反对意见与一项可核查证据。 为采购争论再写两个原因句：用 parce que 提供新原因，用 puisque 援引共同前提；另以 grâce à 说明一项帮助。",
+      "self_check": [
+        "比喻不按字面军事实义误读",
+        "承诺和措施的主语对象可对应",
+        "原因是新解释还是共同前提能说清",
+        "介词短语后不直接悬放变位从句"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM226",
+      "number": 26,
+      "title": "观点文章：他人看法、反驳与结论",
+      "source_title": "LEÇON CINQUANTE-SIX",
+      "minutes": 25,
+      "goal": "以花园或一顿饭为例写六句观点文：他人看法、你的立场、两个理由、一个假设、结论",
+      "prerequisites": [
+        "JM225"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-015.md",
+          "label": "LEÇON CINQUANTE-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第56课讨论劳动与生活所需之物，开篇先摆出某种关于自然与过去的看法，再展开反驳。阅读必须标明观点是谁的：作者先介绍一个论点，不等于赞同它。en réalité、en effet、à plus forte raison 等标志分别引导纠正、说明和递进，加强理由的方式不同，不能全部翻成“其实”。\n\n条件句可构造一个反事实世界来检验论点，例如假设没有某项人类活动会怎样；这种思想实验不是已经观察到的事实。ce que 帮助把“我们得到的东西”和“我们希望的东西”变成可比较的名词性块。原书的历史判断和科学例子要放回其写作语境，本课聚焦论证结构，迁移选择日常园艺或做饭，写出观点、理由、例子与结论之间的连接。\n\n结果表达把程度与后果连接起来：Le sac est si lourd que je ne peux pas le porter. 用 si 加形容词；Il travaille tellement qu’il oublie l’heure. 用 tellement 修饰动作；Il a tellement de dossiers qu’il reste tard. 则需 de 连接名词。这里的 si 是程度副词，不是引出假设的“如果”。trop lourd pour être porté 表超过可实现某动作的程度；说 Je suis trop fatigué pour continuer. 时，疲惫与继续的执行者相同。若说 Ce dossier est trop lourd pour que je le porte.，结果从句改用 pour que 加虚拟式，不能把人和文件的动作角色混掉。",
+      "analogy": "论证像搭桌子：观点是桌面，理由是桌腿，例子检验桌腿是否真的撑得住。",
+      "teaching_points": [
+        "区分引述观点与作者立场",
+        "en réalité/en effet/à plus forte raison 各有作用",
+        "反事实思想实验不等于事实报告",
+        "ce que 把内容变成名词性结构",
+        "si + 形容词/副词 + que；tellement + 动词关系或 tellement de + 名词 + que。",
+        "程度结果中的 si 不等于条件连词 si。",
+        "trop...pour + 不定式表达程度导致难以实现的结果；不同执行者可用 pour que + 虚拟式。"
+      ],
+      "anchor": {
+        "fr": "Le jardin dépend du travail humain.",
+        "zh": "花园依赖人的劳动。",
+        "sound": "“德庞”吊篮靠人的劳动绳索支撑。",
+        "movie": "成人在花园浇水、修剪，一只吊篮靠人工拉起的绳索稳定，植物因此得到照料。",
+        "pronunciation": "dépend /de.pɑ̃/ 末 d 不读；travail /tʁa.vaj/；humain /y.mɛ̃/，h 不发音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“文件太多，以至于我需要帮助”应选哪句？",
+          "choices": [
+            "J’ai tellement dossiers que j’ai besoin d’aide.",
+            "J’ai tellement de dossiers que j’ai besoin d’aide.",
+            "J’ai si dossiers pour j’ai besoin d’aide."
+          ],
+          "answer": 1,
+          "reason": "tellement de + 复数名词表达数量程度，que 引出结果从句；不能漏 de，也不能用 si 直接限定 dossiers。"
+        },
+        {
+          "prompt": "Je suis trop fatigué pour continuer. 最准确的理解是？",
+          "choices": [
+            "我为了继续而特意变疲惫",
+            "如果我疲惫就证明已经继续了",
+            "疲惫程度超过我能继续的限度"
+          ],
+          "answer": 2,
+          "reason": "trop...pour 表程度妨碍某动作实现；pour continuer 在这里不是为疲惫寻找目的。"
+        }
+      ],
+      "application": "以花园或一顿饭为例写六句观点文：他人看法、你的立场、两个理由、一个假设、结论。 给观点短文补两种结果结构：si 或 tellement…que 一句，trop…pour 一句，并标明结果是否真的发生。",
+      "self_check": [
+        "每个观点有持有者",
+        "例子能支撑理由而非只重复结论",
+        "能区分程度结果、目的与假设"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM227",
+      "number": 27,
+      "title": "读广告：把卖点还原成可核对信息",
+      "source_title": "LEÇON CINQUANTE-SEPT",
+      "minutes": 25,
+      "goal": "写一段五句虚构周末活动广告，再制作四项信息清单：内容、时长、对象、费用范围",
+      "prerequisites": [
+        "JM226"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-016.md",
+          "label": "LEÇON CINQUANTE-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第57课是旅游广告阅读。形容词最高级、范围最大、服务齐全等表述会制造吸引力，但阅读时要把评价词与具体信息拆开：有哪些活动、在哪里、适合谁、是否另收费。不是看到“最好”就确认已经有统一比较标准，广告中的暗示与可核对事实需要分别记录。\n\ncomprend、offre、permet 等动词分别说明包含、提供与使某事成为可能，不能把“提供”自动读成“费用已包含”。aussi bien…que… 可并列两个对象，outre 引出额外内容；摘要应保留这些范围。原书广告的设施、价格和投资措辞属于旧材料，不作为当前旅游或购买建议。迁移任务写一个虚构活动宣传，再让自己删去无法证明的绝对化形容词。",
+      "analogy": "读广告像把礼物包装拆开，漂亮彩纸是一层，盒里到底装什么是另一层。",
+      "teaching_points": [
+        "广告评价与事实分栏",
+        "offrir 不自动等于免费包含",
+        "comprend 表包含范围",
+        "摘要保留对象、项目与限制"
+      ],
+      "anchor": {
+        "fr": "Ce séjour comprend deux activités.",
+        "zh": "这次住宿行程包含两项活动。",
+        "sound": "“孔普朗”活动篮里放两件道具。",
+        "movie": "旅客查看住宿安排篮，里面清楚放着两种活动道具，工作人员逐一展示包含项目。",
+        "pronunciation": "séjour /se.ʒuʁ/；comprend /kɔ̃.pʁɑ̃/；activités /ak.ti.vi.te/ 末 s 不读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "广告说“offre une piscine”，能保证泳池费用已包含吗？",
+          "choices": [
+            "能，offrir 永远等于免费",
+            "能，只要是旅游广告",
+            "不能，需要费用与条件说明"
+          ],
+          "answer": 2,
+          "reason": "offrir 可指提供设施或机会，并不单独证明免费或已含费用。"
+        },
+        {
+          "prompt": "把“最棒的活动”改成哪种更可核查？",
+          "choices": [
+            "人人必定满意",
+            "包含两场各三十分钟的指导活动",
+            "绝对举世无双"
+          ],
+          "answer": 1,
+          "reason": "项目数量和时长可以核查，另外两项是缺少尺度的绝对评价。"
+        }
+      ],
+      "application": "写一段五句虚构周末活动广告，再制作四项信息清单：内容、时长、对象、费用范围。",
+      "self_check": [
+        "宣传每个卖点可找到具体依据",
+        "提供与包含的语义不混淆"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM228",
+      "number": 28,
+      "title": "诗歌阅读：意象、重复与声音",
+      "source_title": "LEÇON CINQUANTE-HUIT",
+      "minutes": 25,
+      "goal": "写两句自己的水与记忆意象，再各用一句普通语言解释；录音比较按行停顿与按意群停顿的效果",
+      "prerequisites": [
+        "JM227"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-017.md",
+          "label": "LEÇON CINQUANTE-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原第58课以海、河流与人的情感组织诗歌比较。先找水域词和人物词如何互相映照，再读重复句怎样形成节奏。镜子、波浪、时间与记忆之间的连接是诗的表达，不需要硬还原成一个物理因果说明；比喻的价值在于让一个意象照亮另一个经验。\n\n诗行的分行不总等于句子结束，跨行时应继续按语法和意义连接。朗读中的不稳定 e 可能因诗体、节奏和传统发生不同处理，初学先辨清主谓与意群，不把日常口语规则无条件套到所有格律诗。比较两首诗时分别记录主题、说话对象、重复方式和节奏；输出只写自己的两句意象，不复制原诗，也不假装掌握了所有诗律。\n\n诗歌还可按行末声音识别押韵顺序：AABB 是相邻两行先同韵再换韵，ABAB 是两种韵交替，ABBA 是外层同韵包住中间一组。字母只标相同韵，不代表实际字母拼写；判断依据是读音。用新编行末词练习：soir 与 espoir 的共同结尾声音 /waʁ/ 为一组，lumière 与 rivière 的共同结尾声音 /jɛʁ/ 为一组；这里标的是共享韵部，并非单词的完整音标。按 soir—espoir—lumière—rivière 排是 AABB；按 soir—lumière—espoir—rivière 排是 ABAB；按 soir—lumière—rivière—espoir 排是 ABBA。这只训练韵式识别，不要求据此断定整首诗的格律或艺术质量。",
+      "analogy": "诗的重复像潮水一次次回到岸边，每次带来相似声音，也带走一点新的感受。",
+      "teaching_points": [
+        "意象不按科学定义理解",
+        "分行与句法边界未必相同",
+        "诗歌 e 的处理受体裁节奏影响",
+        "比较主题、对象、重复、节奏",
+        "AABB 相邻韵；ABAB 交替韵；ABBA 环抱韵。",
+        "按实际行末声音而非拼写判断韵组。",
+        "原创词组 soir/espoir 与 lumière/rivière 可用来排列三种韵式。"
+      ],
+      "anchor": {
+        "fr": "La rivière emporte mes souvenirs.",
+        "zh": "河流带走我的回忆。",
+        "sound": "“里维耶尔”河水托着“苏沃尼尔”纪念盒。",
+        "movie": "成人站在河岸，水面托着一个装有旧照片的纪念盒向远方漂去，表达回忆流逝的意象。",
+        "pronunciation": "rivière /ʁi.vjɛʁ/；emporte /ɑ̃.pɔʁt/；souvenirs /su.və.niʁ/，末 s 不读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "诗行结束是否总要停成一句话？",
+          "choices": [
+            "诗歌完全没有语法",
+            "不总是，要看语法与意群是否结束",
+            "总是必须长停顿"
+          ],
+          "answer": 1,
+          "reason": "跨行可能继续同一语法结构，分行不等于句号。"
+        },
+        {
+          "prompt": "“河流带走回忆”主要属于？",
+          "choices": [
+            "以水流表达时间或情感的意象",
+            "河流能读取人的记忆的事实证明",
+            "一条旅行行李规定"
+          ],
+          "answer": 0,
+          "reason": "这是一种比喻性表达，帮助感受流逝，不是机制结论。"
+        },
+        {
+          "prompt": "四行末尾依次为 soir、lumière、rivière、espoir，按上述两组读音，韵式是？",
+          "choices": [
+            "AABB",
+            "ABAB",
+            "ABBA"
+          ],
+          "answer": 2,
+          "reason": "soir 与 espoir 属 A，lumière 与 rivière 属 B，因此顺序为 A—B—B—A。"
+        },
+        {
+          "prompt": "要排成 ABAB，下列哪组行末词顺序合适？",
+          "choices": [
+            "soir—lumière—espoir—rivière",
+            "soir—espoir—lumière—rivière",
+            "soir—lumière—rivière—espoir"
+          ],
+          "answer": 0,
+          "reason": "A 组 soir/espoir 占第一第三行，B 组 lumière/rivière 占第二第四行，构成交替韵。"
+        }
+      ],
+      "application": "写两句自己的水与记忆意象，再各用一句普通语言解释；录音比较按行停顿与按意群停顿的效果。 另只用所给四个行末词排出 AABB、ABAB、ABBA 三组，读出同韵声音，再任选一组自写四条短句。",
+      "self_check": [
+        "原创意象与字面释义能对应",
+        "不会把每个换行都读成句号",
+        "能依声音认出三种韵式，不把字母标签当作字母拼写"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM2R03",
+      "number": "复习3",
+      "title": "综合应用：从辨句到主题短文",
+      "source_title": "EXERCICES DE SYNTHESE",
+      "minutes": 25,
+      "goal": "任选一个虚构生活或社会话题，写八至十句短文并录音；包含一处比较、一次过去回溯、一处态度从句与一句中性摘要",
+      "prerequisites": [
+        "JM228"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-018.md",
+          "label": "EXERCICES DE SYNTHESE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "原末尾综合练习并非仅复习第43—58课阅读，它还回收两册基础语法与翻译、搭配、语式时态选择，并安排借助词典的阅读。本微课因此以跨册诊断为主：先检查限定词、主谓和代词等底层结构，再检查关系从句、时态与语式，最后进入篇章概括，不把全部错误归成“词汇量不够”。\n\n面对新短文先快速标出主题、人物、时间与连接词，第二遍查阻碍理解的关键词，再用自己的话写摘要。翻译核对意思、范围、时间和语气是否保留，不追求逐词顺序一致。综合输出可以返回具体课程补缺：冠词回上册基础，时间层回下册前段，论证与主题阅读回43—58。课内选对率只说明本次任务表现，不能当成考试等级或能力认证。",
+      "analogy": "综合诊断像查自行车：先看轮子能不能转，再调齿轮，最后才骑完整路线。",
+      "teaching_points": [
+        "跨册映射 JM101—JM130、JM201—JM228",
+        "先句子结构，再时态语式，后篇章概括",
+        "词典查阅服务理解而非逐词替换",
+        "错因对应具体补课入口"
+      ],
+      "anchor": {
+        "fr": "Je résume ce que j’ai compris.",
+        "zh": "我概括自己所理解的内容。",
+        "sound": "“雷聚姆”摘要夹收起“孔普里”理解卡。",
+        "movie": "成人把已经读懂的内容卡整理进小摘要夹，只保留关键卡片向朋友说明。",
+        "pronunciation": "résume /ʁe.zym/；compris /kɔ̃.pʁi/ 末 s 不读；ce que 后 je 为从句主语；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "ce que j’ai compris 中 que 承担什么功能？",
+          "choices": [
+            "compris 的直接宾语",
+            "j’ 的替代主语",
+            "必定是地点补语"
+          ],
+          "answer": 0,
+          "reason": "j’ 已是主语，que 指被理解的内容，整体 ce que 形成名词性块。"
+        },
+        {
+          "prompt": "综合任务出错后，最有用的做法是？",
+          "choices": [
+            "直接把选对率当作考试等级",
+            "把全部错误归为发音",
+            "按冠词、代词、时态、语式和篇章关系分类回课补练"
+          ],
+          "answer": 2,
+          "reason": "可定位的错因才能指向补练；小测结果并不等于正式等级认证。"
+        }
+      ],
+      "application": "任选一个虚构生活或社会话题，写八至十句短文并录音；包含一处比较、一次过去回溯、一处态度从句与一句中性摘要。",
+      "self_check": [
+        "摘要保留主题与限制，不额外编事实",
+        "至少三处结构能解释选择理由",
+        "能根据错因指定一课补练"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "review_mapping": [
+        "JM101",
+        "JM102",
+        "JM103",
+        "JM104",
+        "JM105",
+        "JM106",
+        "JM107",
+        "JM108",
+        "JM109",
+        "JM110",
+        "JM111",
+        "JM112",
+        "JM113",
+        "JM114",
+        "JM115",
+        "JM116",
+        "JM117",
+        "JM118",
+        "JM119",
+        "JM120",
+        "JM121",
+        "JM122",
+        "JM123",
+        "JM124",
+        "JM125",
+        "JM126",
+        "JM127",
+        "JM128",
+        "JM129",
+        "JM130",
+        "JM201",
+        "JM202",
+        "JM203",
+        "JM204",
+        "JM205",
+        "JM206",
+        "JM207",
+        "JM208",
+        "JM209",
+        "JM210",
+        "JM211",
+        "JM212",
+        "JM213",
+        "JM214",
+        "JM215",
+        "JM216",
+        "JM217",
+        "JM218",
+        "JM219",
+        "JM220",
+        "JM221",
+        "JM222",
+        "JM223",
+        "JM224",
+        "JM225",
+        "JM226",
+        "JM227",
+        "JM228"
+      ]
+    }
+  ],
+  "reference_mapping": [
+    {
+      "location": "chapters/009-002.md",
+      "purpose": "动词变位表：服务 JM201—JM212 与综合复习的形式核对。"
+    },
+    {
+      "location": "chapters/009-003.md",
+      "purpose": "总词汇表：主题阅读按需查词与搭配，不公开转录。"
+    }
+  ]
+}

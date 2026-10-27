@@ -1,0 +1,11 @@
+Use case: illustration-story / precise semantic correction. Image 1 is the EDIT TARGET. Preserve the exact warm-ivory SIMPLE FLAT PICTURE-BOOK style, bold charcoal outlines, teal/tangerine adult characters, clear readable hands and objects, landscape 3:2. Remove only the misleading details named below; maintain the target meaning, participant roles and mnemonic props. No photorealism, no 3D, no ornate scenery. No printed French or Chinese answer sentence, labels, captions, logos, watermarks or fake typography. Essential concrete calendar/time numerals or weekday abbreviations are allowed ONLY where explicitly requested because time is the learning target.
+
+CORRECTION:
+Correct the calendar to unambiguously show a delivery PLANNED FOR MONDAY but ACTUALLY ARRIVING THURSDAY. Replace weather-only column headers with exactly four simple calendar column headers in this order: LUN, MAR, MER, JEU. These are essential weekday abbreviations on the physical calendar, not an answer caption. In the LUN column place only a faint OUTLINE/ghost package with a little planned appointment ring; MAR and MER show empty waiting progression; JEU shows a solid courier holding the actual parcel with a small arrival checkmark. Arrows move left to right from Monday to Thursday. Keep the real courier handing a single actual package to the recipient in foreground; the recipient compares small Monday planned outline calendar card to Thursday actual calendar card. The small cards use LUN and JEU respectively, no weather symbols pretending to identify weekdays. No other words, captions, speech bubbles, or full answer sentence. Keep the same adult style.
+
+CONTEXT ONLY, NEVER PRINT THE FOLLOWING:
+French target: La livraison était prévue lundi, mais le colis est arrivé jeudi.
+Meaning: 原定星期一送货，但包裹星期四才到。
+Sound hook: 利夫雷宗，科利
+Original mnemonic: 一位叫科利的快递员沿日历从星期一走到星期四，收件人把原定日期与到货日期并排。画面不出现文字、标签或字幕。
+The target sentence takes priority over incidental mnemonic details. Keep one image with clear visual evidence for the target meaning.

@@ -1,0 +1,11 @@
+Use case: illustration-story / precise semantic correction. Image 1 is the EDIT TARGET. Preserve the exact warm-ivory SIMPLE FLAT PICTURE-BOOK style, bold charcoal outlines, teal/tangerine adult characters, clear readable hands and objects, landscape 3:2. Remove only the misleading details named below; maintain the target meaning, participant roles and mnemonic props. No photorealism, no 3D, no ornate scenery. No printed French or Chinese answer sentence, labels, captions, logos, watermarks or fake typography. Essential concrete calendar/time numerals or weekday abbreviations are allowed ONLY where explicitly requested because time is the learning target.
+
+CORRECTION:
+Fix ONLY the calendar thought-object above the man's head. It must visibly represent ONE WHOLE FREE MONTH, not two highlighted weeks. Draw a clean monthly calendar with five rows of seven day slots. Exactly 31 valid day cells contain simple digits 1 through 31; remaining four empty slots are neutral. Highlight ALL thirty-one numbered day cells orange, not only two rows. This calendar is a hypothetical month of free time he imagines dedicating to the solidarity project, not a real trip already completed. Keep his thoughtful expression, mnemonic key, door and imagined volunteer team handing aid boxes to a beneficiary; the calendar thought bubble supports his intention. Day digits are essential time-prop information and permitted; no month name or full sentence. Keep one clean coherent scene.
+
+CONTEXT ONLY, NEVER PRINT THE FOLLOWING:
+French target: Si j'avais un mois de libre, je participerais à un projet solidaire.
+Meaning: 如果我有一个月空闲，我会参加一个公益项目。
+Sound hook: 西扎韦，帕尔蒂西普雷
+Original mnemonic: 一位拿着“扎韦”钥匙的人推开想象门，里面有一个月的日历和公益志愿队。画面不出现文字、标签或字幕。
+The target sentence takes priority over incidental mnemonic details. Keep one image with clear visual evidence for the target meaning.

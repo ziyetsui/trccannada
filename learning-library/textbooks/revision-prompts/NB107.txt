@@ -1,0 +1,11 @@
+Use case: illustration-story / precise semantic correction. Image 1 is the EDIT TARGET. Preserve the exact warm-ivory SIMPLE FLAT PICTURE-BOOK style, bold charcoal outlines, teal/tangerine adult characters, clear readable hands and objects, landscape 3:2. Remove only the misleading details named below; maintain the target meaning, participant roles and mnemonic props. No photorealism, no 3D, no ornate scenery. No printed French or Chinese answer sentence, labels, captions, logos, watermarks or fake typography. Essential concrete calendar/time numerals or weekday abbreviations are allowed ONLY where explicitly requested because time is the learning target.
+
+CORRECTION:
+The studio was ALREADY RENTED TO SOMEONE ELSE BEFORE this surprised male traveler returned to the rental agency. Replace the smiling welcoming agent gesture and vacant room. Agent behind desk is apologetic, brows sympathetic, one palm upright facing returning traveler in a clear sorry/not-available stop gesture; never a welcoming sweep toward the room. In the studio doorway on the right, a DIFFERENT settled adult tenant sits comfortably reading beside their own open unpacked possessions, mug and plant, with a room key in their hand; their occupied lived-in home clearly predates the returning traveler's arrival. Returning male traveler remains foreground left with suitcase/backpack, newly arrived and surprised, and is NOT handed any key. Add a simple already-occupied pictogram on the studio door if helpful: solid tenant silhouette inside house, no writing. One scene, no panels, no rental words. Distinguish the returning traveler from the existing tenant visibly.
+
+CONTEXT ONLY, NEVER PRINT THE FOLLOWING:
+French target: Quand je suis revenu, l'agence avait déjà loué le studio.
+Meaning: 我回去时，中介已经把那间单间租出去了。
+Sound hook: 拉让斯阿韦，代扎卢埃
+Original mnemonic: 一个的租赁牌先挂上门，成年人后来返回中介才看见它。画面不出现文字、标签或字幕。
+The target sentence takes priority over incidental mnemonic details. Keep one image with clear visual evidence for the target meaning.
