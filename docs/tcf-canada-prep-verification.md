@@ -29,3 +29,7 @@
 设备语音用于合成慢读，不是考试音频；本站热身不是官方题目或分数预测。新页面的第三方资料需要联网。RFI 本轮仅确认 FEI 推荐入口，未独立读取正文。具体资料访问可能受地区、脚本和站点防护影响。
 
 现有学习库 ZIP 的打包内容保留；新备考页作为独立网站入口交付，不声称已有 ZIP 包含它。
+
+## GitHub 交付
+
+已推送分支 `feat/tcf-canada-prep`，创建 [PR #4](https://github.com/ziyetsui/trccannada/pull/4)，目标分支 `publish/website`。PR 已附加到当前聊天；开发 worktree 保留用于预览与后续修改。

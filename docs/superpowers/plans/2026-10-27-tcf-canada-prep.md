@@ -46,5 +46,5 @@
 ### Task 3: Review and deliver
 
 - [x] Review the full diff and verify source links, mobile layout and the actual generated page.
-- [ ] Record verification, commit, push the feature branch and create a PR targeting `publish/website`.
-- [ ] Attach the PR, open a local preview and report the preview and best-practice documents.
+- [x] Record verification, commit, push the feature branch and create a PR targeting `publish/website`.
+- [x] Attach the PR, open a local preview and report the preview and best-practice documents.
