@@ -1,0 +1,11 @@
+Use case: illustration-story / precise semantic correction. Image 1 is the EDIT TARGET. Preserve the exact warm-ivory SIMPLE FLAT PICTURE-BOOK style, bold charcoal outlines, teal/tangerine adult characters, clear readable hands and objects, landscape 3:2. Remove only the misleading details named below; maintain the target meaning, participant roles and mnemonic props. No photorealism, no 3D, no ornate scenery. No printed French or Chinese answer sentence, labels, captions, logos, watermarks or fake typography. Essential concrete calendar/time numerals or weekday abbreviations are allowed ONLY where explicitly requested because time is the learning target.
+
+CORRECTION:
+Preserve the woman examining song lyrics with the magnifying glass, the record and music pictogram, and the same table and style. Add ONE other adult companion seated on the opposite side of the SAME table, leaning toward the SAME lyrics sheet and actively discussing it with the woman: companion points to one of the lyric lines with an open speaking gesture, woman looks between companion and the page. The intended subject is WE, so TWO adults must visibly analyze and discuss the SAME song together, never one solitary reader. Keep the lyrics represented by simple ink strokes, not legible words or fake letters. No text bubbles or additional music scenes.
+
+CONTEXT ONLY, NEVER PRINT THE FOLLOWING:
+French target: Nous parlons de cette chanson et nous en analysons les paroles.
+Meaning: 我们谈论这首歌，并分析它的歌词。
+Sound hook: 努藏阿纳利宗，莱帕罗勒
+Original mnemonic: 一位叫阿纳利宗的老师把唱片放在桌上，用放大镜检查写着歌词的纸。画面不出现文字、标签或字幕。
+The target sentence takes priority over incidental mnemonic details. Keep one image with clear visual evidence for the target meaning.

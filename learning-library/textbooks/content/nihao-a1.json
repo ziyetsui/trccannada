@@ -1,0 +1,4023 @@
+{
+  "id": "nihao-a1",
+  "title": "你好！法语1·A1",
+  "subtitle": "从语音入门到日常交流的原创中文伴学课",
+  "level": "A1",
+  "role": "A1主线；语音难点以《简明法语》补充",
+  "source_slugs": [
+    "nihao-a1-student"
+  ],
+  "lessons": [
+    {
+      "id": "NA0A",
+      "number": 1,
+      "title": "先听音，再认字母",
+      "source_title": "Leçon 0-1",
+      "minutes": 25,
+      "goal": "区分字母名称与单词中的声音，读出 /i y u/ 三种口形。",
+      "prerequisites": [],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0012.md",
+          "label": "物理页12；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0013.md",
+          "label": "物理页13；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0014.md",
+          "label": "物理页14；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0015.md",
+          "label": "物理页15；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0005.md",
+          "label": "物理页5：目录，语音课起始页核对",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "字母像写在纸上的符号，音素才是嘴里发出的声音。同一个字母名称不能直接搬进单词；先听一个词，再找对应的字母组合。/i/ 嘴角展开，/y/ 保持舌位靠前再圆唇，/u/ 舌位靠后并圆唇。汉语的“玉、乌”只能提醒口形，不能代替法语的实际声音。é 与 è 也不是装饰符号，读词时要留意开口程度。\n\n本课用点餐短句练习声音切换：先把 soupe 的 ou 与 thé 的 é 分开读，再连成礼貌的请求。初次练习不要追求速度，也不要给每个辅音补一个汉语韵母。用镜子观察圆唇，再录下自己与可靠示范比较；不确定的音可回到《简明法语》的语音课单独练，不需要等所有声音完美才进入交际。",
+      "analogy": "字母是积木上的标签，发音是积木拼起来后的样子；标签的名字不等于作品的名字。",
+      "teaching_points": [
+        "字母名用于拼姓名；单词发音按组合规律处理。",
+        "sou 与 su 的差别主要在元音舌位，不是声调。"
+      ],
+      "anchor": {
+        "fr": "Une soupe et un thé, s’il vous plaît.",
+        "zh": "请给我一份汤和一杯茶。",
+        "sound": "Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。",
+        "movie": "我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+        "pronunciation": "soupe /sup/ 中 ou 是 /u/；thé /te/ 中 é 是 /e/；s’il vous plaît 要按节奏组连读，钩子不是音标。",
+        "reuse_id": "T01:3"
+      },
+      "quiz": [
+        {
+          "prompt": "哪个词里的 ou 通常读 /u/？",
+          "choices": [
+            "soupe",
+            "tu",
+            "lit"
+          ],
+          "answer": 0,
+          "reason": "soupe 的 ou 是 /u/；tu 的 u 是前圆唇 /y/，lit 的 i 是 /i/。"
+        },
+        {
+          "prompt": "想练 /y/，哪个动作更合适？",
+          "choices": [
+            "先读 /u/ 再压低舌头",
+            "先保持 /i/ 舌位再圆唇",
+            "只把声音拉长"
+          ],
+          "answer": 1,
+          "reason": "/y/ 是前圆唇元音；从 /i/ 舌位加圆唇有助于找到它，长短本身不能区分。"
+        }
+      ],
+      "application": "用一分钟朗读 soupe、tu、lit 三轮，再把图句说给想象中的服务员；指出自己最难稳定的一种口形。",
+      "self_check": [
+        "不看稿完成：区分字母名称与单词中的声音，读出 /i y u/ 三种口形。",
+        "能用自己的内容造一句，体现：字母名用于拼姓名；单词发音按组合规律处理。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA0B",
+      "number": 2,
+      "title": "让声带参与清浊对比",
+      "source_title": "Leçon 0-2",
+      "minutes": 25,
+      "goal": "用声带振动区分清浊辅音，并把词末节奏读稳。",
+      "prerequisites": [
+        "NA0A"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0016.md",
+          "label": "物理页16；语音0-2：Leçon 0-2",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0017.md",
+          "label": "物理页17；语音0-2：Leçon 0-2",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0018.md",
+          "label": "物理页18；语音0-2：Leçon 0-2",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "/p/ 与 /b/、/f/ 与 /v/ 等声音可以在相近的口形下发出，主要区别在声带是否振动。把手轻放喉部读 /f/、/v/，感受后一种声音的振动，不要用“更用力”替代清浊区别。法语的重音通常落在节奏组最后一个发出的音节上；句子不是每个词都像中文四声那样各自起伏。\n\n图句里 gâteau 的 eau 读 /o/，问价格时把 combien 作为询问信息的重点。先读清 gâteau，再把整段 Le gâteau 连起来。词末字母是否发音要以词的读音为准，不能把所有末辅音一刀切地删除，也不能见字母就念。每天挑一对声音交替跟读并录音，先保证对比能听见，再练自然的询问节奏。 最后把疑问语调与发音准确分开检查：语调上扬不能补救元音读错。",
+      "analogy": "清浊像同一把小风扇：有时只有气流，有时还开了里面的马达。",
+      "teaching_points": [
+        "au、eau 常读 /o/；具体词仍需核对。",
+        "词尾字母与真正发出的最后音节不是一回事。"
+      ],
+      "anchor": {
+        "fr": "Le gâteau, c’est combien ?",
+        "zh": "这块蛋糕多少钱？",
+        "sound": "勒，嘎托；塞，孔边（combien）？",
+        "movie": "蛋糕嘎地托起自己，我凑近看它有多大；手指摸到钱包的小孔，问老板这块蛋糕要多少钱。",
+        "pronunciation": "gâteau /ɡɑto/ 的 eau 读 /o/，词尾不另加音节；combien /kɔ̃bjɛ̃/ 含鼻元音，钩子不替代鼻化。",
+        "reuse_id": "T01:4"
+      },
+      "quiz": [
+        {
+          "prompt": "读 /v/ 与 /f/，最值得比较什么？",
+          "choices": [
+            "哪个写得长",
+            "声带是否振动",
+            "是否加汉语声调"
+          ],
+          "answer": 1,
+          "reason": "/v/ 有声带振动，/f/ 无；字母长度和汉语声调不能解释清浊。"
+        },
+        {
+          "prompt": "gâteau 的 eau 应按哪种思路读？",
+          "choices": [
+            "依次念 e、a、u 三个字母名",
+            "把 eau 删掉",
+            "把 eau 当作一个 /o/ 声音组合"
+          ],
+          "answer": 2,
+          "reason": "eau 是常见的 /o/ 组合，不应拆成三个元音；否则词的音节也会改变。"
+        }
+      ],
+      "application": "交替读 faux、veau，接着用图句问一次价格；录音时检查是否给 gâteau 多加了音节。",
+      "self_check": [
+        "不看稿完成：用声带振动区分清浊辅音，并把词末节奏读稳。",
+        "能用自己的内容造一句，体现：au、eau 常读 /o/；具体词仍需核对。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA0C",
+      "number": 3,
+      "title": "鼻音不是加一个 n",
+      "source_title": "Leçon 0-3",
+      "minutes": 25,
+      "goal": "识别鼻元音与半元音，读出 en train 的声音组合。",
+      "prerequisites": [
+        "NA0B"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0019.md",
+          "label": "物理页19；语音0-3：Leçon 0-3",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0020.md",
+          "label": "物理页20；语音0-3：Leçon 0-3",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0021.md",
+          "label": "物理页21；语音0-3：Leçon 0-3",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "鼻元音发出时口腔与鼻腔共同参与，不是在元音后再补一个清晰的 /n/。an、en、on、in 等组合要连同后续字母观察；遇到后面的元音或双写 n、m，读法可能改变。先比较 bon 与 bonne，就能听到鼻元音与口腔元音加辅音的差别。/j/、/ɥ/、/w/ 是快速滑向后一个元音的半元音，不要拆成两个长长的音节。\n\n图句把城市、交通方式放在同一个出行画面里，重点听 Lyon、en、train 的鼻音，不要按汉字钩子硬塞韵尾。h 本身通常不发声，但哑音 h 允许省音和联诵，嘘音 h 会阻止它们，需查词典标记。练习时先听一个鼻音词，再读一个对比词；来源页图已核对，OCR 的音标和重音不能直接当成正确示范。",
+      "analogy": "鼻音像给声音打开一条鼻腔小窗，不是在声音后面再接一节小车。",
+      "teaching_points": [
+        "oi 常对应 /wa/；oui 里的 /w/ 快速滑向 /i/。",
+        "鼻音组合必须看后续环境，不能只见 n 就鼻化。"
+      ],
+      "anchor": {
+        "fr": "Je vais à Lyon en train.",
+        "zh": "我乘火车去里昂。",
+        "sound": "热，韦，啊，Lyon里昂，昂，特兰。",
+        "movie": "我背好行李坐火车去里昂，车窗里一只小狼陪着看风景；火车穿过田野，车头直朝里昂方向。",
+        "pronunciation": "Lyon /ljɔ̃/、en /ɑ̃/、train /tʁɛ̃/ 分别留意鼻化；train 的 tr 不插入额外元音。",
+        "reuse_id": "T10:1"
+      },
+      "quiz": [
+        {
+          "prompt": "bon 与 bonne 的关键区别是什么？",
+          "choices": [
+            "bonne 的 e 必须读成字母名",
+            "bon 有鼻元音，bonne 通常读口腔元音加 /n/",
+            "两个词只差声调"
+          ],
+          "answer": 1,
+          "reason": "bon 常读 /bɔ̃/，bonne 常读 /bɔn/；末尾 n 是否形成辅音正是重要区别。"
+        },
+        {
+          "prompt": "读 oui 时，哪种处理更自然？",
+          "choices": [
+            "把 /w/ 快速滑向 /i/",
+            "把三个字母各读一个长音节",
+            "读成纯 /y/"
+          ],
+          "answer": 0,
+          "reason": "oui 里的 /w/ 是半元音，与后面的 /i/ 紧接；不能按字母逐一拼音节。"
+        }
+      ],
+      "application": "慢读图句，再替换成 Je vais à Paris en train；录下两句，标出鼻元音，不补出 n 韵尾。",
+      "self_check": [
+        "不看稿完成：识别鼻元音与半元音，读出 en train 的声音组合。",
+        "能用自己的内容造一句，体现：oi 常对应 /wa/；oui 里的 /w/ 快速滑向 /i/。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA0D",
+      "number": 4,
+      "title": "把词连成一句话",
+      "source_title": "Leçon 0-4",
+      "minutes": 25,
+      "goal": "区分联诵与连音，读出辅音群及两位数。",
+      "prerequisites": [
+        "NA0C"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0022.md",
+          "label": "物理页22；语音0-4：Leçon 0-4",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0023.md",
+          "label": "物理页23；语音0-4：Leçon 0-4",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0024.md",
+          "label": "物理页24；语音0-4：Leçon 0-4",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0005.md",
+          "label": "物理页5：目录，语音课起始页核对",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "辅音群中的几个辅音要顺着接上，不要在它们中间塞进“呃”。联诵是原本不读的词末辅音在合适环境里出现；连音则是原本就发出的辅音自然接到后一个元音。两者听起来都流畅，机制却不同。限定词和元音开头的名词之间常有必需的联诵，而 et 后面不能因为下一词有元音就随意联诵。\n\n数字最好按意思分块回忆：九十二先想到 quatre-vingt，再接 douze，而不是从一数到九十二。图句练的是识别一个号码，不是计算日期。先看数字说法语，再只听朗读写阿拉伯数字，最后交换顺序。不同地区也有不同数字说法，本课先稳定教材这套用法；设备朗读可帮助对比节奏，但不冒充教材原录音。",
+      "analogy": "连音像把本来伸出的手接给下一人；联诵像需要时才从口袋伸出一只手。",
+      "teaching_points": [
+        "les amis 中的 s 联诵为 /z/；不是所有词末 s 都读。",
+        "quatre-vingt-douze 表示 92；复合数别漏掉后半段。"
+      ],
+      "anchor": {
+        "fr": "C’est le numéro quatre-vingt-douze.",
+        "zh": "这是九十二号。",
+        "sound": "塞，勒，纽梅罗；卡特儿，万，杜兹。",
+        "movie": "牛奶盒上的号码让小卡车停下：九十二号到了；九个气球和两只鸭子守在门口，帮我牢牢记住号码。",
+        "pronunciation": "quatre-vingt-douze /katʁəvɛ̃duz/ 中 vingt 的鼻音不要读成汉语“温特”；douze 末尾 /z/ 发出。",
+        "reuse_id": "T03:7"
+      },
+      "quiz": [
+        {
+          "prompt": "les amis 与 une amie 的连接分别是？",
+          "choices": [
+            "都一定是新增辅音的联诵",
+            "前者联诵，后者连音",
+            "前者连音，后者联诵"
+          ],
+          "answer": 1,
+          "reason": "les 的 s 原来不读，联诵时出现 /z/；une 的 /n/ 本来就读，再接 amie。"
+        },
+        {
+          "prompt": "quatre-vingt-douze 是哪个号码？",
+          "choices": [
+            "82",
+            "90",
+            "92"
+          ],
+          "answer": 2,
+          "reason": "quatre-vingt 是八十，再加 douze 十二，得到九十二。"
+        }
+      ],
+      "application": "随机写 72、81、92，分别读出；再把 les amis、une amie 接成自然语流，说明各是哪种连接。",
+      "self_check": [
+        "不看稿完成：区分联诵与连音，读出辅音群及两位数。",
+        "能用自己的内容造一句，体现：les amis 中的 s 联诵为 /z/；不是所有词末 s 都读。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA101",
+      "number": 5,
+      "title": "第一次见面，说清姓名与身份",
+      "source_title": "Bienvenue !",
+      "minutes": 25,
+      "goal": "用姓名、国籍和简单问句完成初次介绍。",
+      "prerequisites": [
+        "NA0D"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0026.md",
+          "label": "物理页26；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0027.md",
+          "label": "物理页27；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0028.md",
+          "label": "物理页28；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0029.md",
+          "label": "物理页29；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "第一次见面先建立“谁在说话”。Je m’appelle 后接姓名，Je suis 后可接国籍形容词；主语换成 tu 或 vous，动词形式也跟着改变。vous 可以表示一位值得礼貌称呼的人，也可以表示多人，不能看到它就认定是复数场景。s’appeler 带有与主语相应的小代词，不能把 me 原封不动搬到所有人称。\n\n图句同时示范说姓名和拼姓名。先把整句作为见面时的工具，再单独练 je suis、tu es、vous êtes 三个组合。国籍词需要看所描述者的性别选择形式，但不是所有词都简单加 e。对方没有听清姓名时可以拼字母，拼读用字母名称，平时说姓名则不必逐字母念出；这是语音入门在真实交际中的第一次调用。",
+      "analogy": "主语像乘客，动词像给乘客调好的座椅；换乘客就要重新调座椅。",
+      "teaching_points": [
+        "être：je suis / tu es / vous êtes。",
+        "姓名介绍的 me、te、vous 随主语变化。"
+      ],
+      "anchor": {
+        "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+        "zh": "我叫林，拼作L-I-N。",
+        "sound": "热，马佩儿，Lin林；撒，塞克里，L-I-N。",
+        "movie": "我抱着小马介绍自己叫林，再把L、I、N三块积木按顺序摆好；小马一边点头，一边看清名字怎么拼。",
+        "pronunciation": "m’appelle /mapɛl/ 是两音节；Ça s’écrit /sa sekʁi/ 中 écrit 末尾 t 不读；L-I-N 用法语字母名拼读。",
+        "reuse_id": "T05:2"
+      },
+      "quiz": [
+        {
+          "prompt": "面对一位陌生成年老师，哪个问法更合适？",
+          "choices": [
+            "Tu es comment ?",
+            "Vous vous appelez comment ?",
+            "Je vous appelle comment ?"
+          ],
+          "answer": 1,
+          "reason": "Vous vous appelez comment 询问对方姓名并保持礼貌；Je vous appelle 是“我称呼/打电话给您”。"
+        },
+        {
+          "prompt": "“我是中国人”由男性说，哪句正确？",
+          "choices": [
+            "Je suis chinois.",
+            "Je es chinois.",
+            "Je m’appelle chinois."
+          ],
+          "answer": 0,
+          "reason": "国籍用 être，je 对应 suis；s’appeler 用来报姓名。"
+        }
+      ],
+      "application": "模拟新班级见面：问候、报姓名并拼读、说国籍、礼貌问对方姓名，总共四轮。",
+      "self_check": [
+        "不看稿完成：用姓名、国籍和简单问句完成初次介绍。",
+        "能用自己的内容造一句，体现：être：je suis / tu es / vous êtes。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA102",
+      "number": 6,
+      "title": "介绍身边的人",
+      "source_title": "Qui est-ce ?",
+      "minutes": 25,
+      "goal": "用职业和家庭关系介绍第三人称。",
+      "prerequisites": [
+        "NA101"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0030.md",
+          "label": "物理页30；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0031.md",
+          "label": "物理页31；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0032.md",
+          "label": "物理页32；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0033.md",
+          "label": "物理页33；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "介绍别人时先让听者知道人物，再补职业或关系。C’est 后接带限定词的名词组，例如 C’est une amie；Il est、Elle est 后直接说一般职业时通常不用冠词。Ma sœur est architecte 把亲属关系和职业连在一起，architecte 在这个结构中没有 une。换成“这是一位建筑师”时，C’est une architecte 的构造就不同了。\n\n名词的阴阳性与人物的性别有时相关，但仍要连冠词一起学；le、la 遇到元音或哑音 h 常省成 l’。不要看到 l’ 就以为这个词没有性别。先用两句介绍一位真实或虚构亲友，再把她换成他，检查人称、亲属词和职业形式。谈职业不必猜别人真实身份；练习可明确声明人物是自己设计的。 同一职业可能有不同的阴阳形式，遇到不熟悉的名称先查词表再使用。",
+      "analogy": "先把人物请到聚光灯下，再给他一张职业名片。",
+      "teaching_points": [
+        "职业作一般表语通常无冠词：Elle est médecin。",
+        "C’est une amie 与 Elle est amie 不能机械互换。"
+      ],
+      "anchor": {
+        "fr": "Ma sœur est architecte.",
+        "zh": "我姐姐是建筑师。",
+        "sound": "马，瑟儿，诶，阿儿希泰克特。",
+        "movie": "我姐姐戴着建筑师帽，小马帮她搬尺子；她画出房屋图纸，一栋小屋照着图慢慢搭起来。",
+        "pronunciation": "sœur /sœʁ/ 保持前圆唇；est architecte 可有 /t/ 联诵；architecte /aʁʃitɛkt/ 末尾辅音群不加“呃”。",
+        "reuse_id": "T09:2"
+      },
+      "quiz": [
+        {
+          "prompt": "“她是一位医生”，单纯陈述职业选哪句？",
+          "choices": [
+            "Elle est une médecin.",
+            "Elle est médecin.",
+            "Elle a médecin."
+          ],
+          "answer": 1,
+          "reason": "一般职业表语用 être 加无冠词职业；此处不是强调“某种医生”的特殊用法。"
+        },
+        {
+          "prompt": "哪个写法保留了 étudiant 的冠词省音？",
+          "choices": [
+            "le étudiant",
+            "la étudiant",
+            "l’étudiant"
+          ],
+          "answer": 2,
+          "reason": "元音开头前 le 省为 l’；省音不取消 étudiant 的阳性。"
+        }
+      ],
+      "application": "用四句介绍一位亲友：姓名、关系、职业、居住城市；再用 C’est 重新介绍此人。",
+      "self_check": [
+        "不看稿完成：用职业和家庭关系介绍第三人称。",
+        "能用自己的内容造一句，体现：职业作一般表语通常无冠词：Elle est médecin。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA103",
+      "number": 7,
+      "title": "问候近况，也问一点个人信息",
+      "source_title": "Ça va bien ?",
+      "minutes": 25,
+      "goal": "区分 tu/vous 问候，并用 avoir 回答年龄。",
+      "prerequisites": [
+        "NA102"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0034.md",
+          "label": "物理页34；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0035.md",
+          "label": "物理页35；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0036.md",
+          "label": "物理页36；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0037.md",
+          "label": "物理页37；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "问近况可以用 Ça va ?，对熟人也可说 Tu vas bien ?；正式场合改为 Vous allez bien ?，变化的是称呼与相应动词。问候后的 Et toi ?、Et vous ? 把话题交回对方。年龄用 avoir 表达，相当于“拥有多少岁”，不能照中文把“是”翻成 être。问年龄时留意交流边界，对方不愿回答就换话题。\n\n所有关系要看被拥有的名词：mon frère、ma sœur、mes amis；不是看拥有者是男性还是女性。阴性单数词如果以元音开始，常用 mon，如 mon amie。图句先练自然的问候节奏，再补一条家人信息。把口语中的简短回答扩成完整一句，既保留交流的自然，也让自己有机会检查主语和动词是否配对。 记录问候对象是谁，再判断使用 tu 还是 vous；不要在一句对话中无理由切换。",
+      "analogy": "问候像打乒乓球，说完自己的近况，再用“你呢”把球轻轻送回去。",
+      "teaching_points": [
+        "avoir：j’ai、tu as、vous avez；年龄不用 être。",
+        "mon/ma/mes 由后面名词的性数决定。"
+      ],
+      "anchor": {
+        "fr": "Salut, Zoé ! Tu vas bien ?",
+        "zh": "嗨，佐伊！你好吗？",
+        "sound": "Salut Zoé，Tu vas bien：撒手招呼，玉兔也问好吗？",
+        "movie": "我向Zoé撒开手打招呼，玉兔也抱着小瓦罐探出头；我笑着问她最近好吗，她把笑脸贴到瓦罐边。",
+        "pronunciation": "Salut /saly/ 的 u 是 /y/，不同于 /u/；Tu vas bien /ty va bjɛ̃/ 中 vas 的 s 在此不读，bien 有鼻化。",
+        "reuse_id": "T04:1"
+      },
+      "quiz": [
+        {
+          "prompt": "“我二十四岁”选哪句？",
+          "choices": [
+            "Je suis vingt-quatre ans.",
+            "J’ai vingt-quatre ans.",
+            "Je vais vingt-quatre ans."
+          ],
+          "answer": 1,
+          "reason": "法语年龄用 avoir：j’ai；être 和 aller 在这里都不表达年龄。"
+        },
+        {
+          "prompt": "“我的女性朋友”为什么可写 mon amie？",
+          "choices": [
+            "因为说话者必须是男性",
+            "因为所有朋友都是阳性",
+            "amie 以元音开头，单数阴性前改用 mon"
+          ],
+          "answer": 2,
+          "reason": "mon amie 是为语音衔接采用的形式，并不改变 amie 的阴性。"
+        }
+      ],
+      "application": "与想象中的新同学互问近况，交换年龄和一条家人信息；再把整段换为对老师说的 vous 版本。",
+      "self_check": [
+        "不看稿完成：区分 tu/vous 问候，并用 avoir 回答年龄。",
+        "能用自己的内容造一句，体现：avoir：j’ai、tu as、vous avez；年龄不用 être。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA104",
+      "number": 8,
+      "title": "写一张能交到朋友的个人卡",
+      "source_title": "Correspondants",
+      "minutes": 25,
+      "goal": "用居住地、语言和喜好写简短交友介绍。",
+      "prerequisites": [
+        "NA103"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0038.md",
+          "label": "物理页38；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0039.md",
+          "label": "物理页39；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0040.md",
+          "label": "物理页40；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0041.md",
+          "label": "物理页41；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "交友信息的目标是让别人找到共同话题，不是把所有个人资料塞进去。可以依次写姓名、城市、所说语言与一种兴趣。J’habite 后面城市常用 à，国家则需结合名称选择 en、au 或 aux，不能把城市与国家套用同一个介词。Je parle français 中语言名通常不加冠词，aimer 表一般喜好时却常接定冠词，如 J’aime la musique。\n\n图句把“谁”“做什么”“多少”放成清楚的一条信息。换成自己的介绍时，不必声称会说尚未掌握的语言，可以用 un peu 限定程度。读交友卡时先圈人物、地点、年龄，再比较兴趣，别因为两个词长得相近就判断适合。写完大声读一遍，检查每句有没有动词；公开练习可用虚构联系方式，不需要写真实住址。",
+      "analogy": "个人卡像小窗户，只打开让别人看见共同兴趣的几扇窗。",
+      "teaching_points": [
+        "parler français 与 aimer le français 的冠词不同。",
+        "城市用 à；国家介词随名称性数及读音选择。"
+      ],
+      "anchor": {
+        "fr": "Mon amie parle trois langues.",
+        "zh": "我的女性朋友说三种语言。",
+        "sound": "蒙，阿米，帕儿勒，特鲁瓦，朗格。",
+        "movie": "我的女性朋友抱着米袋聊天，三个不同颜色的话泡轮流蹦出；她能说三种语言，连米袋都听得点头。",
+        "pronunciation": "Mon amie 有 /n/ 联诵，parle 的末尾 e 不另读；langues /lɑ̃ɡ/ 的鼻音后仍有 /ɡ/。",
+        "reuse_id": "T06:7"
+      },
+      "quiz": [
+        {
+          "prompt": "哪个介绍表达“我住在里昂”？",
+          "choices": [
+            "J’habite en Lyon.",
+            "J’habite au Lyon.",
+            "J’habite à Lyon."
+          ],
+          "answer": 2,
+          "reason": "Lyon 是城市，常用 à；en/au 通常用于相应国家等地点。"
+        },
+        {
+          "prompt": "想说“我喜欢音乐”，选哪句？",
+          "choices": [
+            "J’aime la musique.",
+            "Je parle la musique.",
+            "J’ai la musique."
+          ],
+          "answer": 0,
+          "reason": "aimer 表喜好，类别名词 musique 前用 la；parler 和 avoir 不对应这里的意思。"
+        }
+      ],
+      "application": "写五句交友卡：姓名、年龄、城市、会说的语言、兴趣；再问对方一个关于兴趣的问题。",
+      "self_check": [
+        "不看稿完成：用居住地、语言和喜好写简短交友介绍。",
+        "能用自己的内容造一句，体现：parler français 与 aimer le français 的冠词不同。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R01",
+      "number": 9,
+      "title": "单元1复习：介绍人物并传递联系信息",
+      "source_title": "Unité 1 — Savoir-faire",
+      "minutes": 35,
+      "goal": "整合个人卡、亲友介绍与地址电话信息。",
+      "prerequisites": [
+        "NA101",
+        "NA102",
+        "NA103",
+        "NA104"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0042.md",
+          "label": "物理页42：Unité 1 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "介绍人物的完整度不靠句子多，而靠听者能回答“是谁、做什么、在哪里、怎么联系”。先读一张虚构个人卡，把姓名、年龄、国籍、职业分别归位，再把第一人称改成第三人称。年龄用 avoir，职业的一般表语用 être 加无冠词名词；国籍形容词的形式看所描述者，不能沿用介绍者自己的形式。联系信息里的数字要逐段确认。\n\n本单元学以致用包含人物信息卡、牙医联系信息和介绍朋友的邮件，本课用独立设定完成相同沟通任务。图句示范她的国籍与居住城市，一句里 habite 仍与 elle 对应。先做三十秒口头介绍，再用四五句写给朋友，最后核对姓名与数字是否一致。没有教材原录音时，不自行补出原听力卡片答案；可把自编卡请同伴读出，明确这是原创听辨练习。",
+      "analogy": "人物卡像一份小包裹，姓名是收件标签，年龄职业和地点是里面分好的三件东西。",
+      "teaching_points": [
+        "第一人称改第三人称，要同时改人称代词和动词。",
+        "数字、地址逐项复述确认，不靠大意补全。"
+      ],
+      "anchor": {
+        "fr": "Elle est canadienne et habite à Québec.",
+        "zh": "她是加拿大人，住在魁北克市。",
+        "sound": "诶儿，诶，卡纳蒂耶讷，诶，阿比特，啊，凯贝克。",
+        "movie": "她戴着加拿大枫叶帽，抱着地图介绍自己；地图上的小屋立在魁北克市，她是加拿大人，也住在那里。",
+        "pronunciation": "canadienne /kanadjɛn/ 末尾不是鼻元音；Québec /kebɛk/ 末尾 /k/ 发出；habite 的 h 不发音。",
+        "reuse_id": "T06:2"
+      },
+      "quiz": [
+        {
+          "prompt": "个人卡写“âge : 28”，改述哪句正确？",
+          "choices": [
+            "Elle est vingt-huit ans.",
+            "Elle a vingt-huit ans.",
+            "Elle va vingt-huit ans."
+          ],
+          "answer": 1,
+          "reason": "年龄用 avoir，elle 对应 a；être、aller 不表达年龄。"
+        },
+        {
+          "prompt": "读联系信息时某个号码没听清，应怎样回应？",
+          "choices": [
+            "猜一个符合位数的号码",
+            "直接换成自己的号码",
+            "请对方重复并逐段确认"
+          ],
+          "answer": 2,
+          "reason": "联系任务要求准确，缺失数字不能用猜测或无关信息替代。"
+        }
+      ],
+      "application": "自编一位朋友的六项个人卡，口头介绍三十秒，再写五句邮件；用虚构电话号码做一次重复确认。",
+      "self_check": [
+        "不看稿完成：整合个人卡、亲友介绍与地址电话信息。",
+        "能用自己的内容造一句，体现：第一人称改第三人称，要同时改人称代词和动词。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA105",
+      "number": 10,
+      "title": "说出房间里有什么、在哪里",
+      "source_title": "Trouvez l’objet",
+      "minutes": 25,
+      "goal": "用 il y a 与位置介词寻找物品。",
+      "prerequisites": [
+        "NA104"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0044.md",
+          "label": "物理页44；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0045.md",
+          "label": "物理页45；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0046.md",
+          "label": "物理页46；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0047.md",
+          "label": "物理页47；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "寻找物品先确认“存在什么”，再说明“它在哪里”。Il y a 后接名词组，无论一件还是多件，整个结构保持不变；不能随数量改成 ils y ont。第一次提及常用 un、une、des，已经知道的东西再用 le、la、les。物品名词的复数常加 s，但末尾 s 通常不读，听觉上往往要靠冠词判断单复数。\n\n位置词要选明确的参照物。sur 是在表面上，sous 是在下方，devant 是在前方；près de 只是附近，不代表紧挨着。图句以车站为参照定位药店，把它迁移成桌子和书时，句式并不需要更换。先让对方按描述摆两个物品，再换你听描述找物，能检验介词是否真的对应眼前空间，而不是只会背中文解释。",
+      "analogy": "位置句像给朋友发藏宝图：宝物之外，还要标一棵大家认得的树。",
+      "teaching_points": [
+        "il y a 不因宾语复数而变形。",
+        "des livres 是一些书；les livres 是已确定的那些书。"
+      ],
+      "anchor": {
+        "fr": "Il y a une pharmacie près de la gare.",
+        "zh": "车站附近有一家药店。",
+        "sound": "衣里啊，une，法儿马西；普雷，德拉，嘎儿。",
+        "movie": "我沿着小马留下的蹄印找药店，发现它就在车站附近；药瓶们在门口排队，小火车还在旁边鸣笛。",
+        "pronunciation": "il y a /ilja/ 连贯读；une pharmacie /yn faʁmasi/ 的 ph 读 /f/；près de 的 ès 不按字母名拼读。",
+        "reuse_id": "T02:1"
+      },
+      "quiz": [
+        {
+          "prompt": "“桌上有两本书”正确形式是？",
+          "choices": [
+            "Il y a deux livres sur la table.",
+            "Ils y ont deux livres sur la table.",
+            "Il est deux livres sur la table."
+          ],
+          "answer": 0,
+          "reason": "存在结构固定用 il y a；deux livres 是所存在的东西，不是主语。"
+        },
+        {
+          "prompt": "钥匙在桌子下面，应选哪个介词？",
+          "choices": [
+            "sur",
+            "sous",
+            "devant"
+          ],
+          "answer": 1,
+          "reason": "sous 表下方；sur 表表面上，devant 表前方。"
+        }
+      ],
+      "application": "摆一本书、一只杯子和一把钥匙，用三句 il y a 描述位置，再遮住画面凭记忆重说。",
+      "self_check": [
+        "不看稿完成：用 il y a 与位置介词寻找物品。",
+        "能用自己的内容造一句，体现：il y a 不因宾语复数而变形。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA106",
+      "number": 11,
+      "title": "用外貌特征让人认出来",
+      "source_title": "Portrait-robot",
+      "minutes": 25,
+      "goal": "结合身高、服装和人物关系描述一个人。",
+      "prerequisites": [
+        "NA105"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0048.md",
+          "label": "物理页48；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0049.md",
+          "label": "物理页49；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0050.md",
+          "label": "物理页50；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0051.md",
+          "label": "物理页51；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "外貌描述只挑有辨认价值的特征，例如高矮、发色、眼镜和衣服颜色。Il est grand 描述状态，Il a les cheveux noirs 描述头发，Il porte une veste 描述穿着，这三类动词不能按中文习惯互相替换。形容词通常和它描述的名词保持性数一致，因此 une veste noire 与 des chaussures noires 的词尾不同，朗读时却不一定都能听出差别。\n\n重读人称代词用于介词后或强调，如 avec moi、à lui、Moi, je…，不能把主语代词 je 放在 avec 后。图句提供亲属与职业这一条定位线索，接下来加外貌，便能从多人中找人。练习时先确定描述的是本人、衣服还是头发，再检查形容词跟谁配合；避免把熟悉的一个词尾推广到所有颜色和所有名词。 颜色词也有特殊形式，先练本课出现的组合。",
+      "analogy": "找人像给拼图加边角：一条特征可能模糊，三条互相补充就清楚了。",
+      "teaching_points": [
+        "porter 衣服、avoir 头发/眼睛、être 高矮。",
+        "avec 后用 moi、toi、lui、elle 等重读形式。"
+      ],
+      "anchor": {
+        "fr": "Le frère de Nora est infirmier.",
+        "zh": "诺拉的哥哥是护士。",
+        "sound": "勒，弗雷儿，德，Nora，诶，昂菲儿米耶。",
+        "movie": "Nora的哥哥把护理帽戴正，温柔地递来一杯米汤；他是护士，连玩具熊的绷带也包得整整齐齐。",
+        "pronunciation": "frère /fʁɛʁ/ 的 fr 不加元音；infirmier /ɛ̃fiʁmje/ 首音鼻化；est infirmier 注意 /t/ 联诵。",
+        "reuse_id": "T06:3"
+      },
+      "quiz": [
+        {
+          "prompt": "“她穿着黑色外套”哪句合适？",
+          "choices": [
+            "Elle porte une veste noir.",
+            "Elle porte une veste noire.",
+            "Elle est une veste noire."
+          ],
+          "answer": 1,
+          "reason": "veste 是阴性单数，noir 变 noire；être 一件外套会改变句意。"
+        },
+        {
+          "prompt": "“和我一起”选哪个？",
+          "choices": [
+            "avec je",
+            "avec me",
+            "avec moi"
+          ],
+          "answer": 2,
+          "reason": "介词后用重读代词 moi；je 是主语形式，me 是非重读宾语形式。"
+        }
+      ],
+      "application": "为机场接人说五句：一条身份，再分别说身高、发色、衣服与颜色；至少使用être、avoir、porter三类结构。另说avec moi或à lui一句，并检查衣服形容词的性数。职业图句的复述不能代替外貌描述。",
+      "self_check": [
+        "不看稿完成：结合身高、服装和人物关系描述一个人。",
+        "能用自己的内容造一句，体现：porter 衣服、avoir 头发/眼睛、être 高矮。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "职业图句只提供身份线索；另不看稿描述身高、发色、衣服和颜色四项可见特征，并让听者辨认人物。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA107",
+      "number": 12,
+      "title": "购物时指物、问价、做选择",
+      "source_title": "Shopping",
+      "minutes": 25,
+      "goal": "用指示词、颜色和 combien 完成一次选购。",
+      "prerequisites": [
+        "NA106"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0052.md",
+          "label": "物理页52；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0053.md",
+          "label": "物理页53；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0054.md",
+          "label": "物理页54；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0055.md",
+          "label": "物理页55；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "购物时要让店员知道你指的是哪件东西。ce 配阳性单数，cette 配阴性单数，ces 配复数；阳性单数以元音或哑音 h 开头时用 cet。它们并不单凭词形区分“近处的这个”和“远处的那个”，必要时靠手势或语境。形容词颜色随物品变化，例如 cette tasse bleue，不是跟说话者的性别变化。\n\ncombien 询问价格或数量，comment 询问方式或特征，两者不能因中文都能译成“怎么样”就混用。图句给出偏好，适合接在比较两件商品之后。完整对话先说需要什么，再问价格，最后表达选择；数字没听清可请对方重复。先练一件物品，再改成两件，检查指示词和形容词是否都跟着变化，别只在名词末尾加 s。",
+      "analogy": "指示词像手指上的小标签，先贴准这件东西，再谈颜色和价钱。",
+      "teaching_points": [
+        "cet objet、cette robe、ces chaussures。",
+        "combien 问多少；comment 问如何或什么样。"
+      ],
+      "anchor": {
+        "fr": "Je préfère cette tasse bleue.",
+        "zh": "我更喜欢这个蓝色杯子。",
+        "sound": "热，普雷费儿，塞特，塔丝，布勒。",
+        "movie": "我把最喜欢的蓝杯子放到小塔顶，旁边别的杯子排队争宠；我依然抱紧这个蓝杯，更喜欢它。",
+        "pronunciation": "préfère /pʁefɛʁ/ 两个 e 的音不同；cette tasse bleue 的 bleue 是 /blø/，末尾 e 不独立发音。",
+        "reuse_id": "T07:1"
+      },
+      "quiz": [
+        {
+          "prompt": "“这个物品”应写？",
+          "choices": [
+            "ce objet",
+            "cette objet",
+            "cet objet"
+          ],
+          "answer": 2,
+          "reason": "objet 阳性且元音开头，ce 要变 cet；cette 专配阴性。"
+        },
+        {
+          "prompt": "想问杯子多少钱，选哪句？",
+          "choices": [
+            "Cette tasse coûte combien ?",
+            "Cette tasse est comment ?",
+            "Cette tasse est où ?"
+          ],
+          "answer": 0,
+          "reason": "coûter combien 问价格；comment 问特征，où 问位置。"
+        }
+      ],
+      "application": "用两只不同颜色的杯子模拟店铺，问一种颜色、询价，再用图句的结构说自己的选择。",
+      "self_check": [
+        "不看稿完成：用指示词、颜色和 combien 完成一次选购。",
+        "能用自己的内容造一句，体现：cet objet、cette robe、ces chaussures。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA108",
+      "number": 13,
+      "title": "描述一幅照片中的人物与位置",
+      "source_title": "Le coin des artistes",
+      "minutes": 25,
+      "goal": "结合位置、衣服和职业读懂并描述照片。",
+      "prerequisites": [
+        "NA107"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0056.md",
+          "label": "物理页56；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0057.md",
+          "label": "物理页57；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0058.md",
+          "label": "物理页58；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0059.md",
+          "label": "物理页59；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "看照片先把人物和位置绑定，再补身份。à gauche de、à droite de 和 entre 可以缩小范围，但必须说明相对于谁；观察者的左右与照片中人物自己的左右可能不同，描述前应保持同一视角。Il y a 引入画面里的人，C’est 说明是谁，Il porte 或 Elle porte 再补衣服，不要一句中不断换主语却不交代指代。\n\n艺术家姓名是阅读线索，不必先记住所有生平。遇到 le peintre、le musicien，可以把职业和位置配对，再检查哪条信息排除了其他人。图句练的是“在对面”的固定关系，换到照片描述时可选更合适的 à côté de 或 entre。自己编两条可验证的描述与一条不成立的描述，请同伴指出证据，训练依据画面而非凭印象猜答案。",
+      "analogy": "照片描述像给每个人贴坐标：坐标对了，名字和外套才不会贴错人。",
+      "teaching_points": [
+        "entre A et B 表示在 A 与 B 之间。",
+        "先引入人物，再用 il/elle 延续同一指代。"
+      ],
+      "anchor": {
+        "fr": "La banque est en face du cinéma.",
+        "zh": "银行在电影院对面。",
+        "sound": "拉，邦克，诶，昂，法丝， dü，西内马。",
+        "movie": "银行像大钱罐站在路一边，电影院像大爆米花桶站在对面；两边隔街互相挥手，位置一眼就看明白。",
+        "pronunciation": "banque /bɑ̃k/ 是鼻元音后有 /k/；en face /ɑ̃ fas/ 留意 /f/；cinéma 的 é 读 /e/。",
+        "reuse_id": "T02:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“在安娜和保罗之间”选哪项？",
+          "choices": [
+            "entre Anna et Paul",
+            "entre Anna de Paul",
+            "à côté Anna et Paul"
+          ],
+          "answer": 0,
+          "reason": "entre 后用 et 连接两个参照对象；de 不能替代这里的连接词。"
+        },
+        {
+          "prompt": "先说画里有一位画家，最合适的是？",
+          "choices": [
+            "Il porte un peintre.",
+            "Il y a un peintre.",
+            "Il est un tableau."
+          ],
+          "answer": 1,
+          "reason": "il y a 引入存在的人；porter 不是“有一位画家”，tableau 是画而不是人。"
+        }
+      ],
+      "application": "选一张可使用的合影或自画三人场景：用il y a引入一人、用c’est说明身份、用il/elle porte描述衣服，再用entre A et B及à côté de各说一条可核查位置。银行图句只作为位置迁移，不替代人物阅读任务。",
+      "self_check": [
+        "不看稿完成：结合位置、衣服和职业读懂并描述照片。",
+        "能用自己的内容造一句，体现：entre A et B 表示在 A 与 B 之间。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "银行位置图句只练空间关系；另能用两句区分引入人物、确认身份和描述衣服，至少一处使用entre A et B。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R02",
+      "number": 14,
+      "title": "单元2复习：接人、房间与选购",
+      "source_title": "Unité 2 — Savoir-faire",
+      "minutes": 35,
+      "goal": "在接站描述、房间介绍和购物中使用同一组特征词。",
+      "prerequisites": [
+        "NA105",
+        "NA106",
+        "NA107",
+        "NA108"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0060.md",
+          "label": "物理页60：Unité 2 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "接站时外貌、衣服与位置要配合，先描述最容易辨认的两项，再加一个稳定参照物。房间介绍则先用 il y a 引出家具，再说明位置和颜色。两种任务共用形容词配合，却不能共用所有动词：人穿衣用 porter，房间里存在物品用 il y a。把两类句子放在一起比较，才能避免“有”与“是”随意互换。\n\n原单元应用包括机场接人、卧室邮件、合影找人和网上选衣，本课用自己画的小场景练四项任务。图句用于试穿一件外套，cette 与 veste 的阴性一致。先完成接人和房间各两句，再做一次问颜色、问尺码和请求试穿的小对话。最后请同伴照描述指出对象；如果找不到，就检查参照物与信息顺序，不只增加更多形容词。",
+      "analogy": "特征词像同一盒彩笔，画人、画房间和挑衣服都能用，但每幅画的主角不同。",
+      "teaching_points": [
+        "辨认人物需两条互补线索；位置应有参照物。",
+        "cette veste 阴性单数；ces vestes 复数。"
+      ],
+      "anchor": {
+        "fr": "Je peux essayer cette veste ?",
+        "zh": "我可以试穿这件外套吗？",
+        "sound": "热，peux，诶塞耶，塞特，韦斯特？",
+        "movie": "我抱着这件外套，袖子像小手向我招呼；我想塞进去试试，先礼貌问能不能试穿这件外套。",
+        "pronunciation": "peux /pø/ 不读 x；essayer /eseje/ 留意 /j/；veste /vɛst/ 的词末 /st/ 不加额外音节。",
+        "reuse_id": "T09:4"
+      },
+      "quiz": [
+        {
+          "prompt": "“这些蓝色外套”选哪项？",
+          "choices": [
+            "ces vestes bleues",
+            "cette vestes bleue",
+            "ces veste bleu"
+          ],
+          "answer": 0,
+          "reason": "vestes 复数，指示词用 ces，bleues 与阴性复数名词配合。"
+        },
+        {
+          "prompt": "哪条接站描述更容易执行？",
+          "choices": [
+            "Je suis intéressant.",
+            "Je porte une veste verte et je suis devant la sortie.",
+            "Je pense aux vacances."
+          ],
+          "answer": 1,
+          "reason": "绿色外套加出口前的位置提供可见辨认线索；其余不能有效定位。"
+        }
+      ],
+      "application": "用一件外套做接站描述，再介绍它所在房间；最后模拟向店员问同款另一种颜色并请求试穿。",
+      "self_check": [
+        "不看稿完成：在接站描述、房间介绍和购物中使用同一组特征词。",
+        "能用自己的内容造一句，体现：辨认人物需两条互补线索；位置应有参照物。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA109",
+      "number": 15,
+      "title": "看懂租房信息，描述住宅",
+      "source_title": "Appartement à louer",
+      "minutes": 25,
+      "goal": "从面积、房间、楼层和位置判断住房信息。",
+      "prerequisites": [
+        "NA108"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0062.md",
+          "label": "物理页62；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0063.md",
+          "label": "物理页63；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0064.md",
+          "label": "物理页64；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0065.md",
+          "label": "物理页65；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "租房信息常把完整句压缩成名词和缩写，阅读时先分栏：面积、房间数、楼层、设备、价格。pièce 是房间，chambre 是卧室，二者不能看到数字就互换。描述自己的住处可用 avoir 或 il y a；形容词既可能放在名词后，也有常用的放在前面，例如 une grande chambre，不能只记“法语形容词都在后面”。\n\n图句中的 deux belles chambres 是复数名词组，belles 跟 chambres 配合。介绍同住者时，avec nous、chez eux 等介词后用重读代词，不用 ils 来接 chez。练习先把一则虚构广告改写成三句完整描述，再决定它能否满足明确需求。教材中的租金只作为旧语料理解，自己练习时设定虚构预算，不把书中的数字当成当前市场报价。 选择住房要让每条需求对应一条资料证据。",
+      "analogy": "住房广告像压缩行李，读的时候把每一格信息重新展开。",
+      "teaching_points": [
+        "pièce 不等于 chambre；需要分别读房间与卧室信息。",
+        "chez nous、avec eux 使用重读代词。"
+      ],
+      "anchor": {
+        "fr": "Nous avons deux belles chambres.",
+        "zh": "我们有两个漂亮的卧室。",
+        "sound": "努，阿翁，德，贝勒，香布儿。",
+        "movie": "我们努着嘴推开两间漂亮卧室，贝壳灯一间一个；柔软床铺香香的，大家得意地介绍这两个卧室。",
+        "pronunciation": "Nous avons 有 /z/ 联诵；deux belles chambres 中 deux 末尾 x 不读；chambres /ʃɑ̃bʁ/ 不加多余音节。",
+        "reuse_id": "T05:5"
+      },
+      "quiz": [
+        {
+          "prompt": "广告写“3 pièces, 2 chambres”，卧室有几间？",
+          "choices": [
+            "三间",
+            "五间",
+            "两间"
+          ],
+          "answer": 2,
+          "reason": "2 chambres 明确是两间卧室；3 pièces 是总居室数量，不能相加成五间。"
+        },
+        {
+          "prompt": "“她和我们住”选哪句？",
+          "choices": [
+            "Elle habite avec nous.",
+            "Elle habite avec ils.",
+            "Elle habite avec je."
+          ],
+          "answer": 0,
+          "reason": "介词 avec 后使用重读代词 nous；ils 与 je 是主语形式。"
+        }
+      ],
+      "application": "虚构一套两卧室住宅，用四句说明房间、楼层、一个设备和附近地点，并说它适合谁。",
+      "self_check": [
+        "不看稿完成：从面积、房间、楼层和位置判断住房信息。",
+        "能用自己的内容造一句，体现：pièce 不等于 chambre；需要分别读房间与卧室信息。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA110",
+      "number": 16,
+      "title": "问路后，能按步骤走",
+      "source_title": "C’est par où ?",
+      "minutes": 25,
+      "goal": "用命令式给出路线，并用 y 避免重复地点。",
+      "prerequisites": [
+        "NA109"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0066.md",
+          "label": "物理页66；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0067.md",
+          "label": "物理页67；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0068.md",
+          "label": "物理页68；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0069.md",
+          "label": "物理页69；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "问路不是收集几个地名，而是把起点、动作、参照物和终点依次接起来。Tournez、Continuez 都可用于礼貌地指路，命令式通常不带主语；面对熟人可换成 tourne、continue。规则 -er 动词的 tu 命令式一般去掉末尾 s，不能直接照抄 tu tournes 再删掉 tu。先把路线分成两三步，比塞进一个长句更容易执行。\n\ny 可以替代已知的地点，如 Vous y allez ?，通常放在相应动词前，不是任何“那里”都机械加到句尾。图句以博物馆为转弯标志，after 的先后关系由 après 表达。让同伴用手指沿你画的简单地图走一遍，走错时回头检查动作词与参照物，而不是只重复得更大声；路线必须能在图上实际连起来。\n\n指路中的“走某条路、乘某种交通”常用 prendre。现在时六组为 je prends、tu prends、il/elle/on prend、nous prenons、vous prenez、ils/elles prennent；单数词尾书写不同而通常读音相同，prennent 的词干发 /pʁɛn/，不要当作 prenons 的鼻音。给陌生人指路用命令式 Prenez，省略 vous，如 Prenez la deuxième rue à droite。路上还会遇到四组缩合：à + le = au，à + les = aux，de + le = du，de + les = des；à la、de la 与 à l’、de l’不按这四组改写。原创路线是 Allez au parc, près du musée；复数可说 Tournez aux feux, près des jardins。这里 du/des 分别是 de 与 le/les 的缩合，不能只见字形就当作食物部分冠词或不定复数冠词。",
+      "analogy": "指路像给玩具车下指令，一次一个动作，还要说在哪个路口做。",
+      "teaching_points": [
+        "命令式省略主语，vous 形式常保留 -ez。",
+        "y 替代已知地点，通常位于相关变位动词前。",
+        "prendre六人称现在时；vous命令式Prenez；au/aux/du/des四组介词与定冠词缩合。"
+      ],
+      "anchor": {
+        "fr": "Tournez à gauche après le musée.",
+        "zh": "过了博物馆后左转。",
+        "sound": "图儿内，啊，狗什；阿普雷，勒，musée。",
+        "movie": "我让玩具小车先经过博物馆，再到小狗站的地方左转；小狗爪子向左伸，示范过了博物馆才左转。",
+        "pronunciation": "Tournez /tuʁne/ 的 -ez 读 /e/；à gauche /a ɡoʃ/ 的 ch 读 /ʃ/；musée /myze/ 的 u 为 /y/。",
+        "reuse_id": "T02:4"
+      },
+      "quiz": [
+        {
+          "prompt": "给陌生人指路，哪句合适？",
+          "choices": [
+            "Vous tournez à gauche !（作为命令式）",
+            "Tournez à gauche.",
+            "Tournes à gauche."
+          ],
+          "answer": 1,
+          "reason": "Tournez 是 vous 命令式；tournes 不符规则 -er 动词 tu 命令式，带 vous 的句子则是陈述结构。"
+        },
+        {
+          "prompt": "把“我们去博物馆”中的地点替代，选哪句？",
+          "choices": [
+            "Nous allons y.",
+            "Nous le allons.",
+            "Nous y allons."
+          ],
+          "answer": 2,
+          "reason": "y 替代地点并置于 allons 前；le 通常替代直接宾语而不是去往地点。"
+        },
+        {
+          "prompt": "给陌生人说“走第二条街到公园，靠近博物馆”，哪组形式合适？",
+          "choices": [
+            "Prenez la deuxième rue ; allez au parc, près du musée.",
+            "Prends la deuxième rue ; allez à le parc, près de le musée.",
+            "Vous prendre la deuxième rue ; allez aux parc, près des musée."
+          ],
+          "answer": 0,
+          "reason": "vous命令式为 Prenez；à+le 缩合 au，de+le 缩合 du；单数 parc、musée 不用 aux/des。"
+        }
+      ],
+      "application": "画出车站、两条街、公园与博物馆，用三步把陌生游客带到公园：至少一次 Prenez、一次 au、一次 du。另用 nous 与 ils 各说一句 prendre 现在时，核对 prenons/prennent 的不同词干。最后用 y 回答是否去刚提过的地点。",
+      "self_check": [
+        "不看稿完成：用命令式给出路线，并用 y 避免重复地点。",
+        "能用自己的内容造一句，体现：命令式省略主语，vous 形式常保留 -ez。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能从主语随机说出prendre六种现在时形式，并把à le/de le主动纠正为au/du；路线在地图上可执行。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA111",
+      "number": 17,
+      "title": "说去哪里、怎么去",
+      "source_title": "Bon voyage !",
+      "minutes": 25,
+      "goal": "区分目的地、交通方式与 on 的动词形式。",
+      "prerequisites": [
+        "NA110"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0070.md",
+          "label": "物理页70；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0071.md",
+          "label": "物理页71；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0072.md",
+          "label": "物理页72；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0073.md",
+          "label": "物理页73；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "旅行表达先确定目的地，再选交通方式。城市常用 à，国家要根据词的性数和读音选 en、au、aux；去一个城市与住在某个国家不能只靠中文的“在”来决定介词。交通方式里 en train、en voiture 很常见，步行用 à pied，自行车常用 à vélo，不能把所有交通工具前都写成 en。\n\non 在日常交谈中常表示“我们”，但动词仍用第三人称单数，如 on va，而不是 on allons。图句用 nous y allons 展示地点已知时的简化，换为 On y va à vélo 仍需保留正确动词形式。先说完整地点，再用 y 接着说第二句；同时练一个行程问答，确保听者既知道终点，也知道你打算怎样到达，不把交通工具误当地点。 城市与交通方式的两项信息都说齐后，请对方复述一次，确认没有听反。",
+      "analogy": "行程像一张小车票，有一栏写终点，另一栏写乘坐方式，两栏不能混填。",
+      "teaching_points": [
+        "on 的动词按 il/elle 的单数形式变化。",
+        "à pied、à vélo；en train、en voiture。"
+      ],
+      "anchor": {
+        "fr": "Nous y allons à vélo.",
+        "zh": "我们骑自行车去那里。",
+        "sound": "努，衣，阿隆，啊，韦洛。",
+        "movie": "我们努着嘴骑自行车去那里，衣角被风吹成小旗；车轮沿路咕噜转，目的地就在前方。",
+        "pronunciation": "nous y 中 nous 的 s 与 y 联诵为 /z/，读 /nu zi/；y allons 自然衔接但不再添加 /z/；vélo /velo/ 的 é 保持 /e/。",
+        "reuse_id": "T10:2"
+      },
+      "quiz": [
+        {
+          "prompt": "“我们走吧”，用 on 应选？",
+          "choices": [
+            "On allons.",
+            "On va.",
+            "On vont."
+          ],
+          "answer": 1,
+          "reason": "on 即使语义指多人，动词也用第三人称单数 va。"
+        },
+        {
+          "prompt": "“步行去”常用哪种组合？",
+          "choices": [
+            "en pied",
+            "au pied",
+            "à pied"
+          ],
+          "answer": 2,
+          "reason": "à pied 是步行的固定表达；au pied 常表示“在……脚下”，意义不同。"
+        }
+      ],
+      "application": "说出三个虚构目的地及交通方式；把其中一句改用 on，再用 y 替代刚说过的地点。",
+      "self_check": [
+        "不看稿完成：区分目的地、交通方式与 on 的动词形式。",
+        "能用自己的内容造一句，体现：on 的动词按 il/elle 的单数形式变化。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA112",
+      "number": 18,
+      "title": "读旅游资料，写一张城市明信片",
+      "source_title": "Marseille",
+      "minutes": 25,
+      "goal": "提取城市资料中的位置、交通和参观信息。",
+      "prerequisites": [
+        "NA111"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0074.md",
+          "label": "物理页74；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0075.md",
+          "label": "物理页75；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0076.md",
+          "label": "物理页76；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0077.md",
+          "label": "物理页77；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "读旅游资料先找能支持行动的信息：城市在哪里、怎样到达、什么地方可参观、何时开放。地理位置用 au nord de、au sud de 等结构时，先确定参照的是整个国家还是另一座城市，不能把“城市在南部”和“城市在某地以南”混成一个意思。价钱、开放时间、交通班次在旧教材里只是阅读材料，使用时要和当前安排分开。\n\n写明信片用少量句子就能建立一个完整画面：我在哪里、城市怎样、今天做什么、接下来去哪。图句示范“去里昂坐火车”，换城市不影响交通方式结构。阅读时把资料写成三栏笔记，再用自己的话组合，不照抄整段介绍。暂时不认识的博物馆名可以保留为专名，先弄清它在句中是地点还是活动，才能正确回答问题。",
+      "analogy": "旅游资料像自助台，先取这次出门用得上的三样信息。",
+      "teaching_points": [
+        "c’est où 问位置；comment y aller 问到达方式。",
+        "从表格提取时间和价格，不自行补出资料没有的信息。"
+      ],
+      "anchor": {
+        "fr": "Je vais à Lyon en train.",
+        "zh": "我乘火车去里昂。",
+        "sound": "热，韦，啊，Lyon里昂，昂，特兰。",
+        "movie": "我背好行李坐火车去里昂，车窗里一只小狼陪着看风景；火车穿过田野，车头直朝里昂方向。",
+        "pronunciation": "Je vais à Lyon 中 vais à 的联诵在普通口语里并非必需；en train /ɑ̃ tʁɛ̃/ 不在词末补 n。",
+        "reuse_id": "T10:1"
+      },
+      "quiz": [
+        {
+          "prompt": "资料只写“près de la mer”，能确定什么？",
+          "choices": [
+            "就在海水中",
+            "离海边不远",
+            "每天都有船"
+          ],
+          "answer": 1,
+          "reason": "près de 只表达靠近，既不等于在海中，也不提供班次信息。"
+        },
+        {
+          "prompt": "给朋友写城市明信片，哪组最有用？",
+          "choices": [
+            "所在城市、一个活动、下一步安排",
+            "把所有陌生词抄一遍",
+            "只写一个价格不说对象"
+          ],
+          "answer": 0,
+          "reason": "这三项能让收信者了解行程；抄词和脱离对象的价格不能构成清楚信息。"
+        }
+      ],
+      "application": "虚构一次熟悉城市的旅行，写五句明信片，包含城市位置、交通、一个参观活动与问候。",
+      "self_check": [
+        "不看稿完成：提取城市资料中的位置、交通和参观信息。",
+        "能用自己的内容造一句，体现：c’est où 问位置；comment y aller 问到达方式。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R03",
+      "number": 19,
+      "title": "单元3复习：租房、指路与阶段检查1",
+      "source_title": "Unité 3 — Savoir-faire ; Évaluation 1",
+      "minutes": 50,
+      "goal": "整合住宅选择、路线说明，并完成四项独立阶段检查。",
+      "prerequisites": [
+        "NA109",
+        "NA110",
+        "NA111",
+        "NA112"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0078.md",
+          "label": "物理页78：Unité 3 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0079.md",
+          "label": "物理页79：Évaluation 1；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0080.md",
+          "label": "物理页80：Évaluation 1；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "选择住房先把需求和广告条件逐项对照，再用完整句介绍房间；指路则把起点、转弯和终点连接起来。两个任务都依赖空间关系，却有不同信息顺序：租房先总览再细节，路线先起点再动作。图句用桥作为一直向前走的终点，jusqu’au 不能随意替换成 après；一个表示走到哪里，一个表示过了哪里再做事。\n\n本课映射单元3学以致用及评估1全部技能：听简单信息、自我与家人介绍、按文字辨人、写餐馆联系回复。评估原听力没有在这里重建答案；请用已有合法原录音完成原题，没有音频时用新编五条描述做听辨并单独标记。独立检查时先完成再回看，记录听、说、读、写各自缺口；课堂完成率不能当作已经达到某项考试等级。\n\n原创阅读输入A（不是原书题文）：À la gare, cherche une femme avec des lunettes et un blouson rouge. Elle porte un petit sac bleu. Elle attend devant le café. 三位候选资料：Clara — lunettes, blouson vert, sac bleu, devant le café；Nora — lunettes, blouson rouge, petit sac bleu, devant le café；Lina — sans lunettes, blouson rouge, petit sac bleu, devant la sortie。先从文字找眼镜、衣服、包和位置四条证据，再选择人物，不因名字顺眼就猜。\n\n原创信息卡B（虚构练习用）：Restaurant Le Tilleul；18, rue des Lilas, Orléans；vendredi 19 h–22 h；menu du soir : 18 euros；电话以占位形式标作 00 00 00 00 00，不用于联系。朋友留言：Salut ! Je cherche un restaurant pour vendredi soir. Tu as une idée ? — Hugo。请根据卡片用自己的话回复，不增加预订已确认、免费项目或卡片未提供的情况。",
+      "analogy": "阶段复习像检查旅行背包，路线、住处和联系信息要分别拿出来检查，不能只看包已经装满。",
+      "teaching_points": [
+        "jusqu’à 表直到某处；après 表在某处之后。",
+        "阶段检查分别观察听说读写，不以单一题数替代能力判断。"
+      ],
+      "anchor": {
+        "fr": "Continuez tout droit jusqu’au pont.",
+        "zh": "一直走到桥边。",
+        "sound": "孔蒂涅，图，杜瓦， ü斯科，蓬。",
+        "movie": "我沿路继续一直走，小兔用长胡萝卜指着正前方；直到蓬松小桥出现才停，途中一步也没拐弯。",
+        "pronunciation": "Continuez /kɔ̃tinɥe/ 留意滑音；tout droit /tu dʁwa/ 不在 t 与 d 间补音；pont /pɔ̃/ 尾音鼻化。",
+        "reuse_id": "T02:3"
+      },
+      "quiz": [
+        {
+          "prompt": "“一直走到桥”中的到桥更适合？",
+          "choices": [
+            "après le pont",
+            "jusqu’au pont",
+            "sans le pont"
+          ],
+          "answer": 1,
+          "reason": "jusqu’au pont 指向走路终点；après 指过桥之后，sans 表没有桥。"
+        },
+        {
+          "prompt": "评估1音频暂不可用，应如何记录？",
+          "choices": [
+            "按图片猜出原录音答案并算对",
+            "把听力自动记满分",
+            "标记未测，另做明确标注的原创听辨"
+          ],
+          "answer": 2,
+          "reason": "缺原音频就不能声称核对了原题；原创替代任务与原题成绩要区分。"
+        },
+        {
+          "prompt": "根据本课原创阅读输入A，谁符合全部特征？",
+          "choices": [
+            "Clara",
+            "Nora",
+            "Lina"
+          ],
+          "answer": 1,
+          "reason": "Nora 同时符合眼镜、红夹克、小蓝包和咖啡馆前等候四条信息；Clara 夹克绿，Lina 没眼镜且在出口前。"
+        },
+        {
+          "prompt": "根据原创餐馆卡，哪条可写进给Hugo的回复？",
+          "choices": [
+            "菜单免费，每晚都营业。",
+            "周五已帮你订好座位。",
+            "周五19点至22点营业，晚餐菜单18欧元。"
+          ],
+          "answer": 2,
+          "reason": "卡片仅支持周五时段与菜单价格；没有免费、每天营业或已预订的证据。"
+        }
+      ],
+      "application": "先完成原创人物阅读选择并用两句法语说明证据；再回复Hugo一封35–45词邮件，必须包含餐馆名、地址、周五营业时间和菜单价格。另自编住房需求并指路，口头介绍自己与一位家人。听力仅在有合法原音频时独立完成并记录；暂无原音频则标记未测，原创读写题不代替原听力成绩。",
+      "self_check": [
+        "不看稿完成：整合住宅选择、路线说明，并完成四项独立阶段检查。",
+        "能用自己的内容造一句，体现：jusqu’à 表直到某处；après 表在某处之后。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能根据A排除两位不符合者并指出具体文字证据；B回复四项资料准确，不写已预订或额外服务。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA113",
+      "number": 20,
+      "title": "买车票，也说清出发时间",
+      "source_title": "Un aller simple",
+      "minutes": 25,
+      "goal": "询问时刻，区分单程与往返票。",
+      "prerequisites": [
+        "NA112"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0082.md",
+          "label": "物理页82；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0083.md",
+          "label": "物理页83；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0084.md",
+          "label": "物理页84；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0085.md",
+          "label": "物理页85；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "购票时最重要的是目的地、日期、人数、票种和出发时间。un aller simple 是单程，un aller-retour 是往返；只说城市名不足以让工作人员确认需求。问几点可用 À quelle heure… ?，现在几点可问 Quelle heure est-il ?。两种问句都提到 heure，但前者为某个动作寻找时间，后者询问当下钟点。\n\n图句的六点半可以改写为六点三十分；日常交流可用 et demie，车站时刻表常用二十四小时制。读 18 h 30 时先保留十八点三十分，避免忘记早晚。练习一次只改变一个条件：先换日期，再换单程或往返，最后换出发时间。把听到的时刻写成数字后复述给对方，确认的是同一班车，不凭熟悉词猜整条信息。 必要时说出早上或晚上，让钟点的信息没有歧义。",
+      "analogy": "买票像填小表格，终点、日期和时间的格子都填齐才不会坐错车。",
+      "teaching_points": [
+        "aller simple 单程；aller-retour 往返。",
+        "à quelle heure 问动作时点，quelle heure est-il 问现在。"
+      ],
+      "anchor": {
+        "fr": "Il est six heures et demie.",
+        "zh": "现在六点半。",
+        "sound": "衣儿，诶，西瑟儿，诶，德米。",
+        "movie": "六只小西瓜围着钟表，半块米糕躺在旁边；大钟指向六点半，我赶紧把六只瓜和半块糕记在一起。",
+        "pronunciation": "six heures 连读时 six 的末尾读 /z/；heures 的 h 不发音；demie /dəmi/ 末尾 e 不另读。",
+        "reuse_id": "T03:1"
+      },
+      "quiz": [
+        {
+          "prompt": "18 h 30 按车站时刻读，选哪项？",
+          "choices": [
+            "six heures du matin",
+            "dix-huit heures trente",
+            "dix-huit heures moins trente"
+          ],
+          "answer": 1,
+          "reason": "18 h 30 为十八点三十分；六点早上与减去三十分都改变时点。"
+        },
+        {
+          "prompt": "“这班车几点出发？”选哪句？",
+          "choices": [
+            "Quelle heure est le train ?",
+            "Le train a quelle heure ?",
+            "À quelle heure part le train ?"
+          ],
+          "answer": 2,
+          "reason": "partir 是出发，à quelle heure 提问这个动作的时点。"
+        }
+      ],
+      "application": "模拟购票：说目的地、周六、单程、一人，询问出发时刻；另编一个时刻并完整复述。",
+      "self_check": [
+        "不看稿完成：询问时刻，区分单程与往返票。",
+        "能用自己的内容造一句，体现：aller simple 单程；aller-retour 往返。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA114",
+      "number": 21,
+      "title": "问活动安排与营业时间",
+      "source_title": "À Londres",
+      "minutes": 25,
+      "goal": "用 est-ce que 提问，区分一次安排与每周习惯。",
+      "prerequisites": [
+        "NA113"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0086.md",
+          "label": "物理页86；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0087.md",
+          "label": "物理页87；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0088.md",
+          "label": "物理页88；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0089.md",
+          "label": "物理页89；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "est-ce que 是常见的疑问标记，后面保持主语加谓语的陈述语序，例如 Est-ce que tu travailles ?。问地点、时间或做什么时，把相应疑问词放在前面，不能同时再随意倒装主谓。faire 的现在时有 je fais、nous faisons、vous faites 等不同形式，熟悉词也要与主语配对，不能把动词原形直接放在 tu 后面。\n\n星期名称前的 le 经常表达每周规律：Je travaille mercredi 多指这次的星期三，Je travaille le mercredi 常指每逢星期三。图句再加否定说明固定休息日，适合查询开门与课程时间。先把自己的每周安排说一遍，再问一次具体日期的活动；当语境已经明确时表达也可能有弹性，本课先用清晰的标记把“这一回”和“每一回”分开。 先问一次具体安排，再问每周规律，比较语义差别。",
+      "analogy": "日历上圈一次是这周的安排，给整列星期三涂色才是每周习惯。",
+      "teaching_points": [
+        "est-ce que 后不再机械倒装主谓。",
+        "faire：vous faites；否定把 ne…pas 放在变位动词两边。"
+      ],
+      "anchor": {
+        "fr": "Je ne travaille pas le mercredi.",
+        "zh": "我每周三不工作。",
+        "sound": "热，讷，特拉瓦伊，帕，勒，梅儿克勒迪。",
+        "movie": "每周三，娃娃拉我去工作，我都拿帕子盖好电脑；日历上的每个周三都有梅子，我这天固定不工作。",
+        "pronunciation": "mercredi /mɛʁkʁədi/ 中两个 r 都不加汉语韵母；pas le 连贯读；末尾节奏落在 mercredi 末音节。",
+        "reuse_id": "T03:4"
+      },
+      "quiz": [
+        {
+          "prompt": "哪句保持了 est-ce que 后的正常语序？",
+          "choices": [
+            "Est-ce que travailles-tu ici ?",
+            "Est-ce que tu travailles ici ?",
+            "Est-ce tu que travailles ici ?"
+          ],
+          "answer": 1,
+          "reason": "est-ce que 已标记疑问，后接 tu travailles；不再叠加倒装。"
+        },
+        {
+          "prompt": "“每星期一休息”最清楚的表达是？",
+          "choices": [
+            "Je me repose lundi.",
+            "Je me repose un lundi.",
+            "Je me repose le lundi."
+          ],
+          "answer": 2,
+          "reason": "le lundi 常表达每逢星期一；无冠词 lundi 在明确语境中常指某一次。"
+        }
+      ],
+      "application": "问一个虚构运动馆周日是否开放、几点开门；再说自己每周的工作日和某次特别安排。",
+      "self_check": [
+        "不看稿完成：用 est-ce que 提问，区分一次安排与每周习惯。",
+        "能用自己的内容造一句，体现：est-ce que 后不再机械倒装主谓。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA115",
+      "number": 22,
+      "title": "描述周末早晨的生活顺序",
+      "source_title": "Le dimanche matin",
+      "minutes": 25,
+      "goal": "用代词式动词和先后词描述日常活动。",
+      "prerequisites": [
+        "NA114"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0090.md",
+          "label": "物理页90；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0091.md",
+          "label": "物理页91；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0092.md",
+          "label": "物理页92；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0093.md",
+          "label": "物理页93；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "日常生活里有些动作需要一个与主语呼应的小代词：je me lève、tu te lèves、nous nous levons。它不是可有可无的装饰，也不总能逐字译成“自己”。m’habiller 在元音前把 me 省为 m’，但换成 nous 时仍是 nous nous habillons；不要只背单独的 m’habille，而忘记整套人称关系。\n\nlire 与 écrire 的词形也需要成组练：je lis、vous lisez；j’écris、vous écrivez。图句把穿衣与早餐用 avant 关联，帮助区分动作与顺序。描述一天先选三个自己确实会做的动作，再加 d’abord、puis 或 après；每句只增加一层信息。最后遮住稿子重说，让动作顺序带出语言，不依赖逐字翻译中文。 如果一次改人称仍容易漏代词，就暂时只练 je 与 nous 两组；每组连主语、代词、动词一起说，等能顺畅切换后再加时间信息。",
+      "analogy": "代词式动词像一双成对的小鞋，主语换了，旁边那只鞋也要换。",
+      "teaching_points": [
+        "me/te/se/nous/vous/se 与主语配合。",
+        "avant le petit déjeuner 表早餐前；après 表后。"
+      ],
+      "anchor": {
+        "fr": "Je m’habille avant le petit déjeuner.",
+        "zh": "我在早餐前穿好衣服。",
+        "sound": "热，马比，阿旺，勒，珀蒂，得热讷。",
+        "movie": "我跟小马比谁先穿好衣服，早餐香味已经飘来；赶在热早餐端上桌前，我把衣服裤子全部穿好。",
+        "pronunciation": "m’habille /mabij/ 中 ill 读 /j/；petit déjeuner 中 déjeuner 的 eu 是 /ø/，不要照中文钩子分字断开。",
+        "reuse_id": "T06:6"
+      },
+      "quiz": [
+        {
+          "prompt": "“我们七点起床”正确的是？",
+          "choices": [
+            "Nous me levons à sept heures.",
+            "Nous nous levons à sept heures.",
+            "Nous se lève à sept heures."
+          ],
+          "answer": 1,
+          "reason": "nous 主语对应 nous 自反代词和 levons 动词；不能保留 me 或 se lève。"
+        },
+        {
+          "prompt": "“你们写邮件”应选？",
+          "choices": [
+            "Vous écris un e-mail.",
+            "Vous écrire un e-mail.",
+            "Vous écrivez un e-mail."
+          ],
+          "answer": 2,
+          "reason": "vous 对应 écrivez；écris 是 je/tu 形式，écrire 是原形。"
+        }
+      ],
+      "application": "按起床、洗漱、早餐、阅读的顺序说四句；至少两句用代词式动词，并换成 nous 再说一次。",
+      "self_check": [
+        "不看稿完成：用代词式动词和先后词描述日常活动。",
+        "能用自己的内容造一句，体现：me/te/se/nous/vous/se 与主语配合。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA116",
+      "number": 23,
+      "title": "从人物日程读出生活节奏",
+      "source_title": "Une journée avec Laure Manaudou",
+      "minutes": 25,
+      "goal": "根据日程提取时间顺序，并改述他人的日常生活。",
+      "prerequisites": [
+        "NA115"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0094.md",
+          "label": "物理页94；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0095.md",
+          "label": "物理页95；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0096.md",
+          "label": "物理页96；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0097.md",
+          "label": "物理页97；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "阅读人物的一天，先找时刻和动作，再判断哪些信息是每天重复的习惯，哪些只发生在特定日期。第三人称描述要从 je 换成 elle 或 il，动词和自反代词都要一起换；不能只改开头的人称。运动、工作、休息是日程中的不同活动，读懂活动之间的间隔比记住所有专名更有助于把日程复述完整。\n\n图句用 nous nous levons 复习日常动作，改述人物时可变为 Elle se lève…，时间也应根据你自己设计的日程调整。先画一条简单时间线，再用 le matin、à midi、le soir 组织三段描述。教材中的运动员日程是特定语境里的阅读材料，不必模仿其训练量；本课目标是读写安排，最后用自己的现实生活做一次迁移。",
+      "analogy": "一天的日程像串珠子，时刻是绳上的结，动作是放在结旁边的珠子。",
+      "teaching_points": [
+        "转述日程时同时改主语、代词和动词。",
+        "时刻与一段活动时长分开记录，别把结束时刻当持续时间。"
+      ],
+      "anchor": {
+        "fr": "Nous nous levons à sept heures.",
+        "zh": "我们七点起床。",
+        "sound": "努努，勒翁，啊，塞特儿。",
+        "movie": "我们努努嘴从被窝爬起来，闹钟的七只小手一起敲铃；七点一到，大家把枕头推走准备起床。",
+        "pronunciation": "nous nous levons /nu nu ləvɔ̃/ 留意两个 nous 都有功能；sept heures 中 t 与后面的元音自然连接。",
+        "reuse_id": "T06:5"
+      },
+      "quiz": [
+        {
+          "prompt": "把 Je me lève à huit heures 改成她，选哪句？",
+          "choices": [
+            "Elle me lève à huit heures.",
+            "Elle se lèvent à huit heures.",
+            "Elle se lève à huit heures."
+          ],
+          "answer": 2,
+          "reason": "elle 对应 se 与 lève；me 改变动作指向，lèvent 是第三人称复数拼写。"
+        },
+        {
+          "prompt": "日程写“lecture : 9 h–10 h”，能判断什么？",
+          "choices": [
+            "阅读持续一小时",
+            "九小时都在阅读",
+            "十点开始阅读"
+          ],
+          "answer": 0,
+          "reason": "活动从九点到十点，时长一小时；不能把两个时刻当时长或颠倒起点。"
+        }
+      ],
+      "application": "自编一位人物从早到晚的五项日程，用 elle/il 复述；最后说自己一天与她/他的一处不同。",
+      "self_check": [
+        "不看稿完成：根据日程提取时间顺序，并改述他人的日常生活。",
+        "能用自己的内容造一句，体现：转述日程时同时改主语、代词和动词。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R04",
+      "number": 24,
+      "title": "单元4复习：核对时间并回应邀请",
+      "source_title": "Unité 4 — Savoir-faire",
+      "minutes": 35,
+      "goal": "综合营业时间、活动安排与礼貌拒绝。",
+      "prerequisites": [
+        "NA113",
+        "NA114",
+        "NA115",
+        "NA116"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0098.md",
+          "label": "物理页98：Unité 4 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "安排活动先核对日期和钟点，再确认彼此是否有空。电影或运动馆信息通常同时出现活动、地点、时间和价格，读时先分栏，不能把某场的票价接到另一场的时间上。问时刻用 à quelle heure，问是否有空可用 est-ce que；星期前有无 le，关系到每周习惯还是一次具体安排。图句拒绝来访并给出工作这一理由。\n\n原单元应用包含选电影、旅馆前台问时间、拒绝邀请和提供运动馆信息，本课用自编时刻表串成一个小任务。拒绝时先回应对方，再说明不能参加，并可提出替代时段。理由不必很长，但时间必须与前面的安排一致。读完表后遮住原表，把关键信息讲给同伴，再回看核对；遗漏字段就补问，不用把整张表背下来才能开口。",
+      "analogy": "约时间像两张透明日历叠在一起，空白重合的地方才放得下共同活动。",
+      "teaching_points": [
+        "时间表要把活动、时间、地点与价格正确配对。",
+        "拒绝邀请可给理由并提出替代时段。"
+      ],
+      "anchor": {
+        "fr": "Je ne peux pas venir ; je dois travailler.",
+        "zh": "我不能来，我得工作。",
+        "sound": "热，讷，peux，帕，弗尼儿；热，杜瓦，特拉瓦耶。",
+        "movie": "我拿着帕子摇头，没法前来参加；工具箱拉住我的袖口，我必须工作，只好把邀约放到一旁。",
+        "pronunciation": "peux /pø/ 的 eu 是前圆唇元音；venir /vəniʁ/ 的 r 在末尾；travailler /tʁavaje/ 的 ill 为 /j/。",
+        "reuse_id": "T15:6"
+      },
+      "quiz": [
+        {
+          "prompt": "不能周六参加，哪个回应最完整？",
+          "choices": [
+            "Non.",
+            "Je ne peux pas samedi ; je travaille. Dimanche ?",
+            "Je travaille toujours toi."
+          ],
+          "answer": 1,
+          "reason": "明确无法参加的日期、理由和替代建议，沟通能继续；最后一项结构与意思均不清楚。"
+        },
+        {
+          "prompt": "问早餐几点开始，选哪句？",
+          "choices": [
+            "Le petit déjeuner est quelle couleur ?",
+            "Combien le petit déjeuner commence ?",
+            "À quelle heure commence le petit déjeuner ?"
+          ],
+          "answer": 2,
+          "reason": "à quelle heure 询问开始时点；couleur 问颜色，combien 问数量或价格。"
+        }
+      ],
+      "application": "自编影院两场时间和价格，选择一场并邀请朋友；再扮演朋友拒绝该时段，提出另一个双方能到的时段。",
+      "self_check": [
+        "不看稿完成：综合营业时间、活动安排与礼貌拒绝。",
+        "能用自己的内容造一句，体现：时间表要把活动、时间、地点与价格正确配对。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA117",
+      "number": 25,
+      "title": "准备做饭，先说食物与分量",
+      "source_title": "On fait des crêpes ?",
+      "minutes": 25,
+      "goal": "区分部分冠词、数量表达和喜好表达。",
+      "prerequisites": [
+        "NA116"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0100.md",
+          "label": "物理页100；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0101.md",
+          "label": "物理页101；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0102.md",
+          "label": "物理页102；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0103.md",
+          "label": "物理页103；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "食材常以未指明数量的一部分出现：du lait、de la farine、de l’eau。它们并不表示一整份固定单位；要明确多少，就用 un litre de lait、un kilo de pommes 等数量结构。数量词后常接 de，不能把一公斤苹果机械写成 un kilo des pommes。提到喜欢一类食物，则常用定冠词，如 J’aime le fromage，不再是这次吃多少的意思。\n\n否定直接宾语的数量时，du、de la、des 通常变成 de：Je ne bois pas de lait。不要把这条推广到所有否定句，例如 Je n’aime pas le lait 仍表示不喜欢奶这一类食物。图句是礼貌采购用语，重点在 un kilo de。列三种食材，分别用不确定数量、明确分量和不购买表达，靠实际购物意图选择冠词，而不是只看词性。 食材是否可数要结合这次想表达的单位来判断，不是只由中文名称决定。",
+      "analogy": "部分冠词像从大袋里舀一勺，数量词则把勺子换成有刻度的量杯。",
+      "teaching_points": [
+        "du/de la/de l’ 表不定量；数量表达后常用 de。",
+        "喜好类别用定冠词；零数量否定常用 de。"
+      ],
+      "anchor": {
+        "fr": "Je voudrais un kilo de pommes.",
+        "zh": "我要一公斤苹果。",
+        "sound": "热，乌德雷，un，鸡啰（kilo），德，蓬。",
+        "movie": "我向摊主礼貌要一公斤苹果，一只小鸡在秤边啰嗦；苹果蓬地跳进袋子，直到秤显示一公斤才停。",
+        "pronunciation": "voudrais /vudʁɛ/ 的 d 与 r 紧接；kilo de pommes /kilo də pɔm/ 末尾 s 不读；钩子不替代实际圆唇。",
+        "reuse_id": "T07:4"
+      },
+      "quiz": [
+        {
+          "prompt": "“一升牛奶”选哪项？",
+          "choices": [
+            "un litre du lait",
+            "un litre de lait",
+            "un litre le lait"
+          ],
+          "answer": 1,
+          "reason": "明确计量结构 un litre de lait 中用 de，不保留 du。"
+        },
+        {
+          "prompt": "“我不喝奶”表示零数量，选哪句？",
+          "choices": [
+            "Je ne bois pas du lait.",
+            "Je ne bois pas le lait.",
+            "Je ne bois pas de lait."
+          ],
+          "answer": 2,
+          "reason": "一般零数量否定改用 de；le lait 更像指定的奶或类别，du 的保留需特殊对比语境。"
+        }
+      ],
+      "application": "为虚构早餐写三种采购食材：一种精确分量、一种不定量、一种明确不买；用三句向店员说明。",
+      "self_check": [
+        "不看稿完成：区分部分冠词、数量表达和喜好表达。",
+        "能用自己的内容造一句，体现：du/de la/de l’ 表不定量；数量表达后常用 de。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA118",
+      "number": 26,
+      "title": "吃完之后，讲刚才做了什么",
+      "source_title": "Il est comment ?",
+      "minutes": 25,
+      "goal": "用 avoir 加过去分词描述完成的动作。",
+      "prerequisites": [
+        "NA117"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0104.md",
+          "label": "物理页104；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0105.md",
+          "label": "物理页105；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0106.md",
+          "label": "物理页106；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0107.md",
+          "label": "物理页107；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "复合过去时常用来把已经发生的动作作为事件说出来，构造是助动词的现在时加过去分词。很多动词用 avoir：J’ai mangé、Nous avons appelé。主语变化时，首先变的是 avoir；过去分词不能直接换成动词原形。规则 -er 动词通常把 -er 换成 -é，但 prendre、faire 等常见动词的过去分词需要另记。\n\n图句有明确的“我们已经打过电话”这一结果，适合与现在时 Nous appelons 对比。否定时 ne…pas 围住助动词，例如 Nous n’avons pas appelé，而不是只把 pas 放在句尾。说饮食经历时先讲做了什么，再补自己的评价；不要因为菜的形容词有性数变化，就误把简单 avoir 句的过去分词按主语都加 e 或 s。 在纸上给助动词画圈，再给过去分词画线，检查两个部分是否齐全。\n\n描述购物成果还要留意 beau 的五种常用书面形式：un beau sac、un bel objet、une belle écharpe、de beaux sacs、de belles écharpes。bel 用在元音或哑音 h 开头的阳性单数名词前；belle 配阴性，即使阴性名词也以元音开头，仍不换成 bel。beau/bel/belle 的复数分别落到 beaux 或 belles。标准书面语里，不定复数 des 遇到前置形容词常变成 de：J’ai acheté de belles assiettes；对比 J’ai acheté des assiettes rouges，rouges 在名词后，因此这里仍用 des。这不是全部 des 都必须改写的规则，固定名词组和其他结构另看；先掌握普通的新购商品描述。",
+      "analogy": "复合过去时像给动作盖完成章，助动词拿着印章，过去分词写着做了哪件事。",
+      "teaching_points": [
+        "avoir 的人称变化：j’ai、nous avons、ils ont。",
+        "规则 -er 动词过去分词常为 -é；否定包围助动词。",
+        "beau/bel/belle/beaux/belles 与名词性数及阳性元音环境配合；普通前置复数形容词前 des 常变 de。"
+      ],
+      "anchor": {
+        "fr": "Nous avons appelé le médecin.",
+        "zh": "我们给医生打过电话了。",
+        "sound": "努，阿翁，阿普莱，勒，梅德桑。",
+        "movie": "我们努着嘴拨过电话，请医生帮忙；梅子护士在桑树旁接起听筒，电话已经打过，现在我们放下话筒。",
+        "pronunciation": "Nous avons 有 /z/ 联诵；appelé /aple/ 末尾 é 发 /e/，不读成原形的字母串；médecin 尾音鼻化。",
+        "reuse_id": "T11:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“我们昨天做饭了”选哪句？",
+          "choices": [
+            "Nous avons cuisiner hier.",
+            "Nous avons cuisiné hier.",
+            "Nous cuisiné avons hier."
+          ],
+          "answer": 1,
+          "reason": "avons 加过去分词 cuisiné；cuisiner 是原形，助动词应在前。"
+        },
+        {
+          "prompt": "哪个否定形式正确？",
+          "choices": [
+            "Je n’ai pas mangé.",
+            "J’ai ne mangé pas.",
+            "Je n’ai mangé pas."
+          ],
+          "answer": 0,
+          "reason": "复合过去时的 ne…pas 围住 ai，mangé 放在后面。"
+        },
+        {
+          "prompt": "按标准书面语，说明买了“漂亮的盘子”与“一件漂亮物品”，哪组正确？",
+          "choices": [
+            "J’ai acheté des belles assiettes et un belle objet.",
+            "J’ai acheté de belles assiettes et un bel objet.",
+            "J’ai acheté de beaux assiettes et un beau objet."
+          ],
+          "answer": 1,
+          "reason": "assiettes 阴性复数用 belles，普通前置形容词前 des 变 de；objet 阳性元音开头用 bel，不用 belle 或 beau。"
+        }
+      ],
+      "application": "虚构一次购物并用四句过去时讲述：说买了什么、没有买什么，再分别用 un bel… 和 de beaux/de belles… 描述商品。最后补一句评价，至少核对一次形容词性数和一次 des→de 的位置。",
+      "self_check": [
+        "不看稿完成：用 avoir 加过去分词描述完成的动作。",
+        "能用自己的内容造一句，体现：avoir 的人称变化：j’ai、nous avons、ils ont。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能写全beau/bel/belle/beaux/belles五种组合，并解释为什么de belles assiettes与des assiettes rouges的冠词不同。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA119",
+      "number": 27,
+      "title": "写旅行邮件，说到达与离开",
+      "source_title": "Chère Léa…",
+      "minutes": 25,
+      "goal": "用 être 复合过去时讲行程，并区分 pour 与 dans。",
+      "prerequisites": [
+        "NA118"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0108.md",
+          "label": "物理页108；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0109.md",
+          "label": "物理页109；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0110.md",
+          "label": "物理页110；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0111.md",
+          "label": "物理页111；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "一部分常见不及物动词在复合过去时中用 être，如 aller、arriver、partir、rester。它们的过去分词通常与主语配合：Elle est arrivée、Ils sont partis。不能简单记成“所有移动动词都用 être”，因为 marcher 等用 avoir；个别动词在及物用法下也可能改用 avoir。本课先把常见行程动词与助动词一起记住。\n\n图句把到达这一事件与 hier 绑定，可以继续补何时离开、停留多久。pour 加时长常说预计持续多久，dans 加时长表示从现在起过多久再发生；二者的方向不同。叙述时先用时间线标到达点、停留段和将来的返回点，再选表达。若用 y 替代前面说过的目的地，复合过去时里它位于助动词前，如 J’y suis allé。 说话者是女性时可用书写的 e 提醒配合，即使朗读时听不出差异。",
+      "analogy": "旅行时间线有站点和路段：dans 指下一站还隔多远，pour 指准备走多长一段。",
+      "teaching_points": [
+        "être 助动词的过去分词注意主语性数配合。",
+        "dans trois jours 三天后；pour trois jours 预计三天之久。"
+      ],
+      "anchor": {
+        "fr": "Ma sœur est arrivée hier.",
+        "zh": "我姐姐昨天到了。",
+        "sound": "马，瑟儿，诶，阿里韦，耶儿。",
+        "movie": "我姐姐昨天到了，小马拉着她的行李进门；昨天那页日历还留在桌上，姐姐已经把外套挂好。",
+        "pronunciation": "sœur est 的 /ʁ/ 自然接到 /ɛ/；arrivée /aʁive/ 的 -ée 与 -é 读音相同，拼写配合仍要检查。",
+        "reuse_id": "T12:1"
+      },
+      "quiz": [
+        {
+          "prompt": "两个女性说“我们到了”，选哪句？",
+          "choices": [
+            "Nous avons arrivées.",
+            "Nous sommes arrivé.",
+            "Nous sommes arrivées."
+          ],
+          "answer": 2,
+          "reason": "arriver 用 être；女性复数主语对应 arrivées。"
+        },
+        {
+          "prompt": "“我三天后回来”应选？",
+          "choices": [
+            "Je rentre pour trois jours.",
+            "Je rentre dans trois jours.",
+            "Je rentre trois heures."
+          ],
+          "answer": 1,
+          "reason": "dans trois jours 定位三天后的返回；pour trois jours 表计划停留的长度。"
+        }
+      ],
+      "application": "写四句旅行近况：何时到达、和谁到达、准备停留多久、过多久回来；标出两个不同助动词。",
+      "self_check": [
+        "不看稿完成：用 être 复合过去时讲行程，并区分 pour 与 dans。",
+        "能用自己的内容造一句，体现：être 助动词的过去分词注意主语性数配合。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA120",
+      "number": 28,
+      "title": "介绍节日，也讲一次庆祝",
+      "source_title": "Les fêtes",
+      "minutes": 25,
+      "goal": "把节日的通常活动与一次已发生的庆祝分开表达。",
+      "prerequisites": [
+        "NA119"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0112.md",
+          "label": "物理页112；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0113.md",
+          "label": "物理页113；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0114.md",
+          "label": "物理页114；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0115.md",
+          "label": "物理页115；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "介绍节日有两个层次：一般在什么时候、大家通常做什么；某一次你在哪里、做了什么。前者常用现在时，后者用复合过去时。日期表达要分清具体某日、月份与年份，不能把所有时间前都放 à。节日名称是阅读入口，最先要弄清人物在邀请、回忆还是介绍习惯，再决定如何回答。\n\n图句邀请对方周六一起午餐，可作为节日活动前的邀请；讲某次已结束的庆祝时，再改用过去时叙述大家做过什么。阅读文化材料不要把某一人的安排概括成所有人的习惯。用一个熟悉的节日练习：两句说通常做什么，两句说自己某一次做了什么。这样既能复习过去时，也能检查自己的内容是否清楚区分“经常如此”和“这次如此”。",
+      "analogy": "节日介绍像相册封面和一张照片：封面讲惯例，照片讲某一次。",
+      "teaching_points": [
+        "一般习惯与一次经历使用不同的时间视角。",
+        "日期先核对具体日、月份、年份，再选 le/en 等形式。"
+      ],
+      "anchor": {
+        "fr": "On déjeune ensemble samedi ?",
+        "zh": "周六一起吃午饭吗？",
+        "sound": "昂，得热讷，昂桑布勒，桑姆迪？",
+        "movie": "我们把热午饭摆到桑树下，两张凳子挨在一起；我指着周六日历邀请朋友，那天一起吃午饭好吗。",
+        "reuse_id": "T04:2",
+        "pronunciation": "On /ɔ̃/ 是鼻元音；déjeune /deʒœn/ 的 /ʒ/ 有声带振动；ensemble /ɑ̃sɑ̃bl/ 中 /bl/ 不加额外音节；疑问语调配合邀请。"
+      },
+      "quiz": [
+        {
+          "prompt": "“通常我们和家人吃饭”更适合哪种时态？",
+          "choices": [
+            "现在时",
+            "必须用将来时",
+            "必须用复合过去时"
+          ],
+          "answer": 0,
+          "reason": "现在时可表达经常活动；某一次已完成的聚餐才常用复合过去时。"
+        },
+        {
+          "prompt": "“某次庆祝”最需要补什么信息？",
+          "choices": [
+            "只列所有节日名字",
+            "明确的时间、地点和活动",
+            "把所有动词删掉"
+          ],
+          "answer": 1,
+          "reason": "时间、地点和活动能把具体经历与一般文化介绍区分开。"
+        }
+      ],
+      "application": "选一个自己熟悉的节日：一句说明日期，两句现在时说惯常活动，两句复合过去时说一次真实或明确虚构的庆祝。最后用午餐邀请结构邀请朋友参加下一次活动；只复述邀请句不足以完成节日介绍。",
+      "self_check": [
+        "不看稿完成：把节日的通常活动与一次已发生的庆祝分开表达。",
+        "能用自己的内容造一句，体现：一般习惯与一次经历使用不同的时间视角。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "午餐图句只练邀请；另能说节日日期、两条通常活动、一次实际或明确虚构的过去庆祝，区分现在时与复合过去时。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R05",
+      "number": 29,
+      "title": "单元5复习：采购、饮食与过去的一天",
+      "source_title": "Unité 5 — Savoir-faire",
+      "minutes": 35,
+      "goal": "把购物清单、早餐习惯与过去经历分开说清。",
+      "prerequisites": [
+        "NA117",
+        "NA118",
+        "NA119",
+        "NA120"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0116.md",
+          "label": "物理页116：Unité 5 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "清单写“要买什么”，习惯说“平时吃什么”，经历讲“已经做过什么”，这三种信息需要不同语言选择。采购用食物冠词和明确分量；喜好或一般习惯常用类别表达；过去购物则要选择 avoir 或 être 作助动词。先看句子目的再检查形式，避免整篇邮件混成没有时间线的一串名词。\n\n原单元应用含留言购物清单、饮食习惯、购物经历和派对邮件，本课用原创的家庭晚餐场景覆盖这些任务。图句把苹果与一公斤的分量清楚连接，适合从清单进入真实采购问答；迁移到昨天的购物时可改为 J’ai acheté un kilo de pommes。一次检查食材数量，另一次检查过去时与否定，减少同一遍中顾此失彼。",
+      "analogy": "清单、习惯与经历像三个不同篮子：明天要买的、平时常有的、昨天已经用过的。",
+      "teaching_points": [
+        "复合过去时否定包围助动词，零数量否定常用 de。",
+        "avoir 与 être 按动词用法选择，不能全篇用同一个。"
+      ],
+      "anchor": {
+        "fr": "Je voudrais un kilo de pommes.",
+        "zh": "我要一公斤苹果。",
+        "sound": "热，乌德雷，un，鸡啰（kilo），德，蓬。",
+        "movie": "我向摊主礼貌要一公斤苹果，一只小鸡在秤边啰嗦；苹果蓬地跳进袋子，直到秤显示一公斤才停。",
+        "reuse_id": "T07:4",
+        "pronunciation": "voudrais /vudʁɛ/ 留意 /dʁ/；un kilo de pommes 的 de 连接单位与商品，pommes 末尾 s 不发音。"
+      },
+      "quiz": [
+        {
+          "prompt": "“昨天我没买牛奶”选哪句？",
+          "choices": [
+            "Je n’ai pas acheté de lait hier.",
+            "Je n’ai acheté pas du lait hier.",
+            "Je ne pas ai acheter lait hier."
+          ],
+          "answer": 0,
+          "reason": "ne…pas 围住 ai，acheté 是过去分词，零数量用 de lait。"
+        },
+        {
+          "prompt": "描述每周早餐习惯，最适合从哪句开始？",
+          "choices": [
+            "Hier, j’ai pris…",
+            "En général, je prends…",
+            "Demain, je prendrai…"
+          ],
+          "answer": 1,
+          "reason": "en général 加现在时引出一般习惯；hier 为一次过去，demain 为未来。"
+        }
+      ],
+      "application": "编一份三项采购清单，用两句说早餐习惯，再用四句讲一次虚构购物与晚餐，包含一条否定。",
+      "self_check": [
+        "不看稿完成：把购物清单、早餐习惯与过去经历分开说清。",
+        "能用自己的内容造一句，体现：复合过去时否定包围助动词，零数量否定常用 de。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA121",
+      "number": 30,
+      "title": "礼貌说明允许与禁止",
+      "source_title": "C’est interdit !",
+      "minutes": 25,
+      "goal": "用 pouvoir、禁止句和否定命令说明规则。",
+      "prerequisites": [
+        "NA120"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0118.md",
+          "label": "物理页118；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0119.md",
+          "label": "物理页119；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0120.md",
+          "label": "物理页120；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0121.md",
+          "label": "物理页121；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "规则可以从不同角度表达：On peut… 说明可以做什么，On ne peut pas… 说明不能做什么，Il est interdit de… 明确禁止一项行为。pouvoir 后接动词原形，不能把第二个动词也按主语再变一次。命令式的否定用 ne…pas 围住动词，例如 Ne parlez pas；礼貌程度还取决于语气和场景，不是加一个词就一定温和。\n\n图句让对方别拿自己的杯子，注意拿取动作与杯子的所有者。间接宾语代词 lui、leur 可替代某些 à 加人的对象，如 parler à Léa 变成 lui parler；它们不是所有介词短语都可替代。先说明一条具体规定，再给出可行做法，能让交流继续下去。练习应使用虚构教室或活动的规则，不把教材旧场景当成当前法规。",
+      "analogy": "规则像路口的灯：先说明能不能走，再告诉人下一步怎么做。",
+      "teaching_points": [
+        "pouvoir + 原形：vous pouvez entrer。",
+        "否定命令 ne…pas；lui 单人、leur 多人，均可指男女。"
+      ],
+      "anchor": {
+        "fr": "Ne prenez pas mon verre.",
+        "zh": "不要拿我的杯子。",
+        "sound": "讷，普勒内，帕，蒙，韦儿。",
+        "movie": "我赶紧伸手阻止：别拿我的杯子；帕子盖住杯口，小熊只好把爪子缩回，换去拿自己的那一只。",
+        "pronunciation": "Ne prenez pas /nə pʁəne pa/，-ez 读 /e/；mon verre /mɔ̃ vɛʁ/ 前者鼻化，后者 /ɛ/ 不鼻化。",
+        "reuse_id": "T11:8"
+      },
+      "quiz": [
+        {
+          "prompt": "“您可以进来”选哪句？",
+          "choices": [
+            "Vous pouvez entrez.",
+            "Vous pouvez entrer.",
+            "Vous peut entrer."
+          ],
+          "answer": 1,
+          "reason": "pouvez 与 vous 配对，后面 entrer 保持原形。"
+        },
+        {
+          "prompt": "把 Je parle à mes voisins 简化，选哪句？",
+          "choices": [
+            "Je lui parle.",
+            "Je les parle.",
+            "Je leur parle."
+          ],
+          "answer": 2,
+          "reason": "parler à 的多个人用 leur；lui 单人，les 是直接宾语形式。"
+        }
+      ],
+      "application": "给虚构阅览室写一条允许、一条禁止，再用否定命令提醒朋友；至少给出一个替代行动。",
+      "self_check": [
+        "不看稿完成：用 pouvoir、禁止句和否定命令说明规则。",
+        "能用自己的内容造一句，体现：pouvoir + 原形：vous pouvez entrer。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA122",
+      "number": 31,
+      "title": "读启事，说明能力与必要条件",
+      "source_title": "Petites annonces",
+      "minutes": 25,
+      "goal": "用 vouloir、savoir 和 il faut 判断工作条件。",
+      "prerequisites": [
+        "NA121"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0122.md",
+          "label": "物理页122；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0123.md",
+          "label": "物理页123；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0124.md",
+          "label": "物理页124；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0125.md",
+          "label": "物理页125；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "启事把需求写得很紧凑，先区分“想要”“会做”“必须做”。vouloir 表意愿，savoir 加动词原形表示会某种技能，pouvoir 更多说明条件或许可允许。Je sais nager 不等于今天可以下水；Je peux venir 不等于我很想来。读取应聘条件时，不能把愿望误当已经具备的能力。\n\nil faut 是无人称结构，主语 il 不指具体男子，不能为了“我们需要”改成 nous faut。后面可以接需要的物品，也可以接必须做的动作原形。图句示范“需要向药剂师咨询”，本课借它练必要动作的结构，不提供实际医疗建议。自编一则志愿者启事，分开写时间条件、技能和任务，再逐项判断自己虚构的应聘者是否满足。\n\n本课还首次集中练最近将来时：aller 的现在时加动词原形，表达打算或将要发生的事。Marie va travailler à Nantes 不是把 travailler 再变成 travaille；换成 nous 则是 Nous allons travailler。句子里有宾语或地点代词时，先确定代词属于哪个动作：Je vais lui écrire 中 lui 是 écrire à une personne 的对象，放在原形 écrire 前；Elle va y travailler 中 y 替代 travailler à cet endroit 的地点，同样放在原形前。不要写 Je lui vais écrire 或 Elle y va travailler 来表达这里的同一个结构；这里最近将来时中，代词属于原形动作；另一些带“到那里去做某事”的句子可能是实义的 aller，不能混为本课的等义改写。可以把句子先拆成 Je vais faire quelque chose 与 écrire à Léa，再合并确认动作关系。",
+      "analogy": "启事像三只抽屉：愿意做、会做、需要做，放对抽屉才不会看错条件。",
+      "teaching_points": [
+        "savoir + 原形表示技能；connaître 常接人或事物。",
+        "il faut + 名词/原形，faut 不随应聘者人数改变。",
+        "最近将来时aller+原形；原形所属的宾语或地点代词放在原形前：va y travailler / vais lui écrire。"
+      ],
+      "anchor": {
+        "fr": "Il faut demander conseil au pharmacien.",
+        "zh": "需要向药剂师咨询。",
+        "sound": "衣儿，福，德芒德，孔塞伊，哦，法儿马香。",
+        "movie": "我捧着药盒需要咨询药剂师，小福娃带路；到药房后把问题一条条问清，药剂师扶着小马眼镜听。",
+        "pronunciation": "Il faut /il fo/ 的 t 不读；conseil /kɔ̃sɛj/ 尾音是 /j/；pharmacien 的 ph 读 /f/，末尾鼻化。",
+        "reuse_id": "T11:7"
+      },
+      "quiz": [
+        {
+          "prompt": "“她会游泳”哪句明确表达技能？",
+          "choices": [
+            "Elle veut nager.",
+            "Elle sait nager.",
+            "Elle a nagé."
+          ],
+          "answer": 1,
+          "reason": "sait nager 表会游；veut nager 是想游，a nagé 是已经游过。"
+        },
+        {
+          "prompt": "“需要说法语”哪句正确？",
+          "choices": [
+            "Nous faut parler français.",
+            "Il faut parle français.",
+            "Il faut parler français."
+          ],
+          "answer": 2,
+          "reason": "无人称结构保持 il faut，后接原形 parler。"
+        },
+        {
+          "prompt": "已知她打算在这所学校学习，用 y 简化地点，哪句正确？",
+          "choices": [
+            "Elle va y étudier.",
+            "Elle y va étudier（按本课最近将来时）.",
+            "Elle va étudie y."
+          ],
+          "answer": 0,
+          "reason": "y 是 étudier à cette école 的地点补语，所以位于原形 étudier 前；aller负责变位，étudier保持原形。"
+        }
+      ],
+      "application": "为虚构志愿者写一条意愿、一条技能与一条时间条件，再说明下周打算做的事。用最近将来时写两句：一句用 y 回指工作或学习地点，一句用 lui 回指打算联系的人；每句先说清指代对象。",
+      "self_check": [
+        "不看稿完成：用 vouloir、savoir 和 il faut 判断工作条件。",
+        "能用自己的内容造一句，体现：savoir + 原形表示技能；connaître 常接人或事物。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能独立造aller+原形句，并把y或lui放在其所属原形前；不会把第二动词也变成现在时。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA123",
+      "number": 32,
+      "title": "讨论礼物，少重复名词",
+      "source_title": "Qu’est-ce qu’on lui offre ?",
+      "minutes": 25,
+      "goal": "区分直接与间接宾语代词，提出并回应礼物建议。",
+      "prerequisites": [
+        "NA122"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0126.md",
+          "label": "物理页126；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0127.md",
+          "label": "物理页127；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0128.md",
+          "label": "物理页128；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0129.md",
+          "label": "物理页129；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "选礼物时常重复两类对象：送出的东西与收到东西的人。直接宾语不经过 à 引导，可用 le、la、l’、les 替代；offrir à quelqu’un 的收礼人则可用 lui 或 leur。先还原完整动词结构，再选代词，比根据中文的“他、它”猜词更可靠。lui 在这种用法里可指男性或女性，不能只理解成“他”。\n\n图句请求把勺子带给某人，lui 属于 apporter 的对象，所以放在原形 apporter 前，而不是任意放在 pouvez 前。初学先练一个代词的句子，不急着把人和物同时替换。提议可以用 On peut offrir…，接受可说 Bonne idée，拒绝时补一个理由与替代品；这样代词服务于真实讨论，而不是孤立地换词。 替换前先写一次完整名词句，有助于看清动作究竟接哪一种对象。",
+      "analogy": "动词像快递单，物品写“寄什么”，收件人写“给谁”，两个栏位各用自己的代词。",
+      "teaching_points": [
+        "le/la/les 替代确定的直接宾语；lui/leur 替代适用的 à 加人。",
+        "双动词结构中，代词通常放在它所属的原形前。"
+      ],
+      "anchor": {
+        "fr": "Vous pouvez lui apporter une cuillère ?",
+        "zh": "您能给他/她拿一个勺子吗？",
+        "sound": "乌，普韦，吕伊，阿波儿忒，une，屈伊耶儿？",
+        "movie": "我指着朋友空空的甜点盘，礼貌请服务员给他拿勺子；一把小勺骑着托盘来到朋友面前，正好开吃。",
+        "pronunciation": "pouvez-vous /puve vu/ 保持 /v/ 声带振动；lui /lɥi/ 的滑音不同于 /wi/；cuillère /kɥijɛʁ/ 不按汉字硬读。",
+        "reuse_id": "T09:7"
+      },
+      "quiz": [
+        {
+          "prompt": "“我认识她”选哪句？",
+          "choices": [
+            "Je la connais.",
+            "Je lui connais.",
+            "Je leur connais."
+          ],
+          "answer": 0,
+          "reason": "connaître 直接接人，不用 à，因此女性单数用 la；元音前才省作 l’。"
+        },
+        {
+          "prompt": "“我给她一本书”，只替代她选哪句？",
+          "choices": [
+            "Je la donne un livre.",
+            "Je lui donne un livre.",
+            "Je les donne un livre."
+          ],
+          "answer": 1,
+          "reason": "donner un livre à elle 的收礼人用间接宾语 lui；书仍完整保留。"
+        }
+      ],
+      "application": "为同学挑礼物，提出两种建议、接受一种并拒绝另一种；用一条 COD 和一条 COI 代词句避免重复。",
+      "self_check": [
+        "不看稿完成：区分直接与间接宾语代词，提出并回应礼物建议。",
+        "能用自己的内容造一句，体现：le/la/les 替代确定的直接宾语；lui/leur 替代适用的 à 加人。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA124",
+      "number": 33,
+      "title": "用可执行的建议准备面试",
+      "source_title": "Le candidat idéal…",
+      "minutes": 25,
+      "goal": "读懂面试建议，用命令式安排准备步骤。",
+      "prerequisites": [
+        "NA123"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0130.md",
+          "label": "物理页130；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0131.md",
+          "label": "物理页131；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0132.md",
+          "label": "物理页132；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0133.md",
+          "label": "物理页133；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "建议的价值在于对方能照着做。面试准备可分成到场、问候、表达能力和提问四步；读指南时辨认哪些是动作指令，哪些是评价或条件。命令式通常省略主语，却仍有不同人称形式，正式地对一位应聘者说话也可用 vous 形式。否定建议不要只在句尾添 pas，必须看完整结构与代词位置。\n\n图句把两个指令连在一起：先进入，再坐下；asseyez-vous 的代词在肯定命令式里跟在动词后，用连字符连接。不能把这种位置直接套进陈述句 Vous vous asseyez。练习准备一份三步小指南，再模拟应聘者用 Je sais… 说明技能、Je peux… 说明可用时间。给出的能力应是设定或真实情况，不靠语法完整就夸大经历。",
+      "analogy": "面试指南像出门前的小便签，写“带钥匙”比写“表现优秀”更能照着做。",
+      "teaching_points": [
+        "肯定命令式 asseyez-vous 与陈述句 vous vous asseyez 词序不同。",
+        "能力、意愿、时间条件应分开说。"
+      ],
+      "anchor": {
+        "fr": "Entrez et asseyez-vous, s’il vous plaît.",
+        "zh": "请进，请坐。",
+        "sound": "昂特雷，诶，阿塞耶乌；西尔，乌，普莱。",
+        "movie": "我请客人进门再坐下，门边的小椅子自己滑出来；乌龟端着托盘等客人坐好，礼貌地迎接到家。",
+        "pronunciation": "Entrez /ɑ̃tʁe/ 的词首鼻化；asseyez-vous /aseje vu/ 留意 /j/ 滑音；s’il vous plaît 的 plaît 不读末 t。",
+        "reuse_id": "T14:1"
+      },
+      "quiz": [
+        {
+          "prompt": "哪一条建议最可执行？",
+          "choices": [
+            "Soyez parfait partout.",
+            "Préparez deux questions.",
+            "Ayez toujours de la chance."
+          ],
+          "answer": 1,
+          "reason": "准备两个问题是可观察的行动；完美和好运不能直接按步骤完成。"
+        },
+        {
+          "prompt": "“请坐”用正式肯定命令式选哪句？",
+          "choices": [
+            "Vous vous asseyez, s’il vous plaît.",
+            "Vous asseyez-vous, s’il vous plaît.",
+            "Asseyez-vous, s’il vous plaît."
+          ],
+          "answer": 2,
+          "reason": "asseyez-vous 是命令式，省略主语，代词后置；另外两项分别是陈述与疑问语序。"
+        }
+      ],
+      "application": "为虚构面试写三条肯定建议与一条否定建议；再用两句说一个技能和可以工作的时间。",
+      "self_check": [
+        "不看稿完成：读懂面试建议，用命令式安排准备步骤。",
+        "能用自己的内容造一句，体现：肯定命令式 asseyez-vous 与陈述句 vous vous asseyez 词序不同。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R06",
+      "number": 34,
+      "title": "单元6复习：规则、礼物与阶段检查2",
+      "source_title": "Unité 6 — Savoir-faire ; Évaluation 2",
+      "minutes": 50,
+      "goal": "协商活动规则与分工，完成第二次听说读写检查。",
+      "prerequisites": [
+        "NA121",
+        "NA122",
+        "NA123",
+        "NA124"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0134.md",
+          "label": "物理页134：Unité 6 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0135.md",
+          "label": "物理页135：Évaluation 2；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0136.md",
+          "label": "物理页136：Évaluation 2；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "协商派对先说能否提供场地，再分配采购、联系朋友和选礼物的任务。vouloir、pouvoir、savoir、il faut 分别关联意愿、条件、技能和必要动作，不要用一个“会”全部替换。代词的选择回到原结构：répondre à quelqu’un 可用 lui 或 leur，acheter quelque chose 的东西可用 le、la、les；先明确是人还是物仍不够，还要看介词。\n\n本课映射单元6规则、生日回复、保姆面试与学习指南，并明确纳入评估2：听日程和时刻、问五类信息、市场采购、读旅行经历、写过去假期和拒绝邀请。原音频与原答案未在这里复原，可用自编日程另测。图句中 lui 属于 répondre，所以跟在 vais 后、répondre 前。先独立输出再检查，记录能否理解和回应，不把完成这些任务直接当成证书或分数预测。\n\n原创旅行阅读邮件（四句，非原书复原）：Salut Emma ! Samedi, je suis allé à Lille avec mon frère. Nous sommes restés deux nuits chez notre tante. Dimanche, nous avons visité un musée et acheté des livres. Lundi matin, nous sommes rentrés en train. 先标出目的地城市、同行者、住宿地点、时长与回程方式，再回答本课新增两题；这些答案只属于这封原创邮件。\n\n原创邀请输入：Salut ! Pour l’anniversaire de Julie, je prépare un dîner samedi 14 novembre à 19 heures, chez moi, 9 rue des Pins. Est-ce que tu peux venir et apporter une boisson ? — Marc。你的练习日程已经设定为当天19 h–21 h工作，不能按时到场。写回复时要感谢邀请、明确不能参加这个时段、给出工作理由，并提出周日另见或其他可行安排；不能只写 Non，也不需要编造真实私人经历。",
+      "analogy": "分工像把家务卡交给不同的人，代词像卡上的收件标签，不能因为都是“他”就贴错。",
+      "teaching_points": [
+        "Je vais lui répondre：代词位于所属原形前。",
+        "阶段检查覆盖时间理解、采购、读写经历和拒绝，不只复习单一语法。"
+      ],
+      "anchor": {
+        "fr": "Je vais lui répondre.",
+        "zh": "我打算回复他/她。",
+        "sound": "热，韦，吕伊，雷蓬德儿。",
+        "movie": "我打算回复他，绿信纸摊开在面前；铅笔举着小手准备写，回复还在筹备，马上就要开始。",
+        "pronunciation": "vais /vɛ/ 在 lui 前不读 s；lui /lɥi/ 区分于 oui /wi/；répondre /ʁepɔ̃dʁ/ 鼻化后接 /dʁ/。",
+        "reuse_id": "T20:4"
+      },
+      "quiz": [
+        {
+          "prompt": "“我打算回复她”选哪句？",
+          "choices": [
+            "Je lui vais répondre.",
+            "Je vais lui répondre.",
+            "Je vais la répondre."
+          ],
+          "answer": 1,
+          "reason": "lui 是 répondre à 的间接对象，放在所属原形 répondre 前。"
+        },
+        {
+          "prompt": "假期邮件阅读中“Nous sommes rentrés dimanche”，最先记录什么？",
+          "choices": [
+            "作者平时都不旅行",
+            "下周日还未返程",
+            "返回发生在星期日"
+          ],
+          "answer": 2,
+          "reason": "sommes rentrés 表已发生的返回；不提供日常习惯，也不指尚未发生的未来。"
+        },
+        {
+          "prompt": "根据原创旅行邮件，作者和谁去了Lille，住在哪里？",
+          "choices": [
+            "和哥哥/弟弟一起，住在姨妈/姑妈家。",
+            "独自旅行，住酒店。",
+            "和Emma一起，住博物馆。"
+          ],
+          "answer": 0,
+          "reason": "avec mon frère 说明同行者，chez notre tante 说明亲属家住宿；Emma 是收信人，不是被说明同行的人。"
+        },
+        {
+          "prompt": "根据原创旅行邮件，回程安排是什么？",
+          "choices": [
+            "星期日坐飞机回来。",
+            "星期一早上坐火车回来。",
+            "星期六早上步行回来。"
+          ],
+          "answer": 1,
+          "reason": "最后一句 Lundi matin…en train 明确回程时点与方式；不能把周日参观活动当回程。"
+        }
+      ],
+      "application": "读原创四句旅行邮件后完成两题，并用一句法语复述住宿时长。根据Marc的邀请与19–21点工作设定，写35–50词礼貌拒绝，必须感谢、明确拒绝该时段、说明理由并给替代安排。另写三条活动规则，问五种个人信息并模拟采购。原日程与时刻听力无原音频时记录未测，不用阅读题数代替听力结果。",
+      "self_check": [
+        "不看稿完成：协商活动规则与分工，完成第二次听说读写检查。",
+        "能用自己的内容造一句，体现：Je vais lui répondre：代词位于所属原形前。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "旅行邮件能准确提取同行者、亲属家住宿、两晚和回程；拒绝信的理由与工作日程一致，并给对方可回应的建议。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA125",
+      "number": 35,
+      "title": "用频率和数量回答生活调查",
+      "source_title": "Enquête",
+      "minutes": 25,
+      "goal": "区分多少与多常，给出带证据的生活习惯回答。",
+      "prerequisites": [
+        "NA124"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0138.md",
+          "label": "物理页138；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0139.md",
+          "label": "物理页139；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0140.md",
+          "label": "物理页140；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0141.md",
+          "label": "物理页141；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "调查问题可能问“做多少”，也可能问“多久一次”。beaucoup 可修饰动作，如 Je lis beaucoup；后接名词时通常需要 de，如 beaucoup de livres。un peu de 多接不可数名词，表示有一点；peu de 往往强调数量少、可能不足，两者语气不完全相同。不能见中文“一点”就忽略上下文，把少量与几乎没有混成一个意思。\n\n频率可用 tous les jours、une fois par semaine、deux fois par mois 说得明确。图句给出每月两次这一频率，既可换活动，也可换时间单位，但要确认说的是次数而不是持续两个月。先用自己的记录回答三道调查问题，再把答案改写成第三人称画像。问卷里没有依据的信息留空或说明不知道，不凭“通常大家如此”替别人补答案。\n\n调查还要分清“那项活动”“对它的评价”和“现在不再做”。先还原 faire du vélo，再用 en 替代 du vélo：Tu fais du vélo ? — Oui, j’en fais le samedi. 这里 en 回指 de 引出的活动，不代表某个地点。评价这项活动可说 J’aime ça，ça 把活动整体当作喜欢的对象；不能写 J’aime en。否定变化用 ne…plus：Avant, je faisais du vélo ; maintenant, je n’en fais plus. ne 放在 en 前，plus 在变位动词后。“不再做”含有以前做过的对照，不等同于 jamais 的“从不”。另一个原创对比是 Je fais de la natation. J’en fais deux fois par semaine. J’aime ça, mais je n’en fais plus en hiver：同一活动可以被不同句式从活动、评价和变化三个角度表达。",
+      "analogy": "频率像日历上的小点，数量像盒子里的物品：点出现几次与盒里有几个要分开数。",
+      "teaching_points": [
+        "beaucoup de + 名词；beaucoup 修饰动作时不加 de。",
+        "deux fois par mois 频率；pendant deux mois 时长。",
+        "en 回指 faire de + 活动；aimer ça 评价活动整体；ne…plus 表从以前到现在的停止。"
+      ],
+      "anchor": {
+        "fr": "Nous jouons aux cartes deux fois par mois.",
+        "zh": "我们每月玩两次牌。",
+        "sound": "努，抓翁，哦，卡特，德，弗哇，帕儿，莫哇。",
+        "movie": "我们每月抓两次扑克牌来玩，小卡车帮忙搬牌；月历上两个固定日子都放一副牌，提醒每月两次的习惯。",
+        "pronunciation": "jouons /ʒuɔ̃/ 的 /ʒ/ 有声带振动；aux cartes /o kaʁt/；fois /fwa/ 的 s 在 par 前不读。",
+        "reuse_id": "T12:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“很多朋友”选哪项？",
+          "choices": [
+            "beaucoup des amis（泛指）",
+            "beaucoup amis",
+            "beaucoup d’amis"
+          ],
+          "answer": 2,
+          "reason": "泛指数量结构 beaucoup de，amis 元音开头省为 d’amis。"
+        },
+        {
+          "prompt": "“每周三次”是？",
+          "choices": [
+            "trois fois par semaine",
+            "pendant trois semaines",
+            "dans trois semaines"
+          ],
+          "answer": 0,
+          "reason": "fois 表次数，par semaine 表每周；pendant 是持续，dans 是过多久。"
+        },
+        {
+          "prompt": "对方问 Tu fais de la natation ?，要说“我每周游两次”，哪句正确？",
+          "choices": [
+            "J’aime en deux fois par semaine.",
+            "J’en fais deux fois par semaine.",
+            "J’y fais deux fois par semaine."
+          ],
+          "answer": 1,
+          "reason": "faire de la natation 的 de 补语可用 en 回指，仍保留动词 fais 与频率；aimer 不构成 aime en，y 也不替代这项 de 活动。"
+        },
+        {
+          "prompt": "以前打网球，现在停止了；仍然喜欢这项运动。哪组最清楚？",
+          "choices": [
+            "J’aime ça, mais je n’en fais plus.",
+            "Je n’en fais jamais, donc j’ai commencé hier.",
+            "J’aime en, mais je ne fais ça plus."
+          ],
+          "answer": 0,
+          "reason": "J’aime ça 表喜欢这项活动，je n’en fais plus 表现在不再做；jamais 是从不，第三项代词搭配和否定位置均不正确。"
+        }
+      ],
+      "application": "请用完整句回答这份原创小调查：1 Tu fais de la natation ? À quelle fréquence ? 2 Tu aimes ça ? Pourquoi ? 3 Quelle activité faisais-tu avant, mais ne fais-tu plus maintenant ? 明确选一种活动，用 en 回答频率、ça 评价、ne…plus 对比以前与现在；可以清楚声明全部为练习设定。",
+      "self_check": [
+        "不看稿完成：区分多少与多常，给出带证据的生活习惯回答。",
+        "能用自己的内容造一句，体现：beaucoup de + 名词；beaucoup 修饰动作时不加 de。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "不用查看示例，能分别说出 en 的活动回指、ça 的评价对象和 ne…plus 的停止含义；三句话指向同一项明确活动。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA126",
+      "number": 36,
+      "title": "解释搬家的理由，表达过多或足够",
+      "source_title": "Quitter Paris",
+      "minutes": 25,
+      "goal": "用 parce que、trop 与 assez 解释一个选择。",
+      "prerequisites": [
+        "NA125"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0142.md",
+          "label": "物理页142；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0143.md",
+          "label": "物理页143；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0144.md",
+          "label": "物理页144；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0145.md",
+          "label": "物理页145；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "解释选择先给结论，再说与结论相关的理由。pourquoi 提问原因，parce que 引出原因句；后面必须能接出一个完整说明，不能只摆一个没有关系的形容词。trop 表超过合适程度，assez 表达到需要的程度；trop bruyant 是太吵，assez calme 是足够安静。它们后接名词时常加 de，如 trop de bruit。\n\n图句用一间住宅中“最安静的房间”提供选择的依据；谈搬家时还要自己说出是否适合生活，别让评价代替理由。tout、toute、tous、toutes 作名词的限定成分时注意性数，如 toutes les chambres。用两个可见条件比较虚构住宅，先分别说优缺点，再用 parce que 解释最终选择。观点可以不同，但理由应与前面的信息一致。 不要把“我不喜欢”当成可观察事实；主观感受和客观条件要分清。",
+      "analogy": "trop 像杯子已经溢出来，assez 像水刚好达到需要的刻度。",
+      "teaching_points": [
+        "trop/assez + 形容词；trop/assez de + 名词。",
+        "tout 的形式跟所限定名词性数配合。"
+      ],
+      "anchor": {
+        "fr": "Cette pièce est la plus calme de la maison.",
+        "zh": "这个房间是家里最安静的。",
+        "sound": "塞特，皮耶丝，诶，拉，噗吕，卡勒姆，德拉，梅宗。",
+        "movie": "这个房间里连小卡车都轻轻滚，家中其他房间还在叮当响；我放下梅子枕头，这里是全家最安静的一间。",
+        "pronunciation": "pièce /pjɛs/ 的 i 滑向 è；la plus calme 中 plus 在辅音前通常不读 s；maison /mɛzɔ̃/ 词尾鼻化。",
+        "reuse_id": "T14:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“太多车辆”选哪项？",
+          "choices": [
+            "trop de voitures",
+            "trop voitures",
+            "trop des voitures（泛指）"
+          ],
+          "answer": 0,
+          "reason": "trop 后接泛指名词数量时用 de，不保留 des。"
+        },
+        {
+          "prompt": "“我搬家，因为房子太小”用哪个连接词？",
+          "choices": [
+            "pourquoi",
+            "parce que",
+            "combien"
+          ],
+          "answer": 1,
+          "reason": "parce que 引出理由；pourquoi 是原因疑问词，combien 问数量。"
+        }
+      ],
+      "application": "比较两套虚构住宅，分别说一个优点与不足，再用 parce que、trop 或 assez 解释选择。",
+      "self_check": [
+        "不看稿完成：用 parce que、trop 与 assez 解释一个选择。",
+        "能用自己的内容造一句，体现：trop/assez + 形容词；trop/assez de + 名词。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA127",
+      "number": 37,
+      "title": "给假期建议，也讲已经做过的事",
+      "source_title": "Vivement les vacances !",
+      "minutes": 25,
+      "goal": "在命令式与过去时中正确使用代词式动词。",
+      "prerequisites": [
+        "NA126"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0146.md",
+          "label": "物理页146；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0147.md",
+          "label": "物理页147；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0148.md",
+          "label": "物理页148；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0149.md",
+          "label": "物理页149；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "代词式动词在不同句式里会移动小代词。陈述句中代词在动词前，肯定命令式里移到动词后，例如 Repose-toi；否定命令式恢复前置，如 Ne te couche pas tard。这里不是随机换位置，而是整种句式改变。先说清对象是熟人还是礼貌称呼的人，再选择 toi 或 vous，别把人称混在同一句。\n\n代词式动词的复合过去时用 être，但过去分词是否配合还要看代词的功能。Elle s’est lavée 与 Elle s’est lavé les mains 不同：后一句直接宾语是 les mains，位于动词后，lavé 不随 elle 加 e。图句专门提醒这一边界。先练几个日常动作的简单形式，遇到带身体部位等结构再核对，避免把“用 être 就一定按主语配合”当成无例外公式。 写完后再核对肯定与否定两种代词位置。\n\n假期建议也可对已知物品用直接宾语代词，不仅有代词式动词。肯定命令把 le/la/les 放到动词后，用连字符连接：这本书已提过，Prends-le；这两张票已提过，Garde-les。否定命令把代词放回动词前，ne 放在代词前：Ne le prends pas、Ne les oublie pas。遇到元音动词时 la/le 可省成 l’，如 Ne l’ouvre pas。对比 Repose-toi / Ne te repose pas：这里 toi/te 与同一动作主语呼应，属于代词式动词；Prends-le 中 le 则指另一件已知物品。肯定命令的 moi/toi 形式也不能机械放进否定句，不能说 Ne repose-toi pas。先还原建议针对的人或物，再判断代词是指物宾语还是随主语变化的代词。",
+      "analogy": "小代词像随行背包：平时在前面，肯定命令时转到后面，否定命令又转回来。",
+      "teaching_points": [
+        "Repose-toi / Ne te repose pas：注意代词位置与形式。",
+        "se laver les mains 的 mains 是后置直接宾语，lavé 不加 e。",
+        "普通COD命令：Prends-le / Ne le prends pas；代词式命令：Repose-toi / Ne te repose pas。"
+      ],
+      "anchor": {
+        "fr": "Elle s’est lavé les mains.",
+        "zh": "她洗了手。",
+        "sound": "诶儿，塞，拉韦，勒，曼。",
+        "movie": "她洗了手，水哗啦冲过掌心；洗完的手像两只亮亮的小贝壳，甩出的水珠还在空中跳舞。",
+        "pronunciation": "s’est /sɛ/ 不分开读字母；lavé /lave/ 的 é 发音清楚；les mains 有鼻元音，词尾 s 不读。",
+        "reuse_id": "T12:3"
+      },
+      "quiz": [
+        {
+          "prompt": "对熟人说“休息一下”选哪句？",
+          "choices": [
+            "Te repose.",
+            "Repose-toi.",
+            "Reposes-toi."
+          ],
+          "answer": 1,
+          "reason": "规则 -er 动词 tu 命令式 repose 去 s，肯定形式代词后置为 toi。"
+        },
+        {
+          "prompt": "“她洗了手”哪句正确？",
+          "choices": [
+            "Elle s’est lavées les mains.",
+            "Elle s’est lavée les mains.",
+            "Elle s’est lavé les mains."
+          ],
+          "answer": 2,
+          "reason": "les mains 是后置直接宾语，se 为间接对象，因此 lavé 不按 elle 配合。"
+        },
+        {
+          "prompt": "les billets 已知，提醒朋友“留好它们，别忘了它们”，选哪句？",
+          "choices": [
+            "Les garde et ne oublie-les pas.",
+            "Garde-toi et ne te oublie pas.",
+            "Garde-les et ne les oublie pas."
+          ],
+          "answer": 2,
+          "reason": "肯定命令 COD 后置并加连字符，否定命令 COD 前置，ne 在代词前；toi/te 会把动作对象改成自己。"
+        }
+      ],
+      "application": "给即将旅行的朋友四条建议：针对自己休息用一肯定一否定的代词式命令；针对已说过的书或车票，再用一肯定一否定的COD命令。最后用两句过去时说昨天的起床与洗手活动，保留分词配合区别。",
+      "self_check": [
+        "不看稿完成：在命令式与过去时中正确使用代词式动词。",
+        "能用自己的内容造一句，体现：Repose-toi / Ne te repose pas：注意代词位置与形式。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能用同一件物品组成Garde-le/Ne le perds pas，并把它与Repose-toi/Ne te couche pas tard中的代词功能分开说明。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA128",
+      "number": 38,
+      "title": "读假期调查，区分数据与个人偏好",
+      "source_title": "Les Français en vacances",
+      "minutes": 25,
+      "goal": "读懂调查维度、比例和个人回答之间的区别。",
+      "prerequisites": [
+        "NA127"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0150.md",
+          "label": "物理页150；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0151.md",
+          "label": "物理页151；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0152.md",
+          "label": "物理页152；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0153.md",
+          "label": "物理页153；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "假期调查把同一群人的回答按不同问题分类，例如去哪里、和谁去、住在哪里。先看问题与选项，再读比例；不同问题下的百分数不能随意加总，样本、年份和是否多选也会影响解释。教材所列调查属于当时的阅读材料，不能把其中的数字说成今天所有法国人的习惯，也不能据此推断每个人都喜欢同一处地方。\n\n图句问八月是否有营位，适合把住宿、月份和可用条件放进实际对话。阅读之后再说自己的选择，可用 Je préfère… parce que…，但个人偏好与调查结果是两层信息。先自编一个十人小调查，用人数说清三种选择，再用第三人称概括一位同伴；只概括他明确回答的内容，别替他添加预算或态度。",
+      "analogy": "调查像一篮分好类的水果，标签写哪类，就只数这一类，不能把不同篮子的数字乱加。",
+      "teaching_points": [
+        "pourcentage 说明比例，先看对应的问题与人群。",
+        "个人偏好可用 préférer 与理由表达，不等于群体结论。"
+      ],
+      "anchor": {
+        "fr": "Avez-vous un emplacement en août ?",
+        "zh": "八月有营位吗？",
+        "sound": "Avez-vous un emplacement en août：啊，乌龟芒果，八月想扎帐篷。",
+        "movie": "我推着帐篷问营地管理员，八月有没有空营位；一颗芒果躺在待搭的帐篷里，小乌龟也等着入住。",
+        "pronunciation": "emplacement /ɑ̃plasmɑ̃/ 首尾均鼻化；en août 注意连贯衔接，août 可读 /u/ 或 /ut/；钩子只助记。",
+        "reuse_id": "T05:3"
+      },
+      "quiz": [
+        {
+          "prompt": "一份旧调查有 40% 选择海边，可以直接说什么？",
+          "choices": [
+            "所有人都只去海边",
+            "现在一定仍是40%",
+            "这份调查里40%选择海边"
+          ],
+          "answer": 2,
+          "reason": "结论应保留调查范围；不能扩大为所有人或自动更新到现在。"
+        },
+        {
+          "prompt": "询问八月营位，最相关的信息是？",
+          "choices": [
+            "日期、人数、是否有空位",
+            "自己所有亲友的职业",
+            "上个月餐厅的菜单"
+          ],
+          "answer": 0,
+          "reason": "营位预订需确认日期与容纳条件，另外两组不能支持该任务。"
+        }
+      ],
+      "application": "设计十人假期调查的三项结果，清楚说明是假设数据；再说自己与其中一个结果相同或不同的偏好。",
+      "self_check": [
+        "不看稿完成：读懂调查维度、比例和个人回答之间的区别。",
+        "能用自己的内容造一句，体现：pourcentage 说明比例，先看对应的问题与人群。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R07",
+      "number": 39,
+      "title": "单元7复习：调查偏好，说明住宿问题",
+      "source_title": "Unité 7 — Savoir-faire",
+      "minutes": 35,
+      "goal": "整理假期调查，并用具体问题请求更换住宿。",
+      "prerequisites": [
+        "NA125",
+        "NA126",
+        "NA127",
+        "NA128"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0154.md",
+          "label": "物理页154：Unité 7 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "假期调查要把回答放进正确栏目：时间、目的地、同行者、交通和住宿分别记录。读结果时先复述对方确实说过的信息，再归纳偏好，不把少说一句理解成明确不喜欢。说明住宿问题时，trop、pas assez、parce que 能把评价变成可讨论的理由：不是只说“不好”，而是指出太吵、太小或不够方便。\n\n原单元应用包括电话调查、住宿投诉和假期邮件回复，本课用明确虚构的旅店安排练习。图句比较哪间房最安静，适合提出一个与问题对应的替代方案。对话先报预订情况，再说明两个可观察问题，最后提出请求；不同意见可以礼貌表达，不需要提高语气才能让结构完整。写邮件时补上正在做和已经做过的事，让现在时与过去时各有清楚位置。",
+      "analogy": "投诉像修漏水，先指出哪根管子在漏，再说希望换哪根，不能只喊房子不好。",
+      "teaching_points": [
+        "投诉给具体依据，并提出与问题相关的替代条件。",
+        "调查只记录已获信息，不把未知写成否定。"
+      ],
+      "anchor": {
+        "fr": "Cette pièce est la plus calme de la maison.",
+        "zh": "这个房间是家里最安静的。",
+        "sound": "塞特，皮耶丝，诶，拉，噗吕，卡勒姆，德拉，梅宗。",
+        "movie": "这个房间里连小卡车都轻轻滚，家中其他房间还在叮当响；我放下梅子枕头，这里是全家最安静的一间。",
+        "pronunciation": "pièce /pjɛs/ 留意滑音；plus calme 的 plus 通常不读 s；maison /mɛzɔ̃/ 中 s 读 /z/。",
+        "reuse_id": "T14:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“房间不够安静”选哪句？",
+          "choices": [
+            "La chambre est trop calme.",
+            "La chambre n’est pas assez calme.",
+            "La chambre est toujours calme."
+          ],
+          "answer": 1,
+          "reason": "pas assez calme 表未达到需要的安静程度；trop calme 是过于安静，意思相反。"
+        },
+        {
+          "prompt": "对方没提交通方式，调查表应怎样填？",
+          "choices": [
+            "自动填火车",
+            "填“从不旅行”",
+            "留作未知并追问"
+          ],
+          "answer": 2,
+          "reason": "未提供不等于某个默认答案，需留空或补问以保持信息准确。"
+        }
+      ],
+      "application": "自编六栏假期调查并回答；接着为虚构旅馆提出两项具体问题与一项更换请求，最后写三句近况。",
+      "self_check": [
+        "不看稿完成：整理假期调查，并用具体问题请求更换住宿。",
+        "能用自己的内容造一句，体现：投诉给具体依据，并提出与问题相关的替代条件。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA129",
+      "number": 40,
+      "title": "说过去的习惯，也说刚刚发生的事",
+      "source_title": "Enfant de la ville",
+      "minutes": 25,
+      "goal": "区分未完成过去时与 venir de 表达的刚刚。",
+      "prerequisites": [
+        "NA128"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0156.md",
+          "label": "物理页156；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0157.md",
+          "label": "物理页157；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0158.md",
+          "label": "物理页158；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0159.md",
+          "label": "物理页159；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "回忆童年经常做什么，可以把动作放在一段过去的背景中，用未完成过去时。常见构成取现在时 nous 形式去掉 -ons，再加 -ais、-ais、-ait、-ions、-iez、-aient；être 的词干是 ét-，需要单独记。j’étais、je lisais 描述当时状态或习惯，不能只凭句中出现“昨天”就决定所有动词都用同一个过去时。\n\nvenir de 加动词原形表示刚刚做过某事：Je viens de rentrer。动词 venir 要随主语变化，后面的原形不变；de 也不能删掉。图句专练小时候晚上读书这一习惯，再与“今天刚读完”对比。先画过去的一段生活，再标一个刚发生的小点，让时间视角帮助选句式；先理解叙述作用，比一次背全变位更容易迁移。 用自己的经历再造一句，确保不是只会复述图句中的童年活动。",
+      "analogy": "未完成过去时像一张旧生活背景画，venir de 像刚刚在画边点亮的一盏灯。",
+      "teaching_points": [
+        "未完成过去时常描述过去状态与反复习惯。",
+        "venir de + 原形表示刚刚；être 未完成词干为 ét-。"
+      ],
+      "anchor": {
+        "fr": "Quand j’étais enfant, je lisais le soir.",
+        "zh": "我小时候晚上常读书。",
+        "sound": "康，热忒，昂凡；热，利泽，勒，苏哇儿。",
+        "movie": "小时候的我躺在小床上，晚上常把书立在膝头读；窗外月亮每晚探头，陪着小小的我翻页。",
+        "pronunciation": "Quand j’étais 中 quand 的 d 不因后面 j 发音；lisais /lizɛ/ 中 s 在两元音间为 /z/；soir 的 oi 读 /wa/。",
+        "reuse_id": "T12:7"
+      },
+      "quiz": [
+        {
+          "prompt": "“我刚刚回家”选哪句？",
+          "choices": [
+            "Je viens rentrer.",
+            "Je viens de rentrer.",
+            "Je venais toujours rentrer."
+          ],
+          "answer": 1,
+          "reason": "现在时 viens 加 de 加原形 rentrer 表刚刚；缺 de 不构成这个结构。"
+        },
+        {
+          "prompt": "nous lisons 的未完成过去时 je 形式是？",
+          "choices": [
+            "je lisais",
+            "je lisons",
+            "j’ai lire"
+          ],
+          "answer": 0,
+          "reason": "从 lisons 去 -ons 得 lis-，加 je 的 -ais，构成 lisais。"
+        }
+      ],
+      "application": "用两句说童年习惯与状态，再用两句 venir de 说明确虚构的刚刚发生的活动。",
+      "self_check": [
+        "不看稿完成：区分未完成过去时与 venir de 表达的刚刚。",
+        "能用自己的内容造一句，体现：未完成过去时常描述过去状态与反复习惯。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA130",
+      "number": 41,
+      "title": "讲一件事，先铺背景再说转折",
+      "source_title": "Fait divers",
+      "minutes": 25,
+      "goal": "在同一故事里区分持续背景与发生的事件。",
+      "prerequisites": [
+        "NA129"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0160.md",
+          "label": "物理页160；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0161.md",
+          "label": "物理页161；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0162.md",
+          "label": "物理页162；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0163.md",
+          "label": "物理页163；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "叙述一件小事，常先说“当时正在怎样”，再说“发生了什么”。未完成过去时把听者放进背景，复合过去时推进事件：Je lisais quand il a téléphoné。不能简单理解成“长动作一种时态、短动作另一种”，因为说话者是否把动作看作完整事件也影响选择。先问自己在交代环境，还是在把故事往前推。\n\n图句里阅读已经在进行，电话随后进入场景；quand 把两条线接上。背景也可以是天气、地点和人物状态，不必每次都是正在做的动作。练习时用三句小故事：一条背景、一件事情、一条结果。把其中一句删除试读，观察听者是否仍知道事情发生的环境和顺序；不需要复杂事故或新闻事实，用日常小插曲也能练清楚。",
+      "analogy": "故事像舞台，未完成过去时摆好灯光和布景，复合过去时让演员做一个推动剧情的动作。",
+      "teaching_points": [
+        "背景可用未完成过去时；事件常用复合过去时。",
+        "quand 连接两种视角，不自动决定每个动词的时态。"
+      ],
+      "anchor": {
+        "fr": "Je lisais quand il a téléphoné.",
+        "zh": "他打电话来时我正在读书。",
+        "sound": "热，利泽，康，衣儿，啊，忒雷佛内。",
+        "movie": "我正立着书读得入迷，他的电话突然响起来；书页还夹在手指里，另一只手已经伸向电话。",
+        "pronunciation": "lisais /lizɛ/ 的 s 读 /z/；quand il 可联诵 /t/；téléphoné 的两个 é 读 /e/，末尾不是不发音的 e。",
+        "reuse_id": "T12:8"
+      },
+      "quiz": [
+        {
+          "prompt": "“当我读书时，他打来电话”，背景是哪部分？",
+          "choices": [
+            "il a téléphoné",
+            "je lisais",
+            "两个都是电话号码"
+          ],
+          "answer": 1,
+          "reason": "je lisais 是电话发生时正在展开的背景；a téléphoné 引入事件。"
+        },
+        {
+          "prompt": "只凭“动作持续很久”就必须用未完成过去时吗？",
+          "choices": [
+            "是，永远如此",
+            "所有长动作都不能说完成",
+            "不是，还要看叙述是否把它当成完整事件"
+          ],
+          "answer": 2,
+          "reason": "时态选择体现叙述视角；如停留一周仍可作为完整经历用复合过去时。"
+        }
+      ],
+      "application": "虚构下雨天的小插曲，写背景、事件、结果共三句；用 quand 或 parce que 连接其中两句。",
+      "self_check": [
+        "不看稿完成：在同一故事里区分持续背景与发生的事件。",
+        "能用自己的内容造一句，体现：背景可用未完成过去时；事件常用复合过去时。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA131",
+      "number": 42,
+      "title": "把人生事件放进时间线",
+      "source_title": "Ma première histoire d’amour",
+      "minutes": 25,
+      "goal": "用时间标记与 pour 表达顺序、时长和目的。",
+      "prerequisites": [
+        "NA130"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0164.md",
+          "label": "物理页164；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0165.md",
+          "label": "物理页165；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0166.md",
+          "label": "物理页166；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0167.md",
+          "label": "物理页167；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "人生故事容易把几种时间关系挤在一起。en 加年份或月份定位事件，de…à… 标出一个区间，pendant 加时长说明持续多久，plus tard 说相对于前一事件又过多久。il y a 加时长把事件定位在现在之前，不等于 depuis 表示从过去延续到现在。先写时间线，再给每个时间表达选择它服务的事件，避免让听者误以为工作或关系仍在持续。\n\npour 加动词原形可说明目的，例如 pour étudier；parce que 则引出原因，后面常是一个完整句。图句只说四天前回来了，可以继续补为什么回来、此前在哪里停留。谈个人经历可选旅行、学习或工作，不必公开私密关系。用两三个虚构年份和一个目的组织短故事，读完检查事件的先后是否明确，别把“为了”与“因为”交换使用。",
+      "analogy": "时间线像一条晾衣绳，年份是夹子，时长是两只夹子之间的一段距离。",
+      "teaching_points": [
+        "il y a 定位多久以前；depuis 强调延续。",
+        "pour + 原形表示目的；parce que + 原因句。"
+      ],
+      "anchor": {
+        "fr": "Je suis rentré il y a quatre jours.",
+        "zh": "我四天前回来了（说话者为男性）。",
+        "sound": "热，suis，朗特雷，衣里啊，卡特儿，入儿。",
+        "movie": "我这个男孩四天前已经回来，行李箱旁排着四只小卡车；四张日历从回来那天一路翻到今天。",
+        "pronunciation": "rentré /ʁɑ̃tʁe/ 含鼻元音和 tr 群；il y a /ilja/ 连读；jours /ʒuʁ/ 的 s 在末尾不读。",
+        "reuse_id": "T16:3"
+      },
+      "quiz": [
+        {
+          "prompt": "“三年前搬家了”选哪句？",
+          "choices": [
+            "J’ai déménagé depuis trois ans.",
+            "J’ai déménagé pendant trois ans.",
+            "J’ai déménagé il y a trois ans."
+          ],
+          "answer": 2,
+          "reason": "il y a trois ans 定位三年前的一次搬家；depuis 不适合这里已完成的单次动作。"
+        },
+        {
+          "prompt": "“来这里是为了学法语”选哪项？",
+          "choices": [
+            "pour apprendre le français",
+            "parce que apprendre le français",
+            "pour j’apprends le français"
+          ],
+          "answer": 0,
+          "reason": "pour 加原形表示目的；parce que 后需要完整原因句。"
+        }
+      ],
+      "application": "用三个时间标记叙述一段虚构学习经历，包含一次开始、一段持续时间和一个学习目的。",
+      "self_check": [
+        "不看稿完成：用时间标记与 pour 表达顺序、时长和目的。",
+        "能用自己的内容造一句，体现：il y a 定位多久以前；depuis 强调延续。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA132",
+      "number": 43,
+      "title": "读一件物品的历史，抓住变化节点",
+      "source_title": "La 2CV",
+      "minutes": 25,
+      "goal": "从历史叙述提取背景、事件与时间顺序。",
+      "prerequisites": [
+        "NA131"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0168.md",
+          "label": "物理页168；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0169.md",
+          "label": "物理页169；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0170.md",
+          "label": "物理页170；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0171.md",
+          "label": "物理页171；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "物品也可以成为故事的主角：何时出现、当时有什么特点、后来发生什么变化。阅读时先圈年份和时间连接词，再把每条信息分成背景状态或发生的事件。过去常有的用途、外形和习惯可用未完成过去时，某年推出、停止或改变可用复合过去时；选择依据是叙述作用，不是物品是否还存在。\n\n图句用“以前常坐公交车”示范过去的重复习惯；换成物品历史时，可以描述人们过去怎样使用它。文化符号只是进入语言的入口，不必一次背下所有制造年份和专名。选一件自己熟悉的旧物，明确哪些是真实记忆，哪些是练习设定，再写三条时间线。没有资料支撑的历史细节不要补成事实，词汇不够时用简单句保留关系即可。",
+      "analogy": "物品历史像一本成长相册，平时的模样是背景照，第一次登场和退出是特别照片。",
+      "teaching_points": [
+        "先根据年份排列事件，再补描述背景的句子。",
+        "同一物品可用两种过去时，不按“旧物”统一时态。"
+      ],
+      "anchor": {
+        "fr": "Avant, je prenais toujours le bus.",
+        "zh": "以前我总乘公交车。",
+        "sound": "阿旺，热，普勒内，图入儿，勒，bü丝。",
+        "movie": "以前我总拿好公交卡去坐车，娃娃司机天天同一站等我；旧日历翻了一页又一页，我一直坐公交。",
+        "pronunciation": "Avant /avɑ̃/ 末尾鼻化；prenais /pʁənɛ/ 的 -ais 读 /ɛ/；toujours 的末尾 s 通常不读。",
+        "reuse_id": "T13:1"
+      },
+      "quiz": [
+        {
+          "prompt": "介绍旧自行车，哪句更像背景？",
+          "choices": [
+            "Elle était rouge.",
+            "Je l’ai achetée samedi.",
+            "Elle est tombée hier."
+          ],
+          "answer": 0,
+          "reason": "était rouge 描述当时状态；购买、跌倒在给定语境里是推进叙述的事件。"
+        },
+        {
+          "prompt": "资料没有提供生产年份，应怎样做？",
+          "choices": [
+            "猜一个看起来合理的年份",
+            "省去或说明未知",
+            "把练习日期写成历史事实"
+          ],
+          "answer": 1,
+          "reason": "缺少证据的信息应保留未知，原创练习也不能伪装成物品真实历史。"
+        }
+      ],
+      "application": "选一件旧书包或自行车，用一句过去状态与两件发生过的事写小历史；无法确认的年份不写。",
+      "self_check": [
+        "不看稿完成：从历史叙述提取背景、事件与时间顺序。",
+        "能用自己的内容造一句，体现：先根据年份排列事件，再补描述背景的句子。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R08",
+      "number": 44,
+      "title": "单元8复习：讲回忆，保持背景与事件清楚",
+      "source_title": "Unité 8 — Savoir-faire",
+      "minutes": 35,
+      "goal": "组织家庭回忆、重逢对话和过去小故事。",
+      "prerequisites": [
+        "NA129",
+        "NA130",
+        "NA131",
+        "NA132"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0172.md",
+          "label": "物理页172：Unité 8 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "回忆需要同时回答“当时是什么样”和“后来发生什么”。先用未完成过去时给出环境、状态或习惯，再用复合过去时组织关键事件。时间标记帮助定位，但不能只看某个词就机械选时态；mariage、école、cinéma 等主题本身也不决定时态。把叙述分成开场、两件事和结束，听者才能在不认识所有词时仍跟上顺序。\n\n原单元应用涵盖家庭博客、老友重逢、广播事件复述和初次观影回忆。本课允许选择不涉及私密生活的一次聚会或旅行，也可明确虚构。图句把玩牌背景与她到达的事件连接，不要求把所有动作都画成瞬间。没有原广播音频时不编造其内容，另写一个小事件请同伴朗读再复述；核对人物、时间、事件，不只核对用了多少过去时。",
+      "analogy": "回忆像放一段老电影，背景一直在，镜头中的新动作把故事带到下一步。",
+      "teaching_points": [
+        "背景与事件配合叙述，不按动作长短机械判断。",
+        "复述先保人物、时间、关键动作，再补形容词。"
+      ],
+      "anchor": {
+        "fr": "Je jouais aux cartes quand elle est arrivée.",
+        "zh": "她到来时我正在打牌。",
+        "sound": "热，抓韦，哦，卡特，康，诶儿，诶，阿里韦。",
+        "movie": "我正抓着扑克牌准备出牌，她这时进门到达；手里的牌还悬在半空，我抬头向她打招呼。",
+        "pronunciation": "jouais /ʒwɛ/ 的 -ais 读 /ɛ/；aux /o/；quand elle 可有 /t/ 联诵；arrivée 的 -ée 读 /e/。",
+        "reuse_id": "T13:6"
+      },
+      "quiz": [
+        {
+          "prompt": "“我们玩牌时，她到了”，事件部分应是？",
+          "choices": [
+            "nous jouions aux cartes",
+            "elle est arrivée",
+            "aux cartes"
+          ],
+          "answer": 1,
+          "reason": "elle est arrivée 推进事件，jouions 描述当时持续背景；aux cartes 不是动词句。"
+        },
+        {
+          "prompt": "想完整复述小故事，哪组最重要？",
+          "choices": [
+            "只记衣服颜色",
+            "只列动词原形",
+            "人物、时间、关键事件与先后"
+          ],
+          "answer": 2,
+          "reason": "这些信息构成故事骨架；孤立颜色或原形列表无法建立完整叙述。"
+        }
+      ],
+      "application": "选择一次真实或明确虚构的聚会，写五句回忆：背景两句、事件两句、结束一句；再口头说给老友听。",
+      "self_check": [
+        "不看稿完成：组织家庭回忆、重逢对话和过去小故事。",
+        "能用自己的内容造一句，体现：背景与事件配合叙述，不按动作长短机械判断。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA133",
+      "number": 45,
+      "title": "说天气预报，开始使用简单将来时",
+      "source_title": "Beau fixe",
+      "minutes": 25,
+      "goal": "用简单将来时预测天气，并区分预测与事实。",
+      "prerequisites": [
+        "NA132"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0174.md",
+          "label": "物理页174；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0175.md",
+          "label": "物理页175；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0176.md",
+          "label": "物理页176；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0177.md",
+          "label": "物理页177；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "天气预报谈未来可能怎样，常用简单将来时。规则动词多以原形为基础加 -ai、-as、-a、-ons、-ez、-ont，-re 动词通常去掉末尾 e；常见不规则词干如 être 的 ser-、avoir 的 aur-、faire 的 fer- 要单独记。Il fera… 中 il 是天气结构里的无人称主语，不指某个男子。\n\n图句说明明天比今天暖，比较级 plus chaud 不要求把 chaud 变成副词。预测与已经观测到的天气要区分：今天怎样可用现在时，明天怎样用未来表达，并可加 peut-être 说明把握。先给两个虚构城市各做一条预报，再选出行活动并说理由。教材地图和旧预报用来练语言，不当成当前天气；实际出行仍需另查当时预报。 预报只表达练习设定；朗读时把 demain 的未来时间线索说清楚。",
+      "analogy": "将来时像把日历翻到还没打开的一页，在那一页写预测，而不是给今天贴标签。",
+      "teaching_points": [
+        "faire 简单将来词干 fer-：il fera。",
+        "现在观测与未来预测分开；peut-être 可降低确定性。"
+      ],
+      "anchor": {
+        "fr": "Demain, il fera plus chaud.",
+        "zh": "明天天气会更暖。",
+        "sound": "德曼，衣儿，弗拉，噗吕，绍。",
+        "movie": "明天的天气娃娃抱来更大的暖太阳，吹走一点寒气；我今天先把薄外套备好，等明天更暖的时候穿。",
+        "pronunciation": "Demain /dəmɛ̃/ 鼻化尾音；fera /fəʁa/ 与 faisait /fəzɛ/ 不同；chaud /ʃo/ 不读 d，plus chaud 通常不读 s。",
+        "reuse_id": "T18:4"
+      },
+      "quiz": [
+        {
+          "prompt": "“明天天气会冷”哪句对应简单将来时？",
+          "choices": [
+            "Demain, il faisait froid.",
+            "Demain, il fera froid.",
+            "Demain, il a fait froid."
+          ],
+          "answer": 1,
+          "reason": "fera 是 faire 简单将来时；faisait 描述过去背景，a fait 描述过去事件。"
+        },
+        {
+          "prompt": "être 的“我们将会”形式是？",
+          "choices": [
+            "nous êtrons",
+            "nous sommes",
+            "nous serons"
+          ],
+          "answer": 2,
+          "reason": "être 的将来词干是不规则 ser-，nous 加 -ons 得 serons。"
+        }
+      ],
+      "application": "为两个虚构城市做明日预报，至少一句用简单将来时；再说你会因此选择哪项户外活动。",
+      "self_check": [
+        "不看稿完成：用简单将来时预测天气，并区分预测与事实。",
+        "能用自己的内容造一句，体现：faire 简单将来词干 fer-：il fera。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA134",
+      "number": 46,
+      "title": "把未来计划安排得有先后",
+      "source_title": "Projets d’avenir",
+      "minutes": 25,
+      "goal": "结合最近将来时、简单将来时和时间词说明计划。",
+      "prerequisites": [
+        "NA133"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0178.md",
+          "label": "物理页178；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0179.md",
+          "label": "物理页179；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0180.md",
+          "label": "物理页180；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0181.md",
+          "label": "物理页181；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "未来不只有一种表达。现在时加明确未来时间可以说已安排的活动，aller 的现在时加原形常表达打算或将要做，简单将来时则适合预测、承诺和未来叙述。不能机械划成“很近只能 aller、很远只能简单将来”，距离并不是唯一标准。先确定想表达的是现有安排、个人意图还是对未来的判断。\n\n图句是打电话后承诺明早再打，可以继续安排先完成什么、之后再做什么。d’abord、ensuite、après 让步骤有序；dans une semaine 定位一周以后，pendant une semaine 则是一周之久。练习先写三个未来活动，再只保留最关键的两个并加上时间。电话里还要确认对方能否接听，计划不是把自己的意愿说出来就自动成立。\n\n本课是在第22课已学最近将来时之后比较几种未来表达，不是首次介绍 aller + 原形。复习时先从 Je vais lui écrire 还原打算联系谁，再与 Je lui écrirai demain 的简单将来时比较；两句都指未来，选择取决于如何呈现计划与预期，不能只按距离几天机械分配。",
+      "analogy": "计划像排队的三辆小车，先给每辆标时间，再说明谁先出发谁后出发。",
+      "teaching_points": [
+        "aller + 原形：je vais travailler；不要把原形再变位。",
+        "未来表达由说话目的与语境选择，不只看远近。"
+      ],
+      "anchor": {
+        "fr": "Je rappellerai demain matin.",
+        "zh": "我明天上午会再打来。",
+        "sound": "热，拉佩儿雷，德曼，马坦。",
+        "movie": "我把电话轻轻放下，约好明天上午再打来；日历明早那一格放着小马，提醒我到时重新拿起听筒。",
+        "pronunciation": "rappellerai /ʁapɛlʁe/ 是将来形式；demain /dəmɛ̃/、matin /matɛ̃/ 尾音鼻化；别把钩子当汉语声调。",
+        "reuse_id": "T17:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“我打算明天学习”选哪句？",
+          "choices": [
+            "Je vais étudie demain.",
+            "Je vais étudier demain.",
+            "Je va étudier demain."
+          ],
+          "answer": 1,
+          "reason": "je 对应 vais，后面 étudier 保持原形。"
+        },
+        {
+          "prompt": "想说“一周后”，选哪项？",
+          "choices": [
+            "pendant une semaine",
+            "pour une semaine",
+            "dans une semaine"
+          ],
+          "answer": 2,
+          "reason": "dans 表经过一段时间后；pendant 和 pour 更侧重持续或预计时长。"
+        }
+      ],
+      "application": "准备一段三句语音留言：先做的事、之后的事、何时再联系；用两种未来表达并说清时间。",
+      "self_check": [
+        "不看稿完成：结合最近将来时、简单将来时和时间词说明计划。",
+        "能用自己的内容造一句，体现：aller + 原形：je vais travailler；不要把原形再变位。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA135",
+      "number": 47,
+      "title": "谈改变，用如果连接条件与后果",
+      "source_title": "Envie de changement",
+      "minutes": 25,
+      "goal": "用 si 加现在时表达现实可行的条件。",
+      "prerequisites": [
+        "NA134"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0182.md",
+          "label": "物理页182；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0183.md",
+          "label": "物理页183；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0184.md",
+          "label": "物理页184；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0185.md",
+          "label": "物理页185；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "讨论装修或计划改变时，si 引出条件：如果条件成立，后面会怎样。本课练现实可行的条件，si 从句用现在时，主句可用现在时、将来时或命令式；不能因为整句谈未来就把 si 后也机械变成将来时。先用中文想清“要满足什么”和“满足后做什么”，再各写一个短分句，会比直接翻长句更稳。\n\n图句比较两间厨房的明亮程度，可作为提出改变的依据，但比较本身不是条件句。plus…que 表更……，moins…que 表不如……，aussi…que 表一样……。迁移时用自己新造的一条条件接上实际行动，例如天气好就出门；不需要为了练句型虚构真实购买决定。写完把条件与结果互换读，检查逻辑是否仍成立，语法正确也要说得通。\n\n在本课这种面向未来的计划里，si 与 quand 要分开处理。Si nous achetons ce logement, nous repeindrons le salon：购买尚是条件，si 后用现在时 achetons。Quand nous aurons les clés, nous repeindrons le salon：把拿到钥匙作为未来时间定位，quand 后可用简单将来时 aurons。这里 aurons 是 avoir 的简单将来时，不是“已经拥有”的复合形式。不能把 si 从句照搬成 si nous achèterons，也不能因为英语时间从句常用现在时就强制法语 quand 后只用现在时。先判断在说“如果成立”还是“到那个时候”，再选择结构；quand 的语法选择也不等于保证事件必然发生。",
+      "analogy": "条件句像门铃开关：先按下条件，后面的灯才会亮；两边都有各自的位置。",
+      "teaching_points": [
+        "现实条件 si + 现在时，后面结果可用简单将来时。",
+        "plus/moins/aussi + 形容词 + que 表比较。",
+        "未来计划：si + 现在时表达条件；quand + 简单将来时定位未来时点。"
+      ],
+      "anchor": {
+        "fr": "Votre cuisine est plus claire que la mienne.",
+        "zh": "您的厨房比我的明亮。",
+        "sound": "沃特儿，屈伊兹讷，诶，噗吕，克莱儿，克，拉，米耶讷。",
+        "movie": "您的厨房亮得像开了小太阳，我的厨房在对面暗一点；两只小锅互相照照，您的那边明显更明亮。",
+        "pronunciation": "cuisine /kɥizin/ 留意 /ɥ/ 与 /z/；claire /klɛʁ/ 的 cl 不加音节；la mienne /la mjɛn/ 不是鼻元音。",
+        "reuse_id": "T14:4"
+      },
+      "quiz": [
+        {
+          "prompt": "哪句符合本课现实条件结构？",
+          "choices": [
+            "Si tu viendras, nous dînerons ensemble.",
+            "Si tu viens, nous dînerons ensemble.",
+            "Si tu venir, nous dînerons ensemble."
+          ],
+          "answer": 1,
+          "reason": "si 从句这里用现在时 viens，结果可用将来时 dînerons。"
+        },
+        {
+          "prompt": "“比这间更明亮”关键结构是？",
+          "choices": [
+            "plus clair que cette pièce",
+            "plus clair de cette pièce",
+            "aussi plus clair cette pièce"
+          ],
+          "answer": 0,
+          "reason": "比较级是 plus + 形容词 + que；de 不连接这类比较对象。"
+        },
+        {
+          "prompt": "谈未来拿到钥匙后整理书房，哪组符合本课结构？",
+          "choices": [
+            "Si nous aurons les clés, nous rangerons le bureau.",
+            "Quand nous avons eu les clés demain, nous rangerons le bureau.",
+            "Quand nous aurons les clés, nous rangerons le bureau."
+          ],
+          "answer": 2,
+          "reason": "quand 定位未来时点，可接简单将来时 aurons；条件 si 后此处用现在时 avons，不能用 aurons；第二项过去形式与 demain 冲突。"
+        }
+      ],
+      "application": "为虚构住房写四句改变计划：一句用比较级说明需要改变的地方；一句 Si nous avons assez d’argent… 给出有条件的装修结果；一句 Quand nous aurons les clés… 安排未来动作；最后一句说明先后次序。续写内容必须是你自己的，不把比较句当作已经完成条件句任务。",
+      "self_check": [
+        "不看稿完成：用 si 加现在时表达现实可行的条件。",
+        "能用自己的内容造一句，体现：现实条件 si + 现在时，后面结果可用简单将来时。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能独立使用比较、si条件和quand未来时间定位三种结构；指明哪一项仍取决于条件。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA136",
+      "number": 48,
+      "title": "读劝说广告，分清数量与预测",
+      "source_title": "Le pain, mangez-en !",
+      "minutes": 25,
+      "goal": "用 en 避免重复数量对象，识别广告的条件与后果。",
+      "prerequisites": [
+        "NA135"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0186.md",
+          "label": "物理页186；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0187.md",
+          "label": "物理页187；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0188.md",
+          "label": "物理页188；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0189.md",
+          "label": "物理页189；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "劝说广告常把一种选择与将来后果连在一起，先找它希望读者做什么，再检查理由和数字是否真的支持结论。书中面包消费数据属于原材料的历史语境，不能照搬成今天的事实。语言上可以练 si 加现在时和将来结果，也可以用 je crois que、c’est probable 表达判断；“我相信”与“已经证实”不是同一层意思。\n\nen 常替代与 de 相关的数量对象，如 du pain 或 trois kilos de pommes；有明确数字时，替代后仍需保留数量。图句用 ne…plus 表示已经不再有面包，而非从未有过。肯定命令式里 en 后置并用连字符，如 Prenez-en；否定句中它回到动词前。先用购买面包的具体情境练，再回到广告判断它的目标、条件和证据。\n\n本课再次回收第25课已经学过的 en：活动回答 J’en fais 与数量回答 J’en prends deux 都先还原相关的 de 结构，再保留动作或数量；它们不是在本课才首次出现。与之相对，J’aime ça 是评价活动整体，不能用 en 直接替换 ça。用一句喜欢面包的评价与一句购买数量回答，检查自己是否把两种对象混在一起。",
+      "analogy": "en 像贴在篮子上的食物标签，拿走重复的名字，篮里的数量却仍要留下。",
+      "teaching_points": [
+        "J’en prends deux 保留数字，en 代替数量所属对象。",
+        "ne…plus 表不再；肯定命令 Prenez-en，否定 N’en prenez pas。",
+        "复习NA125的en与ça区别，再迁移到面包数量；有明确数量时不漏数词。"
+      ],
+      "anchor": {
+        "fr": "Nous n’avons plus de pain.",
+        "zh": "我们没有面包了。",
+        "sound": "努，纳翁，噗吕，德，潘。",
+        "movie": "我们翻开面包篮，里面只剩几粒碎屑；小面包车扑空，篮底露得干干净净，我们已经没有面包了。",
+        "pronunciation": "Nous n’avons 中 n’ 接到 avons；plus de pain 表否定时 plus 通常不读 s；pain /pɛ̃/ 鼻化，不补 n。",
+        "reuse_id": "T08:5"
+      },
+      "quiz": [
+        {
+          "prompt": "“我买两根（已知的面包）”，哪句保留数量？",
+          "choices": [
+            "J’en achète deux.",
+            "J’en achète.",
+            "J’achète en deux."
+          ],
+          "answer": 0,
+          "reason": "en 替代与数量关联的对象，但 deux 必须保留；否则丢失“两根”的信息。"
+        },
+        {
+          "prompt": "Nous n’avons plus de pain 表示？",
+          "choices": [
+            "我们从来不吃面包",
+            "我们已经没有面包了",
+            "我们有更多面包了"
+          ],
+          "answer": 1,
+          "reason": "ne…plus 表原先有而现在不再有；不是 jamais 的“从不”，也不是肯定比较“更多”。"
+        }
+      ],
+      "application": "虚构一家面包店的简短广告，写一个建议、一个条件结果；再在购买对话里用 en 回答数量问题。",
+      "self_check": [
+        "不看稿完成：用 en 避免重复数量对象，识别广告的条件与后果。",
+        "能用自己的内容造一句，体现：J’en prends deux 保留数字，en 代替数量所属对象。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA1R09",
+      "number": 49,
+      "title": "单元9复习：计划、邀约与阶段检查3",
+      "source_title": "Unité 9 — Savoir-faire ; Évaluation 3",
+      "minutes": 50,
+      "goal": "回复未来计划，协调见面，并完成A1主线末次自查。",
+      "prerequisites": [
+        "NA133",
+        "NA134",
+        "NA135",
+        "NA136"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0190.md",
+          "label": "物理页190：Unité 9 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0191.md",
+          "label": "物理页191：Évaluation 3；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0192.md",
+          "label": "物理页192：Évaluation 3；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "explanation": "讨论计划不能只有将来时词尾，还要说明时间、顺序、条件与对方是否方便。先分清已经做完的事、目前的状态和接下来的打算，再用过去、现在、未来表达组织邮件。图句说周四有空，适合放进邀约回复；提出日期后仍需核对双方安排，而不是把“我们有空”理解成约见已经得到确认。\n\n本课映射单元9计划回复与电话约时间，并纳入评估3全部技能：听喜好、介绍未来计划、表达不同意见、读邀请、写搬家与装修经历。原音频不可用时标记未测，不伪造听力答案。完成后按听说读写各留一个作品并记录缺口，继续每日跟读和输出、每周回顾；A2教材目前未提供，后续衔接需补书，不把B1直接当作A2，也不因做完本册便认定已经掌握。\n\n原创邀请卡：Salut Camille ! Samedi 21 novembre, je fête mon anniversaire dans mon nouvel appartement, 12 rue des Érables, à partir de 18 heures. Peux-tu venir avec ton frère et apporter un dessert ? Réponds avant jeudi. — Ana。阅读先提取日期、开始时间、地址、同行者、需要携带的东西和回复期限；不要把 avant jeudi 当成派对当天。所有信息是本课虚构输入，不是原评估答案。\n\n原创前台冲突角色卡：你在度假中心，想预约周六10点的泳池活动，预算每人15欧元。前台说10点场已取消，只剩14点场，每人22欧元；你14点已约好朋友。作为客人，先确认取消信息，礼貌表达价格和时间两项异议，再问是否有预算内的另一项活动。扮演前台时不能直接假定已有免费名额，应先说明“不确定，需要核实”，然后协商。\n\n原创写作设定：上周你搬到新公寓；搬家当天很累，但朋友帮助搬箱子。随后你粉刷了客厅、更换了厨房的灯；周末想邀请朋友来看新家。这些是写作材料，可以明示虚构。邮件需同时写搬家事件、当时背景、两项已完成装修和一次带时间地点的邀请，不能用未来计划代替全部过去经历。",
+      "analogy": "结课检查像检查四条桥墩，听、说、读、写都要实际承重，不能只因桥面铺完就宣布稳固。",
+      "teaching_points": [
+        "未来计划需有时点与条件，并保留对方确认的环节。",
+        "A1课程完成与能力掌握分开；A2缺书应如实记录。"
+      ],
+      "anchor": {
+        "fr": "Nous serons disponibles jeudi.",
+        "zh": "我们周四有空。",
+        "sound": "努，瑟隆，迪斯波尼布勒，热迪。",
+        "movie": "我们努着嘴把周四日历腾空，热水壶独自在那格里坐着；这表示周四会有空，可以安排见面。",
+        "pronunciation": "serons /səʁɔ̃/ 是两音节，词尾鼻化；disponibles /dispɔnibl/ 不读复数 s；jeudi /ʒødi/ 的 eu 前圆唇。",
+        "reuse_id": "T17:6"
+      },
+      "quiz": [
+        {
+          "prompt": "“如果周四有空，我们会见面”哪句正确？",
+          "choices": [
+            "Si nous serons libres jeudi, nous nous verrons.",
+            "Si nous sommes libres jeudi, nous nous verrons.",
+            "Si nous être libres jeudi, nous nous voir."
+          ],
+          "answer": 1,
+          "reason": "现实条件 si 从句用现在时 sommes，主句可用将来时 verrons。"
+        },
+        {
+          "prompt": "做完本册后，哪种结论最准确？",
+          "choices": [
+            "已自动取得某考试等级",
+            "可跳过缺失的A2教材直接当作已掌握",
+            "完成一轮课程，仍需用独立任务验证能力并补A2材料"
+          ],
+          "answer": 2,
+          "reason": "完成学习记录不等于认证或掌握；需要观察迁移表现并承认材料缺口。"
+        },
+        {
+          "prompt": "根据原创邀请卡，哪组信息正确？",
+          "choices": [
+            "周四18点聚会，只能独自来。",
+            "周六21日18点起，带一份甜点，可和兄弟一起来。",
+            "周六14点起，必须带泳衣。"
+          ],
+          "answer": 1,
+          "reason": "卡片写 samedi 21 novembre、à partir de 18 heures、avec ton frère、apporter un dessert；周四是回复期限。"
+        },
+        {
+          "prompt": "原创邀请卡的 Réponds avant jeudi 要求什么？",
+          "choices": [
+            "周四以前回复邀请。",
+            "把聚会改到周四。",
+            "周四以后才允许回答。"
+          ],
+          "answer": 0,
+          "reason": "avant jeudi 表周四之前；Réponds 指回复，不是在更改聚会时间。"
+        }
+      ],
+      "application": "先按原创邀请卡完成两题并拟一条简短回复；再按角色卡进行六轮前台协商，明确时间冲突与价格异议，提出具体替代请求。最后按搬家设定写50–65词邮件，必须有搬家时间与背景、两项已完成装修、邀请朋友来访的时点及新地址。另录一分钟未来计划；喜好原听力没有原音频时继续标为未测。",
+      "self_check": [
+        "不看稿完成：回复未来计划，协调见面，并完成A1主线末次自查。",
+        "能用自己的内容造一句，体现：未来计划需有时点与条件，并保留对方确认的环节。",
+        "两道题都能说明正确项和一个错误项的差别；图句跟读后能遮文复述。",
+        "能准确区分派对时间与回复期限；前台对话两项异议有依据；搬家邮件同时包含过去背景、已完成事件与未来邀请。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    }
+  ]
+}

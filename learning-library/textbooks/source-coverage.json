@@ -1,0 +1,4270 @@
+{
+  "source_books": {
+    "jianming-french-volume-1": "简明法语教程上（修订版）",
+    "jianming-french-volume-2": "简明法语教程下（修订版）",
+    "nihao-a1-student": "你好！法语1·A1学生用书",
+    "nihao-b1-student": "你好法语3·B1学生用书",
+    "nihao-b1-teacher": "你好法语3·B1教师用书",
+    "nihao-4-student": "你好法语4·B1续篇学生用书"
+  },
+  "course_counts": {
+    "nihao-a1": 49,
+    "jianming-1": 32,
+    "jianming-2": 31,
+    "nihao-b1": 32,
+    "nihao-4": 32
+  },
+  "records": [
+    {
+      "id": "NA0A",
+      "number": 1,
+      "source_title": "Leçon 0-1",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0012.md",
+          "label": "物理页12；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0013.md",
+          "label": "物理页13；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0014.md",
+          "label": "物理页14；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0015.md",
+          "label": "物理页15；语音0-1：Leçon 0-1",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0005.md",
+          "label": "物理页5：目录，语音课起始页核对",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "字母名用于拼姓名；单词发音按组合规律处理。",
+        "sou 与 su 的差别主要在元音舌位，不是声调。"
+      ]
+    },
+    {
+      "id": "NA0B",
+      "number": 2,
+      "source_title": "Leçon 0-2",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0016.md",
+          "label": "物理页16；语音0-2：Leçon 0-2",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0017.md",
+          "label": "物理页17；语音0-2：Leçon 0-2",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0018.md",
+          "label": "物理页18；语音0-2：Leçon 0-2",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "au、eau 常读 /o/；具体词仍需核对。",
+        "词尾字母与真正发出的最后音节不是一回事。"
+      ]
+    },
+    {
+      "id": "NA0C",
+      "number": 3,
+      "source_title": "Leçon 0-3",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0019.md",
+          "label": "物理页19；语音0-3：Leçon 0-3",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0020.md",
+          "label": "物理页20；语音0-3：Leçon 0-3",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0021.md",
+          "label": "物理页21；语音0-3：Leçon 0-3",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "oi 常对应 /wa/；oui 里的 /w/ 快速滑向 /i/。",
+        "鼻音组合必须看后续环境，不能只见 n 就鼻化。"
+      ]
+    },
+    {
+      "id": "NA0D",
+      "number": 4,
+      "source_title": "Leçon 0-4",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0022.md",
+          "label": "物理页22；语音0-4：Leçon 0-4",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0023.md",
+          "label": "物理页23；语音0-4：Leçon 0-4",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0024.md",
+          "label": "物理页24；语音0-4：Leçon 0-4",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0005.md",
+          "label": "物理页5：目录，语音课起始页核对",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "les amis 中的 s 联诵为 /z/；不是所有词末 s 都读。",
+        "quatre-vingt-douze 表示 92；复合数别漏掉后半段。"
+      ]
+    },
+    {
+      "id": "NA101",
+      "number": 5,
+      "source_title": "Bienvenue !",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0026.md",
+          "label": "物理页26；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0027.md",
+          "label": "物理页27；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0028.md",
+          "label": "物理页28；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0029.md",
+          "label": "物理页29；Leçon 1：Bienvenue !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "être：je suis / tu es / vous êtes。",
+        "姓名介绍的 me、te、vous 随主语变化。"
+      ]
+    },
+    {
+      "id": "NA102",
+      "number": 6,
+      "source_title": "Qui est-ce ?",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0030.md",
+          "label": "物理页30；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0031.md",
+          "label": "物理页31；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0032.md",
+          "label": "物理页32；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0033.md",
+          "label": "物理页33；Leçon 2：Qui est-ce ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "职业作一般表语通常无冠词：Elle est médecin。",
+        "C’est une amie 与 Elle est amie 不能机械互换。"
+      ]
+    },
+    {
+      "id": "NA103",
+      "number": 7,
+      "source_title": "Ça va bien ?",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0034.md",
+          "label": "物理页34；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0035.md",
+          "label": "物理页35；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0036.md",
+          "label": "物理页36；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0037.md",
+          "label": "物理页37；Leçon 3：Ça va bien ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "avoir：j’ai、tu as、vous avez；年龄不用 être。",
+        "mon/ma/mes 由后面名词的性数决定。"
+      ]
+    },
+    {
+      "id": "NA104",
+      "number": 8,
+      "source_title": "Correspondants",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0038.md",
+          "label": "物理页38；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0039.md",
+          "label": "物理页39；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0040.md",
+          "label": "物理页40；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0041.md",
+          "label": "物理页41；Leçon 4：Correspondants",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "parler français 与 aimer le français 的冠词不同。",
+        "城市用 à；国家介词随名称性数及读音选择。"
+      ]
+    },
+    {
+      "id": "NA1R01",
+      "number": 9,
+      "source_title": "Unité 1 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0042.md",
+          "label": "物理页42：Unité 1 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "第一人称改第三人称，要同时改人称代词和动词。",
+        "数字、地址逐项复述确认，不靠大意补全。"
+      ]
+    },
+    {
+      "id": "NA105",
+      "number": 10,
+      "source_title": "Trouvez l’objet",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0044.md",
+          "label": "物理页44；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0045.md",
+          "label": "物理页45；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0046.md",
+          "label": "物理页46；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0047.md",
+          "label": "物理页47；Leçon 5：Trouvez l’objet",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "il y a 不因宾语复数而变形。",
+        "des livres 是一些书；les livres 是已确定的那些书。"
+      ]
+    },
+    {
+      "id": "NA106",
+      "number": 11,
+      "source_title": "Portrait-robot",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0048.md",
+          "label": "物理页48；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0049.md",
+          "label": "物理页49；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0050.md",
+          "label": "物理页50；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0051.md",
+          "label": "物理页51；Leçon 6：Portrait-robot",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "porter 衣服、avoir 头发/眼睛、être 高矮。",
+        "avec 后用 moi、toi、lui、elle 等重读形式。"
+      ]
+    },
+    {
+      "id": "NA107",
+      "number": 12,
+      "source_title": "Shopping",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0052.md",
+          "label": "物理页52；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0053.md",
+          "label": "物理页53；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0054.md",
+          "label": "物理页54；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0055.md",
+          "label": "物理页55；Leçon 7：Shopping",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "cet objet、cette robe、ces chaussures。",
+        "combien 问多少；comment 问如何或什么样。"
+      ]
+    },
+    {
+      "id": "NA108",
+      "number": 13,
+      "source_title": "Le coin des artistes",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0056.md",
+          "label": "物理页56；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0057.md",
+          "label": "物理页57；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0058.md",
+          "label": "物理页58；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0059.md",
+          "label": "物理页59；Leçon 8：Le coin des artistes",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "entre A et B 表示在 A 与 B 之间。",
+        "先引入人物，再用 il/elle 延续同一指代。"
+      ]
+    },
+    {
+      "id": "NA1R02",
+      "number": 14,
+      "source_title": "Unité 2 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0060.md",
+          "label": "物理页60：Unité 2 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "辨认人物需两条互补线索；位置应有参照物。",
+        "cette veste 阴性单数；ces vestes 复数。"
+      ]
+    },
+    {
+      "id": "NA109",
+      "number": 15,
+      "source_title": "Appartement à louer",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0062.md",
+          "label": "物理页62；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0063.md",
+          "label": "物理页63；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0064.md",
+          "label": "物理页64；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0065.md",
+          "label": "物理页65；Leçon 9：Appartement à louer",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "pièce 不等于 chambre；需要分别读房间与卧室信息。",
+        "chez nous、avec eux 使用重读代词。"
+      ]
+    },
+    {
+      "id": "NA110",
+      "number": 16,
+      "source_title": "C’est par où ?",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0066.md",
+          "label": "物理页66；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0067.md",
+          "label": "物理页67；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0068.md",
+          "label": "物理页68；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0069.md",
+          "label": "物理页69；Leçon 10：C’est par où ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "命令式省略主语，vous 形式常保留 -ez。",
+        "y 替代已知地点，通常位于相关变位动词前。",
+        "prendre六人称现在时；vous命令式Prenez；au/aux/du/des四组介词与定冠词缩合。"
+      ]
+    },
+    {
+      "id": "NA111",
+      "number": 17,
+      "source_title": "Bon voyage !",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0070.md",
+          "label": "物理页70；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0071.md",
+          "label": "物理页71；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0072.md",
+          "label": "物理页72；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0073.md",
+          "label": "物理页73；Leçon 11：Bon voyage !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "on 的动词按 il/elle 的单数形式变化。",
+        "à pied、à vélo；en train、en voiture。"
+      ]
+    },
+    {
+      "id": "NA112",
+      "number": 18,
+      "source_title": "Marseille",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0074.md",
+          "label": "物理页74；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0075.md",
+          "label": "物理页75；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0076.md",
+          "label": "物理页76；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0077.md",
+          "label": "物理页77；Leçon 12：Marseille",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "c’est où 问位置；comment y aller 问到达方式。",
+        "从表格提取时间和价格，不自行补出资料没有的信息。"
+      ]
+    },
+    {
+      "id": "NA1R03",
+      "number": 19,
+      "source_title": "Unité 3 — Savoir-faire ; Évaluation 1",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0078.md",
+          "label": "物理页78：Unité 3 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0079.md",
+          "label": "物理页79：Évaluation 1；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0080.md",
+          "label": "物理页80：Évaluation 1；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "jusqu’à 表直到某处；après 表在某处之后。",
+        "阶段检查分别观察听说读写，不以单一题数替代能力判断。"
+      ]
+    },
+    {
+      "id": "NA113",
+      "number": 20,
+      "source_title": "Un aller simple",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0082.md",
+          "label": "物理页82；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0083.md",
+          "label": "物理页83；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0084.md",
+          "label": "物理页84；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0085.md",
+          "label": "物理页85；Leçon 13：Un aller simple",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "aller simple 单程；aller-retour 往返。",
+        "à quelle heure 问动作时点，quelle heure est-il 问现在。"
+      ]
+    },
+    {
+      "id": "NA114",
+      "number": 21,
+      "source_title": "À Londres",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0086.md",
+          "label": "物理页86；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0087.md",
+          "label": "物理页87；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0088.md",
+          "label": "物理页88；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0089.md",
+          "label": "物理页89；Leçon 14：À Londres",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "est-ce que 后不再机械倒装主谓。",
+        "faire：vous faites；否定把 ne…pas 放在变位动词两边。"
+      ]
+    },
+    {
+      "id": "NA115",
+      "number": 22,
+      "source_title": "Le dimanche matin",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0090.md",
+          "label": "物理页90；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0091.md",
+          "label": "物理页91；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0092.md",
+          "label": "物理页92；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0093.md",
+          "label": "物理页93；Leçon 15：Le dimanche matin",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "me/te/se/nous/vous/se 与主语配合。",
+        "avant le petit déjeuner 表早餐前；après 表后。"
+      ]
+    },
+    {
+      "id": "NA116",
+      "number": 23,
+      "source_title": "Une journée avec Laure Manaudou",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0094.md",
+          "label": "物理页94；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0095.md",
+          "label": "物理页95；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0096.md",
+          "label": "物理页96；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0097.md",
+          "label": "物理页97；Leçon 16：Une journée avec Laure Manaudou",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "转述日程时同时改主语、代词和动词。",
+        "时刻与一段活动时长分开记录，别把结束时刻当持续时间。"
+      ]
+    },
+    {
+      "id": "NA1R04",
+      "number": 24,
+      "source_title": "Unité 4 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0098.md",
+          "label": "物理页98：Unité 4 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "时间表要把活动、时间、地点与价格正确配对。",
+        "拒绝邀请可给理由并提出替代时段。"
+      ]
+    },
+    {
+      "id": "NA117",
+      "number": 25,
+      "source_title": "On fait des crêpes ?",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0100.md",
+          "label": "物理页100；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0101.md",
+          "label": "物理页101；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0102.md",
+          "label": "物理页102；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0103.md",
+          "label": "物理页103；Leçon 17：On fait des crêpes ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "du/de la/de l’ 表不定量；数量表达后常用 de。",
+        "喜好类别用定冠词；零数量否定常用 de。"
+      ]
+    },
+    {
+      "id": "NA118",
+      "number": 26,
+      "source_title": "Il est comment ?",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0104.md",
+          "label": "物理页104；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0105.md",
+          "label": "物理页105；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0106.md",
+          "label": "物理页106；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0107.md",
+          "label": "物理页107；Leçon 18：Il est comment ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "avoir 的人称变化：j’ai、nous avons、ils ont。",
+        "规则 -er 动词过去分词常为 -é；否定包围助动词。",
+        "beau/bel/belle/beaux/belles 与名词性数及阳性元音环境配合；普通前置复数形容词前 des 常变 de。"
+      ]
+    },
+    {
+      "id": "NA119",
+      "number": 27,
+      "source_title": "Chère Léa…",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0108.md",
+          "label": "物理页108；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0109.md",
+          "label": "物理页109；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0110.md",
+          "label": "物理页110；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0111.md",
+          "label": "物理页111；Leçon 19：Chère Léa…",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "être 助动词的过去分词注意主语性数配合。",
+        "dans trois jours 三天后；pour trois jours 预计三天之久。"
+      ]
+    },
+    {
+      "id": "NA120",
+      "number": 28,
+      "source_title": "Les fêtes",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0112.md",
+          "label": "物理页112；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0113.md",
+          "label": "物理页113；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0114.md",
+          "label": "物理页114；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0115.md",
+          "label": "物理页115；Leçon 20：Les fêtes",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "一般习惯与一次经历使用不同的时间视角。",
+        "日期先核对具体日、月份、年份，再选 le/en 等形式。"
+      ]
+    },
+    {
+      "id": "NA1R05",
+      "number": 29,
+      "source_title": "Unité 5 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0116.md",
+          "label": "物理页116：Unité 5 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "复合过去时否定包围助动词，零数量否定常用 de。",
+        "avoir 与 être 按动词用法选择，不能全篇用同一个。"
+      ]
+    },
+    {
+      "id": "NA121",
+      "number": 30,
+      "source_title": "C’est interdit !",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0118.md",
+          "label": "物理页118；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0119.md",
+          "label": "物理页119；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0120.md",
+          "label": "物理页120；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0121.md",
+          "label": "物理页121；Leçon 21：C’est interdit !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "pouvoir + 原形：vous pouvez entrer。",
+        "否定命令 ne…pas；lui 单人、leur 多人，均可指男女。"
+      ]
+    },
+    {
+      "id": "NA122",
+      "number": 31,
+      "source_title": "Petites annonces",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0122.md",
+          "label": "物理页122；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0123.md",
+          "label": "物理页123；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0124.md",
+          "label": "物理页124；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0125.md",
+          "label": "物理页125；Leçon 22：Petites annonces",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "savoir + 原形表示技能；connaître 常接人或事物。",
+        "il faut + 名词/原形，faut 不随应聘者人数改变。",
+        "最近将来时aller+原形；原形所属的宾语或地点代词放在原形前：va y travailler / vais lui écrire。"
+      ]
+    },
+    {
+      "id": "NA123",
+      "number": 32,
+      "source_title": "Qu’est-ce qu’on lui offre ?",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0126.md",
+          "label": "物理页126；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0127.md",
+          "label": "物理页127；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0128.md",
+          "label": "物理页128；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0129.md",
+          "label": "物理页129；Leçon 23：Qu’est-ce qu’on lui offre ?",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "le/la/les 替代确定的直接宾语；lui/leur 替代适用的 à 加人。",
+        "双动词结构中，代词通常放在它所属的原形前。"
+      ]
+    },
+    {
+      "id": "NA124",
+      "number": 33,
+      "source_title": "Le candidat idéal…",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0130.md",
+          "label": "物理页130；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0131.md",
+          "label": "物理页131；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0132.md",
+          "label": "物理页132；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0133.md",
+          "label": "物理页133；Leçon 24：Le candidat idéal…",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "肯定命令式 asseyez-vous 与陈述句 vous vous asseyez 词序不同。",
+        "能力、意愿、时间条件应分开说。"
+      ]
+    },
+    {
+      "id": "NA1R06",
+      "number": 34,
+      "source_title": "Unité 6 — Savoir-faire ; Évaluation 2",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0134.md",
+          "label": "物理页134：Unité 6 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0135.md",
+          "label": "物理页135：Évaluation 2；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0136.md",
+          "label": "物理页136：Évaluation 2；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "Je vais lui répondre：代词位于所属原形前。",
+        "阶段检查覆盖时间理解、采购、读写经历和拒绝，不只复习单一语法。"
+      ]
+    },
+    {
+      "id": "NA125",
+      "number": 35,
+      "source_title": "Enquête",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0138.md",
+          "label": "物理页138；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0139.md",
+          "label": "物理页139；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0140.md",
+          "label": "物理页140；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0141.md",
+          "label": "物理页141；Leçon 25：Enquête",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "beaucoup de + 名词；beaucoup 修饰动作时不加 de。",
+        "deux fois par mois 频率；pendant deux mois 时长。",
+        "en 回指 faire de + 活动；aimer ça 评价活动整体；ne…plus 表从以前到现在的停止。"
+      ]
+    },
+    {
+      "id": "NA126",
+      "number": 36,
+      "source_title": "Quitter Paris",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0142.md",
+          "label": "物理页142；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0143.md",
+          "label": "物理页143；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0144.md",
+          "label": "物理页144；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0145.md",
+          "label": "物理页145；Leçon 26：Quitter Paris",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "trop/assez + 形容词；trop/assez de + 名词。",
+        "tout 的形式跟所限定名词性数配合。"
+      ]
+    },
+    {
+      "id": "NA127",
+      "number": 37,
+      "source_title": "Vivement les vacances !",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0146.md",
+          "label": "物理页146；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0147.md",
+          "label": "物理页147；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0148.md",
+          "label": "物理页148；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0149.md",
+          "label": "物理页149；Leçon 27：Vivement les vacances !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "Repose-toi / Ne te repose pas：注意代词位置与形式。",
+        "se laver les mains 的 mains 是后置直接宾语，lavé 不加 e。",
+        "普通COD命令：Prends-le / Ne le prends pas；代词式命令：Repose-toi / Ne te repose pas。"
+      ]
+    },
+    {
+      "id": "NA128",
+      "number": 38,
+      "source_title": "Les Français en vacances",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0150.md",
+          "label": "物理页150；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0151.md",
+          "label": "物理页151；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0152.md",
+          "label": "物理页152；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0153.md",
+          "label": "物理页153；Leçon 28：Les Français en vacances",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "pourcentage 说明比例，先看对应的问题与人群。",
+        "个人偏好可用 préférer 与理由表达，不等于群体结论。"
+      ]
+    },
+    {
+      "id": "NA1R07",
+      "number": 39,
+      "source_title": "Unité 7 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0154.md",
+          "label": "物理页154：Unité 7 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "投诉给具体依据，并提出与问题相关的替代条件。",
+        "调查只记录已获信息，不把未知写成否定。"
+      ]
+    },
+    {
+      "id": "NA129",
+      "number": 40,
+      "source_title": "Enfant de la ville",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0156.md",
+          "label": "物理页156；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0157.md",
+          "label": "物理页157；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0158.md",
+          "label": "物理页158；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0159.md",
+          "label": "物理页159；Leçon 29：Enfant de la ville",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "未完成过去时常描述过去状态与反复习惯。",
+        "venir de + 原形表示刚刚；être 未完成词干为 ét-。"
+      ]
+    },
+    {
+      "id": "NA130",
+      "number": 41,
+      "source_title": "Fait divers",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0160.md",
+          "label": "物理页160；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0161.md",
+          "label": "物理页161；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0162.md",
+          "label": "物理页162；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0163.md",
+          "label": "物理页163；Leçon 30：Fait divers",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "背景可用未完成过去时；事件常用复合过去时。",
+        "quand 连接两种视角，不自动决定每个动词的时态。"
+      ]
+    },
+    {
+      "id": "NA131",
+      "number": 42,
+      "source_title": "Ma première histoire d’amour",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0164.md",
+          "label": "物理页164；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0165.md",
+          "label": "物理页165；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0166.md",
+          "label": "物理页166；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0167.md",
+          "label": "物理页167；Leçon 31：Ma première histoire d’amour",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "il y a 定位多久以前；depuis 强调延续。",
+        "pour + 原形表示目的；parce que + 原因句。"
+      ]
+    },
+    {
+      "id": "NA132",
+      "number": 43,
+      "source_title": "La 2CV",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0168.md",
+          "label": "物理页168；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0169.md",
+          "label": "物理页169；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0170.md",
+          "label": "物理页170；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0171.md",
+          "label": "物理页171；Leçon 32：La 2CV",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "先根据年份排列事件，再补描述背景的句子。",
+        "同一物品可用两种过去时，不按“旧物”统一时态。"
+      ]
+    },
+    {
+      "id": "NA1R08",
+      "number": 44,
+      "source_title": "Unité 8 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0172.md",
+          "label": "物理页172：Unité 8 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "背景与事件配合叙述，不按动作长短机械判断。",
+        "复述先保人物、时间、关键动作，再补形容词。"
+      ]
+    },
+    {
+      "id": "NA133",
+      "number": 45,
+      "source_title": "Beau fixe",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0174.md",
+          "label": "物理页174；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0175.md",
+          "label": "物理页175；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0176.md",
+          "label": "物理页176；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0177.md",
+          "label": "物理页177；Leçon 33：Beau fixe",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "faire 简单将来词干 fer-：il fera。",
+        "现在观测与未来预测分开；peut-être 可降低确定性。"
+      ]
+    },
+    {
+      "id": "NA134",
+      "number": 46,
+      "source_title": "Projets d’avenir",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0178.md",
+          "label": "物理页178；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0179.md",
+          "label": "物理页179；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0180.md",
+          "label": "物理页180；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0181.md",
+          "label": "物理页181；Leçon 34：Projets d’avenir",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "aller + 原形：je vais travailler；不要把原形再变位。",
+        "未来表达由说话目的与语境选择，不只看远近。"
+      ]
+    },
+    {
+      "id": "NA135",
+      "number": 47,
+      "source_title": "Envie de changement",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0182.md",
+          "label": "物理页182；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0183.md",
+          "label": "物理页183；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0184.md",
+          "label": "物理页184；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0185.md",
+          "label": "物理页185；Leçon 35：Envie de changement",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "现实条件 si + 现在时，后面结果可用简单将来时。",
+        "plus/moins/aussi + 形容词 + que 表比较。",
+        "未来计划：si + 现在时表达条件；quand + 简单将来时定位未来时点。"
+      ]
+    },
+    {
+      "id": "NA136",
+      "number": 48,
+      "source_title": "Le pain, mangez-en !",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0186.md",
+          "label": "物理页186；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0187.md",
+          "label": "物理页187；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0188.md",
+          "label": "物理页188；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0189.md",
+          "label": "物理页189；Leçon 36：Le pain, mangez-en !",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "J’en prends deux 保留数字，en 代替数量所属对象。",
+        "ne…plus 表不再；肯定命令 Prenez-en，否定 N’en prenez pas。",
+        "复习NA125的en与ça区别，再迁移到面包数量；有明确数量时不漏数词。"
+      ]
+    },
+    {
+      "id": "NA1R09",
+      "number": 49,
+      "source_title": "Unité 9 — Savoir-faire ; Évaluation 3",
+      "sources": [
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0190.md",
+          "label": "物理页190：Unité 9 Savoir-faire 学以致用",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0191.md",
+          "label": "物理页191：Évaluation 3；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        },
+        {
+          "book": "nihao-a1-student",
+          "location": "pages/0192.md",
+          "label": "物理页192：Évaluation 3；听力、口语、阅读、写作任务映射；不重建原录音答案",
+          "review_status": "ocr_compared_with_structure"
+        }
+      ],
+      "teaching_points": [
+        "未来计划需有时点与条件，并保留对方确认的环节。",
+        "A1课程完成与能力掌握分开；A2缺书应如实记录。"
+      ]
+    },
+    {
+      "id": "JM101",
+      "number": 1,
+      "source_title": "LEÇON UN 第1课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-003.md",
+          "label": "LEÇON UN 第1课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "音节以实际读出的元音为中心",
+        "c’est 识别人；il/elle est à 表示位置",
+        "清浊用声带振动辨认"
+      ]
+    },
+    {
+      "id": "JM102",
+      "number": 2,
+      "source_title": "LEÇON DEUX 第2课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-004.md",
+          "label": "LEÇON DEUX 第2课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "est-ce que 后保持陈述词序",
+        "être 后无修饰的职业常省冠词",
+        "/ʃ/ 与 /ʒ/ 对比声带振动"
+      ]
+    },
+    {
+      "id": "JM103",
+      "number": 3,
+      "source_title": "LEÇON TROIS 第3课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-005.md",
+          "label": "LEÇON TROIS 第3课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "连音与联诵不是同一机制",
+        "哑音 h 允许连接，嘘音 h 阻止连接",
+        "倒装中的 -t- 不属于动词词干"
+      ]
+    },
+    {
+      "id": "JM104",
+      "number": 4,
+      "source_title": "LEÇON QUATRE 第4课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-006.md",
+          "label": "LEÇON QUATRE 第4课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "原第4课复习覆盖第1—3课问答",
+        "省音有撇号，连音通常不改拼写",
+        "notre/votre 后不再叠加冠词"
+      ]
+    },
+    {
+      "id": "JM105",
+      "number": 5,
+      "source_title": "LEÇON CINQ 第5课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-007.md",
+          "label": "LEÇON CINQ 第5课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "un/une 与 le/la 区分首次引入和确指",
+        "de 的所属顺序是物品在前",
+        "/y/ 圆唇前元音，鼻化不是加 n"
+      ]
+    },
+    {
+      "id": "JM106",
+      "number": 6,
+      "source_title": "LEÇON SIX 第6课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-008.md",
+          "label": "LEÇON SIX 第6课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "ce sont 对应复数，动词不能仍用 est",
+        "être 否定识别通常保留 un/une/des",
+        "问句方式择一，不重复组装",
+        "本课练规范书面语 ce sont + 复数；实际口语常见 c’est + 复数，属于语体差异。"
+      ]
+    },
+    {
+      "id": "JM107",
+      "number": 7,
+      "source_title": "LEÇON SEPT 第7课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-009.md",
+          "label": "LEÇON SEPT 第7课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "être 六组人称形式",
+        "职业裸表语与 c’est 识别句区分",
+        "位置介词要交代参照物",
+        "technicien 与 technicienne 的鼻化差别"
+      ]
+    },
+    {
+      "id": "JM108",
+      "number": 8,
+      "source_title": "LEÇON HUIT 第8课",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-010.md",
+          "label": "LEÇON HUIT 第8课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "年龄用 avoir + 数字 + ans",
+        "拥有句否定常用 pas de",
+        "现代法语大写也保留重音符号"
+      ]
+    },
+    {
+      "id": "JM109",
+      "number": 9,
+      "source_title": "LEÇON NEUF",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-002.md",
+          "label": "LEÇON NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "不定冠词引入对象，定冠词帮助识别",
+        "premier/première 为特殊序数词",
+        "楼层名要按当地编号理解"
+      ]
+    },
+    {
+      "id": "JM110",
+      "number": 10,
+      "source_title": "LEÇON DIX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-003.md",
+          "label": "LEÇON DIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "-er 规则变位不包含 aller",
+        "mon/ma/mes 看后面名词性数",
+        "阴性元音开头可用 mon amie",
+        "前置复数形容词常触发 de"
+      ]
+    },
+    {
+      "id": "JM111",
+      "number": 11,
+      "source_title": "LEÇON ONZE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-004.md",
+          "label": "LEÇON ONZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "ce/cet/cette/ces 随名词变化",
+        "介词后用 moi/toi/lui/elle 等重读代词",
+        "être à 表归属",
+        "专名冠词须分类记忆",
+        "普通姓名 Léa 通常无冠词；国名作主语时常带冠词，如 la France。",
+        "在法国 en France；在日本 au Japon；城市在里昂 à Lyon。",
+        "先辨姓名、国名、城市，再辨主语或地点补语。"
+      ]
+    },
+    {
+      "id": "JM112",
+      "number": 12,
+      "source_title": "LEÇON DOUZE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-005.md",
+          "label": "LEÇON DOUZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "形容词性数与被修饰名词一致",
+        "ancien 前后位置可能改变意义",
+        "主语、表语、宾语岗位不同",
+        "动词是否带介词须随搭配记"
+      ]
+    },
+    {
+      "id": "JM113",
+      "number": 13,
+      "source_title": "LEÇON TREIZE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-006.md",
+          "label": "LEÇON TREIZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "à+le=au；à+les=aux",
+        "城市 à，国名 en/au/aux 分类",
+        "y 回指明确地点，位置靠近所属动词"
+      ]
+    },
+    {
+      "id": "JM114",
+      "number": 14,
+      "source_title": "LEÇON QUATORZE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-007.md",
+          "label": "LEÇON QUATORZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "命令式通常省主语",
+        "规则 -er 的 tu 命令式一般无 s",
+        "aller 变位 + 不定式",
+        "il est 报时，à 引出约定时间",
+        "huit heures et quart=8:15；huit heures et demie=8:30。",
+        "neuf heures moins le quart=8:45，先找被减去一刻的参照整点。",
+        "une heure et demie，但 midi et demi：后置 demi 的阴阳性要核对。"
+      ]
+    },
+    {
+      "id": "JM115",
+      "number": 15,
+      "source_title": "LEÇON QUINZE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-008.md",
+          "label": "LEÇON QUINZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "le/la/les 代替明确直接宾语",
+        "on 动词按第三人称单数",
+        "finir 模式含 -issons，不能泛化到所有 -ir",
+        "本课图句的 la 明确回指 la carte（交通卡，阴性），不回指 un billet（车票，阳性）。"
+      ]
+    },
+    {
+      "id": "JM116",
+      "number": 16,
+      "source_title": "LEÇON SEIZE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-009.md",
+          "label": "LEÇON SEIZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "反身代词与主语配套",
+        "元音前 me/te/se 可省音",
+        "de 补语并非都表示所属",
+        "短语按整体功能学习"
+      ]
+    },
+    {
+      "id": "JM117",
+      "number": 17,
+      "source_title": "LEÇON DIX-SEPT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-010.md",
+          "label": "LEÇON DIX-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "lui/leur 可代常见 à 引出的接收者",
+        "venir de + 不定式表示刚刚",
+        "en 回指数量对象时保留数字"
+      ]
+    },
+    {
+      "id": "JM118",
+      "number": 18,
+      "source_title": "LEÇON DIX-HUIT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-011.md",
+          "label": "LEÇON DIX-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "天气 il 为形式主语",
+        "il faut + 不定式表达必要性",
+        "lundi 与 le lundi 区分一次和周期",
+        "au printemps 为季节搭配"
+      ]
+    },
+    {
+      "id": "JM119",
+      "number": 19,
+      "source_title": "LEÇON DIX-NEUF",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-002.md",
+          "label": "LEÇON DIX-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "ne…plus/rien/jamais 通常不叠 pas",
+        "ne…que 表限定",
+        "si 可推翻否定问句",
+        "que 补语从句有完整主谓"
+      ]
+    },
+    {
+      "id": "JM120",
+      "number": 20,
+      "source_title": "LEÇON VINGT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-003.md",
+          "label": "LEÇON VINGT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "avoir 现在时 + 过去分词",
+        "规则分词与不规则分词分开记",
+        "否定围住助动词",
+        "复合句每个分句都有自己的谓语"
+      ]
+    },
+    {
+      "id": "JM121",
+      "number": 21,
+      "source_title": "LEÇON VINGT ET UN",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-004.md",
+          "label": "LEÇON VINGT ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "arriver/partir/venir 的常见不及物用 être",
+        "être 移动句分词与主语配合",
+        "不是所有移动动词都用 être",
+        "疑问词依信息岗位选择",
+        "复合时态倒装：疑问词 + 变位助动词-主语代词 + 过去分词。",
+        "Quand est-elle arrivée ? / Où sont-ils allés ?：仅移动助动词。",
+        "倒装后仍核对分词配合；est-ce que 后不再倒装。"
+      ]
+    },
+    {
+      "id": "JM122",
+      "number": 22,
+      "source_title": "LEÇON VINGT-DEUX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-005.md",
+          "label": "LEÇON VINGT-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "先还原直接对象与接收者",
+        "陈述句 le/la/les 在 lui/leur 前",
+        "代词在复合时态助动词前",
+        "avoir 分词配合看前置直接宾语"
+      ]
+    },
+    {
+      "id": "JM123",
+      "number": 23,
+      "source_title": "LEÇON VINGT-TROIS",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-006.md",
+          "label": "LEÇON VINGT-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "部分冠词表示不明确数量",
+        "喜好总体常用 le/la/les",
+        "数量词 + de 不再叠 du",
+        "en 可回指部分冠词名词组"
+      ]
+    },
+    {
+      "id": "JM124",
+      "number": 24,
+      "source_title": "LEÇON VINGT-QUATRE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-007.md",
+          "label": "LEÇON VINGT-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "imparfait 常由 nous 词干构成，être 例外",
+        "背景、习惯与有边界事件的叙述视角",
+        "副词位置不能只按中文顺序"
+      ]
+    },
+    {
+      "id": "JM1R01",
+      "number": "复习1",
+      "source_title": "EXERCICES DE REVISION",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-008.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "映射 JM119—JM124",
+        "过去背景与事件配合",
+        "助动词、代词、分词三项核对",
+        "部分冠词与数量表达区分"
+      ]
+    },
+    {
+      "id": "JM125",
+      "number": 25,
+      "source_title": "LEÇON VINGT-CINQ",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-009.md",
+          "label": "LEÇON VINGT-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "qui 在从句作主语，能指人也能指物",
+        "plus/moins/aussi...que",
+        "bon→meilleur；bien→mieux"
+      ]
+    },
+    {
+      "id": "JM126",
+      "number": 26,
+      "source_title": "LEÇON VINGT-SIX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-010.md",
+          "label": "LEÇON VINGT-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "最高级须有合理比较范围",
+        "副词最高级通常 le plus",
+        "être + 分词构成被动",
+        "de beaux 名词组与定冠词最高级区分"
+      ]
+    },
+    {
+      "id": "JM127",
+      "number": 27,
+      "source_title": "LEÇON VINGT-SEPT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-011.md",
+          "label": "LEÇON VINGT-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "que 在从句作直接宾语",
+        "qui 在从句作主语",
+        "où 可回指地点或时间",
+        "前置 que 可能触发分词配合"
+      ]
+    },
+    {
+      "id": "JM128",
+      "number": 28,
+      "source_title": "LEÇON VINGT-HUIT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-012.md",
+          "label": "LEÇON VINGT-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "futur 词尾与条件式区分",
+        "先将来时突出未来先后",
+        "未来时间从句可以用将来时",
+        "celui/celle 基本形式通常带限定"
+      ]
+    },
+    {
+      "id": "JM129",
+      "number": 29,
+      "source_title": "LEÇON VINGT-NEUF",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-013.md",
+          "label": "LEÇON VINGT-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "过去将来常用条件式形式",
+        "间接疑问 si = 是否",
+        "间接问句不用疑问倒装",
+        "时间地点词按实际视角调整"
+      ]
+    },
+    {
+      "id": "JM130",
+      "number": 30,
+      "source_title": "LEÇON TRENTE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-014.md",
+          "label": "LEÇON TRENTE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "c’est...qui 强调主语",
+        "ce qui/ce que 按主语宾语区分",
+        "代词式动词有自反、相互、被动和固有用法",
+        "称呼结尾匹配关系"
+      ]
+    },
+    {
+      "id": "JM1R02",
+      "number": "复习2",
+      "source_title": "EXERCICES DE REVISION",
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/009-001.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "映射 JM125—JM130",
+        "关系词按主语宾语地点岗位选择",
+        "未来先后与过去转述分开",
+        "强调主语后动词仍随真实人称"
+      ]
+    },
+    {
+      "id": "JM201",
+      "number": 1,
+      "source_title": "LEÇON TRENTE ET UN",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-002.md",
+          "label": "LEÇON TRENTE ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "助动词 imparfait + 过去分词",
+        "强调相对先后，不等于年代久远",
+        "间接引语回溯仍检查人称与时间词"
+      ]
+    },
+    {
+      "id": "JM202",
+      "number": 2,
+      "source_title": "LEÇON TRENTE-DEUX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-003.md",
+          "label": "LEÇON TRENTE-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "简单过去时以阅读识别为先",
+        "fut/eut 等形式单独辨认",
+        "与 imparfait、plus-que-parfait 合作构成叙事",
+        "口头复述可改用复合过去时"
+      ]
+    },
+    {
+      "id": "JM203",
+      "number": 3,
+      "source_title": "LEÇON TRENTE-TROIS",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-004.md",
+          "label": "LEÇON TRENTE-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "dont 回指 de 关系",
+        "dont 从句避免重复 de 或物主限定词",
+        "中性 le 可回指性质与内容",
+        "pour 的意义取决于结构"
+      ]
+    },
+    {
+      "id": "JM204",
+      "number": 4,
+      "source_title": "LEÇON TRENTE-QUATRE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-005.md",
+          "label": "LEÇON TRENTE-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "现在分词通常不变，形容词可配合",
+        "ayant/étant/sachant 为特殊形式",
+        "tout 先判断词类再判断变化",
+        "avec 也能说明方式与附带特征"
+      ]
+    },
+    {
+      "id": "JM205",
+      "number": 5,
+      "source_title": "LEÇON TRENTE-CINQ",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-006.md",
+          "label": "LEÇON TRENTE-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "futur 词干 + imparfait 词尾",
+        "si 假设从句不使用条件式来表达该条件",
+        "en + 现在分词的逻辑主语需清楚",
+        "现实条件与假设条件分开练"
+      ]
+    },
+    {
+      "id": "JM206",
+      "number": 6,
+      "source_title": "LEÇON TRENTE-SIX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-007.md",
+          "label": "LEÇON TRENTE-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "物主代词随被代物性数变化",
+        "自带冠词并按规则缩合",
+        "depuis/il y a/dans 区分参照方向",
+        "comme 结合语境判义"
+      ]
+    },
+    {
+      "id": "JM2R01",
+      "number": "复习1",
+      "source_title": "EXERCICES DE REVISION",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-008.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "映射 JM201—JM206，对应原31—36",
+        "先展开再压缩，检查逻辑主语",
+        "dont 还原 de",
+        "物主代词性数与时间参照双重核对"
+      ]
+    },
+    {
+      "id": "JM207",
+      "number": 7,
+      "source_title": "LEÇON TRENTE-SEPT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-009.md",
+          "label": "LEÇON TRENTE-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "虚拟式由结构和表达态度触发",
+        "que 本身不保证虚拟式",
+        "soit/ait/fasse 等不规则形式",
+        "相同主语常用不定式改写",
+        "venir 的两词干：viennent→vienn-；venons→ven-。",
+        "que je vienne，但 que nous venions、que vous veniez。",
+        "虚拟式不能仅背词尾；先确定该人称采用哪套词干。"
+      ]
+    },
+    {
+      "id": "JM208",
+      "number": 8,
+      "source_title": "LEÇON TRENTE-HUIT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-010.md",
+          "label": "LEÇON TRENTE-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "bien que/pour que/avant que 常用虚拟式",
+        "parce que 通常用直陈式",
+        "未确定存在的关系从句可用虚拟式",
+        "par 的意义随动作关系变化"
+      ]
+    },
+    {
+      "id": "JM209",
+      "number": 9,
+      "source_title": "LEÇON TRENTE-NEUF",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-011.md",
+          "label": "LEÇON TRENTE-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "虚拟式助动词 + 分词",
+        "先后关系相对于参照点理解",
+        "复合关系代词随先行词性数",
+        "介词 à/de 缩合形式需核对"
+      ]
+    },
+    {
+      "id": "JM210",
+      "number": 10,
+      "source_title": "LEÇON QUARANTE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-012.md",
+          "label": "LEÇON QUARANTE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "动词搭配决定 à/de/零介词",
+        "après + 过去不定式表达先完成",
+        "avoir/être 不定式 + 分词",
+        "à/de 多义须放回整体结构"
+      ]
+    },
+    {
+      "id": "JM211",
+      "number": 11,
+      "source_title": "LEÇON QUARANTE ET UN",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-013.md",
+          "label": "LEÇON QUARANTE ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "si + plus-que-parfait 常配 conditionnel passé",
+        "条件与结果可跨时间层",
+        "serait envoyé 与 aurait envoyé 结构不同",
+        "介词 en 与代词 en 依岗位区分"
+      ]
+    },
+    {
+      "id": "JM212",
+      "number": 12,
+      "source_title": "LEÇON QUARANTE-DEUX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-014.md",
+          "label": "LEÇON QUARANTE-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "avoir 配合看前置直接宾语",
+        "代词式分词须分析 se 的功能",
+        "ayant/étant + 分词表示先完成",
+        "压缩结构需明确逻辑主语",
+        "固有代词式 se souvenir 的分词通常与主语配合：elle s’est souvenue。",
+        "互相说话 se parler 中 se 是间接对象，elles se sont parlé 不加 es。",
+        "分词作状态形容词仍按名词性数变化：les portes sont fermées。"
+      ]
+    },
+    {
+      "id": "JM2R02",
+      "number": "复习2",
+      "source_title": "EXERCICES DE REVISION",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/007-015.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "映射 JM207—JM212，对应原37—42",
+        "语式选择与时间先后分两步",
+        "复合形式核对助动词与分词",
+        "介词关系与逻辑主语分别检查"
+      ]
+    },
+    {
+      "id": "JM213",
+      "number": 13,
+      "source_title": "LEÇON QUARANTE-TROIS",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-002.md",
+          "label": "LEÇON QUARANTE-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "en 等代词须追回具体对象",
+        "découvrir 根据语境理解",
+        "论证角色与责任不混为一谈",
+        "词汇按体育、检查、动机分组",
+        "转化构词不必改变拼写：dîner 可作动词或名词。",
+        "Le dîner 中 dîner 是名词；nous dînons 中 dînons 是变位动词。",
+        "先观察限定词与句法功能，再判定词类。"
+      ]
+    },
+    {
+      "id": "JM214",
+      "number": 14,
+      "source_title": "LEÇON QUARANTE-QUATRE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-003.md",
+          "label": "LEÇON QUARANTE-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "区分叙述观察与心理推断",
+        "背景与关键事件时态配合",
+        "un beau matin 可作叙事时间标记",
+        "词缀帮助猜词但需语境核实",
+        "lire→relire：前缀 re- 表重新；possible→impossible：否定前缀。",
+        "rapide→rapidement 是后缀派生，并可改变词类。",
+        "先确认基词真实存在，再用语境验证前缀猜义。"
+      ]
+    },
+    {
+      "id": "JM215",
+      "number": 15,
+      "source_title": "LEÇON QUARANTE-CINQ",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-004.md",
+          "label": "LEÇON QUARANTE-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "愿望、条件与行动分开归纳",
+        "trancher/couvrir 关注抽象义",
+        "pour + 不定式与 parce que + 从句",
+        "个案不可扩大为全体结论",
+        "-tion/-age 常见动作名词；-eur 可指施动者，但有 chaleur 等不同类型。",
+        "-ité 常见性质名词；-able 常见可能性形容词；-ment 常见方式副词。",
+        "bâtiment 是名词；不能仅看 -ment 就认定副词。"
+      ]
+    },
+    {
+      "id": "JM216",
+      "number": 16,
+      "source_title": "LEÇON QUARANTE-SIX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-005.md",
+          "label": "LEÇON QUARANTE-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "历史现在时不等于当下事件",
+        "se 可有被动或变化意义",
+        "n’en...pas moins 表尽管如此仍然",
+        "事件事实与象征解释分开",
+        "organiser→organisation：动词转名词；téléphone→téléphoner：名词转动词。",
+        "culture→culturel：名词转形容词；simple→simplement：形容词转副词。",
+        "-ent 形容词的常见副词形式为 -emment，如 prudent→prudemment，不能写 prudentement。"
+      ]
+    },
+    {
+      "id": "JM217",
+      "number": 17,
+      "source_title": "LEÇON QUARANTE-SEPT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-006.md",
+          "label": "LEÇON QUARANTE-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "人物预期与叙述事实分层",
+        "过去将来时可承载人物当时预期",
+        "对白语气结合上下文",
+        "反义动作词帮助组织转折",
+        "复合词可用连字符、à/de 或直接并列连接。",
+        "porte-monnaie 与 brosse à dents 的连接机制不同，均作为整体理解。",
+        "自由形容词名词组不自动等于固定复合词。"
+      ]
+    },
+    {
+      "id": "JM218",
+      "number": 18,
+      "source_title": "LEÇON QUARANTE-HUIT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-007.md",
+          "label": "LEÇON QUARANTE-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "定义包含类别与区别特征",
+        "过程动词标记状态变化",
+        "一般机制常用现在时",
+        "n’importe 系列按语法对象区分",
+        "professeur→prof 是截短；photographie→photo 同类。",
+        "SNCF 是首字母组合，常逐字母念；ONU 常按一个词念。",
+        "缩略语需核对全称、读法、语体，不按大写形式一概处理。"
+      ]
+    },
+    {
+      "id": "JM219",
+      "number": 19,
+      "source_title": "LEÇON QUARANTE-NEUF",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-008.md",
+          "label": "LEÇON QUARANTE-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "趋势词与评价词分开",
+        "familles nombreuses 与 nombreuses familles 意义不同",
+        "条件推演不是既成事实",
+        "数字须带时间、对象与单位",
+        "plusieurs/quelques + 复数名词；quelques-uns/quelques-unes 独立代指。",
+        "quelques-uns des visiteurs 表部分访客。",
+        "environ + 数量；vers + 大约时刻，vers 另有空间方向义。"
+      ]
+    },
+    {
+      "id": "JM220",
+      "number": 20,
+      "source_title": "LEÇON CINQUANTE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-009.md",
+          "label": "LEÇON CINQUANTE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讽刺从细节反差推断",
+        "pendant que/tandis que 可表并置或对比",
+        "背景描写与对白推进区分",
+        "人物行为不扩大成职业偏见",
+        "depuis：从过去延续；pendant：持续多久；en：完成所用时间。",
+        "avant que + 虚拟式；après que 在规范书面语中用直陈式。",
+        "同一逻辑主语可用 avant de / après avoir；不同执行者保留从句更清楚。"
+      ]
+    },
+    {
+      "id": "JM221",
+      "number": 21,
+      "source_title": "LEÇON CINQUANTE ET UN",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-010.md",
+          "label": "LEÇON CINQUANTE ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "同一群体的不同称呼归并",
+        "多因素关系不简化成唯一因果",
+        "continuer à 与 pour + 不定式",
+        "比较须标明尺度",
+        "aussi + 形容词/副词 + que；autant de + 名词 + que。",
+        "动词 + autant que：比较动作程度或数量。",
+        "plus...plus... 表两项程度的联动变化。"
+      ]
+    },
+    {
+      "id": "JM222",
+      "number": 22,
+      "source_title": "LEÇON CINQUANTE-DEUX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-011.md",
+          "label": "LEÇON CINQUANTE-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "定义与类比分层理解",
+        "c’est-à-dire/consister à 组织解释",
+        "保留范围与条件词",
+        "历史医学材料不用于个人决策",
+        "开放未来条件：si + 现在时，结果可用将来时。",
+        "过去反事实：si + 愈过去时，结果常用条件式过去时。",
+        "si 表条件时不把条件式移进该从句；现时设想与过去反事实要分开。"
+      ]
+    },
+    {
+      "id": "JM223",
+      "number": 23,
+      "source_title": "LEÇON CINQUANTE-TROIS",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-012.md",
+          "label": "LEÇON CINQUANTE-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "物件与重复动作构成人物证据",
+        "仍然与更加的程度区分",
+        "faire + 不定式区分安排者与执行者",
+        "文学罕见时态以识别为先",
+        "同一执行者的目的常用 pour/afin de + 不定式。",
+        "不同执行者用 pour que/afin que + 明确主语 + 虚拟式。",
+        "pour ne pas + 不定式表达避免某事的目的。"
+      ]
+    },
+    {
+      "id": "JM224",
+      "number": 24,
+      "source_title": "LEÇON CINQUANTE-QUATRE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-013.md",
+          "label": "LEÇON CINQUANTE-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "人数、次数与比例分开",
+        "对照需同一口径",
+        "相关伴随不等于因果",
+        "连接词区分补充、保留、转折",
+        "bien que + 虚拟式：承认情况而保留相反预期的结论。",
+        "même si + 直陈式：即使该条件成立，主句仍然成立。",
+        "malgré + 名词组；不能无标记直接接变位从句。"
+      ]
+    },
+    {
+      "id": "JM225",
+      "number": 25,
+      "source_title": "LEÇON CINQUANTE-CINQ",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-014.md",
+          "label": "LEÇON CINQUANTE-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "承诺、措施、理由三栏核对",
+        "经济战争词汇常为比喻",
+        "promettre de 与 s’engager à",
+        "pourtant 与 en conséquence 逻辑不同",
+        "parce que 常回答为什么；puisque 常援引已知或显然的前提。",
+        "à cause de + 名词常表不利原因；grâce à + 名词常表有利帮助。",
+        "连词接从句，介词短语接名词，改写需同步调整句法。"
+      ]
+    },
+    {
+      "id": "JM226",
+      "number": 26,
+      "source_title": "LEÇON CINQUANTE-SIX",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-015.md",
+          "label": "LEÇON CINQUANTE-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "区分引述观点与作者立场",
+        "en réalité/en effet/à plus forte raison 各有作用",
+        "反事实思想实验不等于事实报告",
+        "ce que 把内容变成名词性结构",
+        "si + 形容词/副词 + que；tellement + 动词关系或 tellement de + 名词 + que。",
+        "程度结果中的 si 不等于条件连词 si。",
+        "trop...pour + 不定式表达程度导致难以实现的结果；不同执行者可用 pour que + 虚拟式。"
+      ]
+    },
+    {
+      "id": "JM227",
+      "number": 27,
+      "source_title": "LEÇON CINQUANTE-SEPT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-016.md",
+          "label": "LEÇON CINQUANTE-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "广告评价与事实分栏",
+        "offrir 不自动等于免费包含",
+        "comprend 表包含范围",
+        "摘要保留对象、项目与限制"
+      ]
+    },
+    {
+      "id": "JM228",
+      "number": 28,
+      "source_title": "LEÇON CINQUANTE-HUIT",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-017.md",
+          "label": "LEÇON CINQUANTE-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "意象不按科学定义理解",
+        "分行与句法边界未必相同",
+        "诗歌 e 的处理受体裁节奏影响",
+        "比较主题、对象、重复、节奏",
+        "AABB 相邻韵；ABAB 交替韵；ABBA 环抱韵。",
+        "按实际行末声音而非拼写判断韵组。",
+        "原创词组 soir/espoir 与 lumière/rivière 可用来排列三种韵式。"
+      ]
+    },
+    {
+      "id": "JM2R03",
+      "number": "复习3",
+      "source_title": "EXERCICES DE SYNTHESE",
+      "sources": [
+        {
+          "book": "jianming-french-volume-2",
+          "location": "chapters/008-018.md",
+          "label": "EXERCICES DE SYNTHESE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "跨册映射 JM101—JM130、JM201—JM228",
+        "先句子结构，再时态语式，后篇章概括",
+        "词典查阅服务理解而非逐词替换",
+        "错因对应具体补课入口"
+      ]
+    },
+    {
+      "id": "NB101",
+      "number": 1,
+      "source_title": "Leçon 1 — Solo mais pas trop",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0013.md",
+          "label": "物理第13页（印刷第8页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0019.md",
+          "label": "配套教师书物理第19页；对应Solo mais pas trop",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍个人生活时，先交代身份、兴趣与生活方式，再说明自己愿意认识什么样的人。",
+        "本课把认识朋友的情境转成一次真实自我介绍。"
+      ]
+    },
+    {
+      "id": "NB102",
+      "number": 2,
+      "source_title": "Leçon 2 — Vous, moi, toit",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0019.md",
+          "label": "物理第19页（印刷第14页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0023.md",
+          "label": "配套教师书物理第23页；对应Vous, moi, toit",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "解释选择时，先给结论，再给理由。",
+        "合租的理由可以是租金、空间，也可以是陪伴，不能只堆列名词。"
+      ]
+    },
+    {
+      "id": "NB103",
+      "number": 3,
+      "source_title": "Leçon 3 — SOS Service",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0025.md",
+          "label": "物理第25页（印刷第20页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0026.md",
+          "label": "配套教师书物理第26页；对应SOS Service",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "请求帮助时，礼貌不是只加一句 merci，而是给对方选择的余地。",
+        "服务消息还需要说明任务、地点、日期和预计时长，否则再礼貌也难以得到有效回复。"
+      ]
+    },
+    {
+      "id": "NB104",
+      "number": 4,
+      "source_title": "Leçon 4 — La télé-réalité",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0029.md",
+          "label": "物理第29页（印刷第24页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0029.md",
+          "label": "配套教师书物理第29页；对应La télé-réalité",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "看访谈或征集启事，先分辨节目介绍、参与条件和联络方式。",
+        "时间表里的 tous les dimanches 表示每个星期日，un dimanche sur deux 表示隔周，不能把出现次数和具体日期混为一谈。"
+      ]
+    },
+    {
+      "id": "NB105",
+      "number": 5,
+      "source_title": "Leçon 5 — Passeport pour l'Europe",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0035.md",
+          "label": "物理第35页（印刷第30页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0033.md",
+          "label": "配套教师书物理第33页；对应Passeport pour l'Europe",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "叙述一段交换学习经历，需要让听者分清背景与事件。",
+        "先在纸上画出时间线，再把背景放在事件背后：抵达之前担心什么、抵达时发生什么、后来有什么改变。"
+      ]
+    },
+    {
+      "id": "NB106",
+      "number": 6,
+      "source_title": "Leçon 6 — Devenir français",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0040.md",
+          "label": "物理第40页（印刷第35页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0036.md",
+          "label": "配套教师书物理第36页；对应Devenir français",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0042.md",
+          "label": "补充核对：物理第42页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0177.md",
+          "label": "补充核对：物理第177页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍居住或学习经历，关键在于起点、长度与是否继续。",
+        "本课以历史身份资料训练时间表达，不把教材中的旧法律条文当作当前办事规则。",
+        "ça fait+时长+que / il y a+时长+que 表持续；il y a+时长（无que）可定位过去事件。",
+        "三鼻元音分类与 bon/bonne 对照；文字分类、个人发音与原录音听辨分项记录。"
+      ]
+    },
+    {
+      "id": "NB107",
+      "number": 7,
+      "source_title": "Leçon 7 — Égalité pour tous ?",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0045.md",
+          "label": "物理第45页（印刷第40页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0040.md",
+          "label": "配套教师书物理第40页；对应Égalité pour tous ?",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "投诉或见证中的时间顺序决定了事实是否清楚。",
+        "写经历时把可观察事实和自己的判断分开：对方先说了什么、自己提交了什么、后来又发现什么。"
+      ]
+    },
+    {
+      "id": "NB108",
+      "number": 8,
+      "source_title": "Leçon 8 — France Europe Express",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0051.md",
+          "label": "物理第51页（印刷第46页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0044.md",
+          "label": "配套教师书物理第44页；对应France Europe Express",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "旅游宣传把吸引人的信息放得显眼，适用对象、有效期和使用范围却可能分散在不同位置。",
+        "提出异议时先说明自己的预订或购买事实，再指出宣传与实际服务之间的具体差异，最后提出希望得到的解释或解决办法。"
+      ]
+    },
+    {
+      "id": "NB109",
+      "number": 9,
+      "source_title": "Leçon 9 — Que la fête commence !",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0059.md",
+          "label": "物理第59页（印刷第54页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0047.md",
+          "label": "配套教师书物理第47页；对应Que la fête commence !",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0062.md",
+          "label": "补充核对：物理第62页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0048.md",
+          "label": "补充核对：物理第48页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "比较活动的变化，要同时说清比较对象与维度。",
+        "描述节庆发展可先给过去状态，再给现在状态，最后解释变化带来的影响。",
+        "de plus en plus / de moins en moins 表趋势；名词前补 de，形容词前不补。"
+      ]
+    },
+    {
+      "id": "NB110",
+      "number": 10,
+      "source_title": "Leçon 10 — On connaît la chanson",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0065.md",
+          "label": "物理第65页（印刷第60页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0050.md",
+          "label": "配套教师书物理第50页；对应On connaît la chanson",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0067.md",
+          "label": "补充核对：物理第67页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0068.md",
+          "label": "补充核对：物理第68页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "推荐歌手时，先交代一项经历或作品，再给出偏爱的具体理由。",
+        "在现在时中，宾语代词通常放在变位动词前；在复合时态中放在助动词前。",
+        "parler à quelqu'un→lui parler；penser à quelqu'un→penser à elle/lui；penser à quelque chose→y penser。"
+      ]
+    },
+    {
+      "id": "NB111",
+      "number": 11,
+      "source_title": "Leçon 11 — À l'affiche du bac",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0071.md",
+          "label": "物理第71页（印刷第66页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0053.md",
+          "label": "配套教师书物理第53页；对应À l'affiche du bac",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0072.md",
+          "label": "补充核对：物理第72页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0073.md",
+          "label": "补充核对：物理第73页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0074.md",
+          "label": "补充核对：物理第74页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0178.md",
+          "label": "补充核对：物理第178页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "论证一个学习主题是否有价值，先说明观点，再给一条理由和一个例子。",
+        "本课把歌曲进入学习与考试的话题转成一个小型课程提案。",
+        "确定度、评价方向与程度是三个维度；同一事实可以另加庆幸或遗憾。",
+        "必须联诵的限定词+名词、禁止联诵的 et 后/单数名词后，与本来发音辅音的 enchaînement 区别。"
+      ]
+    },
+    {
+      "id": "NB112",
+      "number": 12,
+      "source_title": "Leçon 12 — Les Francofolies",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0077.md",
+          "label": "物理第77页（印刷第72页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0056.md",
+          "label": "配套教师书物理第56页；对应Les Francofolies",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "节庆资料中的日期、地点、票务、交通与住宿属于不同信息层，阅读时最好画成表格。",
+        "出行建议可以用 pour 加不定式说明目的，用 si 引出条件。"
+      ]
+    },
+    {
+      "id": "NB113",
+      "number": 13,
+      "source_title": "Leçon 13 — New York, New York",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0087.md",
+          "label": "物理第87页（印刷第82页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0063.md",
+          "label": "配套教师书物理第63页；对应New York, New York",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0088.md",
+          "label": "补充核对：物理第88页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0089.md",
+          "label": "补充核对：物理第89页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "描述城市环境时，关系从句能把两条信息连成一幅更连贯的画面。",
+        "城市文字还带有作者感受。",
+        "qui 填主语、que 填直接宾语、où 填地点/时间、dont 回指 de 补语或所属关系。"
+      ]
+    },
+    {
+      "id": "NB114",
+      "number": 14,
+      "source_title": "Leçon 14 — Côté jardin",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0091.md",
+          "label": "物理第91页（印刷第86页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0066.md",
+          "label": "配套教师书物理第66页；对应Côté jardin",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0093.md",
+          "label": "补充核对：物理第93页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0178.md",
+          "label": "补充核对：物理第178页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "询问展览信息时，先说自己的参观需要，再问开放时间、费用、预约与导览。",
+        "阅读花园或展览介绍时，把客观条件与宣传评价分开：面积、日期较容易核实，exceptionnel 等评价需要具体内容支持。",
+        "节奏组按意义划分，主要重音在组末；不拆冠词与名词，不把延续上扬当作绝对规则。"
+      ]
+    },
+    {
+      "id": "NB115",
+      "number": 15,
+      "source_title": "Leçon 15 — Sur les pavés, la plage",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0096.md",
+          "label": "物理第96页（印刷第91页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0069.md",
+          "label": "配套教师书物理第69页；对应Sur les pavés, la plage",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讲述城市夏日活动时，先交代活动发生在哪里，再按时间说自己做了什么。",
+        "如果说 les photos que j'ai prises，que 指向前面的复数阴性 photos，因此 prises 配合；若说 j'ai pris des photos，宾语在后，通常不配合。"
+      ]
+    },
+    {
+      "id": "NB116",
+      "number": 16,
+      "source_title": "Leçon 16 — Paris autrement",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0101.md",
+          "label": "物理第101页（印刷第96页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0072.md",
+          "label": "配套教师书物理第72页；对应Paris autrement",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "项目介绍要回答问题、对象、行动与预期效果，不能只写“让城市更美好”。",
+        "看项目征集时，先找主办者、参加资格、提交方式和截止日期，再判断自己的提案是否符合要求。"
+      ]
+    },
+    {
+      "id": "NB117",
+      "number": 17,
+      "source_title": "Leçon 17 — Les enfants du rock",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0107.md",
+          "label": "物理第107页（印刷第102页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0076.md",
+          "label": "配套教师书物理第76页；对应Les enfants du rock",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0110.md",
+          "label": "补充核对：物理第110页",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0179.md",
+          "label": "补充核对：物理第179页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "谈年龄群体时，quelques 表示一些，plusieurs 表示好几个，certains 指部分成员；它们不等于 tous。",
+        "描述行为时先交代观察对象，再说变化与个人差异。",
+        "任意：n'importe quel；全无：aucun…ne；同一：les mêmes；另一些：d'autres；注意性数及冠词。",
+        "g：/ɡ/、/ʒ/；gu保留硬音、ge保留软音；gn常读/ɲ/。"
+      ]
+    },
+    {
+      "id": "NB118",
+      "number": 18,
+      "source_title": "Leçon 18 — Et si c'était vous ?",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0113.md",
+          "label": "物理第113页（印刷第108页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0080.md",
+          "label": "配套教师书物理第80页；对应Et si c'était vous ?",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "想象如果条件不同自己会如何选择，常用 si 加未完成过去时，主句用条件式现在时。",
+        "谈中奖或突然有空的设想时，把“想做什么”进一步说成优先顺序与理由。"
+      ]
+    },
+    {
+      "id": "NB119",
+      "number": 19,
+      "source_title": "Leçon 19 — Chambres à louer",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0117.md",
+          "label": "物理第117页（印刷第112页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0083.md",
+          "label": "配套教师书物理第83页；对应Chambres à louer",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "复盘开民宿等转变经历时，条件式过去时常用来表达未实现的可能、遗憾或对过去行为的评价。",
+        "给别人提改进意见时，先承认其努力，再指出可以改变的一步，比连续责备更利于讨论。"
+      ]
+    },
+    {
+      "id": "NB120",
+      "number": 20,
+      "source_title": "Leçon 20 — Terres d'aventures",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0123.md",
+          "label": "物理第123页（印刷第118页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0086.md",
+          "label": "配套教师书物理第86页；对应Terres d'aventures",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "申请冒险或志愿项目时，兴趣只是起点，还需要说明你能承担什么。",
+        "阅读项目网页先找目标、地点、时长、参加条件与组织方式，之后再写申请，避免同一封空泛信投给所有活动。"
+      ]
+    },
+    {
+      "id": "NB121",
+      "number": 21,
+      "source_title": "Leçon 21 — Dans les normes",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0129.md",
+          "label": "物理第129页（印刷第124页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0089.md",
+          "label": "配套教师书物理第89页；对应Dans les normes",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "说明规则时，要分清必须遵守的要求和个人建议。",
+        "无人称结构的 il 不代表某个男性人物；il est important de 加不定式是在评价行动。"
+      ]
+    },
+    {
+      "id": "NB122",
+      "number": 22,
+      "source_title": "Leçon 22 — Jour de fête",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0133.md",
+          "label": "物理第133页（印刷第128页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0093.md",
+          "label": "配套教师书物理第93页；对应Jour de fête",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "说明文化活动时，可以用代词、同义词和概括性名词减少重复，但替换必须让所指明确。",
+        "给活动参与者发指引，要写清准备、到场、参与和结束步骤。"
+      ]
+    },
+    {
+      "id": "NB123",
+      "number": 23,
+      "source_title": "Leçon 23 — À table !",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0138.md",
+          "label": "物理第138页（印刷第133页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0097.md",
+          "label": "配套教师书物理第97页；对应À table !",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍用餐习惯，不能只把钟点、地点与食物排成清单。",
+        "比较不同家庭时，用具体条件解释差异，例如下班时间与家庭人数，避免把一张照片读成所有人的常态。"
+      ]
+    },
+    {
+      "id": "NB124",
+      "number": 24,
+      "source_title": "Leçon 24 — La semaine du goût",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0143.md",
+          "label": "物理第143页（印刷第138页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0100.md",
+          "label": "配套教师书物理第100页；对应La semaine du goût",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍教育类美食活动，需要分清宗旨、参加者和具体活动。",
+        "讲活动发展可按创办、扩大和现状三个阶段组织。"
+      ]
+    },
+    {
+      "id": "NB1R01",
+      "number": "R01",
+      "source_title": "Savoir-faire — Unité 1",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0033.md",
+          "label": "物理第33页（印刷第28页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0032.md",
+          "label": "配套教师书物理第32页；对应Savoir-faire — Unité 1",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "综合任务的难点是把信息交给正确的人。",
+        "转告时不要把未知内容补成事实。"
+      ]
+    },
+    {
+      "id": "NB1R02",
+      "number": "R02",
+      "source_title": "Savoir-faire — Unité 2",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0057.md",
+          "label": "物理第57页（印刷第52页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0046.md",
+          "label": "配套教师书物理第46页；对应Savoir-faire — Unité 2",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "复述他人的经历要区分资料明确给出的内容和没有提到的内容。",
+        "投诉写作同样需要这种证据意识。"
+      ]
+    },
+    {
+      "id": "NB1R03",
+      "number": "R03",
+      "source_title": "Savoir-faire — Unité 3",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0081.md",
+          "label": "物理第81页（印刷第76页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0059.md",
+          "label": "配套教师书物理第59页；对应Savoir-faire — Unité 3",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "音乐推荐应让没听过作品的人也能判断是否适合自己。",
+        "表达不同意见可以用 je comprends…mais…，承认理解不等于同意。"
+      ]
+    },
+    {
+      "id": "NB1R04",
+      "number": "R04",
+      "source_title": "Savoir-faire — Unité 4",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0105.md",
+          "label": "物理第105页（印刷第100页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0075.md",
+          "label": "配套教师书物理第75页；对应Savoir-faire — Unité 4",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "社区讨论同时包含愿望与安排，二者应分清。",
+        "制作活动海报，要把名称、对象、要交什么、何时截止、如何提交分成易找的栏目。"
+      ]
+    },
+    {
+      "id": "NB1R05",
+      "number": "R05",
+      "source_title": "Savoir-faire — Unité 5",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0127.md",
+          "label": "物理第127页（印刷第122页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0088.md",
+          "label": "配套教师书物理第88页；对应Savoir-faire — Unité 5",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "转行介绍要让听者看见动机与能力之间的联系：过去做什么、为什么改变、现在准备怎样做。",
+        "访谈中的追问应围绕决定、准备、困难和支持，不必把所有私人细节都问完。"
+      ]
+    },
+    {
+      "id": "NB1R06",
+      "number": "R06",
+      "source_title": "Savoir-faire — Unité 6",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0147.md",
+          "label": "物理第147页（印刷第142页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0103.md",
+          "label": "配套教师书物理第103页；对应Savoir-faire — Unité 6",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "菜谱能否成功，取决于别人能不能照步骤做。",
+        "文化周末的协商需要把不同偏好放在共同条件下比较：日期、地点、预算、适合对象与交通。"
+      ]
+    },
+    {
+      "id": "NB1E01",
+      "number": "E01",
+      "source_title": "Évaluation 1 — DELF B1（原书栏目）",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0082.md",
+          "label": "物理第82页（印刷第77页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0060.md",
+          "label": "配套教师书物理第60页（印刷第56页）；Évaluation 1",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "阶段检验应观察能完成什么任务，而不是把选择题得分直接换成语言等级。",
+        "写作或口语论述可以按观点、原因、例子、限制组织。"
+      ]
+    },
+    {
+      "id": "NB1E02",
+      "number": "E02",
+      "source_title": "Évaluation 2 — DELF B1（原书栏目）",
+      "sources": [
+        {
+          "book": "nihao-b1-student",
+          "location": "pages/0148.md",
+          "label": "物理第148页（印刷第143页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-b1-teacher",
+          "location": "pages/0104.md",
+          "label": "配套教师书物理第104页（印刷第100页）；Évaluation 2",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "城市与自然、人生变化和本地饮食可以从同一个方法切入：先定义讨论对象，再说明利弊及适用条件。",
+        "综合输出应同时检查叙述与论证：过去经历是否有时间顺序，建议是否说明对象，连接词是否表示真实逻辑。"
+      ]
+    },
+    {
+      "id": "N425",
+      "number": 25,
+      "source_title": "Leçon 25 — Un monde idéal...",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0014.md",
+          "label": "物理第14页（印刷第8页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0016.md",
+          "label": "补充核对：物理第16页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "谈理想工作环境，先区分可观察条件与个人评价：工作时长、通勤方式与合同安排是条件，满意或失望是态度。",
+        "意见不是把好坏形容词连在一起，而是提出标准和证据。",
+        "本课默认对照：penser/croire肯定+直陈式；否定表达疑虑时+虚拟式。"
+      ]
+    },
+    {
+      "id": "N426",
+      "number": 26,
+      "source_title": "Leçon 26 — Travailler autrement",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0018.md",
+          "label": "物理第18页（印刷第12页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论远程工作要分别观察通勤、家庭安排与产出要求，不能只用“自由”概括。",
+        "当两个动作的执行者相同时，je souhaite travailler 可直接接不定式；若希望另一个人采取行动，je souhaite que 后需要带主语的分句。"
+      ]
+    },
+    {
+      "id": "N427",
+      "number": 27,
+      "source_title": "Leçon 27 — Pause",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0022.md",
+          "label": "物理第22页（印刷第16页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0023.md",
+          "label": "补充核对：物理第23页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讲休假项目时，先把准备、出发与返回排在时间线上。",
+        "尚未发生的时间关系也要按法语规则选择语式：avant que 强调尚待发生，après que 按规范用直陈式，不能因为都有 que 就一律用虚拟式。",
+        "jusqu'à ce que+虚拟式标出持续行动的终点，与 avant que、pendant que 区分。"
+      ]
+    },
+    {
+      "id": "N428",
+      "number": 28,
+      "source_title": "Leçon 28 — Le Futuroscope",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0026.md",
+          "label": "物理第26页（印刷第20页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "阅读团体出游方案，先区分基本套餐、需预约服务和另收费选项。",
+        "给组织者的咨询先说人数与日期，再问尚未明确的条件。"
+      ]
+    },
+    {
+      "id": "N429",
+      "number": 29,
+      "source_title": "Leçon 29 — Cyberacheteurs",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0032.md",
+          "label": "物理第32页（印刷第26页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "谈网购时先说明买什么，再说明你凭哪些信息选择。",
+        "如果关系从句中介词是 sur，描述网站可说 sur lequel；若表示 avec、pour、sans，也要保留原介词。"
+      ]
+    },
+    {
+      "id": "N430",
+      "number": 30,
+      "source_title": "Leçon 30 — Service compris",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0038.md",
+          "label": "物理第38页（印刷第32页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0040.md",
+          "label": "补充核对：物理第40页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论小费与服务费时，先分清已计入价格的项目和个人另行给出的金额。",
+        "强调句不是简单地在句首加 c'est，再把后面照抄。",
+        "Ce qui/ce que/ce dont 按从句功能选择；c'est…qui/que 是另一种强调外框。"
+      ]
+    },
+    {
+      "id": "N431",
+      "number": 31,
+      "source_title": "Leçon 31 — Moins c'est cher, plus on dépense !",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0043.md",
+          "label": "物理第43页（印刷第37页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "谈消费心理时，便宜不一定等于总支出更少。",
+        "名词化可把行为压缩为一个主题，例如从 acheter 转为 achat，从 augmenter 转为 augmentation。"
+      ]
+    },
+    {
+      "id": "N432",
+      "number": 32,
+      "source_title": "Leçon 32 — Vendre à tout prix",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0048.md",
+          "label": "物理第48页（印刷第42页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "促销信常先制造受重视的感觉，再强调限时、礼物与节省金额。",
+        "自己写商业建议时，要说清适合对象、解决的问题与完整条件，避免把免费赠品当作产品价值的唯一依据。"
+      ]
+    },
+    {
+      "id": "N433",
+      "number": 33,
+      "source_title": "Leçon 33 — Vie privée, vie publique",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0054.md",
+          "label": "物理第54页（印刷第48页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论通信技术将怎样改变生活，应区分已有事实、个人预测和自己的计划。",
+        "一个观点最好同时给利益与风险，再指出适用条件。"
+      ]
+    },
+    {
+      "id": "N434",
+      "number": 34,
+      "source_title": "Leçon 34 — Un défi à relever",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0058.md",
+          "label": "物理第58页（印刷第52页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "环保行动要从可观察的小步骤说起：关机、分类、减少不必要包装，比“保护地球”更容易检查。",
+        "例如先完成讨论，再启动计划，quand 后的完成动作可用先将来时，主句用简单将来时。"
+      ]
+    },
+    {
+      "id": "N435",
+      "number": 35,
+      "source_title": "Leçon 35 — Révolutions",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0063.md",
+          "label": "物理第63页（印刷第57页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "阅读科学争论时，先分清发现、解释、用途和立场。",
+        "叙述重要科学事件可以先交代背景，再说新变化，最后指出仍有疑问的地方。"
+      ]
+    },
+    {
+      "id": "N436",
+      "number": 36,
+      "source_title": "Leçon 36 — L'ère du numérique",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0068.md",
+          "label": "物理第68页（印刷第62页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍数字设备先回答它是什么、能做什么、需要什么条件。",
+        "推荐设备可采用功能、适合对象、限制与使用条件四步。"
+      ]
+    },
+    {
+      "id": "N437",
+      "number": 37,
+      "source_title": "Leçon 37 — Du rire aux larmes",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0078.md",
+          "label": "物理第78页（印刷第72页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "转述别人看电影的经历，先明确谁在什么时候说了什么。",
+        "人称、物主词和时间副词也要随着说话者改变，原话里的“我”不一定还是转述者本人。"
+      ]
+    },
+    {
+      "id": "N438",
+      "number": 38,
+      "source_title": "Leçon 38 — Un monde à part",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0082.md",
+          "label": "物理第82页（印刷第76页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论博物馆是否容易接近，要把价格、说明方式、空间安排与个人兴趣分别观察。",
+        "si 加形容词或副词再加 que 表示程度达到某种结果，例如说明太复杂以致读者放弃。"
+      ]
+    },
+    {
+      "id": "N439",
+      "number": 39,
+      "source_title": "Leçon 39 — Journées portes ouvertes",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0086.md",
+          "label": "物理第86页（印刷第80页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍开放日要分清哪些场所开放、哪些人能参加，以及特别安排服务于谁。",
+        "afin que 与 pour que 都可说明目的，但目的不保证实现。"
+      ]
+    },
+    {
+      "id": "N440",
+      "number": 40,
+      "source_title": "Leçon 40 — De l'art pour le Petit Léonard",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0090.md",
+          "label": "物理第90页（印刷第84页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "介绍儿童艺术杂志，不只复述封面主题，还要解释读者能做什么：观察作品、找细节、认识时代或参加活动。",
+        "面向家长时强调阅读支持与活动方式，面向孩子时用简短问题和可做的动作。"
+      ]
+    },
+    {
+      "id": "N441",
+      "number": 41,
+      "source_title": "Leçon 41 — Restons zen !",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0096.md",
+          "label": "物理第96页（印刷第90页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论道路行为时，副词能说明怎样、多久或多频繁，但不同类型的位置并不相同。",
+        "描述调查结果要同时保留比例、调查对象与所问的问题。"
+      ]
+    },
+    {
+      "id": "N442",
+      "number": 42,
+      "source_title": "Leçon 42 — Cliché ou réalité ?",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0100.md",
+          "label": "物理第100页（印刷第94页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0102.md",
+          "label": "补充核对：物理第102页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "评论国民形象时，要把广告的幽默、调查的回答与群体事实分开。",
+        "驳斥刻板印象可以先引用一个有限的判断，再用反例或资料缩小范围，不必以另一个全称断言对抗它。",
+        "une centaine/un millier 为大约数量级；les deux tiers、les trois quarts、un sur trois 为有基数的比例。"
+      ]
+    },
+    {
+      "id": "N443",
+      "number": 43,
+      "source_title": "Leçon 43 — En grève",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0104.md",
+          "label": "物理第104页（印刷第98页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "交通中断叙述容易出现多人、多件物品，代词顺序会直接影响听者理解。",
+        "肯定祈使句的顺序会变化，例如 donnez-le-moi，否定祈使句则回到动词前的常见次序。"
+      ]
+    },
+    {
+      "id": "N444",
+      "number": 44,
+      "source_title": "Leçon 44 — Les vraies-fausses idées reçues",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0108.md",
+          "label": "物理第108页（印刷第102页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "两篇谈同一群体的文章可能引用不同年份、问题和测量方式。",
+        "复述数字要保留对象、单位和时段，par semaine 与 par an 不可混读。"
+      ]
+    },
+    {
+      "id": "N445",
+      "number": 45,
+      "source_title": "Leçon 45 — Aller au bout de ses rêves",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0114.md",
+          "label": "物理第114页（印刷第108页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "表达旅行或挑战梦想时，quelque part 表某个地方，n'importe où 表任何地方，nulle part 在否定结构中表示哪里都不。",
+        "愿望可用 j'aimerais 加不定式表达，再说明阻碍、条件和第一步。"
+      ]
+    },
+    {
+      "id": "N446",
+      "number": 46,
+      "source_title": "Leçon 46 — La roue de la fortune",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0118.md",
+          "label": "物理第118页（印刷第112页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论有争议的公益方案，先区分目标与手段：帮助某人是目标，竞赛、宣传或资助是方法。",
+        "对比观点可用 contrairement à 加名词或代词，au lieu de 表示替代行为，pourtant 则在承认前项后强调出乎预料的结果。"
+      ]
+    },
+    {
+      "id": "N447",
+      "number": 47,
+      "source_title": "Leçon 47 — Coup de cœur, coup de gueule",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0122.md",
+          "label": "物理第122页（印刷第116页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "表达对已经发生之事的喜悦、失望或惊讶，情绪或评价结构之后可使用虚拟式过去时。",
+        "比较 je suis content qu'il vienne 与 je suis content qu'il soit venu，前者关注来这件事，后者强调已经来过。"
+      ]
+    },
+    {
+      "id": "N448",
+      "number": 48,
+      "source_title": "Leçon 48 — L'esprit critique",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0126.md",
+          "label": "物理第126页（印刷第120页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "影评先给读者必要背景，再描述一项能支持判断的细节，不必把全部剧情讲完。",
+        "连贯影评可以按简述、优点、限制、适合对象组织。"
+      ]
+    },
+    {
+      "id": "N4R01",
+      "number": "R01",
+      "source_title": "Savoir-faire — Unité 7",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0030.md",
+          "label": "物理第30页（印刷第24页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "活动承办询价与求职准备看似不同，都需要先明确对方需求。",
+        "志愿服务的讨论涉及时间分配与个人选择，可以赞成帮助他人，也可以提出精力与休息的限制。"
+      ]
+    },
+    {
+      "id": "N4R02",
+      "number": "R02",
+      "source_title": "Savoir-faire — Unité 8",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0052.md",
+          "label": "物理第52页（印刷第46页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "推荐通信或消费套餐，必须先知道使用者需求，再比较同一计费基准下的费用、承诺期与限制。",
+        "讲金钱如何影响生活，则要把收入、选择与价值判断分开。"
+      ]
+    },
+    {
+      "id": "N4R03",
+      "number": "R03",
+      "source_title": "Savoir-faire — Unité 9",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0072.md",
+          "label": "物理第72页（印刷第66页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "产品信息卡要先定义设备类别，再说明三项功能、使用条件与限制。",
+        "隐私论坛发言可以按担心什么、为什么、接受什么条件、建议怎样改进组织。"
+      ]
+    },
+    {
+      "id": "N4R04",
+      "number": "R04",
+      "source_title": "Savoir-faire — Unité 10",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0094.md",
+          "label": "物理第94页（印刷第88页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "文化推荐需要把活动特色和听者需求接起来。",
+        "调查摘要要保留样本范围、提问方式和比例，不能把一小组儿童结果说成所有人的阅读习惯。"
+      ]
+    },
+    {
+      "id": "N4R05",
+      "number": "R05",
+      "source_title": "Savoir-faire — Unité 11",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0112.md",
+          "label": "物理第112页（印刷第106页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "报告身份或习惯调查时，先说明问题与受访者，再呈现比例，最后谨慎解释。",
+        "回应引起争议的幽默图像，先描述自己看到的内容，再解释为何不舒服，同时听取对方认为好笑的理由。",
+        "虚构六人数据：4/6自豪、3/6支持教学；两题不可等同，样本不得外推。"
+      ]
+    },
+    {
+      "id": "N4R06",
+      "number": "R06",
+      "source_title": "Savoir-faire — Unité 12",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0130.md",
+          "label": "物理第130页（印刷第124页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "观后反馈、公民意见和志愿介绍都需要让对方知道你希望发生什么。",
+        "讨论希望与遗憾时，注意动作是否已经发生。"
+      ]
+    },
+    {
+      "id": "N4E03",
+      "number": "E03",
+      "source_title": "Évaluation 3 — DELF B1（原书栏目）",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0073.md",
+          "label": "物理第73页（印刷第67页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "阶段检验关注如何从资料形成判断：先找远程工作的好处、风险与尚未明确的影响，再分别归类。",
+        "输出可用一个立场、两条依据、一个反面情况和一项适用条件组织。"
+      ]
+    },
+    {
+      "id": "N4E04",
+      "number": "E04",
+      "source_title": "Évaluation 4 — DELF B1（原书栏目）",
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0131.md",
+          "label": "物理第131页（印刷第125页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "teaching_points": [
+        "讨论旅行为何有价值，先把自己的期待、材料作者的观点和可观察经历分开。",
+        "综合论述可先概括主题，再赞同一部分、提出一项限制，最后给出个人选择及条件。"
+      ]
+    }
+  ],
+  "scope": "Original Chinese companion microcourses; all original numbered lessons and named reviews mapped. Original audio remains untested when unavailable."
+}

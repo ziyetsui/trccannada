@@ -1,0 +1,11 @@
+Use case: illustration-story / precise semantic correction. Image 1 is the EDIT TARGET. Preserve the exact warm-ivory SIMPLE FLAT PICTURE-BOOK style, bold charcoal outlines, teal/tangerine adult characters, clear readable hands and objects, landscape 3:2. Remove only the misleading details named below; maintain the target meaning, participant roles and mnemonic props. No photorealism, no 3D, no ornate scenery. No printed French or Chinese answer sentence, labels, captions, logos, watermarks or fake typography. Essential concrete calendar/time numerals or weekday abbreviations are allowed ONLY where explicitly requested because time is the learning target.
+
+CORRECTION:
+Keep the same vegetables, chopping-before-cooking sequence, chef, chopping board and cooking pot. Replace ONLY the ambiguous analog timer with a clean small DIGITAL kitchen countdown timer placed beside the pot. Its display must read exactly 10:00 (ten minutes zero seconds), with no other digits or words and no analog red half-circle. This is a ten-minute timer, not thirty minutes, not ten hours. Keep it a recognizable compact kitchen minutes:seconds timer; a tiny minute-hand pictogram is okay but no written unit label. The timer is just starting as the SAME chopped vegetables are tipped into the heated pot. Preserve the same coherent kitchen scene, warm ivory background and 3:2 framing.
+
+CONTEXT ONLY, NEVER PRINT THE FOLLOWING:
+French target: Coupez les légumes, puis faites-les cuire pendant dix minutes.
+Meaning: 切好蔬菜，然后把它们煮十分钟。
+Sound hook: 库佩，奎尔
+Original mnemonic: 厨师库佩先切蔬菜，再把同一盘蔬菜倒入锅中，旁边十分钟计时器开始走。画面不出现文字、标签或字幕。
+The target sentence takes priority over incidental mnemonic details. Keep one image with clear visual evidence for the target meaning.

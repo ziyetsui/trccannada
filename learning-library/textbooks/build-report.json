@@ -1,0 +1,17 @@
+{
+  "books": 5,
+  "source_books": 6,
+  "lessons": 176,
+  "quizzes": 422,
+  "illustrated": 176,
+  "pending": [],
+  "public_source_fulltext": false,
+  "content_status": "original_companion_draft",
+  "counts": {
+    "nihao-a1": 49,
+    "jianming-1": 32,
+    "jianming-2": 31,
+    "nihao-b1": 32,
+    "nihao-4": 32
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Each manuscript file is a JSON object with book metadata and lessons. All instructional prose is original Chinese assistance, not source transcription.",
+  "book": {"id": "jianming-1", "title": "简明法语·上", "subtitle": "语音到基础句法", "level": "基础", "role": "语音补充", "source_slugs": ["jianming-french-volume-1"], "lessons": []},
+  "lesson": {
+    "id": "JM101", "number": 1, "title": "中文任务标题", "source_title": "原课标题", "minutes": 20,
+    "goal": "学完能做的具体任务", "prerequisites": [],
+    "sources": [{"book": "jianming-french-volume-1", "location": "chapters/006-003.md", "label": "第1课", "review_status": "native_text_checked"}],
+    "explanation": "至少两段有针对性的中文讲解；明确本课重要规则和边界",
+    "analogy": "一个三岁也能理解、适合成人学习的类比",
+    "teaching_points": ["其他知识点及关键对比，至少两项"],
+    "anchor": {"fr": "法语完整核心句", "zh": "中文意思", "sound": "中文近音钩子", "movie": "声音道具参与句意的单一情境", "pronunciation": "准确发音注意点；近音不能代替发音", "reuse_id": null},
+    "quiz": [{"prompt": "有区分度的独立练习题", "choices": ["选项A", "选项B", "选项C"], "answer": 0, "reason": "具体解释正确和易错原因"}],
+    "application": "一分钟输出任务，进阶课可以更长；给清晰场景和要求",
+    "self_check": ["可观察的输出验收标准"],
+    "teacher_notes": "B1配套教师资料核对后的建议，其他书可空",
+    "status": "original-companion-draft"
+  },
+  "rules": ["Every original numbered lesson gets one companion; review/application source sections get named separate companions or explicit mapping, never silently skipped.", "At least two quiz items per lesson; one carefully chosen illustrated anchor, remaining learning points practiced through explanation, contrasts and transfer.", "reuse_id only if exact fr/zh/sound/movie copied from existing sentence-illustrations.json, and the target matches this lesson goal; never force an unrelated existing illustration.", "Use original examples and exercises. No fabricated source page numbers, audio answers, CEFR certification or immigration advice.", "No private absolute source paths in public content; PDF location uses pages/NNNN.md with physical page labels, EPUB uses chapter relative paths."]
+}

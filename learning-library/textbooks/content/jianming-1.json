@@ -1,0 +1,2123 @@
+{
+  "id": "jianming-1",
+  "title": "简明法语·上",
+  "subtitle": "语音、基础句法与生活表达",
+  "level": "基础补充",
+  "role": "与 A1 主线按需搭配的语音与句法补充",
+  "source_slugs": [
+    "jianming-french-volume-1"
+  ],
+  "editorial_notes": "本站原创中文辅助课程，按原课与复习覆盖；无需逐本线性通读。源书部分音素表是图片，字体依赖 IPA 提取不完整；不信任源文自定义字形，本课采用通行法语读音规则。中文近音只是记忆提示，不是音标。阅读篇中的统计、医学、社会与商业论述属于原书历史材料，不作为当前事实或建议。",
+  "lessons": [
+    {
+      "id": "JM101",
+      "number": 1,
+      "title": "先听元音，再介绍一个人",
+      "source_title": "LEÇON UN 第1课",
+      "minutes": 20,
+      "goal": "用你选择的人名和城市说三句：这是谁、他或她在哪里，再连贯朗读",
+      "prerequisites": [],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-003.md",
+          "label": "LEÇON UN 第1课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "第一次开口先把声音与字母分开：一个音节围绕一个真正发出的元音建立，词中有几个元音字母，并不一定就有几个音节。读 Lina 时听见两个元音中心，读 Lille 则只有一个。用手轻触喉部，对比清辅音与浊辅音时有没有振动，不要把所有法语辅音都读成带一个汉语韵母的完整字。\n\n介绍人可先用 c’est 加姓名；说明他在哪里，再用 il est à 加城市，女性用 elle。à 是地点连接词，人名和城市首字母大写。句末停顿前可以略突出节奏组最后一个发音音节，不要逐字重击。教材音素表包含图片，个别原文符号不可直接当作可靠音标；本课用完整句帮助你把节奏听成一条线。",
+      "analogy": "元音像串珠的珠子，辅音像连接处；数珠子，才知道声音分成几段。",
+      "teaching_points": [
+        "音节以实际读出的元音为中心",
+        "c’est 识别人；il/elle est à 表示位置",
+        "清浊用声带振动辨认"
+      ],
+      "anchor": {
+        "fr": "Elle est à Lyon.",
+        "zh": "她在里昂。",
+        "sound": "“艾莱塔”拉着“里昂”小狮子。",
+        "movie": "一位女士站在里昂的街头，牵着一只小狮子，朋友指着她介绍所在城市。",
+        "pronunciation": "elle est 连贯读作 /ɛ.lɛ/；est à 常有 /t/ 联诵；Lyon 为 /ljɔ̃/，不发结尾 n；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "哪个回答说明她在哪里？",
+          "choices": [
+            "Elle est à Lyon.",
+            "C’est Lina.",
+            "Elle est journaliste."
+          ],
+          "answer": 0,
+          "reason": "à Lyon 给出城市；另外两句分别识别人和说明职业。"
+        },
+        {
+          "prompt": "Lille /lil/ 有几个音节？",
+          "choices": [
+            "两个",
+            "四个",
+            "一个"
+          ],
+          "answer": 2,
+          "reason": "只有一个实际发出的元音 /i/，双写 l 不增加音节。"
+        }
+      ],
+      "application": "用你选择的人名和城市说三句：这是谁、他或她在哪里，再连贯朗读。",
+      "self_check": [
+        "能区分识别句和地点句",
+        "不在每个辅音后添加汉语元音"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM102",
+      "number": 2,
+      "title": "问是不是，并说职业",
+      "source_title": "LEÇON DEUX 第2课",
+      "minutes": 20,
+      "goal": "为两位虚构同事各写一个职业句，再用 est-ce que 向搭档确认",
+      "prerequisites": [
+        "JM101"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-004.md",
+          "label": "LEÇON DEUX 第2课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "想确认身份，可以把 est-ce que 放到完整陈述句前。它本身已经标记疑问，后面保留主语加动词的顺序，不必再把主语倒装。先说陈述句，再加问句框架，比一边选词一边换顺序容易。回答 oui 后补一个完整短句，能让对方听清你确认的究竟是什么。\n\n用 il est 或 elle est 直接说明普通职业时，职业名词前通常不加冠词；用 c’est 来识别人则常带 un 或 une。journaliste 男女词形相同，不能仅凭词尾猜性别。发音上区分 /ʃ/ 与 /ʒ/：嘴形相近，后者声带振动；/œ/ 要圆唇，别把 chercheur 拆成几个汉字的独立重音。对职业提问时，应区分“这是谁”和“他做什么工作”；身份确认与职业询问需要不同答案，回答不能只重复姓名。",
+      "analogy": "疑问框架像门口一块问号牌，牌子立好，屋里的家具顺序不用重摆。",
+      "teaching_points": [
+        "est-ce que 后保持陈述词序",
+        "être 后无修饰的职业常省冠词",
+        "/ʃ/ 与 /ʒ/ 对比声带振动"
+      ],
+      "anchor": {
+        "fr": "Elle est journaliste.",
+        "zh": "她是记者。",
+        "sound": "“艾莱”拿着“茹纳”新闻本。",
+        "movie": "一位女士拿着像小日记本的新闻本，在街头举麦克风采访。",
+        "pronunciation": "journaliste 为 /ʒuʁ.na.list/；/ʒ/ 有声带振动，词尾 te 不另添一个元音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "确认她是不是记者，哪句规范？",
+          "choices": [
+            "Est-ce qu’est-elle journaliste ?",
+            "Elle est-ce que journaliste ?",
+            "Est-ce qu’elle est journaliste ?"
+          ],
+          "answer": 2,
+          "reason": "est-ce que 已引导疑问，后面不再倒装。"
+        },
+        {
+          "prompt": "单纯说“他是演员”选哪句？",
+          "choices": [
+            "Il acteur est.",
+            "Il est acteur.",
+            "Il est un acteur de."
+          ],
+          "answer": 1,
+          "reason": "单纯说明职业用 Il est acteur。Il est un acteur de. 的主语和动词顺序本来正常，但 de 后缺必要补语，整个表达未完成；Il acteur est 的主谓顺序才有问题。"
+        }
+      ],
+      "application": "为两位虚构同事各写一个职业句，再用 est-ce que 向搭档确认。",
+      "self_check": [
+        "问句不重复倒装",
+        "能把 journaliste 的首音读成浊音"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM103",
+      "number": 3,
+      "title": "把相邻词连成自然语流",
+      "source_title": "LEÇON TROIS 第3课",
+      "minutes": 20,
+      "goal": "用 habiter 介绍两个人的居住城市，并各写一种 est-ce que 问法和一种倒装问法",
+      "prerequisites": [
+        "JM102"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-005.md",
+          "label": "LEÇON TROIS 第3课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "法语句子并不是一盒各自分开的积木。前词本来就发出的末辅音，遇到后词元音时常接到下一音节，这叫连音；它不同于把原来不发音的末字母激活的联诵。先掌握本来发出的声音如何流过去，再记特定联诵环境，可以避免看到任何词末字母都加一个声音。\n\nh 通常不发出汉语“喝”的声音，但词首 h 的性质会影响连接：哑音 h 允许省音与联诵，嘘音 h 阻止它们，要随单词查证。问 habite-t-elle 时，中间的 t 是为倒装连接而加入的，不是动词原形的一部分。练 /e/ 时保持单元音稳定，不要滑成汉语“诶”的双重轨迹。连接前先确定哪些末辅音原本发音；不确定的单词先单独查读音，再放回短句听，不凭字母外形补音。",
+      "analogy": "连音像两块地毯本来相邻，顺着跨过去；联诵像特定门口才放下的小桥。",
+      "teaching_points": [
+        "连音与联诵不是同一机制",
+        "哑音 h 允许连接，嘘音 h 阻止连接",
+        "倒装中的 -t- 不属于动词词干"
+      ],
+      "anchor": {
+        "fr": "Il habite à Dijon.",
+        "zh": "他住在第戎。",
+        "sound": "“伊拉比特”兔子住进“第戎”房子。",
+        "movie": "一位男士把兔子形门牌挂在第戎住所门口，正把行李搬进去。",
+        "pronunciation": "il habite 中 l 连到 /a/，读 /i.la.bit/；Dijon 为 /di.ʒɔ̃/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "il habite 中为什么听起来像 i-la-bit？",
+          "choices": [
+            "词中增加了一个新单词",
+            "本来发出的 l 连到后面的元音",
+            "h 要读成汉语喝"
+          ],
+          "answer": 1,
+          "reason": "l 原本就在 il 中发音，后接 habite 的元音构成连贯音节。"
+        },
+        {
+          "prompt": "哪种写法用于“她住在哪里”的倒装？",
+          "choices": [
+            "Où habite-t-elle ?",
+            "Où habitet elle ?",
+            "Où t’habite elle ?"
+          ],
+          "answer": 0,
+          "reason": "动词以元音字母结尾，第三人称倒装加 -t- 并用连字符。"
+        }
+      ],
+      "application": "用 habiter 介绍两个人的居住城市，并各写一种 est-ce que 问法和一种倒装问法。",
+      "self_check": [
+        "不把 h 读成汉语声母",
+        "能解释连音没有凭空添加辅音"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM104",
+      "number": 4,
+      "title": "语音复习：切音节与省音",
+      "source_title": "LEÇON QUATRE 第4课",
+      "minutes": 20,
+      "goal": "录下三轮问答：姓名、职业、居住城市；再指认你们共同使用的一个房间",
+      "prerequisites": [
+        "JM103"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-006.md",
+          "label": "LEÇON QUATRE 第4课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "本课是原第4课自带的阶段复习。回到身份、职业和城市三个问题，先理解对方要哪类信息，再决定用 c’est、être 还是 habiter。读音分节主要看实际声音：两元音间单辅音通常接后音节；辅音加 r 或 l 常一起进入后音节。拼写分词的边界与语流分节可以不同，不要读一个词就停一下。\n\n省音是拼写也发生改变，例如 je 加 ai 变成 j’ai，ce 加 est 变成 c’est。词末字母不能一概读出或一概吞掉：sac 的 c 发音，tard 的 d 通常不发音，应连同单词记忆。介绍“我们的教室”时 notre 直接限定 classe，不再加 la。以问答串联旧句型，比孤立背一串音标更容易发现停顿问题。复习时将有撇号的词圈出，试着还原省去的字母，再对照完整句检查是否读得连贯。",
+      "analogy": "省音像两个人挤过窄门，前面的人收起一把伞，并留下撇号作记号。",
+      "teaching_points": [
+        "原第4课复习覆盖第1—3课问答",
+        "省音有撇号，连音通常不改拼写",
+        "notre/votre 后不再叠加冠词"
+      ],
+      "anchor": {
+        "fr": "C’est notre salle.",
+        "zh": "这是我们的教室。",
+        "sound": "“塞”进“诺特”小本子的教室。",
+        "movie": "一位成人拿着小本子站在教室门前，向朋友展示大家正在上课的房间。",
+        "pronunciation": "c’est 读 /sɛ/；notre 的 r 不额外带元音；salle /sal/ 只有一个音节；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "ce + est 的规范书写是？",
+          "choices": [
+            "c’est",
+            "ce est",
+            "cest"
+          ],
+          "answer": 0,
+          "reason": "省去 ce 的 e 后必须写撇号，不能连写而无标记。"
+        },
+        {
+          "prompt": "“我们的教室”该怎样说？",
+          "choices": [
+            "la notre salle",
+            "notre la salle",
+            "notre salle"
+          ],
+          "answer": 2,
+          "reason": "notre 已经是名词限定成分，不能再与 la 叠加。"
+        }
+      ],
+      "application": "录下三轮问答：姓名、职业、居住城市；再指认你们共同使用的一个房间。",
+      "self_check": [
+        "能听出自己是否逐词停顿",
+        "省音与连音能分别举例"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM105",
+      "number": 5,
+      "title": "说一件物品的名称与归属",
+      "source_title": "LEÇON CINQ 第5课",
+      "minutes": 20,
+      "goal": "拿两件自己的物品，先说是什么，再说明是谁的，并为其中一件加颜色",
+      "prerequisites": [
+        "JM104"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-007.md",
+          "label": "LEÇON CINQ 第5课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "首次介绍一件物品，用 un 或 une 加名词；当你和对方已能确定是哪件物品时，常改用 le 或 la。阴阳性是名词的语法属性，物品没有生理性别也要连冠词一起记。表示“某人的物品”用物品加 de 加人名，顺序与汉语相反；不要把汉语“的”前后位置直接搬过去。\n\n颜色可跟在名词后作修饰，也可放在 être 后说明状态；注意 verte 与 vert 等性别形式。语音练 /y/ 时舌位接近 /i/，嘴唇收圆；/o/ 保持一个稳定元音。鼻化元音的气流经过鼻腔，但不是在元音后另补一个清晰 n。原书鼻元音图符有缺失，应靠可靠示范与标准符号校准。同一物品再次出现时，把它与第一次引入的说法并排比较，说明听者为何此刻已经知道你指哪一个。",
+      "analogy": "冠词像物品的标签：第一次拿出“一件”，第二次指向“那一件”。",
+      "teaching_points": [
+        "un/une 与 le/la 区分首次引入和确指",
+        "de 的所属顺序是物品在前",
+        "/y/ 圆唇前元音，鼻化不是加 n"
+      ],
+      "anchor": {
+        "fr": "C’est le vélo de Léa.",
+        "zh": "这是莱娅的自行车。",
+        "sound": "“塞勒”车铃属于“莱娅”。",
+        "movie": "莱娅正握着自行车车把，朋友指着她的车铃确认这辆车的主人。",
+        "pronunciation": "vélo 为 /ve.lo/；de 通常读 /də/；Léa 的两个元音分成两音节；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "说“安娜的包”选哪项？",
+          "choices": [
+            "Anna de le sac",
+            "le Anna sac",
+            "le sac d’Anna"
+          ],
+          "answer": 2,
+          "reason": "所属关系把物品放前面，de 遇 Anna 省音为 d’。"
+        },
+        {
+          "prompt": "/y/ 应怎样练？",
+          "choices": [
+            "一定要读成两个音节",
+            "保持 /i/ 的舌位并收圆嘴唇",
+            "在 /u/ 后加一个 n"
+          ],
+          "answer": 1,
+          "reason": "/y/ 是一个圆唇前元音，不是复合音或鼻辅音。"
+        }
+      ],
+      "application": "拿两件自己的物品，先说是什么，再说明是谁的，并为其中一件加颜色。",
+      "self_check": [
+        "每个名词连同阴阳性记忆",
+        "归属表达不会颠倒词序"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM106",
+      "number": 6,
+      "title": "辨认多件物品并纠正误认",
+      "source_title": "LEÇON SIX 第6课",
+      "minutes": 20,
+      "goal": "摆出三件同类物品，故意说错名称，再用复数否定和肯定两句纠正",
+      "prerequisites": [
+        "JM105"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-008.md",
+          "label": "LEÇON SIX 第6课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "复数物品首次出现常用 des，识别句从 c’est 改为 ce sont。否定识别时用 ce n’est pas 或 ce ne sont pas。这里 un、une、des 通常保留，因为 être 后面是表语；不能把以后学的“否定句冠词变 de”机械套到所有句子。先确定是在说一件还是多件，再选择整个句架。\n\n提问可以用升调、est-ce que 或倒装，不必三套同时叠加。鼻化 /ɑ̃/ 与 /ɔ̃/ 应在嘴形和舌位上区分，不能只靠末尾写了 n 就猜；/ɲ/ 是一个腭鼻音。字母 s 在某些联诵环境读 /z/，但联诵不是处处强制。朗读时把否定信息 pas 说清，不要为了模仿速度把初学阶段的重要结构吞掉。更正误认时最好补上真正名称；只说不是而不说明是什么，语法可能正确，交流任务却仍未完成。",
+      "analogy": "单数识别像举起一张照片，复数识别像把一摞照片摊开，句架也跟着换。",
+      "teaching_points": [
+        "ce sont 对应复数，动词不能仍用 est",
+        "être 否定识别通常保留 un/une/des",
+        "问句方式择一，不重复组装",
+        "本课练规范书面语 ce sont + 复数；实际口语常见 c’est + 复数，属于语体差异。"
+      ],
+      "anchor": {
+        "fr": "Ce ne sont pas des clés.",
+        "zh": "这些不是钥匙。",
+        "sound": "“瑟讷送啪”把钥匙从盘子里弹开。",
+        "movie": "桌上是一堆螺丝，一位成人摇头，并把真正的钥匙从展示盘旁移开作对比。",
+        "pronunciation": "sont /sɔ̃/ 不发结尾 t；clés /kle/ 的 s 不发音；des clés 不联诵；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "在本课采用的规范书面法语中，否定“这些是照片”应选哪句？",
+          "choices": [
+            "Ce ne sont pas de photos.",
+            "Ce ne sont pas des photos.",
+            "Ce n’est pas des photos."
+          ],
+          "answer": 1,
+          "reason": "规范书面语中复数识别主语用 ce sont，否定为 ce ne sont pas；être 后识别表语中的 des 通常保留。口语里 c’est 搭配复数名词很常见，不能因此说 Ce n’est pas des photos 在任何真实口语中都不存在。"
+        },
+        {
+          "prompt": "哪个问句没有重复疑问结构？",
+          "choices": [
+            "Est-ce que ce sont des clés ?",
+            "Est-ce que sont-ce des clés ?",
+            "Est-ce ce que sont des clés ?"
+          ],
+          "answer": 0,
+          "reason": "est-ce que 后保留 ce sont 的主谓顺序。"
+        }
+      ],
+      "application": "摆出三件同类物品，故意说错名称，再用复数否定和肯定两句纠正。",
+      "self_check": [
+        "单复数句架一致",
+        "能解释本句为何保留 des"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM107",
+      "number": 7,
+      "title": "用 être 介绍自己与定位物品",
+      "source_title": "LEÇON SEPT 第7课",
+      "minutes": 20,
+      "goal": "用不同主语介绍两个人职业，再描述三件物品相对桌子的位置",
+      "prerequisites": [
+        "JM106"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-009.md",
+          "label": "LEÇON SEPT 第7课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "主语换人，être 的形式也要换：je suis、tu es、il/elle est、nous sommes、vous êtes、ils/elles sont。不要只背一串形式，要把每个形式与一个明确主语绑在一起。无修饰的职业通常不用冠词，而 c’est une technicienne 仍保留 une，因为它采用的是识别句架。\n\n位置用 sur、sous、devant、derrière 等词连接参照物。说话先选参照物，再说物品在它哪边；sur 和 sous 不能只靠记汉字近音来区分。职业名词要注意 technicien/technicienne 等形式与读音变化。/ø/ 需要圆唇，/ɛ̃/ 是鼻化元音；ill、tion 等拼写组合有常见读法，也有例外，要在实际词里检验。练习时把六种主语分写在卡片上，随机抽取后说完整句；遇到复数女性群体仍用对应复数变位，而不能因为每人都是女性就沿用单数。用身体指向来检验位置词。",
+      "analogy": "être 像会换制服的服务员，面对不同主语换一套衣服，但工作仍是连接身份或状态。",
+      "teaching_points": [
+        "être 六组人称形式",
+        "职业裸表语与 c’est 识别句区分",
+        "位置介词要交代参照物",
+        "technicien 与 technicienne 的鼻化差别"
+      ],
+      "anchor": {
+        "fr": "Nous sommes devant la gare.",
+        "zh": "我们在车站前面。",
+        "sound": "“努松”抱着“德旺”灯站在车站门前。",
+        "movie": "几位旅客抱着一盏灯，在车站正门前等候同伴。",
+        "pronunciation": "nous sommes /nu.sɔm/；devant 结尾鼻化 /ɑ̃/；gare 的 /ʁ/ 不加汉语韵母；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "主语为 nous，应选哪个 être？",
+          "choices": [
+            "sommes",
+            "sont",
+            "êtes"
+          ],
+          "answer": 0,
+          "reason": "nous 对应 sommes，sont 对应 ils/elles，êtes 对应 vous。"
+        },
+        {
+          "prompt": "“在桌子下面”是哪项？",
+          "choices": [
+            "sur la table",
+            "devant la table",
+            "sous la table"
+          ],
+          "answer": 2,
+          "reason": "sous 表示下面；sur 是上面，devant 是前面。"
+        }
+      ],
+      "application": "用不同主语介绍两个人职业，再描述三件物品相对桌子的位置。",
+      "self_check": [
+        "être 与主语人称一致",
+        "能现场指认 sur 和 sous 的位置差别"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM108",
+      "number": 8,
+      "title": "用 avoir 说年龄与家庭",
+      "source_title": "LEÇON HUIT 第8课",
+      "minutes": 20,
+      "goal": "用四句话介绍虚构家庭：人数、年龄、职业，并补一句没有什么",
+      "prerequisites": [
+        "JM107"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/006-010.md",
+          "label": "LEÇON HUIT 第8课",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "法语年龄使用 avoir，不用 être：字面上是“拥有若干岁”。先把 j’ai、tu as、il a、nous avons、vous avez、ils ont 与主语搭好，再接数字和 ans。家庭介绍把拥有关系与职业区分开：我有一个姐姐用 avoir，姐姐是教师用 être，不能因为汉语里都在介绍人就混成一个动词。\n\n普通拥有句否定时，un、une、des 多改为 de 或 d’，所以“没有兄弟”可以用 je n’ai pas de frère。拼写符号不是装饰：é 与 è 可提示元音差别，ç 影响 c 的读法，撇号表示省音。现代规范书写大写字母也应保留所需重音符号；不要照搬原书某些旧式省略建议。综合练习时优先保住句子结构与明确的信息。说家庭成员人数前，先确认自己是在数兄弟姐妹还是全部同住者；数字正确但对象范围不清，也可能造成误解。",
+      "analogy": "年龄像生日罐里已经存进去的年数，法语拿“有”来数它。",
+      "teaching_points": [
+        "年龄用 avoir + 数字 + ans",
+        "拥有句否定常用 pas de",
+        "现代法语大写也保留重音符号"
+      ],
+      "anchor": {
+        "fr": "J’ai deux sœurs.",
+        "zh": "我有两个姐妹。",
+        "sound": "“热”茶旁有“两位瑟儿”姐妹。",
+        "movie": "两位成年姐妹在桌边喝热茶，哥哥举着家庭照片介绍她们。",
+        "pronunciation": "j’ai /ʒe/；deux /dø/；sœurs /sœʁ/ 中 œ 比 deux 的元音更开，词末 s 不读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“她二十岁”哪个正确？",
+          "choices": [
+            "Elle est vingt ans.",
+            "Elle vingt ans.",
+            "Elle a vingt ans."
+          ],
+          "answer": 2,
+          "reason": "年龄用 avoir，第三人称单数为 a。"
+        },
+        {
+          "prompt": "普通拥有句“我没有车”选哪句？",
+          "choices": [
+            "Je n’ai pas une de voiture.",
+            "Je n’ai pas de voiture.",
+            "Je ne suis pas une voiture."
+          ],
+          "answer": 1,
+          "reason": "avoir 否定拥有关系时不定冠词一般改为 de。"
+        }
+      ],
+      "application": "用四句话介绍虚构家庭：人数、年龄、职业，并补一句没有什么。",
+      "self_check": [
+        "年龄不用 être",
+        "否定拥有句能正确使用 de"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM109",
+      "number": 9,
+      "title": "在新环境里选冠词与顺序",
+      "source_title": "LEÇON NEUF",
+      "minutes": 20,
+      "goal": "设计一个三层小场所，用首次引入和再次指认的方式说四句，并说明一个房间楼层",
+      "prerequisites": [
+        "JM108"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-002.md",
+          "label": "LEÇON NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "冠词的首要工作不是翻译成“一”或“这个”，而是提示听者能否识别你说的对象。新引入一个房间可用 une salle；接着说那间房间就用 la salle。复数有 des 与 les 的对应，但当你概括某一类事物时，也可能用定冠词。先问“对方知道我指哪一个吗”，比每次硬套汉语词面更实用。\n\n序数词负责说明排列中的第几个，常由基数词加 -ième 构成，但 premier/première 要单记。楼层表达配合 au、à la 等形式，注意法国一楼通常是 rez-de-chaussée，premier étage 通常是中国习惯的二层。把名词、限定词、形容词和动词看成不同岗位，才能知道哪个词需性数一致、哪个词需人称变位。看到房间指示牌时，先分辨它用的是楼层名称还是门牌号码，再选择序数或基数，避免把房号说成楼层。",
+      "analogy": "冠词像给朋友递地图：先画出一间新房，再指回双方都看见的那间房。",
+      "teaching_points": [
+        "不定冠词引入对象，定冠词帮助识别",
+        "premier/première 为特殊序数词",
+        "楼层名要按当地编号理解"
+      ],
+      "anchor": {
+        "fr": "La bibliothèque est au premier étage.",
+        "zh": "图书馆在法国编号的一层楼上。",
+        "sound": "“比布里”书架爬上“普赫米耶”楼梯。",
+        "movie": "成人读者沿楼梯走到地面层上一层，门口是一排清晰可见的图书架。",
+        "pronunciation": "bibliothèque /bi.bljɔ.tɛk/；au /o/；premier 单独读 /pʁə.mje/，但 premier étage 连读时要接出 /ʁ/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "首次提到一间未知教室，通常选？",
+          "choices": [
+            "le salle",
+            "une salle",
+            "la salle 已经特指"
+          ],
+          "answer": 1,
+          "reason": "une 可引入阴性单数新对象，le 与 salle 阴性不一致。"
+        },
+        {
+          "prompt": "premier étage 通常位于哪里？",
+          "choices": [
+            "地面层上一层",
+            "地下层",
+            "总是地面层"
+          ],
+          "answer": 0,
+          "reason": "法国常用 rez-de-chaussée 指地面层，premier étage 在其上。"
+        }
+      ],
+      "application": "设计一个三层小场所，用首次引入和再次指认的方式说四句，并说明一个房间楼层。",
+      "self_check": [
+        "能说明冠词选择的语境",
+        "不把楼层编号直接按中文习惯套用"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM110",
+      "number": 10,
+      "title": "说谁的，并让第一组动词变位",
+      "source_title": "LEÇON DIX",
+      "minutes": 20,
+      "goal": "描述你和两位朋友各在哪里工作，使用 je、nous、ils，并加入三个物主限定词",
+      "prerequisites": [
+        "JM109"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-003.md",
+          "label": "LEÇON DIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "第一组规则动词通常以 -er 结尾，把词尾去掉再按主语加 -e、-es、-e、-ons、-ez、-ent。许多结尾在声音上相同，书写却不同；ils parlent 的 -ent 不发音，并不意味着书面可以不写。aller 虽以 -er 结尾，却不是这套规则的普通成员，应单独学习。\n\n物主限定词随“被拥有的名词”变化，而不是随拥有者性别变化：我的书是 mon livre，我的房间是 ma chambre，我的书们是 mes livres。阴性名词在元音或哑音 h 前常用 mon、ton、son，帮助衔接，如 mon amie。复数形容词放名词前时，书面语常把 des 变成 de；把这个环境与普通复数冠词区分开。听写时要特别检查复数动词的无声词尾；朗读相同并不证明拼写可以相同。每次用名词替代主语代词，再核对物品性数，帮助建立稳定的书写联系。",
+      "analogy": "物主词像贴在物品上的合身外套，尺寸看物品，不看穿外套的主人。",
+      "teaching_points": [
+        "-er 规则变位不包含 aller",
+        "mon/ma/mes 看后面名词性数",
+        "阴性元音开头可用 mon amie",
+        "前置复数形容词常触发 de"
+      ],
+      "anchor": {
+        "fr": "Mes amis travaillent ici.",
+        "zh": "我的朋友们在这里工作。",
+        "sound": "“梅扎米”朋友围着“特拉瓦伊”工具台。",
+        "movie": "几位成人朋友正在同一张工具台旁工作，介绍者指着身边的工作场所。",
+        "pronunciation": "mes amis 有 /z/ 联诵；travaillent 的 -ent 不读，读 /tʁa.vaj/；ici /i.si/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "ils + parler 应写什么？",
+          "choices": [
+            "ils parlent",
+            "ils parlez",
+            "ils parlons"
+          ],
+          "answer": 0,
+          "reason": "第三人称复数用 -ent；-ez 和 -ons 分别属于 vous 和 nous。"
+        },
+        {
+          "prompt": "“我的女朋友（普通女性朋友）”应怎样写？",
+          "choices": [
+            "ma amie",
+            "mes amie",
+            "mon amie"
+          ],
+          "answer": 2,
+          "reason": "amie 是阴性但元音开头，单数使用 mon 便于衔接。"
+        }
+      ],
+      "application": "描述你和两位朋友各在哪里工作，使用 je、nous、ils，并加入三个物主限定词。",
+      "self_check": [
+        "变位书写与主语相配",
+        "不会根据拥有者男女选择 mon/ma"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM111",
+      "number": 11,
+      "title": "用这个、那个和重读代词指物",
+      "source_title": "LEÇON ONZE",
+      "minutes": 20,
+      "goal": "指认三件阴阳性不同的物品，说明其中两件属于谁，并使用一个 avec + 重读代词短句",
+      "prerequisites": [
+        "JM110"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-004.md",
+          "label": "LEÇON ONZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "ce、cet、cette、ces 都放在名词前，按名词的性数选择。阳性单数一般用 ce，但元音或哑音 h 开头用 cet；阴性单数无论是否元音开头都用 cette。它们已经限定名词，不能再添 le 或 la。指近处远处时还可借助手势与上下文，不能把 ce 机械理解成只有“这个”。\n\n介词后需要重读人称代词，如 avec moi、chez eux、à toi；主语位置通常仍用 je、ils 等非重读形式。表达物品属于某人可用 être à 加重读代词。城市名称通常直接接 à，国家名多有冠词，国名与介词的完整搭配会在后课展开。说指认句时先看名词，再选限定词，最后用完整句确认归属。复述归属时允许把姓名换成重读代词，但必须确保听者知道那个人是谁；指示词与物主信息各回答不同问题。\n\n专有名词的冠词要把姓名、国家和地点表达分开。普通规范介绍中，Léa arrive. 的人名前不加冠词；La France est un pays européen. 把国家作为主语，France 前通常带 la。说在法国则用 en France，不保留 la；说在日本用 au Japon，au 是 à 与阳性定冠词 le 的缩合。城市通常用 à，如 Léa habite à Lyon.。因此“专名都不带冠词”与“国家每次都带原样冠词”都不可靠，先看名称类型，再看它在句子中的地点结构。",
+      "analogy": "指示词像手电筒照到一件物品，重读代词像给物主单独打的一束灯。",
+      "teaching_points": [
+        "ce/cet/cette/ces 随名词变化",
+        "介词后用 moi/toi/lui/elle 等重读代词",
+        "être à 表归属",
+        "专名冠词须分类记忆",
+        "普通姓名 Léa 通常无冠词；国名作主语时常带冠词，如 la France。",
+        "在法国 en France；在日本 au Japon；城市在里昂 à Lyon。",
+        "先辨姓名、国名、城市，再辨主语或地点补语。"
+      ],
+      "anchor": {
+        "fr": "Ce sac est à moi.",
+        "zh": "这个包是我的。",
+        "sound": "“瑟萨克”纸袋扑向“莫瓦”我。",
+        "movie": "一位成人把纸袋形背包抱到自己胸前，向询问者确认包属于自己。",
+        "pronunciation": "ce /sə/；sac 的 c 发 /k/；moi /mwa/ 是一个音节；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“这所学校 école”为阴性，选哪个？",
+          "choices": [
+            "cet école",
+            "ce école",
+            "cette école"
+          ],
+          "answer": 2,
+          "reason": "cet 只替代阳性单数 ce 的元音前形式，不能用于阴性 école。"
+        },
+        {
+          "prompt": "介词 avec 后“我”用哪种形式？",
+          "choices": [
+            "me",
+            "moi",
+            "je"
+          ],
+          "answer": 1,
+          "reason": "介词后通常用重读代词，avec moi 是正确搭配。"
+        },
+        {
+          "prompt": "普通规范介绍中，“莱娅住在法国，保罗住在日本”哪句正确？",
+          "choices": [
+            "La Léa habite à France, Paul habite en le Japon.",
+            "Léa habite en France, Paul habite au Japon.",
+            "Léa habite la France, Paul habite Japon."
+          ],
+          "answer": 1,
+          "reason": "普通姓名 Léa 不加冠词；地点用 en France 与 au Japon。la France 可用于国家作主语等结构，不能原样替代“在法国”的搭配。"
+        }
+      ],
+      "application": "指认三件阴阳性不同的物品，说明其中两件属于谁，并使用一个 avec + 重读代词短句。 再写三个对照句：姓名作主语、la France 作主语、人物居住在法国或日本，并说明各处冠词选择。",
+      "self_check": [
+        "限定词与名词性数一致",
+        "介词后不误用 je",
+        "能区分国名的主语形式与地点补语形式"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM112",
+      "number": 12,
+      "title": "用形容词把房间说具体",
+      "source_title": "LEÇON DOUZE",
+      "minutes": 20,
+      "goal": "用五句描述一间真实或想象的房间，至少用两个表语形容词和一个直接及物动词",
+      "prerequisites": [
+        "JM111"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-005.md",
+          "label": "LEÇON DOUZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "形容词通常与所修饰名词性数一致：petit、petite、petits、petites。这个变化有时只体现在拼写，有时也会让原本不发音的末辅音发出来。先确定形容词在描述哪个名词，再检查词尾，不能只看离它最近的词。许多形容词常放名词后，少数常用词常前置；位置不同还可能改变意思。\n\n描述一个房间时，主语是被描述的房间，être 后可以接形容词作表语。描述动作时，先找动词，再看它是否直接带对象：visiter un appartement 直接接宾语，parler à une personne 则需介词。区分“房间是什么样”和“谁对房间做了什么”，可以帮助你判断一句话缺的是表语、宾语还是地点补语。形容词作表语时仍与主语对应，不能因为离开名词旁边就省略必要的阴性或复数词尾。",
+      "analogy": "形容词像房间的窗帘，长短和颜色要配房间，而不是配站在门口的人。",
+      "teaching_points": [
+        "形容词性数与被修饰名词一致",
+        "ancien 前后位置可能改变意义",
+        "主语、表语、宾语岗位不同",
+        "动词是否带介词须随搭配记"
+      ],
+      "anchor": {
+        "fr": "Cette chambre est lumineuse.",
+        "zh": "这个房间很明亮。",
+        "sound": "“吕米讷兹”发亮的米粒照亮房间。",
+        "movie": "一位看房者走进房间，窗边一碗会发光的米粒映着充足阳光。",
+        "pronunciation": "chambre /ʃɑ̃bʁ/ 结尾不添加元音；lumineuse /ly.mi.nøz/，末 s 发 /z/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "形容词描述阴性复数 chambres，应选？",
+          "choices": [
+            "lumineuse 无需复数",
+            "lumineuses",
+            "lumineux"
+          ],
+          "answer": 1,
+          "reason": "阴性 lumineuse 再加复数 s；词尾通常听不出但书写要保留。"
+        },
+        {
+          "prompt": "visiter un logement 中 un logement 是？",
+          "choices": [
+            "直接宾语",
+            "主语",
+            "修饰 visiter 的形容词"
+          ],
+          "answer": 0,
+          "reason": "它直接承受参观动作，无介词引入，是直接宾语。"
+        }
+      ],
+      "application": "用五句描述一间真实或想象的房间，至少用两个表语形容词和一个直接及物动词。",
+      "self_check": [
+        "知道每个形容词描述哪个名词",
+        "能从句中指出主语和直接宾语"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM113",
+      "number": 13,
+      "title": "去哪里，用 y 避免重复",
+      "source_title": "LEÇON TREIZE",
+      "minutes": 20,
+      "goal": "说出你要去的城市、一个国家和市内一个地点，再用 y 回答是否去其中一处",
+      "prerequisites": [
+        "JM112"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-006.md",
+          "label": "LEÇON TREIZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "à 与 le 合成 au，与 les 合成 aux；de 与 le 合成 du，与 les 合成 des。à la、à l’、de la、de l’ 不这样缩合。先判断名词原本需要哪种定冠词，再做组合，不能一看到地点就统一写 au。去学校、博物馆和市场时，可以把完整地点块一起记，使用时再检查性数。\n\ny 可以替代已经明确的地点补语，通常放在变位动词前；若它属于不定式动作，则放在那个不定式前。国家地点介词常用 en 加阴性国名或元音开头国名，au 加辅音开头阳性国名，aux 加复数国名；城市一般用 à。y 在本课主要练地点，不要未经辨别就用它替代所有表示人的 à 补语。安排多站行程时，一次只让地点代词回指最近明确的目标；若两个地点都可能，重新说出名词更清楚。",
+      "analogy": "y 像地图上的一枚回形针，前面已标出地点，后面只需指回那枚针。",
+      "teaching_points": [
+        "à+le=au；à+les=aux",
+        "城市 à，国名 en/au/aux 分类",
+        "y 回指明确地点，位置靠近所属动词"
+      ],
+      "anchor": {
+        "fr": "Je vais au musée.",
+        "zh": "我去博物馆。",
+        "sound": "“热韦”围着“米泽”小米展柜走。",
+        "movie": "一位成人拿着参观票朝博物馆走去，门旁是一只小米艺术展柜。",
+        "pronunciation": "vais /vɛ/；au /o/；musée /my.ze/ 的 s 在两元音间读 /z/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "à + le marché 应写成？",
+          "choices": [
+            "au marché",
+            "à le marché",
+            "à du marché"
+          ],
+          "answer": 0,
+          "reason": "à 和定冠词 le 必须缩合成 au。"
+        },
+        {
+          "prompt": "去过的地点已明确，“我明天去那里”选？",
+          "choices": [
+            "Je vais y demain.",
+            "J’y suis aller demain.",
+            "J’y vais demain."
+          ],
+          "answer": 2,
+          "reason": "y 在变位动词 vais 前，替代已明确的地点。"
+        }
+      ],
+      "application": "说出你要去的城市、一个国家和市内一个地点，再用 y 回答是否去其中一处。",
+      "self_check": [
+        "能解释 au 的组成",
+        "y 的指代地点清楚"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM114",
+      "number": 14,
+      "title": "约时间并给简短指令",
+      "source_title": "LEÇON QUATORZE",
+      "minutes": 20,
+      "goal": "安排一个半小时小活动：说当前时间、出发时间、最近将来计划，再给两条简短指令",
+      "prerequisites": [
+        "JM113"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-007.md",
+          "label": "LEÇON QUATORZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "命令式直接面对对方，通常不写主语，只保留 tu、nous、vous 对应形式。规则 -er 动词的 tu 命令式一般去掉现在时末尾 s：regarde。需要礼貌时可以用 vous 命令式并加 s’il vous plaît，但语气仍要结合场合。不要把省略主语误解为所有动词都不变位。\n\n最近将来时用 aller 的现在时加不定式，强调从现在看即将或已有准备的动作；只有 aller 随主语变位，后一个动作保留原形。约见面时，钟点前用 à，说明现在几点则用 il est。口语半点、刻钟与二十四小时表示法可以互相核对；夜间或正式安排最好把具体时间说清，避免 matin、soir 信息不够。从计划到指令的语气变化也要练习：向朋友说明我们要做什么，与请朋友现在做什么，是两种不同交流意图。\n\n口语钟点还可以用下一整点作参照：huit heures et quart 是八点十五分，huit heures et demie 是八点三十分，neuf heures moins le quart 是差一刻到九点，即八点四十五分；moins 后的参照点不是当前小时的起点。注意 et quart 没有 le，moins le quart 则有 le。demi 作后置半点表达时随 heure 的阴性写 demie，而 midi 是阳性，所以十二点半写 midi et demi。正式行程仍可用 huit heures quinze、huit heures trente、huit heures quarante-cinq 来互相确认。",
+      "analogy": "aller 像发动起来的车头，后面的不定式车厢不再换第二次轮子。",
+      "teaching_points": [
+        "命令式通常省主语",
+        "规则 -er 的 tu 命令式一般无 s",
+        "aller 变位 + 不定式",
+        "il est 报时，à 引出约定时间",
+        "huit heures et quart=8:15；huit heures et demie=8:30。",
+        "neuf heures moins le quart=8:45，先找被减去一刻的参照整点。",
+        "une heure et demie，但 midi et demi：后置 demi 的阴阳性要核对。"
+      ],
+      "anchor": {
+        "fr": "Nous allons partir à huit heures.",
+        "zh": "我们将于八点出发。",
+        "sound": "“努扎隆”气球在八点拖着“帕提尔”行李。",
+        "movie": "几位成人在八点钟下方收拾行李，气球牵着箱子指向出发门。",
+        "pronunciation": "nous allons 有 /z/ 联诵；partir 最后 r 发音；huit heures 连贯为 /ɥi.tœʁ/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“你看！”对 tu 的规则命令式是？",
+          "choices": [
+            "Tu regardes ! 是省主语命令式",
+            "Regardes !",
+            "Regarde !"
+          ],
+          "answer": 2,
+          "reason": "规则 regarder 的 tu 命令式为 regarde，通常去掉 s 并省主语。"
+        },
+        {
+          "prompt": "“我们马上开始”选哪个？",
+          "choices": [
+            "Nous allons commençons.",
+            "Nous allons commencer.",
+            "Nous aller commençons."
+          ],
+          "answer": 1,
+          "reason": "aller 负责变位，第二动词用不定式 commencer。"
+        },
+        {
+          "prompt": "约定时间为 neuf heures moins le quart，对应哪个时刻？",
+          "choices": [
+            "9:15",
+            "9:45",
+            "8:45"
+          ],
+          "answer": 2,
+          "reason": "从九点减去十五分钟得到八点四十五分；若是 neuf heures et quart 才是九点十五分。"
+        }
+      ],
+      "application": "安排一个半小时小活动：说当前时间、出发时间、最近将来计划，再给两条简短指令。 把8:15、8:30、8:45分别用一刻、半点和差一刻说出，再用数字钟点复述确认。",
+      "self_check": [
+        "第二动词保持不定式",
+        "报时与约时句型不同",
+        "能正确用下一整点计算 moins le quart",
+        "能区分 et quart、et demie 与 moins le quart"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM115",
+      "number": 15,
+      "title": "把直接宾语变成小代词",
+      "source_title": "LEÇON QUINZE",
+      "minutes": 20,
+      "goal": "选两件已明确物品，先用完整名词说在找什么，再改用 le 或 la；用 on 说一项共同活动",
+      "prerequisites": [
+        "JM114"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-008.md",
+          "label": "LEÇON QUINZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "重复同一件物品时，可以用 le、la、les 代替明确的直接宾语。代词通常放在变位动词前，元音前 le、la 可省音为 l’。先把动词与对象还原成完整名词句，再替换，比只凭中文“他、它”随手选代词可靠。否定句把 ne 和 pas 放在包含前置代词的动词结构外侧。\n\non 作主语时动词用第三人称单数，即使日常口语里它常指“我们”，也不能因此改成 nous 的变位。第二组规则 -ir 动词如 finir，在 nous 形式有 -issons，可与 partir 等第三组区分。识别词尾只是线索，知道 nous finissons 才能确认这套模式，不应把所有 -ir 都按第二组处理。代词可以指人也可以指物，关键是原名词在动词结构中承担什么岗位；仅凭人物性别无法判断直接或间接宾语。",
+      "analogy": "直接宾语代词像给常客发的小号牌，名字很长，叫号时却要站到动词前。",
+      "teaching_points": [
+        "le/la/les 代替明确直接宾语",
+        "on 动词按第三人称单数",
+        "finir 模式含 -issons，不能泛化到所有 -ir",
+        "本课图句的 la 明确回指 la carte（交通卡，阴性），不回指 un billet（车票，阳性）。"
+      ],
+      "anchor": {
+        "fr": "Je la cherche.",
+        "zh": "我在找她／它。",
+        "sound": "“热拉”拉链包被翻开寻找。",
+        "movie": "一位成人翻开拉链包，正在寻找前面已指明的那张交通卡（la carte，阴性）。",
+        "pronunciation": "cherche /ʃɛʁʃ/，两个 /ʃ/ 都清音；la 不要自动吞成 l’，因为 cherche 以辅音起头；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "la clé 已提到，“我找到它了”的现在时是哪句？",
+          "choices": [
+            "Je lui trouve.",
+            "Je la trouve.",
+            "Je trouve la."
+          ],
+          "answer": 1,
+          "reason": "trouver 直接接对象，阴性单数 clé 用 la，放在动词前。"
+        },
+        {
+          "prompt": "on 搭配 finir 现在时为？",
+          "choices": [
+            "on finit",
+            "on finissons",
+            "on finissent"
+          ],
+          "answer": 0,
+          "reason": "on 的语法变位是第三人称单数，与意思上指多少人不同。"
+        }
+      ],
+      "application": "选两件已明确物品，先用完整名词说在找什么，再改用 le 或 la；用 on 说一项共同活动。",
+      "self_check": [
+        "代词指向明确",
+        "on 不误配复数变位"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM116",
+      "number": 16,
+      "title": "说自己的日常动作",
+      "source_title": "LEÇON SEIZE",
+      "minutes": 20,
+      "goal": "按早晨先后说四个动作，至少两个代词式动词，再用一句否定说明今天不做什么",
+      "prerequisites": [
+        "JM115"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-009.md",
+          "label": "LEÇON SEIZE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "代词式动词不只是动词前随便加一个 se。主语换了，反身代词也换：je me、tu te、il se、nous nous、vous vous、ils se。描述起床、洗漱和散步时，把主语、代词和动词当成一个动作块。遇到元音开头动词还要省音，如 je m’habille；否定式写 je ne m’habille pas。\n\n名词和形容词也常需要补语来把意思说完整，比如 une salle de réunion 或 être content de quelque chose。de 在这里连接用途、内容或依附关系，不都能简单翻成所有权的“的”。学习搭配时记录完整结构，区分动词短语、介词短语和副词短语，才能在自己的一日计划中自然替换内容，而不是机械逐词翻译。与身体相关的日常动作尤其适合配合手势练习；手势只帮助理解，真正输出仍应说全主语、反身代词和变位动词。名词补语则单独标出连接词。",
+      "analogy": "反身动作像一根回到自己身上的绳子，绳头要与正在做动作的人对上。",
+      "teaching_points": [
+        "反身代词与主语配套",
+        "元音前 me/te/se 可省音",
+        "de 补语并非都表示所属",
+        "短语按整体功能学习"
+      ],
+      "anchor": {
+        "fr": "Je me prépare pour la réunion.",
+        "zh": "我为会议做准备。",
+        "sound": "“热么”热毛巾旁摆着“普雷帕尔”准备袋。",
+        "movie": "一位成人用热毛巾整理仪容，同时把会议文件装进准备袋。",
+        "pronunciation": "prépare /pʁe.paʁ/；réunion /ʁe.y.njɔ̃/；me 在慢读时可保持 /mə/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "nous 搭配 se lever 的正确形式是？",
+          "choices": [
+            "Nous nous levons.",
+            "Nous se levons.",
+            "Nous me levons."
+          ],
+          "answer": 0,
+          "reason": "反身代词随主语变成 nous，动词也用 nous 的变位。"
+        },
+        {
+          "prompt": "“我不穿衣”哪句结构正确？",
+          "choices": [
+            "Je me ne habille pas.",
+            "Je n’habille me pas.",
+            "Je ne m’habille pas."
+          ],
+          "answer": 2,
+          "reason": "me 在 habille 前省音；ne 在代词前，pas 在变位动词后。"
+        }
+      ],
+      "application": "按早晨先后说四个动作，至少两个代词式动词，再用一句否定说明今天不做什么。",
+      "self_check": [
+        "主语与反身代词人称一致",
+        "能正确写省音与否定结构"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM117",
+      "number": 17,
+      "title": "告诉某人、刚做完与数量回指",
+      "source_title": "LEÇON DIX-SEPT",
+      "minutes": 20,
+      "goal": "说你刚完成的两件事、正在联系的人，以及某类物品的数量；分别使用 venir de、lui/leur、en",
+      "prerequisites": [
+        "JM116"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-010.md",
+          "label": "LEÇON DIX-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "parler à、téléphoner à、donner quelque chose à 等搭配里，接收者常可换成 lui 或 leur。先判断原句有没有 à，以及动词的实际结构，再区分直接宾语 le/la/les 与间接宾语 lui/leur；leur 作宾语代词不加 s。一个动词有多个意思时，不能只凭汉语“给他”就保证代词相同。\n\n刚刚完成的动作可用 venir de 加不定式，venir 依主语变位，de 在元音前省音。en 在本课可回指 de 引出的数量对象，回答“有几个”时仍留下数量：j’en ai trois。它不等于把整句话全部删掉；先明确它代替了哪部分，保留真正需要回答的数目或程度。把刚做了什么和告诉了谁分成两句练，避免一次塞满结构。数量回答中先把原问题里的名词划掉，再保留数目读一遍；这样能看见代词替换边界，也不容易把数字一起删去。",
+      "analogy": "lui 像信封上的收件人，en 像数苹果时写的品名，数字还得留下。",
+      "teaching_points": [
+        "lui/leur 可代常见 à 引出的接收者",
+        "venir de + 不定式表示刚刚",
+        "en 回指数量对象时保留数字"
+      ],
+      "anchor": {
+        "fr": "Je lui téléphone.",
+        "zh": "我给他／她打电话。",
+        "sound": "“热吕”小驴叼来电话。",
+        "movie": "一位成人接过小驴递来的手机，拨给前面已介绍的朋友。",
+        "pronunciation": "lui /lɥi/ 只有一个音节；téléphone /te.le.fɔn/，ph 读 /f/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“我给两位同事打电话”用代词替换同事后是？",
+          "choices": [
+            "Je les téléphone.",
+            "Je leurs téléphone.",
+            "Je leur téléphone."
+          ],
+          "answer": 2,
+          "reason": "téléphoner à quelqu’un 用间接宾语 leur，代词没有复数 s。"
+        },
+        {
+          "prompt": "三张票已在谈论中，“我有三张”选？",
+          "choices": [
+            "Je lui ai trois.",
+            "J’en ai trois.",
+            "J’en ai des trois."
+          ],
+          "answer": 1,
+          "reason": "en 回指票这一数量对象，保留 trois，不叠加 des。"
+        }
+      ],
+      "application": "说你刚完成的两件事、正在联系的人，以及某类物品的数量；分别使用 venir de、lui/leur、en。",
+      "self_check": [
+        "能还原每个代词对应的名词结构",
+        "venir 后第二动词不变位"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM118",
+      "number": 18,
+      "title": "描述天气并约定日期",
+      "source_title": "LEÇON DIX-HUIT",
+      "minutes": 20,
+      "goal": "为两次出行约具体日期，再说一项每周固定活动和当天可能的天气",
+      "prerequisites": [
+        "JM117"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/007-011.md",
+          "label": "LEÇON DIX-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "天气表达常使用无人称 il，它不是前面某位男士的替身。il pleut、il neige 与 il fait froid 可以作为整块先掌握；不能为了说“我们这里冷”就把 il 改成 nous。必要性 il faut 也属于无人称结构，后面接不定式可说明要做什么，动作执行者由语境理解。\n\n日期、星期和季节各有搭配：日期常用 le 加数字，月份前常用 en；星期单独说某一天通常不加冠词，le lundi 则常指每周一。春季是 au printemps，其他常见季节用 en，不要统一套同一个介词。约会信息要把具体日期与重复频率分清，再补天气理由；表达的是语言安排，不靠记一串孤立的日历词完成。若日期很重要，可以再用另一种完整说法确认一次；一个星期词不能同时承担具体日期和每周频率的全部信息。",
+      "analogy": "无人称 il 像天气预报画面上固定的小图钉，不代表任何真人。",
+      "teaching_points": [
+        "天气 il 为形式主语",
+        "il faut + 不定式表达必要性",
+        "lundi 与 le lundi 区分一次和周期",
+        "au printemps 为季节搭配"
+      ],
+      "anchor": {
+        "fr": "Il pleut ce matin.",
+        "zh": "今天早上下雨。",
+        "sound": "“伊勒普勒”雨靴迎着晨雨。",
+        "movie": "清晨，一位成人把雨靴放到门前，窗外正在下雨。",
+        "pronunciation": "pleut /plø/ 结尾 t 不读；matin /ma.tɛ̃/ 末尾鼻化，不补 n；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“每周二我工作”应选择？",
+          "choices": [
+            "Je travaille en mardi.",
+            "Je travaille le mardi.",
+            "Je travaille à mardi."
+          ],
+          "answer": 1,
+          "reason": "le mardi 常表示每个星期二，不是一般用 à 或 en。"
+        },
+        {
+          "prompt": "为什么 il pleut 里的 il 不改成 elle？",
+          "choices": [
+            "它是无人称形式主语",
+            "因为雨滴都是阳性的人",
+            "因为所有句子必须用 il"
+          ],
+          "answer": 0,
+          "reason": "天气无人称句用固定的 il，与人物性别无关。"
+        }
+      ],
+      "application": "为两次出行约具体日期，再说一项每周固定活动和当天可能的天气。",
+      "self_check": [
+        "一次日期与固定频率表达清楚",
+        "季节介词能区分 au printemps 与 en été"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM119",
+      "number": 19,
+      "title": "说不再、什么也不和只有",
+      "source_title": "LEÇON DIX-NEUF",
+      "minutes": 20,
+      "goal": "编一段行李检查对话，分别使用没有、不再、只有，并用 si 纠正一个否定提问",
+      "prerequisites": [
+        "JM118"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-002.md",
+          "label": "LEÇON DIX-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "否定并非只有 ne…pas。ne…plus 表示不再继续，ne…rien 表示没有任何东西，ne…jamais 表示从不；通常不要再在这些结构里加 pas。ne…que 则表示“只有”，本质是限定，不是把整件事否定掉。要看 que 放在哪里：它后面的成分才是被保留的焦点，换位置往往就换意思。\n\n回答带否定的疑问时，想推翻对方的否定判断，用 si；若同意否定，仍用 non。不要把这个 si 与“如果”或“是否”的 si 混成同一用法。que 也可连接一个完整补语从句，如我认为某件事；从句仍需要自己的主语和动词。通关或行程交流中，先准确表达有没有，再决定是否补一句理由，比只回答一个词更稳妥。改写否定句后，再用中文复述肯定保留下来的信息；若“只有”被说成“什么都没有”，就说明限定范围理解错了。",
+      "analogy": "ne…que 像关掉一排灯，只留下 que 后面的那盏还亮着。",
+      "teaching_points": [
+        "ne…plus/rien/jamais 通常不叠 pas",
+        "ne…que 表限定",
+        "si 可推翻否定问句",
+        "que 补语从句有完整主谓"
+      ],
+      "anchor": {
+        "fr": "Je n’ai qu’un petit sac.",
+        "zh": "我只有一个小包。",
+        "sound": "“热奈”奶瓶只装进一个小包。",
+        "movie": "检查行李时，一位成人摊开双手，身边只有一个装着奶瓶的小旅行包。",
+        "pronunciation": "qu’un 连作 /kœ̃/，常见口音中鼻元音接近 /ɛ̃/；petit 的末 t 不发音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“你不来吗？”你要肯定自己会来，开头选？",
+          "choices": [
+            "Si, je viens.",
+            "Oui, je ne viens pas.",
+            "Non, je viens."
+          ],
+          "answer": 0,
+          "reason": "si 用来否定对方“不来”的假设，后接肯定句。"
+        },
+        {
+          "prompt": "Je ne mange que des fruits. 表示？",
+          "choices": [
+            "我什么也不吃",
+            "我不再吃水果",
+            "我只吃水果"
+          ],
+          "answer": 2,
+          "reason": "ne…que 限定保留 fruits；rien 才表示什么也没有。"
+        }
+      ],
+      "application": "编一段行李检查对话，分别使用没有、不再、只有，并用 si 纠正一个否定提问。",
+      "self_check": [
+        "能指出 que 限定的具体成分",
+        "不会把 si 肯定答语写成否定"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM120",
+      "number": 20,
+      "title": "说已经完成的事情",
+      "source_title": "LEÇON VINGT",
+      "minutes": 20,
+      "goal": "给朋友发四句行程回报：完成的两件事、未完成的一件事，以及一个原因",
+      "prerequisites": [
+        "JM119"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-003.md",
+          "label": "LEÇON VINGT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "复合过去时用助动词现在时加过去分词；本课先练 avoir：j’ai réservé。助动词负责与主语配合，过去分词不是再变一遍现在时。规则 -er 常变 -é，第二组 -ir 常变 -i，但 fait、pris、vu 等常用形式要单独记。复合过去时可以报告一次完成的事情，不能与汉语“了”逐字一一对应。\n\n否定时 ne…pas 围住的是变位助动词，过去分词留在后面。若有前置宾语代词，它也放在助动词前；过去分词配合的完整条件后面再集中处理。用 parce que 补原因时要保留从句主谓，用 quand 说明时间时要考虑两件事的先后。先搭完成动作，再加日期、对象或原因，可以避免说到句尾才发现缺助动词。",
+      "analogy": "复合过去时像一张已完成工单：助动词写负责人，过去分词盖完成章。",
+      "teaching_points": [
+        "avoir 现在时 + 过去分词",
+        "规则分词与不规则分词分开记",
+        "否定围住助动词",
+        "复合句每个分句都有自己的谓语"
+      ],
+      "anchor": {
+        "fr": "J’ai réservé une chambre.",
+        "zh": "我订了一个房间。",
+        "sound": "“热”茶杯压着“雷泽维”预订卡。",
+        "movie": "旅客在旅馆前台递出预订卡，旁边热茶杯压着确认单。",
+        "pronunciation": "j’ai /ʒe/；réservé /ʁe.zɛʁ.ve/；chambre 的元音鼻化，末尾无额外 e 音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“我们参观过了”应选？",
+          "choices": [
+            "Nous sommes visiter.",
+            "Nous avons visitons.",
+            "Nous avons visité."
+          ],
+          "answer": 2,
+          "reason": "visiter 在此用 avoir，过去分词 visité，不能用不定式或现在时。"
+        },
+        {
+          "prompt": "J’ai compris. 的否定是？",
+          "choices": [
+            "Je ne pas ai compris.",
+            "Je n’ai pas compris.",
+            "Je n’ai compris pas."
+          ],
+          "answer": 1,
+          "reason": "ne 与 pas 围住变位的助动词 ai。"
+        }
+      ],
+      "application": "给朋友发四句行程回报：完成的两件事、未完成的一件事，以及一个原因。",
+      "self_check": [
+        "每个完成句都有助动词",
+        "否定不把 pas 移到分词后"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM121",
+      "number": 21,
+      "title": "用 être 报告到达与离开",
+      "source_title": "LEÇON VINGT ET UN",
+      "minutes": 20,
+      "goal": "以不同性别和人数报告三次到达或离开，再问朋友何时抵达",
+      "prerequisites": [
+        "JM120"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-004.md",
+          "label": "LEÇON VINGT ET UN",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "一部分常用不及物移动或状态变化动词用 être 构成复合过去时，如 arriver、partir、venir；过去分词通常与主语性数配合。女性说 je suis arrivée，复数还要考虑 -s。不能概括成“所有移动都用 être”，marcher、voyager 等常用 avoir，某些动词带直接宾语后还会换助动词。\n\n代词式动词在复合时态里也用 être，但分词是否配合要看宾语结构，不能简单见 être 就给所有情况加词尾。询问到达的人、时间和地点时，分别选 qui、quand、où；想问对象，则关注 qui 或 que 在句中的角色。先用普通问法确认信息，再尝试倒装，避免把助动词、主语和分词全部随意移动。把同一个到达句换成不同人数和性别，观察听起来相似而书写不同的部分；这样能把配合当作结构检查而非纯听觉猜测。\n\n复合时态的倒装移动变位助动词，不移动过去分词。Elle est arrivée lundi. 询问何时到达可写 Quand est-elle arrivée ?；Ils sont allés au musée. 询问去了哪里可写 Où sont-ils allés ?。代词 elle、ils 通过连字符接在 est、sont 后，过去分词留在后面，同时保留 arrivée、allés 的性数配合。不要写 Quand arrivée-elle est ?，也不要把助动词删掉。若改用 est-ce que，则恢复完整陈述词序，如 Quand est-ce qu’elle est arrivée ?，不能把两种疑问方式重复叠加。",
+      "analogy": "到达句像旅客拿登机牌：être 核对旅客，分词尾巴也贴上同一人的标签。",
+      "teaching_points": [
+        "arriver/partir/venir 的常见不及物用 être",
+        "être 移动句分词与主语配合",
+        "不是所有移动动词都用 être",
+        "疑问词依信息岗位选择",
+        "复合时态倒装：疑问词 + 变位助动词-主语代词 + 过去分词。",
+        "Quand est-elle arrivée ? / Où sont-ils allés ?：仅移动助动词。",
+        "倒装后仍核对分词配合；est-ce que 后不再倒装。"
+      ],
+      "anchor": {
+        "fr": "Elles sont arrivées hier.",
+        "zh": "她们昨天到了。",
+        "sound": "“艾勒送”到站包裹给“阿里维”两位女士。",
+        "movie": "两位成年女士昨天抵达车站，工作人员正把到站包裹递给她们。",
+        "pronunciation": "sont arrivées 有 /t/ 联诵；arrivées /a.ʁi.ve/ 的 es 不发音；hier /jɛʁ/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "两位女性说“我们到了”，书写应是？",
+          "choices": [
+            "Nous sommes arrivé.",
+            "Nous sommes arrivées.",
+            "Nous avons arrivées."
+          ],
+          "answer": 1,
+          "reason": "arriver 在此用 être，女性复数分词写 arrivées。"
+        },
+        {
+          "prompt": "哪个概括可靠？",
+          "choices": [
+            "voyager 通常用 avoir 构成复合过去时",
+            "所有移动动词都用 être",
+            "代词式动词永远不需要配合分析"
+          ],
+          "answer": 0,
+          "reason": "voyager 使用 avoir，是“移动一律 être”规则的反例。"
+        },
+        {
+          "prompt": "把 Elles sont arrivées hier. 改成询问到达时间的倒装句，应选？",
+          "choices": [
+            "Quand arrivées-elles sont ?",
+            "Quand sont-elles arrivées ?",
+            "Quand sont arrivées-elles ?"
+          ],
+          "answer": 1,
+          "reason": "把变位助动词 sont 放到主语代词 elles 前，并用连字符连接；分词 arrivées 留在后面且保留阴性复数配合。"
+        }
+      ],
+      "application": "以不同性别和人数报告三次到达或离开，再问朋友何时抵达。 把你写的一次到达与一次去某地的过去句分别改成 quand 和 où 倒装问句，并圈出被移动的助动词。",
+      "self_check": [
+        "助动词与动词用法相符",
+        "分词配合能在书面上标出",
+        "倒装只移动助动词，不移动或删除过去分词"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM122",
+      "number": 22,
+      "title": "把两种宾语放到正确位置",
+      "source_title": "LEÇON VINGT-DEUX",
+      "minutes": 20,
+      "goal": "模拟递交一份文件和一张卡：先说完整对象与收件人，再代词化；把其中一句改为过去时",
+      "prerequisites": [
+        "JM121"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-005.md",
+          "label": "LEÇON VINGT-DEUX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "一个动作可以同时有被交付的东西和接收者。先还原 donner le billet à Léa：票是直接宾语，莱娅是间接宾语，再分别换成 le 与 lui。普通陈述句常见顺序为 me/te/se/nous/vous、le/la/les、lui/leur、y、en；不是中文先说谁就先放谁。不要试图把所有位置组合都一口气塞进一句初学句。\n\n复合过去时中，宾语代词放在助动词前；avoir 的过去分词在前面有直接宾语时，通常与那个直接宾语性数配合。间接宾语 lui/leur 不触发这种配合。肯定命令式的代词后置且顺序另有规则，如 donne-le-moi，不能原封不动搬用陈述句顺序。先练一个东西加一个接收者，再练否定和过去时。先只练肯定陈述的双代词顺序，再加入否定；结构一次只改变一个因素，方便发现错在角色识别还是放置位置。",
+      "analogy": "两个代词像按座位号上车的乘客，职位决定座位，不是谁先到谁坐前。",
+      "teaching_points": [
+        "先还原直接对象与接收者",
+        "陈述句 le/la/les 在 lui/leur 前",
+        "代词在复合时态助动词前",
+        "avoir 分词配合看前置直接宾语"
+      ],
+      "anchor": {
+        "fr": "Je le lui donne.",
+        "zh": "我把它给他／她。",
+        "sound": "“热勒吕”小驴接过一个包。",
+        "movie": "一位成人把前面已确认的小包递给朋友，朋友身边站着一只小驴。",
+        "pronunciation": "le lui 保持两组短音 /lə.lɥi/；donne /dɔn/，不是鼻化元音；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "把 le dossier 和 à Paul 都换代词，选？",
+          "choices": [
+            "Je le lui donne.",
+            "Je lui le donne.",
+            "Je donne lui le."
+          ],
+          "answer": 0,
+          "reason": "陈述句 le 在 lui 前，两者均位于变位动词前。"
+        },
+        {
+          "prompt": "Les lettres, je les ai écrites. 为什么有 -es？",
+          "choices": [
+            "主语 je 必定阴性复数",
+            "ai 后所有分词都加 -es",
+            "前置直接宾语 lettres 为阴性复数"
+          ],
+          "answer": 2,
+          "reason": "avoir 分词与前置直接宾语 les 所指 lettres 配合，不与 je 自动配合。"
+        }
+      ],
+      "application": "模拟递交一份文件和一张卡：先说完整对象与收件人，再代词化；把其中一句改为过去时。",
+      "self_check": [
+        "能说出每个代词的语法岗位",
+        "分词配合不受 lui/leur 误导"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM123",
+      "number": 23,
+      "title": "点饮料，区分一些与一份",
+      "source_title": "LEÇON VINGT-TROIS",
+      "minutes": 20,
+      "goal": "编三轮点餐：说喜好、具体点单、修改数量，至少一次用 en 省去重复",
+      "prerequisites": [
+        "JM122"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-006.md",
+          "label": "LEÇON VINGT-TROIS",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "谈不按一个个计数的食物或饮料时，可用部分冠词 du、de la、de l’；它表示未明确数量的一部分。une soupe 可指一份汤，de la soupe 则强调喝了一些汤，数量视角不同。说普遍喜好时常用定冠词，如 aimer le café，不能因为咖啡不可数就处处写 du。\n\n数量表达如 un verre de、beaucoup de 已经带 de，后面通常不再接部分冠词；普通否定数量也常用 de。en 可以替代部分冠词名词组，表示喝一点、要一些时保留真正需要的数量信息。点餐要区分“我喜欢什么”和“我现在要多少”，再配合 boire 的不规则变位；je bois 与 nous buvons 不属于同一规则词干直接加尾的简单模式。向服务员提出点单后可补容器或份量，确认是喝一些还是买一整瓶；这些数量信息应在代词回指后仍可恢复出来。",
+      "analogy": "部分冠词像从大罐里舀一勺，不必先切成每块都编号的小份。",
+      "teaching_points": [
+        "部分冠词表示不明确数量",
+        "喜好总体常用 le/la/les",
+        "数量词 + de 不再叠 du",
+        "en 可回指部分冠词名词组"
+      ],
+      "anchor": {
+        "fr": "Je bois de l’eau.",
+        "zh": "我喝水。",
+        "sound": "“热布瓦”木杯盛着“德洛”清水。",
+        "movie": "一位成人用木杯喝清水，桌上透明水壶显示饮料是普通水。",
+        "pronunciation": "bois /bwa/；de l’eau /də.lo/，eau 三字母表示一个 /o/；bois 的 s 不读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "表达普遍喜欢咖啡，选？",
+          "choices": [
+            "J’aime de café.",
+            "J’aime un de café.",
+            "J’aime le café."
+          ],
+          "answer": 2,
+          "reason": "谈某一类饮品的总体喜好时通常用定冠词。"
+        },
+        {
+          "prompt": "“一杯水”应说？",
+          "choices": [
+            "un verre du eau",
+            "un verre d’eau",
+            "un verre de l’eau 在此表示任意一杯水"
+          ],
+          "answer": 1,
+          "reason": "数量容器表达 un verre de，遇 eau 省音为 d’eau。"
+        }
+      ],
+      "application": "编三轮点餐：说喜好、具体点单、修改数量，至少一次用 en 省去重复。",
+      "self_check": [
+        "喜好与点单冠词不混用",
+        "数量表达后不重复堆叠冠词"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM124",
+      "number": 24,
+      "title": "给过去的故事铺背景",
+      "source_title": "LEÇON VINGT-QUATRE",
+      "minutes": 20,
+      "goal": "用五句回忆一次下雨的出行：两句背景、两句事件、一句过去习惯",
+      "prerequisites": [
+        "JM123"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-007.md",
+          "label": "LEÇON VINGT-QUATRE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "未完成过去时常用于过去的状态、习惯和正在展开的背景。通常从 nous 现在时去掉 -ons，加 -ais、-ais、-ait、-ions、-iez、-aient；être 的词干是 ét-。背景不是“没做完”的同义词：一段真实已经结束的童年生活，也常用未完成过去时，因为说话者在描述当时持续的画面。\n\n复合过去时常推进一件有边界的事件，未完成过去时则搭出它发生时的背景。不要把两者简化成“长动作”和“短动作”：重要的是叙述视角。说我正在看书时电话响了，阅读作为背景，响铃作为插入事件。副词的位置也需注意，常见短副词可放助动词与分词之间，具体时间地点通常不这样插入。",
+      "analogy": "过去叙述像电影：未完成过去时画布景，复合过去时让一个事件切进镜头。",
+      "teaching_points": [
+        "imparfait 常由 nous 词干构成，être 例外",
+        "背景、习惯与有边界事件的叙述视角",
+        "副词位置不能只按中文顺序"
+      ],
+      "anchor": {
+        "fr": "Je lisais quand le téléphone a sonné.",
+        "zh": "电话响时，我正在看书。",
+        "sound": "“热利塞”栗子书旁电话突然响。",
+        "movie": "成人正在读一本栗子封面的书，旁边的电话突然响起，手还停在书页上。",
+        "pronunciation": "lisais /li.zɛ/；quand 的 d 在此不读；sonné /sɔ.ne/ 与 sont 的鼻元音不同；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "表示童年每周骑车习惯，通常选？",
+          "choices": [
+            "Je fais du vélo hier.",
+            "Je faisais du vélo chaque semaine.",
+            "Je vais faire du vélo chaque semaine."
+          ],
+          "answer": 1,
+          "reason": "faisais 把重复习惯放进过去背景；另外两句时态或时间关系不符。"
+        },
+        {
+          "prompt": "“长动作用 imparfait，短动作用 passé composé”是否充分？",
+          "choices": [
+            "不充分，要看背景或事件的叙述视角",
+            "充分，按秒数就能判断",
+            "不需要考虑语境"
+          ],
+          "answer": 0,
+          "reason": "两种时态区分事件如何被呈现，不是机械统计持续长度。"
+        }
+      ],
+      "application": "用五句回忆一次下雨的出行：两句背景、两句事件、一句过去习惯。",
+      "self_check": [
+        "能解释每处过去时的叙述作用",
+        "imparfait 词尾与主语一致"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM1R01",
+      "number": "复习1",
+      "title": "复习19—24：讲完整的一次过去经历",
+      "source_title": "EXERCICES DE REVISION",
+      "minutes": 20,
+      "goal": "用六至八句讲一次在家接待朋友：包括背景、到达、饮食、一个否定和一个回指代词；录音后标出每处选择理由",
+      "prerequisites": [
+        "JM124"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-008.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "这一独立复习对应原第19—24课，把否定、宾语代词、部分冠词和两种过去时放在同一段经历里检验。先说发生了什么，再补当时的背景；时间线画好后，再决定哪个动作作为有边界的事件，哪个状态作为布景。不要为了展示语法而让每句都塞满代词，听者能够追回对象比结构密度更重要。\n\n复习时给每个动词做三次检查：助动词是否合适，否定是否围住变位部分，前置直接宾语是否需要分词配合。说到食物数量，再判断喜好、一些食物或具体份数，不能把 du 与 un 当成可互换。原复习中的过去时段落可作为回书核对点，本站练习重新设定场景；做错时回到具体对应课，不把一次选对视为所有结构已熟练。",
+      "analogy": "综合复习像给旅行箱称重：先确认里面有什么，再查每一层是否装对，不能只看外壳漂亮。",
+      "teaching_points": [
+        "映射 JM119—JM124",
+        "过去背景与事件配合",
+        "助动词、代词、分词三项核对",
+        "部分冠词与数量表达区分"
+      ],
+      "anchor": {
+        "fr": "Je préparais le dîner quand elle est arrivée.",
+        "zh": "她到的时候，我正在准备晚饭。",
+        "sound": "“普雷帕雷”备餐围裙迎接“阿里维”到访包。",
+        "movie": "成人穿着围裙切菜准备晚饭，一位女士提着到访包刚跨进门，动作先后和背景清晰。",
+        "pronunciation": "préparais /pʁe.pa.ʁɛ/；dîner /di.ne/；arrivée /a.ʁi.ve/，阴性词尾 e 不另读；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "一句中“正在备餐”作背景、“她到达”推进事件，选？",
+          "choices": [
+            "Je préparais... elle est arrivée.",
+            "J’ai préparé... elle arrivait. 必定完全等义",
+            "Je prépare hier... elle arrivera."
+          ],
+          "answer": 0,
+          "reason": "第一项用未完成过去时铺背景，用复合过去时呈现到达事件。"
+        },
+        {
+          "prompt": "“我没有喝水”普通数量否定应选？",
+          "choices": [
+            "Je n’ai bu pas de l’eau.",
+            "Je n’ai pas boire eau.",
+            "Je n’ai pas bu d’eau."
+          ],
+          "answer": 2,
+          "reason": "否定围住 ai，boire 用分词 bu，普通否定数量用 d’eau。"
+        }
+      ],
+      "application": "用六至八句讲一次在家接待朋友：包括背景、到达、饮食、一个否定和一个回指代词；录音后标出每处选择理由。",
+      "self_check": [
+        "背景和事件可画在同一时间线上",
+        "至少一处代词可还原为完整名词",
+        "错题能指回相应原课"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "review_mapping": [
+        "JM119",
+        "JM120",
+        "JM121",
+        "JM122",
+        "JM123",
+        "JM124"
+      ]
+    },
+    {
+      "id": "JM125",
+      "number": 25,
+      "title": "描述更合适的物品与做事方式",
+      "source_title": "LEÇON VINGT-CINQ",
+      "minutes": 20,
+      "goal": "为买包列三个要求：一个 qui 从句、一个形容词比较、一个副词比较",
+      "prerequisites": [
+        "JM124"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-009.md",
+          "label": "LEÇON VINGT-CINQ",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "qui 引导的关系从句紧跟一个已经提到的名词，替它在从句里做主语。比较 une boutique qui ferme tard 与两句独立句，你会发现 qui 把重复的 boutique 合并了。它既能指人也能指物，选 qui 不是因为“这是人”，而是因为从句缺一个执行动作或处于状态的主语。\n\n形容词比较可用 plus、moins、aussi 加形容词再加 que，比较的是物品或人的性质。副词比较则描述动作做得怎样。bon 的更好常用 meilleur，bien 的更好用 mieux：一个修饰名词或说明性质，一个修饰动作。选择商品时先说明你要的特征，再比较价格、大小或使用表现，避免只把“更好”一律译成同一个词。比较前要让两个对象处于同一尺度，例如同容量的包比价格；若比较条件不同，应在句中补出限制，避免语言通顺却信息失真。",
+      "analogy": "关系从句像挂在物品上的说明卡，qui 替这件物品站到说明卡的主语位置。",
+      "teaching_points": [
+        "qui 在从句作主语，能指人也能指物",
+        "plus/moins/aussi...que",
+        "bon→meilleur；bien→mieux"
+      ],
+      "anchor": {
+        "fr": "Je cherche un sac qui coûte moins cher.",
+        "zh": "我在找一个价格更低的包。",
+        "sound": "“热舍什”搜索灯照着“库特”剪刀剪低价签。",
+        "movie": "顾客用小手电查看包，店员用剪刀把长价签剪短，展示更低价格。",
+        "pronunciation": "qui /ki/；coûte /kut/；moins /mwɛ̃/ 结尾 s 不读；cher /ʃɛʁ/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“一家开门很早的店”选关系词？",
+          "choices": [
+            "une boutique que ouvre tôt",
+            "une boutique où ouvre tôt",
+            "une boutique qui ouvre tôt"
+          ],
+          "answer": 2,
+          "reason": "ouvre 前缺主语，qui 代替 boutique 作主语。"
+        },
+        {
+          "prompt": "“她做得更好”应选？",
+          "choices": [
+            "Elle travaille bonne.",
+            "Elle travaille mieux.",
+            "Elle travaille meilleur."
+          ],
+          "answer": 1,
+          "reason": "描述 travaille 的方式用副词 mieux，而不是形容词 meilleur。"
+        }
+      ],
+      "application": "为买包列三个要求：一个 qui 从句、一个形容词比较、一个副词比较。",
+      "self_check": [
+        "选 qui 依据从句岗位",
+        "meilleur 与 mieux 能用自己的例子区分"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM126",
+      "number": 26,
+      "title": "选最合适的，并看懂被动句",
+      "source_title": "LEÇON VINGT-SIX",
+      "minutes": 20,
+      "goal": "比较三间房间选出最安静的一间，再写一句说明其中某房间由谁使用",
+      "prerequisites": [
+        "JM125"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-010.md",
+          "label": "LEÇON VINGT-SIX",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "最高级常由定冠词加 plus 或 moins，再配形容词组成。名词不同，冠词与形容词要一起核对：la salle la plus calme。它比较的是某个范围中的最突出对象，所以说清“这些房间里”比孤立说最好更有用。副词最高级通常用 le plus 或 le moins，不随动作执行者性别改变。\n\n被动句把原来承受动作的对象放成主语，用 être 加过去分词；动作执行者需要说明时常用 par 引出。分词与新主语配合，但句子中的时间由 être 承担，过去被动可能出现 a été。不要把 est fermé 一律当成事件被动，它也可能是在报告关门状态。复数前置形容词常引起 de，如 de beaux jardins，与最高级中的定冠词不是一个规则。还原被动句时，把执行者重新放回主语位置，检查动作和对象有没有改变；这能检验你是在理解关系，还是只在替换词形。",
+      "analogy": "被动像把照相机从工人转向桥梁，镜头主角换了，建桥这件事没有换。",
+      "teaching_points": [
+        "最高级须有合理比较范围",
+        "副词最高级通常 le plus",
+        "être + 分词构成被动",
+        "de beaux 名词组与定冠词最高级区分"
+      ],
+      "anchor": {
+        "fr": "Cette salle est utilisée par les étudiants.",
+        "zh": "这个房间由学生们使用。",
+        "sound": "“于蒂利泽”工具箱在学生教室里被使用。",
+        "movie": "学生们在房间里用工具箱完成活动，介绍者从门口展示这个房间的用途。",
+        "pronunciation": "utilisée /y.ti.li.ze/；étudiants /e.ty.djɑ̃/；分词阴性词尾 e 不增加音节；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“由两位女性完成的任务”中，tâche 的被动分词跟谁配合？",
+          "choices": [
+            "所有被动分词都不变",
+            "阴性单数 tâche",
+            "执行者两位女性"
+          ],
+          "answer": 1,
+          "reason": "被动分词与语法主语 tâche 配合，不跟 par 引出的执行者配合。"
+        },
+        {
+          "prompt": "“她跑得最快”通常应说？",
+          "choices": [
+            "Elle court le plus vite.",
+            "Elle court la plus vite.",
+            "Elle court plus la vite."
+          ],
+          "answer": 0,
+          "reason": "vite 是副词，最高级使用 le plus，不因 elle 变成 la。"
+        }
+      ],
+      "application": "比较三间房间选出最安静的一间，再写一句说明其中某房间由谁使用。",
+      "self_check": [
+        "最高级范围清楚",
+        "被动句能还原执行者与承受者"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM127",
+      "number": 27,
+      "title": "用 que 与 où 补充物品和地点",
+      "source_title": "LEÇON VINGT-SEPT",
+      "minutes": 20,
+      "goal": "推荐一家店和一本书，各用一个关系从句，再用 le jour où 记录一个日子",
+      "prerequisites": [
+        "JM126"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-011.md",
+          "label": "LEÇON VINGT-SEPT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "关系词选哪一个，先把从句还原成普通句，看看缺了什么。le livre que je lis 中，je 是主语，lis 后缺读的对象，所以用 que；不是因为书是物就必须用 que。若缺的是主语则用 qui。que 遇元音或哑音 h 常省音为 qu’，关系词前面的名词称为先行词。\n\noù 可以回指地点，也可以回指时间，如一座住过的城市、某次相遇的那一天。它不是普通问句 où 在这里提问，而是把说明接到先行词后面。关系 que 作前置直接宾语时，还可能触发 avoir 复合时态分词的配合。说推荐地点或回忆经历时，可先写两句完整句，再合并，检查有没有遗漏主语或多留一个重复宾语。合并后再数一遍从句中的主语和宾语，既不要缺必要成分，也不要保留被关系词替代的重复对象。",
+      "analogy": "qui 和 que 像不同插头：一个填主语空位，一个填直接宾语空位；看孔位，不看物品像谁。",
+      "teaching_points": [
+        "que 在从句作直接宾语",
+        "qui 在从句作主语",
+        "où 可回指地点或时间",
+        "前置 que 可能触发分词配合"
+      ],
+      "anchor": {
+        "fr": "Voici le café où nous travaillons.",
+        "zh": "这就是我们工作的咖啡馆。",
+        "sound": "“乌努”小乌龟趴在咖啡馆工作桌上。",
+        "movie": "几位成人在咖啡馆共同工作，桌上的小乌龟让来访朋友认出这处地点。",
+        "pronunciation": "voici /vwa.si/；où /u/ 不受重音符号改变读音；travaillons /tʁa.va.jɔ̃/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "le livre ___ j’achète 的空格选？",
+          "choices": [
+            "que",
+            "qui",
+            "où"
+          ],
+          "answer": 0,
+          "reason": "j’ 已是主语，achète 缺直接宾语，que 回指 livre。"
+        },
+        {
+          "prompt": "le jour où... 中 où 回指什么？",
+          "choices": [
+            "必定是人",
+            "只能是建筑物",
+            "时间"
+          ],
+          "answer": 2,
+          "reason": "où 既可引出地点关系，也可引出时间关系，如某一天。"
+        }
+      ],
+      "application": "推荐一家店和一本书，各用一个关系从句，再用 le jour où 记录一个日子。",
+      "self_check": [
+        "关系从句不多留重复宾语",
+        "能够说明关系词在从句中的功能"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM128",
+      "number": 28,
+      "title": "讲未来计划和先做完的事",
+      "source_title": "LEÇON VINGT-HUIT",
+      "minutes": 20,
+      "goal": "写明天两步计划，用 quand 连接并突出先完成；再用 celle de... 指代一件阴性物品",
+      "prerequisites": [
+        "JM127"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-012.md",
+          "label": "LEÇON VINGT-HUIT",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "简单将来时常以不定式为基础加 -ai、-as、-a、-ons、-ez、-ont，-re 动词先去末尾 e；avoir、être、aller 等有不规则词干。不要把 je parlerai 的 -ai 与条件式 -ais 混写。最近将来时与简单将来时并非只看距离多少天，也涉及说话者如何呈现已有安排或未来预期。\n\n先将来时用助动词简单将来时加过去分词，突出某件事在另一个未来动作前已完成。quand、dès que 引出的未来时间从句可用将来时，不能按英语习惯强制现在时。celui、celle、ceux、celles 代替已知名词，基本形式通常还需 de 补语或关系从句；加 -ci、-là 时可在语境明确时独立指认。写未来时间线时，在每一步旁标上先完成或随后发生；若不需强调完成先后，两个动作也可按语境采用简单将来时。形式选择要服务信息重点。",
+      "analogy": "先将来时像明天的检查清单：到下一步开门时，上一格已经打好勾。",
+      "teaching_points": [
+        "futur 词尾与条件式区分",
+        "先将来时突出未来先后",
+        "未来时间从句可以用将来时",
+        "celui/celle 基本形式通常带限定"
+      ],
+      "anchor": {
+        "fr": "Quand j’aurai fini, je sortirai.",
+        "zh": "等我完成后，我就出去。",
+        "sound": "“若雷”闹钟等“菲尼”结束章盖好才开门。",
+        "movie": "成人先给文件盖完工章，旁边闹钟指向稍后的时刻，门随即打开准备外出。",
+        "pronunciation": "aurai /o.ʁe/；fini /fi.ni/；sortirai /sɔʁ.ti.ʁe/，注意未来时词尾；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“我将完成”futur simple 应写？",
+          "choices": [
+            "je finirais",
+            "je fini",
+            "je finirai"
+          ],
+          "answer": 2,
+          "reason": "第一人称将来时词尾是 -ai；-ais 属条件式或过去将来形式。"
+        },
+        {
+          "prompt": "j’aurai fini 的作用是？",
+          "choices": [
+            "只表示现在正在做",
+            "表示某未来参照点前已完成",
+            "表示昨天习惯"
+          ],
+          "answer": 1,
+          "reason": "助动词 futur + 分词构成 futur antérieur，强调未来先完成关系。"
+        }
+      ],
+      "application": "写明天两步计划，用 quand 连接并突出先完成；再用 celle de... 指代一件阴性物品。",
+      "self_check": [
+        "未来时与条件式书写不同",
+        "指示代词有明确先行名词"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM129",
+      "number": 29,
+      "title": "转述别人的话与疑问",
+      "source_title": "LEÇON VINGT-NEUF",
+      "minutes": 20,
+      "goal": "写一段转述：朋友说未来要做一件事，你再向另一人转述，并询问他是否参加",
+      "prerequisites": [
+        "JM128"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-013.md",
+          "label": "LEÇON VINGT-NEUF",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "转述不是把引号删掉就结束。人称、地点与时间表达都要从转述者视角重新定位。主句为过去时，原来的将来动作常用过去将来时，也就是条件式现在时的形式：将来词干加未完成过去时词尾。它在这里表达“从那个过去时点看将来”，不一定表示不确定或礼貌请求。\n\n间接一般疑问用 si 表示“是否”，从句恢复陈述词序，不保留 est-ce que 或倒装；询问什么东西时常用 ce que 或 ce qui，仍按宾语或主语空位区分。hier、demain、ici 是否变化取决于转述时间和地点，不能机械每次都改。原课还涉及过去动作的回溯，完整愈过去时在下册继续，先画清说话和动作的时间线。",
+      "analogy": "转述像换一个人拿地图讲路线，人称和“明天”的起点都要重新定位。",
+      "teaching_points": [
+        "过去将来常用条件式形式",
+        "间接疑问 si = 是否",
+        "间接问句不用疑问倒装",
+        "时间地点词按实际视角调整"
+      ],
+      "anchor": {
+        "fr": "Elle a dit qu’elle viendrait lundi.",
+        "zh": "她说她周一会来。",
+        "sound": "“维昂德雷”围巾挂在周一的来访椅上。",
+        "movie": "一位成人向朋友转述女同事的来访计划，把她的围巾放到周一预留的座位上。",
+        "pronunciation": "qu’elle /kɛl/；viendrait /vjɛ̃.dʁɛ/，末 t 不读；lundi /lœ̃.di/，鼻元音口音可变化；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "过去转述“我明天会来”，从句常用？",
+          "choices": [
+            "elle venir",
+            "elle viendrait",
+            "elle vient 一律不变"
+          ],
+          "answer": 1,
+          "reason": "从过去说话点看将来，常以 viendrait 表示过去将来。"
+        },
+        {
+          "prompt": "“我问他是否来”哪个句型正确？",
+          "choices": [
+            "Je demande s’il vient.",
+            "Je demande est-ce qu’il vient.",
+            "Je demande s’il vient-il."
+          ],
+          "answer": 0,
+          "reason": "间接疑问由 si 引出，后面保持陈述词序，不保留倒装。"
+        }
+      ],
+      "application": "写一段转述：朋友说未来要做一件事，你再向另一人转述，并询问他是否参加。",
+      "self_check": [
+        "人称转向说话者视角",
+        "si 间接问句不重复疑问框架"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM130",
+      "number": 30,
+      "title": "强调重点并写一封短消息",
+      "source_title": "LEÇON TRENTE",
+      "minutes": 20,
+      "goal": "给朋友写六句参观消息：称呼、强调负责人、时间地点、请求、结束语与签名",
+      "prerequisites": [
+        "JM129"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/008-014.md",
+          "label": "LEÇON TRENTE",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "c’est…qui 用来突出主语，c’est…que 用来突出其他适合强调的成分。说 c’est moi qui organise 时，qui 后动词仍要与 moi 对应的 je 一致，不能看到 c’est 就统一用第三人称。ce qui…c’est… 与 ce que…c’est… 可以把一整块“最重要的事”或“我想要的东西”先提出来，再给答案。\n\n代词式动词不仅表示做给自己，也可能表示相互、被动或固有搭配：se parler 是互相说话，se vendre 可以表示被售卖，se souvenir 不能直接按普通直接宾语逻辑拆解。写短消息时先决定对象是熟人还是正式联系人，再选称呼和结尾；现代邮件不必照搬纸信所有排版细节，但请求事项、时间和签名应清晰可见。消息写完后换成收件人视角检查：他是否能知道自己需要回复什么，以及活动由谁负责；称呼礼貌不能替代任务信息。",
+      "analogy": "强调句像舞台聚光灯，照到谁，后面的动词仍跟那个人走，不跟灯走。",
+      "teaching_points": [
+        "c’est...qui 强调主语",
+        "ce qui/ce que 按主语宾语区分",
+        "代词式动词有自反、相互、被动和固有用法",
+        "称呼结尾匹配关系"
+      ],
+      "anchor": {
+        "fr": "C’est moi qui organise la visite.",
+        "zh": "是我安排这次参观。",
+        "sound": "“莫瓦”我举着“奥尔加”活动夹。",
+        "movie": "参观队伍前，一位成人举起活动夹，聚光灯照着他，其他人确认由他负责安排。",
+        "pronunciation": "moi /mwa/；organise /ɔʁ.ɡa.niz/；visite /vi.zit/，s 为 /z/；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“是我们负责”应写？",
+          "choices": [
+            "C’est nous qui organisons.",
+            "C’est nous qui organise.",
+            "C’est nous que organisons."
+          ],
+          "answer": 0,
+          "reason": "qui 作主语回指 nous，动词按 nous 变位为 organisons。"
+        },
+        {
+          "prompt": "Ces billets se vendent vite. 的 se 更接近？",
+          "choices": [
+            "票自己给自己卖票",
+            "必须指互相交谈",
+            "被动意义：这些票卖得快"
+          ],
+          "answer": 2,
+          "reason": "se vendre 可表达被售卖，不是票有意志地执行自反动作。"
+        }
+      ],
+      "application": "给朋友写六句参观消息：称呼、强调负责人、时间地点、请求、结束语与签名。",
+      "self_check": [
+        "强调句动词与真实主语一致",
+        "消息读者能明确知道下一步做什么"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "JM1R02",
+      "number": "复习2",
+      "title": "复习25—30：比较、约定与转述",
+      "source_title": "EXERCICES DE REVISION",
+      "minutes": 20,
+      "goal": "为一次虚构小组参观写八句消息：两个地点比较、一个关系从句、负责人强调、未来先后和一句转述",
+      "prerequisites": [
+        "JM130"
+      ],
+      "sources": [
+        {
+          "book": "jianming-french-volume-1",
+          "location": "chapters/009-001.md",
+          "label": "EXERCICES DE REVISION",
+          "review_status": "native_text_checked"
+        }
+      ],
+      "explanation": "这一复习覆盖原第25—30课，核心是把关系从句、比较、未来计划、转述和强调连成一段可执行的安排。先明确要比较的对象与尺度，再用关系从句补充识别信息。比较商品时，qui、que、où 依从句空位选择；不是按“人用 qui、物用 que”的错误口诀选词。\n\n制定未来安排时，用简单将来说明下一步，需要先完成时再引入先将来。转述过去承诺时重定人称和时间点，间接问句不保留倒装。最后可用 c’est…qui 突出负责人，但动词仍跟被强调的人称一致。完成综合输出后逐项核对信息是否明确：买哪件、在哪里、谁负责、何时完成，比只统计用了几个复杂结构更接近实际交流。",
+      "analogy": "多句安排像一张活动路线图，比较帮你选路，关系从句写路标，时态给每站放时钟。",
+      "teaching_points": [
+        "映射 JM125—JM130",
+        "关系词按主语宾语地点岗位选择",
+        "未来先后与过去转述分开",
+        "强调主语后动词仍随真实人称"
+      ],
+      "anchor": {
+        "fr": "C’est nous qui choisirons le lieu.",
+        "zh": "将由我们来选择地点。",
+        "sound": "“舒瓦齐龙”选择罗盘交到我们手里。",
+        "movie": "一组成人围着地图，负责人把选择罗盘交给大家，指明由这组人决定活动地点。",
+        "pronunciation": "nous qui 这里没有联诵；choisirons /ʃwa.zi.ʁɔ̃/；lieu /ljø/ 为一个音节；中文近音不代替法语发音。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "C’est nous qui 后用“将选择”，应选？",
+          "choices": [
+            "choisira",
+            "choisiront",
+            "choisirons"
+          ],
+          "answer": 2,
+          "reason": "被强调主语对应 nous，将来时仍需第一人称复数 choisirons。"
+        },
+        {
+          "prompt": "le lieu ___ nous choisirons 中选哪个？",
+          "choices": [
+            "où",
+            "que",
+            "qui"
+          ],
+          "answer": 1,
+          "reason": "nous 是主语，choisirons 缺直接对象，故用 que；地点名词也不必总用 où。"
+        }
+      ],
+      "application": "为一次虚构小组参观写八句消息：两个地点比较、一个关系从句、负责人强调、未来先后和一句转述。",
+      "self_check": [
+        "地点、时间、责任均可明确回答",
+        "关系词能按还原句解释",
+        "转述后不保留 est-ce que 或倒装"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "review_mapping": [
+        "JM125",
+        "JM126",
+        "JM127",
+        "JM128",
+        "JM129",
+        "JM130"
+      ]
+    }
+  ],
+  "reference_mapping": [
+    {
+      "location": "chapters/006-002.md",
+      "purpose": "语音导论：配合 JM101—JM108 的声音与字母、连音及节奏认识。"
+    },
+    {
+      "location": "chapters/010-001.md",
+      "purpose": "动词变位表：按当前目标课查证形式，不要求整表线性背诵。"
+    },
+    {
+      "location": "chapters/011-001.md",
+      "purpose": "词汇表：按实际微课需要查词与性数；不公开转录。"
+    }
+  ]
+}
