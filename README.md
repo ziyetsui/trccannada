@@ -8,3 +8,9 @@
 - `scripts/prepare_site.py` 从已验证的本机成果生成公开目录，并移除指向未发布PDF与缓存的链接。
 
 GitHub Pages从 `publish/website` 分支根目录发布；更新PR应以此分支为目标。
+
+## TCF Canada 备考
+
+[独立备考页](learning-library/tcf-canada/) 提供官方考试与样题入口、听说读写训练方法、Oxford 图句基础热身和第一周起步安排。资料核验范围与日期在页面逐项标明。
+
+后续开发先读 [Oxford 起飞最佳实践](docs/french-learning-best-practices.md) 与 [可复用任务和插图提示词](docs/prompts/french-learning-task.md)。
