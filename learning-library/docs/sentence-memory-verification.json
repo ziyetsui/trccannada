@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-12",
+  "coverage": {
+    "books": 9,
+    "lessons": 230,
+    "examples": 814,
+    "distinct_sentences": 810,
+    "word_forms": 1394,
+    "word_occurrences": 4485,
+    "examples_per_book": {
+      "grammar": 149,
+      "expressions": 85,
+      "advanced-expressions": 72,
+      "pronunciation-basic": 60,
+      "pronunciation-connected": 45,
+      "pronunciation-fluent": 45,
+      "idioms": 75,
+      "stories": 120,
+      "take-off": 163
+    }
+  },
+  "authored_new": 661,
+  "retained_and_reviewed": 153,
+  "cross_review_revisions": 79,
+  "browser_checks": {
+    "all_sentence_fields": "passed",
+    "all_word_clicks": "passed",
+    "all_lessons_five_mobile_views": "passed",
+    "original_pronunciation": "passed",
+    "word_memory": "passed",
+    "main_site": 24
+  },
+  "unit_checks": {
+    "sentence_memory": 7,
+    "word_memory": 6,
+    "curriculum": 7
+  },
+  "scope": "Teaching examples; source-reader prose and quiz options unchanged",
+  "audio": "Device French TTS; no full auditory validation"
+}

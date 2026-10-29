@@ -1,0 +1,38 @@
+[
+  {
+    "name": "first visit follows system dark",
+    "passed": true
+  },
+  {
+    "name": "dark surfaces applied",
+    "passed": true
+  },
+  {
+    "name": "system changes followed before manual choice",
+    "passed": true
+  },
+  {
+    "name": "manual dark choice survives reload and overrides system",
+    "passed": true
+  },
+  {
+    "name": "theme preference preserves study progress",
+    "passed": true
+  },
+  {
+    "name": "dark mobile lesson has no overflow",
+    "passed": true
+  },
+  {
+    "name": "dark mobile dashboard has no overflow",
+    "passed": true
+  },
+  {
+    "name": "no theme JavaScript errors",
+    "passed": true
+  },
+  {
+    "name": "theme switches when storage blocked",
+    "passed": true
+  }
+]

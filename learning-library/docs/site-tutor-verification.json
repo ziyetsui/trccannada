@@ -1,0 +1,25 @@
+{
+  "coverage": {
+    "lessons": 230,
+    "examples": 814,
+    "words": 1394
+  },
+  "checks": [
+    "I07 all examples use five views",
+    "I07 sound pun and meaning scene",
+    "I07 exact idiom grouping preserved",
+    "I07 les yeux has z marker",
+    "I07 vingt euros has t, not z",
+    "rule mnemonic opens in explanation view",
+    "I07 word click speaks French, not phonetic joke",
+    "sentence memory slow button speaks the original French sentence",
+    "extended IPA is clearly identified",
+    "230 lessons, all 814 examples render with word drawings, jokes and retained rules",
+    "all 814 examples show their own separate sound joke and mental movie",
+    "every word occurrence opens its own authored mnemonic",
+    "all five mobile views fit every lesson",
+    "dark mode keeps readable tutor",
+    "no JavaScript errors"
+  ],
+  "ipa_note": "Extended IPA is machine generated, not auditory validation."
+}

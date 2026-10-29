@@ -1,0 +1,940 @@
+{
+  "source_sha256": "ceeb86981e4e2cfd5ac34924bb1c1bbc8fe06909d42bf76038aa06ae5cfcad02",
+  "source_file": "/Users/ziye/Downloads/Oxford take off in French (Marie-Thérèse Bougard) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "book_id": "oxford-take-off",
+  "lesson_count": 22,
+  "order": "14 main units interleaved with 4 reviews, then Answers, Grammar Summary, Vocabulary, Glossary/Grammar index",
+  "authorship": "Original Chinese teaching, analogies, examples and independent MCQs; imported source text retained separately.",
+  "audio_status": "Original CD not supplied; no claim of original listening completion.",
+  "review": [
+    {
+      "lesson": "T01",
+      "reader_unit": 1,
+      "source_title": "1 · Starting out — Ça va ?",
+      "printed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "pdf_pages": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "reviewed_content": [
+        "问候与语调",
+        "冠词性别",
+        "1–30及价格",
+        "菜单",
+        "电话点单故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "cc0734dfe2e55bc0fbb3e31ef634633519c0a4d13b413eab32564515018c1b74",
+      "examples": 6,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T02",
+      "reader_unit": 2,
+      "source_title": "2 · Asking the way — Pour aller… ?",
+      "printed_pages": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "pdf_pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "reviewed_content": [
+        "复数/il y a",
+        "路线/缩合/命令式",
+        "31–69/être",
+        "地图",
+        "办公室路线故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "5873ab221cfdd9cf840bd2d790fa221bf13c57c293e8e6b45fdd4c86827d48cb",
+      "examples": 6,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T03",
+      "reader_unit": 3,
+      "source_title": "3 · Numbers, times and dates — Quel jour et à quelle heure ?",
+      "printed_pages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "pdf_pages": [
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "reviewed_content": [
+        "时间/-er",
+        "星期/70–100/quel",
+        "-ir/疑问/否定",
+        "节目表",
+        "改约故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "f2be81c3da0a9e28a470688be6fd48e1a692808809e485e1615125cd8ba61a13",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T04",
+      "reader_unit": 4,
+      "source_title": "Review 1",
+      "printed_pages": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "pdf_pages": [
+        27,
+        28,
+        29
+      ],
+      "reviewed_content": [
+        "词汇/日程",
+        "缩合/动词/数字运算",
+        "旧友与新工作听力题干",
+        "餐馆广告/角色口语"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "2a9db97751b3fda08276dea7fab58417fa75896d185abf0b3ec487cf7120d142",
+      "examples": 6,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T05",
+      "reader_unit": 5,
+      "source_title": "4 · Accommodation — L’hébergement",
+      "printed_pages": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "pdf_pages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "reviewed_content": [
+        "入住/avoir/s’appeler/百千数",
+        "营地/月/-re",
+        "gîte/形容词",
+        "房产广告",
+        "酒店故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "cd6beb8b5aae2efff44e39cab5536937d708e4bdec7f046138aeedb27057c455",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T06",
+      "reader_unit": 6,
+      "source_title": "5 · Personal information — Renseignements personnels",
+      "printed_pages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "pdf_pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "reviewed_content": [
+        "年龄/国籍",
+        "家人/de/物主限定词",
+        "工作/代词式动词",
+        "法语世界",
+        "职业介绍故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "7b28caf7ffad457fb1218db3b7121f92153e3d95b2c175930434e12bdaaaaa3a",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T07",
+      "reader_unit": 7,
+      "source_title": "6 · Shopping — Dans les magasins",
+      "printed_pages": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "pdf_pages": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "reviewed_content": [
+        "指示词/颜色/vouloir",
+        "数量/de/en",
+        "试穿/直接宾语/faire",
+        "尺码与目录",
+        "礼物故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "438a8072f5b123f2ea108d03c43bc5422e320916cb1d3b0bfa2d801ac1035e82",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T08",
+      "reader_unit": 8,
+      "source_title": "7 · Eating out — Au restaurant",
+      "printed_pages": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "pdf_pages": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "reviewed_content": [
+        "点菜/重读代词/aller",
+        "间接宾语/ne plus/pouvoir",
+        "口味/种类/结账",
+        "菜单阅读",
+        "晚餐故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "37def57e4a8a9a31189361f3a52ec3e8ea0d4449d1e6431c742eb3ae3e02f2ba",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T09",
+      "reader_unit": 9,
+      "source_title": "Review 2",
+      "printed_pages": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "pdf_pages": [
+        57,
+        58,
+        59
+      ],
+      "reviewed_content": [
+        "词汇与职业",
+        "试穿/口味/代词式活动",
+        "采访听力题干",
+        "订房口语"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "c4bf7c074e4da5dcc23ddb6f675af05cea5e48ff90d84968c5605ed3e809936c",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T10",
+      "reader_unit": 10,
+      "source_title": "8 · Getting around — En route",
+      "printed_pages": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "pdf_pages": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "reviewed_content": [
+        "交通/y",
+        "车票/devoir/qui/24小时",
+        "故障/-ment",
+        "原SNCF指南",
+        "缺油故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "371d639c3aa6f78d57e55af13d3bd9352e48aa8b62dbb4fc4b2616199e7941b0",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T11",
+      "reader_unit": 11,
+      "source_title": "9 · Health and fitness — En bonne santé",
+      "printed_pages": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "pdf_pages": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "reviewed_content": [
+        "身体症状/avoir",
+        "avoir复合过去/分词",
+        "il faut/否定命令",
+        "原顺势疗法症状表",
+        "生病故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "e5d8a8d5ea05abe76c8d7af063ee40e9687317c4072a6c474d6767334157d535",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T12",
+      "reader_unit": 12,
+      "source_title": "10 · Free time — Les loisirs",
+      "printed_pages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "pdf_pages": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "reviewed_content": [
+        "être复合过去/配合",
+        "depuis/兴趣/频率",
+        "未完成过去",
+        "休闲统计",
+        "病后/家世故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "abb23b25170cd33e30a0f5f48c3052f9d86e5cad21fe517438b39f2704724f73",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T13",
+      "reader_unit": 13,
+      "source_title": "Review 3",
+      "printed_pages": [
+        149,
+        150,
+        151,
+        152
+      ],
+      "pdf_pages": [
+        80,
+        81,
+        82
+      ],
+      "reviewed_content": [
+        "兴趣/交通/身体词",
+        "戒烟时态/兴趣采访",
+        "Hastings题干与补文",
+        "医生/生活方式角色口语"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "8d8713efce1dae56320ae96c518c5033091614d43c096057590581b715cd9b53",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T14",
+      "reader_unit": 14,
+      "source_title": "11 · At home — Chez nous",
+      "printed_pages": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ],
+      "pdf_pages": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "reviewed_content": [
+        "待客/chez",
+        "比较/最高级",
+        "不规则比较/物主代词",
+        "两封手写感谢便条",
+        "拜访茶饮故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "457ec47b9311d4f71be6be84d332c9bf17e980dcb02a9c12fce8245690a926aa",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T15",
+      "reader_unit": 15,
+      "source_title": "12 · Making plans — Faire des projets",
+      "printed_pages": [
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "pdf_pages": [
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "reviewed_content": [
+        "天气/季节",
+        "邀请/条件式",
+        "qui/que",
+        "地区天气图文",
+        "获奖邀请故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "fb0ea6fffaa4c9e830944ab99b9efbafcb4a64638fd9823146fb008c6df2ad32",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T16",
+      "reader_unit": 16,
+      "source_title": "13 · All in the past — Le passé",
+      "printed_pages": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "pdf_pages": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "reviewed_content": [
+        "海外/国家介词",
+        "假期/不定式/il y a",
+        "心情/代词位置",
+        "1997旅游统计",
+        "领奖致辞",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "f5e7abc02d89d73128174ae0639f66e4ad9c7c007926c18b26740243a9d1d07a",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T17",
+      "reader_unit": 17,
+      "source_title": "14 · The world of work — Au travail",
+      "printed_pages": [
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208
+      ],
+      "pdf_pages": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "reviewed_content": [
+        "电话留言/将来",
+        "最近过去/电话用语",
+        "约见/-re及不规则将来",
+        "CV/求职信",
+        "实习生转接故事",
+        "Test/Summary"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "3af0244986feb24a820c672f6b260816a6c2d6dca3a5be471f6f5a74fb0477af",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T18",
+      "reader_unit": 18,
+      "source_title": "Review 4",
+      "printed_pages": [
+        209,
+        210,
+        211,
+        212
+      ],
+      "pdf_pages": [
+        110,
+        111,
+        112
+      ],
+      "reviewed_content": [
+        "词汇/反义/交际目的",
+        "祖母回忆/将来天气",
+        "Van Gogh题干与补文",
+        "电话/明信片口语"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "5ae46a9e48e271a64f3f71e16a21610f97fa8edb25edb6547cfdf28a65716f16",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T19",
+      "reader_unit": 19,
+      "source_title": "Answers",
+      "printed_pages": [
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223
+      ],
+      "pdf_pages": [
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "reviewed_content": [
+        "14单元与4Review答案",
+        "Test/Summary",
+        "开放题Example",
+        "缺音频任务核对边界"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "3f0829ea49f0aa076727c21e7fb3bb3dba7378652321fc54aeaa0c88503116c5",
+      "examples": 7,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T20",
+      "reader_unit": 20,
+      "source_title": "Grammar Summary",
+      "printed_pages": [
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236
+      ],
+      "pdf_pages": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "reviewed_content": [
+        "名词冠词",
+        "形容词",
+        "代词全类",
+        "介词",
+        "副词比较",
+        "疑问否定",
+        "时态/命令/条件",
+        "规则与不规则变位表"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "6d3b5c1ac8a471560fe795bcb0bb122a37a22d21f4922b5e3b60394f98e472f9",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T21",
+      "reader_unit": 21,
+      "source_title": "Vocabulary",
+      "printed_pages": [
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244
+      ],
+      "pdf_pages": [
+        124,
+        125,
+        126,
+        127,
+        128
+      ],
+      "reviewed_content": [
+        "A–Z法英字母词汇",
+        "冠词与性别标记",
+        "不定式词头",
+        "多义及搭配",
+        "全书情景主题检索"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "799a84aba7ce5f947d7177c10a3a34b43f324800f58990b0191c2cf1409eb1be",
+      "examples": 8,
+      "independent_mcq": 3
+    },
+    {
+      "lesson": "T22",
+      "reader_unit": 22,
+      "source_title": "Glossary of Grammatical Terms / Grammar index",
+      "printed_pages": [
+        245,
+        246,
+        247,
+        248
+      ],
+      "pdf_pages": [
+        128,
+        129,
+        130
+      ],
+      "reviewed_content": [
+        "245–247术语定义",
+        "248语法索引",
+        "广告封底属版本背景"
+      ],
+      "review_method": "Read ordered OCR by printed page: lesson/objective pages, dialogue and story text, Language Building explanations, cultural/document reading, Test/Summary and Review tasks; long vocabulary and answer lists checked by structure, sample entries and page headings. OCR is not a visual proofread of every glyph.",
+      "unit_text_sha256": "72f9b8af35dcc936862bb2247d5d4f284a743ab92046f65c3ca17e4f118eb58a",
+      "examples": 8,
+      "independent_mcq": 3
+    }
+  ],
+  "editorial_cautions": [
+    {
+      "pages": [
+        6,
+        8,
+        48,
+        56,
+        80
+      ],
+      "note": "Franc/euro prices retained as historical source context; no current price inference."
+    },
+    {
+      "pages": [
+        68,
+        69,
+        96,
+        128,
+        129,
+        142,
+        188,
+        202
+      ],
+      "note": "Demographic/statistical/travel/employment context is historical; homeopathy page is read as language data, not treatment recommendation."
+    },
+    {
+      "pages": [
+        67,
+        160,
+        233,
+        234,
+        248
+      ],
+      "note": "Images checked: printed é in rule explanation but lève in examples; printed je prend/partirent/croirons are source errors, not OCR errors. Printed en index repeats109. Handwritten notes read visually. Companion uses standard forms; source unmodified."
+    },
+    {
+      "pages": [
+        137,
+        228,
+        230
+      ],
+      "note": "Rules have scope limits: reflexive agreement; demonstrative ça; imperative tu final -s; infinitive groups do not determine every irregular form."
+    }
+  ],
+  "visual_checks": [
+    {
+      "pdf_page": 39,
+      "printed_pages": [
+        66,
+        67
+      ],
+      "finding": "Printed explanation says é but conjugation examples correctly show lève; companion explains è."
+    },
+    {
+      "pdf_page": 86,
+      "printed_pages": [
+        160,
+        161
+      ],
+      "finding": "Read both handwritten thank-you notes; Sophie/Pierre use tu and grosses bises, Brigitte/Philippe use vous and amicalement."
+    },
+    {
+      "pdf_page": 122,
+      "printed_pages": [
+        232,
+        233
+      ],
+      "finding": "Printed je prend is a source typo, standard je prends."
+    },
+    {
+      "pdf_page": 123,
+      "printed_pages": [
+        234,
+        235
+      ],
+      "finding": "Printed ils partirent/ils croirons in future column are source typos, standard partiront/croiront."
+    },
+    {
+      "pdf_page": 130,
+      "printed_pages": [
+        248,
+        249
+      ],
+      "finding": "Original index has en 79,109 and y 109; printed249 is publication advert."
+    }
+  ],
+  "limits": "This is content review for original companions, not certification of complete glyph-level OCR correction or original-audio answers."
+}

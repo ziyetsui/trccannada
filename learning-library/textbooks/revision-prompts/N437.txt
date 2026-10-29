@@ -1,0 +1,8 @@
+Use case: precise-object-edit / illustration-story. Image 1 is the EDIT TARGET, preserve the established adult characters and simple flat picture-book visual language. Output ONE final landscape 3:2 illustration.
+STYLE INVARIANTS: warm ivory negative space, bold charcoal outlines, flat muted teal and tangerine, minimal shading and detail, clear large gestures, no photorealism or 3D. ONE coherent physical scene only. NO speech/thought bubbles, NO inset action scenes, NO collage. No writing, captions, phonetic labels, French answer, letters, numbers, logos or watermarks. Simple essential wordless pictograms on actual physical props are permitted. Keep all anatomy correct.
+French target (context only, never print): Elle m'a dit qu'elle avait pleuré à la fin du film.
+Exact meaning: 她告诉我，她在电影结尾时哭了。
+Phonetic hook (context only, never print): 埃勒马迪，普勒雷
+Bound memory description: 两位成年朋友交谈，一人回忆电影院里擦眼泪的经历，另一人认真听并稍后转告。画面不出现文字、标签或字幕。
+Required scoped repair: Remove the cinema-scene speech bubble completely. Keep the two adult female friends talking at the cafe table. The speaker holds a physical cinema ticket with ONLY tiny film-reel pictogram, and wipes residual tears with a tissue while explaining; listener leans in attentively. A physically present cinema exit doorway or poster can cue they just finished seeing a film, but DO NOT display another action scene, cinema-memory inset, film scene or bubble. The core is she TELLS her friend that she had cried at the END of the film. Ticket and film-reel pictogram only, no text on ticket.
+Preserve sentence people, logical relations, quantity, negation, intended action and tense/sequence. Linguistic meaning wins over incidental decorative detail. Return just one finished illustration.

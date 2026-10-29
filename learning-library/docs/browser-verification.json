@@ -1,0 +1,98 @@
+[
+  {
+    "name": "nine books and 230 lessons",
+    "passed": true
+  },
+  {
+    "name": "missing French voices disables playback",
+    "passed": true
+  },
+  {
+    "name": "late voices, fr-CA and rate",
+    "passed": true
+  },
+  {
+    "name": "French search",
+    "passed": true
+  },
+  {
+    "name": "Chinese search",
+    "passed": true
+  },
+  {
+    "name": "accent-insensitive search",
+    "passed": true
+  },
+  {
+    "name": "book filter",
+    "passed": true
+  },
+  {
+    "name": "category filter",
+    "passed": true
+  },
+  {
+    "name": "empty search feedback",
+    "passed": true
+  },
+  {
+    "name": "clear filters restores catalogue",
+    "passed": true
+  },
+  {
+    "name": "exercise feedback reveals explanations",
+    "passed": true
+  },
+  {
+    "name": "progress restored",
+    "passed": true
+  },
+  {
+    "name": "late voices restore saved fr-CA preference",
+    "passed": true
+  },
+  {
+    "name": "only French selected voice is used",
+    "passed": true
+  },
+  {
+    "name": "keyboard search opens visible catalogue",
+    "passed": true
+  },
+  {
+    "name": "stop calls speech cancellation",
+    "passed": true
+  },
+  {
+    "name": "study document navigation",
+    "passed": true
+  },
+  {
+    "name": "coverage navigation",
+    "passed": true
+  },
+  {
+    "name": "excerpt source warning",
+    "passed": true
+  },
+  {
+    "name": "Markdown download preserves content",
+    "passed": true
+  },
+  {
+    "name": "mobile has no horizontal overflow",
+    "passed": true
+  },
+  {
+    "name": "no JavaScript errors",
+    "passed": true
+  },
+  {
+    "name": "blocked storage allows in-memory progress",
+    "passed": true
+  },
+  {
+    "name": "corrupt progress does not break lesson",
+    "passed": true
+  }
+]

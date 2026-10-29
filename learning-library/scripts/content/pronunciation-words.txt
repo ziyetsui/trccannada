@@ -1,0 +1,306 @@
+# word|broad IPA (careful isolated form)|meaning in these examples|drawing family|spelling explanation
+a|a|有；已经（助动词）|have|a 在这里是 /a/，没有额外的辅音。
+accent|aksɑ̃|口音|voice|cc 在这里分作 /k/ 和 /s/；en 是鼻化元音；词尾 t 不读。
+ai|e|有；已经（第一人称助动词）|have|ai 作为 avoir 的第一人称形式常读 /e/，也有 /ɛ/ 的口音变体。
+allons|alɔ̃|去（我们）|go|双 l 只发一个 /l/；on 是鼻化元音；词尾 s 不读。
+amie|ami|女性朋友|person|词尾 e 不单独发音，与 ami 同音。
+amis|ami|朋友们|person|复数 s 单独不读；在 les amis 中由 les 提供 /z/ 联诵。
+anne|an|安娜（人名）|person|双 n 后有 e，这里是口腔元音 /a/ 加 /n/，不是鼻化元音。
+appelé|aple|打过电话；叫过|phone|双 p 只发一个 /p/；é 为 /e/；中间弱 e 常省去。
+arrive|aʁiv|来；到达|go|双 r 不要念两次；词尾 e 不另成音节。
+arrivent|aʁiv|来；到达（他们）|go|动词第三人称复数词尾 -ent 不发音；与 arrive 同音。
+attention|atɑ̃sjɔ̃|注意；聆听|ear|这里 -tion 读 /sjɔ̃/；en、on 分别对应鼻化元音。
+au|o|在；到；给（à + le）|at|au 两个字母合读一个 /o/。
+aux|o|向；到（à + les）|at|au 为 /o/，词尾 x 单独不读；特定联诵时可为 /z/。
+avec|avɛk|和；带着|together|这里 e 是 /ɛ/；末尾 c 发 /k/，不要套用词尾全不读的说法。
+avez|ave|有；已经（您／你们）|have|动词词尾 -ez 读 /e/，不要再读 z；主语 vous 前接它时有 /z/ 联诵。
+avez-vous|avevu|您有吗；您是否已经|question|avez /ave/ + vous /vu/；连字符表示倒装，不单独发音。
+avons|avɔ̃|有；已经（我们）|have|on 为 /ɔ̃/，词尾 s 单独不读。
+b|be|字母 B|letter|这是字母名 /be/；放在词中时 b 通常只表示辅音 /b/。
+bateau|bato|船|boat|eau 三个字母合读 /o/，不要拆成三个元音。
+beau|bo|美；好看|spark|eau 合读一个 /o/。
+beaucoup|boku|很；许多|quantity|eau 为 /o/、ou 为 /u/；词尾 p 不读。
+bien|bjɛ̃|好；清楚地|good|ien 在这里读 /jɛ̃/，不要在尾部再加清楚的 n。
+bientôt|bjɛ̃to|很快；不久|clock|ien 为 /jɛ̃/，ô 为 /o/；末尾 t 不读。
+blanc|blɑ̃|白色的|color|an 是鼻化元音 /ɑ̃/，末尾 c 不读。
+bol|bɔl|碗|bowl|o 在这个词中读较开的 /ɔ/；末尾 l 发音。
+bon|bɔ̃|好的；好吃的|good|on 为 /ɔ̃/，不是 /o/ 后加一个清楚的 n。
+bonjour|bɔ̃ʒuʁ|你好|wave|on 为 /ɔ̃/，j 为 /ʒ/，ou 为 /u/；r 发音。
+brun|bʁœ̃|棕色的|color|un 在保留区别的口音中为 /œ̃/；许多法国口音用 /ɛ̃/。
+c'est|sɛ|这是；是|point|ce 的 e 省去，写 c’；est 这里读 /ɛ/，s、t 不逐字读。
+café|kafe|咖啡；咖啡馆|cup|c 在 a 前读 /k/；é 为 /e/。
+calme|kalm|平静的；安静的|calm|c 在 a 前读 /k/；末尾 e 不另成音节。
+ce|sə|这；这个；所……的事|point|c 在 e 前读 /s/；e 是轻的 /ə/，不是字母名。
+cela|səla|这；这件事|point|c 在 e 前读 /s/；第一个 e 是弱 e /ə/。
+cependant|səpɑ̃dɑ̃|不过；然而|contrast|ce 中 e 为 /ə/；en、an 是鼻化元音，末尾 t 不读。
+cette|sɛt|这；这个（阴性）|point|这里 e 为 /ɛ/，tt 只读一个 /t/；末尾 e 不另成音节。
+change|ʃɑ̃ʒ|改变；变化|change|ch 为 /ʃ/，an 为 /ɑ̃/，g 在 e 前为 /ʒ/。
+changer|ʃɑ̃ʒe|改变|change|ch 为 /ʃ/，an 为 /ɑ̃/，g 在 e 前为 /ʒ/；动词 -er 为 /e/。
+chat|ʃa|猫|cat|ch 为 /ʃ/；词尾 t 不读。
+cher|ʃɛʁ|贵的|money|ch 为 /ʃ/；这里 er 为 /ɛʁ/，它不是 -er 不定式词尾。
+clair|klɛʁ|清楚的|light|ai 在这里为 /ɛ/；末尾 r 发音。
+comme|kɔm|像；如同|equal|o 为 /ɔ/；mm 只发一个 /m/，e 不另成音节。
+commence|kɔmɑ̃s|开始|start|en 为 /ɑ̃/；c 在 e 前为 /s/，末尾 e 不另成音节。
+commencer|kɔmɑ̃se|开始|start|en 为 /ɑ̃/，c 在 e 前为 /s/，动词 -er 为 /e/。
+commencé|kɔmɑ̃se|开始了|start|en 为 /ɑ̃/，c 在 é 前为 /s/，é 为 /e/。
+comment|kɔmɑ̃|怎样；怎么|question|en 为 /ɑ̃/，词尾 t 单独不读。
+comparer|kɔ̃paʁe|比较|compare|om 在 p 前为 /ɔ̃/；动词 -er 为 /e/。
+comprendre|kɔ̃pʁɑ̃dʁ|理解|mind|om 在 p 前为 /ɔ̃/，en 为 /ɑ̃/；末尾 dre 中 /dʁ/ 发音。
+conclure|kɔ̃klyʁ|作结；总结|finish|on 为 /ɔ̃/；u 为前圆唇元音 /y/，不是 ou 的 /u/。
+confirme|kɔ̃fiʁm|确认|check|on 为 /ɔ̃/，末尾 e 不另成音节。
+coup|ku|一下；一击（tout à coup：突然）|spark|ou 为 /u/；词尾 p 不读。
+courageux|kuʁaʒø|勇敢的|hero|ou 为 /u/，g 在 e 前为 /ʒ/，eu 为 /ø/；词尾 x 不读。
+coût|ku|费用；成本|money|oû 为 /u/；词尾 t 不读，与 coup 同音。
+d'accord|dakɔʁ|同意；好的|good|de 的 e 省去，写 d’；accord 的 cc 为一个 /k/，末尾 d 不读。
+d'autre|dotʁ|另一（d’autre part：另一方面）|contrast|de 的 e 省去；au 为 /o/，末尾 /tʁ/ 保留。
+d'une|dyn|一……的；从一……|of|de 的 e 省去；une 中 u 为 /y/，n 发音。
+dans|dɑ̃|在……里面；在……中|inside|an 为 /ɑ̃/，s 单独不读。
+date|dat|日期|calendar|a 为 /a/；t 发音，末尾 e 不单独发音。
+de|də|的；从；用来连接不定式|of|这里 e 是轻的 /ə/；遇元音可省作 d’。
+demain|dəmɛ̃|明天|calendar|首个 e 为 /ə/；ain 为 /ɛ̃/，没有额外 n。
+dernière|dɛʁnjɛʁ|最后的|finish|è 为 /ɛ/，i 在这里过渡为 /j/；r 发音。
+des|de|一些；复数冠词|quantity|这里 es 合读 /e/；末尾 s 单独不读，名词前可联诵 /z/。
+deux|dø|二；两个|number|eu 为 /ø/，x 单独不读；元音前某些组合联诵 /z/。
+dire|diʁ|说；告诉|voice|i 为 /i/；末尾 re 中 r 发音，e 不另成音节。
+dit|di|说；说过|voice|词尾 t 单独不读，与 dis 的常规读音相同。
+donne|dɔn|给|give|双 n 阻止这里的 o 鼻化；只发一个 /n/。
+dort|dɔʁ|睡觉|sleep|o 为 /ɔ/；r 发音，最后的 t 不读。
+douze|duz|十二|number|ou 为 /u/；z 发 /z/，e 不另成音节。
+du|dy|一些；……的（de + le）|quantity|u 为前圆唇元音 /y/，不是 /u/。
+début|deby|开始；起初|start|é 为 /e/，u 为 /y/；末尾 t 不读。
+déjà|deʒa|已经|clock|é 为 /e/，j 为 /ʒ/；à 在这里仍读 /a/。
+elle|ɛl|她；它（阴性）|person|e 为 /ɛ/，ll 只发一个 /l/；末尾 e 不另成音节。
+en|ɑ̃|在；一些（代词）；用|inside|en 在这个小词中是一个鼻化元音 /ɑ̃/。
+encore|ɑ̃kɔʁ|还；再|repeat|en 为 /ɑ̃/，c 在 o 前为 /k/；r 发音。
+enfants|ɑ̃fɑ̃|孩子们|person|en、an 都为 /ɑ̃/；词尾 ts 不读。
+enfin|ɑ̃fɛ̃|最后；终于|finish|en 为 /ɑ̃/，in 为 /ɛ̃/，不额外添加 n。
+ensuite|ɑ̃sɥit|接着；然后|next|en 为 /ɑ̃/；ui 为 /ɥi/，t 发音。
+est|ɛ|是|equal|être 的这个形式常读 /ɛ/；词尾 s 不读，t 在某些联诵中才出现。
+est-ce|ɛs|是……吗（est-ce que）|question|est-ce 整体读 /ɛs/；连字符不单独发声，t 不读。
+et|e|和；并且|together|et 读 /e/，t 不读；et 后禁止联诵。
+fait|fɛ|做；天气……|action|ai 在这里为 /ɛ/，词尾 t 单独不读。
+faut|fo|需要；必须|need|au 为 /o/，词尾 t 单独不读。
+fenêtre|fənɛtʁ|窗户|window|首个 e 为弱 e /ə/，ê 为 /ɛ/；/tʁ/ 保留。
+fermer|fɛʁme|关闭|close|首个 e 在这里为 /ɛ/；动词 -er 为 /e/。
+finalement|finalmɑ̃|最终；最后|finish|结尾 -ment 为 /mɑ̃/，t 不读；这里采用中间弱 e 省去的常见读法。
+fois|fwa|次；回|repeat|oi 为 /wa/，词尾 s 不读。
+fort|fɔʁ|强的；大（风）|wind|o 为 /ɔ/，r 发音，最后 t 单独不读。
+frais|fʁɛ|新鲜的|food|ai 为 /ɛ/，词尾 s 不读。
+français|fʁɑ̃sɛ|法语；法国的|voice|an 为 /ɑ̃/，ç 为 /s/，ai 为 /ɛ/；词尾 s 不读。
+froid|fʁwa|冷|cold|oi 为 /wa/；词尾 d 不读。
+fête|fɛt|庆祝活动；节日|party|ê 为 /ɛ/，t 发音；末尾 e 不另成音节。
+gare|gaʁ|车站|train|g 在 a 前为 /g/；r 发音。
+garçon|gaʁsɔ̃|男孩；服务员|person|ç 保留 /s/；on 为 /ɔ̃/。
+girafe|ʒiʁaf|长颈鹿|giraffe|g 在 i 前为 /ʒ/；f 发音，末尾 e 不另成音节。
+grande|gʁɑ̃d|大的；高的（阴性）|big|an 为 /ɑ̃/；阴性形式中的 d 发音。
+habite|abit|住|house|开头 h 不发音；t 发音，末尾 e 不另成音节。
+habitez-vous|abitevu|您住……吗|house|h 不发音；-ez 为 /e/，vous 为 /vu/；倒装不用额外 /t/。
+heures|œʁ|小时；点钟|clock|h 不发音且不阻止连接；eu 在这里为 /œ/，末尾 es 不另发音。
+hier|jɛʁ|昨天|calendar|i 向后一个元音过渡成 /j/；r 发音。
+huit|ɥit|八|number|ui 为 /ɥi/，单独读时 t 发音；与 heures 连接仍保留这个 /t/。
+héros|eʁo|英雄|hero|h 本身不发声，但这是 h aspiré，阻止前词省音／联诵；词尾 s 不读。
+ici|isi|这里|point|c 在 i 前为 /s/；两个 i 都读 /i/。
+idée|ide|想法|mind|é 为 /e/，最后的 e 不另成音节。
+il|il|他；它；无人称主语|person|i 为 /i/，l 本来就发音。
+ils|il|他们|person|词尾 s 单独不读；元音开头动词前才出现 /z/ 联诵。
+important|ɛ̃pɔʁtɑ̃|重要的|star|im 在 p 前为 /ɛ̃/，an 为 /ɑ̃/；最后 t 不读。
+instant|ɛ̃stɑ̃|一会儿；片刻|clock|in、an 分别为 /ɛ̃/、/ɑ̃/；最后 t 不读。
+ira|iʁa|将去|go|i、a 各为一个元音，r 连接中间；不是字母名读法。
+j'ai|ʒe|我有；我已经（助动词）|have|je 的 e 省去，j’ 为 /ʒ/；ai 常读 /e/，有口音变体。
+je|ʒə|我|self|j 为浊摩擦音 /ʒ/，不是英语 j；e 为轻的 /ə/。
+joue|ʒu|玩|play|j 为 /ʒ/，ou 为 /u/；e 不另成音节。
+l'ai|le|已经……它（宾语代词 + 助动词）|have|le／la 的元音省去，l’ 为 /l/；ai 常为 /e/。
+l'ami|lami|这位朋友|person|le 的 e 在 ami 前省去，l’ 与 ami 连成 /lami/。
+l'eau|lo|水|water|le／la 在 eau 前省音为 l’；eau 为一个 /o/。
+l'heure|lœʁ|时间；点钟|clock|la 在 heure 前省去 a；h 不发声，eu 为 /œ/。
+l'important|lɛ̃pɔʁtɑ̃|重要的事情|star|le 的 e 省去；im 为 /ɛ̃/，an 为 /ɑ̃/，t 不读。
+l'été|lete|夏天|sun|le 的 e 省去，两个 é 都为 /e/。
+la|la|这／那（阴性冠词）；她／它（宾语）|point|l 为 /l/，a 为 /a/；通常轻读并依附后面的词。
+lait|lɛ|牛奶|milk|ai 在这里为 /ɛ/；末尾 t 不读。
+le|lə|这／那（阳性冠词）；他／它（宾语）|point|e 为弱 e /ə/；在紧密词组中轻读，不能读成字母名。
+lentement|lɑ̃tmɑ̃|慢慢地|slow|en、结尾 -ment 中的 en 均为 /ɑ̃/；这里给出弱 e 省去的常见形式。
+les|le|这些／那些（复数冠词）|quantity|es 在这里为 /e/，s 单独不读；元音名词前联诵 /z/。
+lina|lina|莉娜（人名）|person|i 为 /i/、a 为 /a/；按这个人名的法语常见读法练习。
+livre|livʁ|书|book|i 为 /i/，/vʁ/ 都保留，最后 e 不另成音节。
+longue|lɔ̃g|长的（阴性）|long|on 为 /ɔ̃/；gu 在 e 前保留 /g/，u 不单独读。
+lu|ly|读过|book|u 是前圆唇元音 /y/，不要读成 /u/。
+lui|lɥi|给他／她；他（重读代词）|give|ui 为 /ɥi/，由圆唇前高舌位滑向 /i/。
+lundi|lœ̃di|周一|calendar|un 可为 /œ̃/，也有 /ɛ̃/ 的合并读法；d、i 发音。
+lune|lyn|月亮|moon|u 为 /y/，n 发音，最后 e 不另成音节。
+là|la|那里|point|à 在这里仍为 /a/，与 la 同音但意思不同。
+léa|lea|莉娅（人名）|person|é 与 a 各占一个元音位置，清楚读 /e.a/。
+m'aiderait|mɛdʁɛ|会帮助我|help|me 的 e 省去；aiderait 的 ai、-ait 在这里为 /ɛ/；t 不读。
+m'appelle|mapɛl|叫作（je m’appelle：我叫）|name|me 省作 m’；appelle 的 pp、ll 各只读一个辅音。
+m'enregistre|mɑ̃ʁəʒistʁ|录下自己|record|me 的 e 省去，en 为 /ɑ̃/，g 在 i 前为 /ʒ/。
+ma|ma|我的（阴性名词前）|own|m 为 /m/，a 为 /a/；不表示物主一定为女性。
+maintenant|mɛ̃tnɑ̃|现在|clock|ain 为 /ɛ̃/，an 为 /ɑ̃/；这里采用中间弱 e 省去的常见读法，末尾 t 不读。
+maison|mɛzɔ̃|房子|house|ai 为 /ɛ/；元音之间单个 s 为 /z/，on 为 /ɔ̃/。
+mal|mal|疼；不好|hurt|a 为 /a/，l 发音；avoir mal à 表示某处疼。
+maman|mamɑ̃|妈妈|person|最后 an 为 /ɑ̃/；首个 ma 不鼻化。
+manteau|mɑ̃to|外套|coat|an 为 /ɑ̃/，eau 为 /o/。
+mardi|maʁdi|周二|calendar|r、d 都发音；最后 i 为 /i/。
+matin|matɛ̃|早晨|sun|in 为 /ɛ̃/，不是 /i/ 后另加 n。
+me|mə|我（宾语）；给我|self|e 为轻的 /ə/；元音前常省作 m’。
+merci|mɛʁsi|谢谢|thanks|c 在 i 前为 /s/，首个 e 在这里为 /ɛ/。
+message|mesaʒ|信息；消息|letter|首个 e 为 /e/；ss 为 /s/，g 在 e 前为 /ʒ/。
+midi|midi|中午；十二点|clock|两个 i 都为 /i/；两个音节 mi-di。
+moi|mwa|我（重读形式）|self|oi 为 /wa/，不是 o、i 两个分离元音。
+mon|mɔ̃|我的（阳性／元音开头名词前）|own|on 为 /ɔ̃/；元音名词前可出现 /n/ 联诵。
+montagne|mɔ̃taɲ|山区；山|mountain|on 为 /ɔ̃/，gn 合读 /ɲ/，不要拆作 /g/ 加 /n/。
+mot|mo|词|letter|o 在这里为 /o/；末尾 t 不读。
+mère|mɛʁ|母亲|person|è 为 /ɛ/，r 发音；最后 e 不另成音节。
+n'ai|ne|没有……（否定小词 + 助动词）|no|ne 省作 n’，n 与 ai 连成 /ne/；ai 有 /ɛ/ 的口音变体。
+ne|nə|否定小词（与 pas 等搭配）|no|e 为弱 e /ə/；元音前省作 n’，日常口语还常省掉整个 ne。
+nom|nɔ̃|姓名；名字|name|om 在词尾为 /ɔ̃/，不另加 /m/。
+notre|nɔtʁ|我们的|own|o 为 /ɔ/，/tʁ/ 保留；末尾 e 不另成音节。
+nous|nu|我们|people|ou 为 /u/，s 单独不读；元音动词前联诵 /z/。
+numéro|nymeʁo|号码|number|u 为 /y/、é 为 /e/、o 为 /o/，三个元音位置。
+on|ɔ̃|我们（口语）；人们|people|on 是一个鼻化元音；元音动词前有 /n/ 联诵。
+options|ɔpsjɔ̃|选项|choice|这里 -tion 为 /sjɔ̃/；p 发音，复数 s 不读。
+organise|ɔʁganiz|组织|organize|g 在 a 前为 /g/，元音之间 s 为 /z/；末尾 e 不另成音节。
+ou|u|或者|choice|ou 两字母合读 /u/，与 où 同音。
+oui|wi|是；好的|good|ou 在 i 前滑向 /w/，整体一个音节 /wi/。
+où|u|哪里|question|où 读 /u/；重音符号区分词义，不另加声音。
+pain|pɛ̃|面包|bread|ain 为 /ɛ̃/；n 不另发音。
+panne|pan|故障（en panne：坏了）|broken|双 n 后有 e，a 不鼻化，n 发音；不同于 pain。
+papa|papa|爸爸|person|两个 pa 都清楚读 /pa/，不需要强送气。
+parc|paʁk|公园|tree|r、词尾 c 都发音，c 为 /k/。
+parking|paʁkiŋ|停车场|car|外来词的 -ing 这里为 /iŋ/；末尾不是鼻化元音加 /g/。
+parle|paʁl|说（我／他）|voice|词尾 e 不读，r、l 都保留。
+parlent|paʁl|说（他们）|voice|动词复数词尾 -ent 不发音；与 parle 同音。
+parles|paʁl|说（你）|voice|词尾 -es 不发音；与 parle、parlent 同音。
+part|paʁ|部分；方面|part|r 发音，词尾 t 单独不读；d’une part 是“一方面”。
+partie|paʁti|部分；一段|part|t、i 都发音，末尾 e 不另成音节。
+partirons|paʁtiʁɔ̃|将出发（我们）|go|最后 on 为 /ɔ̃/，s 不读；两个 r 都保留。
+pas|pa|不；没有|no|最后 s 单独不读；和 ne／n’ 搭配构成否定。
+passe|pas|经过|go|ss 为 /s/，末尾 e 不另成音节。
+passons|pasɔ̃|转到；让我们进入|next|ss 为 /s/，on 为 /ɔ̃/；最后 s 单独不读。
+patte|pat|爪子|paw|tt 只读一个 /t/，a 常为 /a/；末尾 e 不另成音节。
+paul|pɔl|保罗（人名）|person|这个人名的 au 常读 /ɔ/，不是机械套 au 一律 /o/。
+pense|pɑ̃s|想；觉得|mind|en 为 /ɑ̃/，s 发 /s/；末尾 e 不另成音节。
+petit|pəti|小的（阳性）|small|首个 e 是可弱化的 /ə/，最后 t 单独不读。
+petite|pətit|小的（阴性）|small|末尾 e 不读，但阴性形式的 t 发音；比 petit 多 /t/。
+peu|pø|少；一点|quantity|eu 为较闭的圆唇前元音 /ø/。
+peur|pœʁ|害怕|fear|eu 在这里为较开的 /œ/，不同于 peu 的 /ø/；r 发音。
+peux|pø|能；可以（我／你）|can|eu 为 /ø/，最后 x 不读。
+phrase|fʁaz|句子|letter|ph 合读 /f/，元音之间 s 为 /z/；末尾 e 不另成音节。
+pied|pje|脚|foot|i 在 e 前成为 /j/，末尾 d 不读。
+plaît|plɛ|使……喜欢（s’il vous plaît：请）|please|aî 在这里为 /ɛ/，最后 t 不读。
+plein|plɛ̃|满的|full|ein 为 /ɛ̃/，不要再加清楚的 n。
+plus|ply|更（plus lentement：更慢）|more|此处比较级中 s 不读；单独表示“更多”时常读 /plys/，随用法变化。
+plusieurs|plyzjœʁ|几个；好几个|quantity|u 为 /y/；s 在元音之间为 /z/，ieu 在这里为 /jœ/；最后 s 不读。
+point|pwɛ̃|点；要点|point|oin 合读 /wɛ̃/，最后 t 单独不读。
+points|pwɛ̃|要点（复数）|point|oin 为 /wɛ̃/，最后 ts 不读；与 point 同音。
+poisson|pwasɔ̃|鱼|fish|oi 为 /wa/，ss 为 /s/，on 为 /ɔ̃/。
+porte|pɔʁt|穿着；带着|coat|o 为 /ɔ/，r、t 发音；末尾 e 不另成音节。
+possible|pɔsibl|可能的|can|ss 为 /s/，/bl/ 保留；末尾 e 不另成音节。
+possibles|pɔsibl|可能的（复数）|can|复数 s 不读；与 possible 同音。
+pour|puʁ|为了；给；对……|for|ou 为 /u/，r 发音。
+pourriez-vous|puʁjevu|您能否……（礼貌请求）|please|pourriez 中 ie 为 /je/，-ez 为 /e/；与 vous 直接连读，无额外 /t/。
+pouvez|puve|能；可以（您／你们）|can|ou 为 /u/，动词 -ez 为 /e/。
+pouvez-vous|puvevu|您能……吗|question|pouvez /puve/ + vous /vu/；倒装中的连字符不发声。
+pratique|pʁatik|方便的；实用的|good|qu 为 /k/，u 不单独发音，末尾 e 不另成音节。
+prends|pʁɑ̃|拿；要；喝（我／你）|take|en 为 /ɑ̃/，末尾 ds 不读。
+proche|pʁɔʃ|近的|near|o 为 /ɔ/，ch 为 /ʃ/，最后 e 不另成音节。
+projet|pʁɔʒɛ|项目|plan|j 为 /ʒ/，结尾 et 为 /ɛ/，t 不读。
+prononce-t-on|pʁɔnɔ̃stɔ̃|怎样读……呢（倒装）|question|prononce 的 c 发 /s/；书写加入的 -t- 发 /t/，连接到 on /ɔ̃/。
+prononciation|pʁɔnɔ̃sjasjɔ̃|发音|voice|中间 on 为 /ɔ̃/；ci 为 /sj/，-tion 为 /sjɔ̃/，不要按每个字母分读。
+propos|pʁɔpo|话题（à propos：对了）|voice|两个 o 的音质不同 /ɔ/、/o/；末尾 s 不读。
+prudent|pʁydɑ̃|谨慎的|care|u 为 /y/，en 为 /ɑ̃/，末尾 t 不读。
+préférez|pʁefeʁe|更喜欢（您／你们）|choice|两个 é 和动词 -ez 都为 /e/；不要在末尾加 /z/。
+présente|pʁezɑ̃t|介绍；展示|show|é 为 /e/，元音之间 s 为 /z/，en 为 /ɑ̃/；t 发音。
+présenter|pʁezɑ̃te|介绍；展示|show|é 为 /e/，s 为 /z/，en 为 /ɑ̃/；动词 -er 为 /e/。
+prêt|pʁɛ|准备好的（阳性）|check|ê 为 /ɛ/，最后 t 单独不读。
+prête|pʁɛt|准备好的（阴性）|check|ê 为 /ɛ/，阴性形式中 t 发音；e 不另成音节。
+pâte|pɑt|面团|food|â 在保留区别的口音中为 /ɑ/，许多口音与 /a/ 合并；t 发音。
+quatorze|katɔʁz|十四|number|qu 为 /k/，u 不另读；z 发音，末尾 e 不另成音节。
+que|kə|……的事；引出从句|link|qu 为 /k/，u 不另读；e 是轻的 /ə/。
+question|kɛstjɔ̃|问题|question|这里 qu 为 /k/，-tion 为 /tjɔ̃/，不同于 attention 的 /sjɔ̃/。
+questions|kɛstjɔ̃|问题（复数）|question|复数 s 不读；question 的 /t/ 保留，不把 -tion 一律读 /sjɔ̃/。
+qui|ki|谁；……的人／事|person|qu 为 /k/，u 不另读；i 为 /i/。
+quinze|kɛ̃z|十五|number|qu 为 /k/，in 为 /ɛ̃/，z 发音。
+reformule|ʁəfɔʁmyl|换种说法|repeat|首个 e 为 /ə/，u 为 /y/；最后 e 不另成音节。
+reformuler|ʁəfɔʁmyle|换种说法|repeat|首个 e 为 /ə/，u 为 /y/；动词 -er 为 /e/。
+regarde|ʁəgaʁd|看着|eye|首个 e 为 /ə/，g 在 a 前为 /g/；d 发音。
+relire|ʁəliʁ|再读；读回|book|首个 e 为 /ə/，i 为 /i/；两个 r 都发音。
+rendez-vous|ʁɑ̃devu|预约；约会|calendar|en 为 /ɑ̃/，-ez 为 /e/，ou 为 /u/；这里末尾 s 单独不读。
+rentrés|ʁɑ̃tʁe|回去了（复数）|home|en 为 /ɑ̃/，é 为 /e/，复数 s 不读。
+reportée|ʁəpɔʁte|推迟了（阴性）|calendar|首个 e 为 /ə/，é 为 /e/，最后 e 不另成音节。
+reprendre|ʁəpʁɑ̃dʁ|重新说；重来|repeat|首个 e 为 /ə/，en 为 /ɑ̃/；末尾 /dʁ/ 发音。
+restaurant|ʁɛstoʁɑ̃|餐馆|food|首个 e 常为 /ɛ/，au 在这个词中常为 /o/，an 为 /ɑ̃/，t 不读。
+reste|ʁɛst|仍然是；保持|stay|e 在这里为 /ɛ/，/st/ 保留；最后 e 不另成音节。
+restent|ʁɛst|仍然是（复数）|stay|动词复数词尾 -ent 不读，与 reste 同音。
+retenons|ʁətənɔ̃|让我们记住|mind|两个弱 e 慢读可保留；on 为 /ɔ̃/，s 不读。
+retour|ʁətuʁ|反馈；返回|reply|首个 e 为 /ə/，ou 为 /u/；r 发音。
+retrouve|ʁətʁuv|再次见到；找到|meet|首个 e 为 /ə/，ou 为 /u/；v 发音。
+revenir|ʁəvəniʁ|回来；回到|home|两个 e 慢读可用 /ə/；i、末尾 r 都发音。
+reviennent|ʁəvjɛn|回来（他们）|home|ie 在这里为 /jɛ/，nn 为 /n/，动词词尾 -ent 不读。
+reçu|ʁəsy|收到|reply|首个 e 为 /ə/，ç 为 /s/，u 为 /y/。
+rue|ʁy|街道|road|u 为 /y/；末尾 e 不另成音节。
+réfléchis|ʁefleʃi|思考（我）|mind|é 为 /e/，ch 为 /ʃ/，词尾 s 不读。
+répondrai|ʁepɔ̃dʁe|将回答（我）|reply|é 为 /e/，on 为 /ɔ̃/，将来时 -ai 常为 /e/，也有口音变体。
+répète|ʁepɛt|重复（我）|repeat|é 为 /e/，è 为 /ɛ/；t 发音，最后 e 不另成音节。
+répéter|ʁepete|重复|repeat|两个 é 与动词 -er 都为 /e/。
+résultats|ʁezylta|结果|chart|é 为 /e/，元音之间 s 为 /z/，u 为 /y/；词尾 ts 不读。
+résumé|ʁezyme|总结；摘要|finish|两个 é 为 /e/，元音之间 s 为 /z/，u 为 /y/。
+réunion|ʁeynjɔ̃|会议|people|é、u 分别为 /e/、/y/；ion 为 /jɔ̃/。
+s'il|sil|如果他（s’il vous plaît：请）|please|si 的 i 在 il 前省去写 s’；/s/ 与 il /il/ 合起来。
+s'écrit|sekʁi|拼写（ça s’écrit：它拼作）|write|se 的 e 省去；é 为 /e/，词尾 t 不读。
+sac|sak|包|bag|末尾 c 发 /k/，不能省掉。
+sais|sɛ|知道（我／你）|mind|ai 为 /ɛ/，词尾 s 不读。
+sans|sɑ̃|没有；不带|no|an 为 /ɑ̃/，末尾 s 单独不读。
+savez|save|知道（您／你们）|mind|动词 -ez 为 /e/，z 不单独读。
+se|sə|自己；彼此（反身代词）|self|e 为弱 e /ə/，元音前可省作 s’。
+seize|sɛz|十六|number|ei 在这里为 /ɛ/，z 发音；和 quinze 的鼻化元音不同。
+selon|səlɔ̃|根据；据……说|of|首个 e 为 /ə/，on 为 /ɔ̃/。
+semble|sɑ̃bl|似乎；看来|mind|em 在 b 前为 /ɑ̃/；/bl/ 保留，最后 e 不另成音节。
+serait-il|səʁɛtil|是否会……|question|serait 的 -ait 为 /ɛ/；倒装时已有的 t 与 il 连接发 /t/。
+si|si|如果；是的（反驳否定问句）|choice|s 为 /s/，i 为 /i/；意义根据整句确定。
+six|sis|六|number|单独报数常读 /sis/；six heures 中改为 /sizœʁ/，x 连接时为 /z/。
+sommes|sɔm|是；已经（我们）|equal|双 m 后的 o 不鼻化；mm 只读一个 /m/，末尾 es 不读。
+son|sɔ̃|他／她的；声音|voice|on 为 /ɔ̃/；物主用法与“声音”是同形词，按句子区别。
+sonné|sɔne|响了|phone|双 n 使 o 不鼻化，é 为 /e/。
+suis|sɥi|是（我）|equal|ui 为 /ɥi/；末尾 s 单独不读。
+sujet|syʒɛ|话题；主题|letter|u 为 /y/，j 为 /ʒ/，结尾 et 为 /ɛ/。
+sur|syʁ|在……上；关于|on|u 为 /y/，r 发音。
+table|tabl|桌子|table|a 为 /a/，/bl/ 保留；最后 e 不另成音节。
+te|tə|你（宾语）；给你|person|e 为弱 e /ə/，不是字母 t 的名字。
+temps|tɑ̃|时间|clock|em 在 p 前为 /ɑ̃/；词尾 ps 不读。
+thé|te|茶|cup|th 在这个词中为 /t/，不读英语 /θ/；é 为 /e/。
+tout|tu|一切；全部|all|ou 为 /u/，词尾 t 单独通常不读；tout est 中 t 联诵。
+trains|tʁɛ̃|火车（复数）|train|ain 为 /ɛ̃/，复数 s 不读。
+travaille|tʁavaj|练；工作（我）|work|这里 -aille 为 /aj/，不是 /al/；末尾 e 不另成音节。
+trois|tʁwa|三；三个|number|oi 为 /wa/，词尾 s 单独不读。
+très|tʁɛ|很；非常|more|è 为 /ɛ/，s 单独不读；元音前某些组合会有 /z/。
+tu|ty|你|person|u 为前圆唇元音 /y/；不同于 tout /tu/ 的 /u/。
+téléphone|telefɔn|电话|phone|两个 é 为 /e/，ph 为 /f/，最后 on 后有 e，所以 /ɔn/ 不鼻化。
+tôt|to|早|sun|ô 为 /o/，最后 t 不读。
+un|œ̃|一；一个（阳性）|one|un 为 /œ̃/，许多法国口音合并为 /ɛ̃/；元音名词前联诵 /n/。
+une|yn|一；一个（阴性）|one|u 为 /y/，n 发音，e 不另成音节；不同于 un。
+utile|ytil|有用的|good|u 为 /y/，i 为 /i/，l 发音；最后 e 不另成音节。
+va|va|去；情况……（他／她）|go|v 为 /v/，a 为 /a/。
+vais|vɛ|去；将要（我）|go|ai 在这里为 /ɛ/，末尾 s 单独不读。
+venez|vəne|来（您／你们）|go|首个 e 为 /ə/，动词 -ez 为 /e/。
+vent|vɑ̃|风|wind|en 为 /ɑ̃/，最后 t 单独不读。
+verrons|vɛʁɔ̃|将看（我们）|eye|第一个 e 为 /ɛ/，on 为 /ɔ̃/；双 r 不要发两遍，最后 s 不读。
+veut|vø|想要（他／她）|want|eu 为 /ø/，最后 t 单独不读。
+veux|vø|想要（我／你）|want|eu 为 /ø/，最后 x 单独不读；与 veut 同音。
+viens|vjɛ̃|来（我／你）|go|ien 在这里为 /jɛ̃/，最后 s 单独不读。
+vin|vɛ̃|葡萄酒|wine|in 为 /ɛ̃/，不是清楚的 /i/ 加 /n/。
+voici|vwasi|这是；这里有|show|oi 为 /wa/，c 在 i 前为 /s/。
+vois|vwa|看见；明白（我／你）|eye|oi 为 /wa/，最后 s 不读。
+voiture|vwatyʁ|汽车|car|oi 为 /wa/，u 为 /y/，r 发音。
+vos|vo|您的／你们的（复数名词前）|own|o 为 /o/，s 单独不读；合适的元音名词前可联诵 /z/。
+votre|vɔtʁ|您的／你们的（单数名词前）|own|o 为 /ɔ/，/tʁ/ 保留，最后 e 不另成音节。
+voudrais|vudʁɛ|想要（礼貌表达，我／你）|want|ou 为 /u/，-ais 为 /ɛ/；s 单独不读。
+voulez|vule|想要（您／你们）|want|ou 为 /u/，动词 -ez 为 /e/。
+vous|vu|您；你们；您／你们（宾语）|person|ou 为 /u/，s 单独不读；元音动词前常联诵 /z/。
+vraiment|vʁɛmɑ̃|真的|star|ai 为 /ɛ/，结尾 -ment 为 /mɑ̃/，t 不读。
+vérifie|veʁifi|核对（我）|check|é 为 /e/，后面两个 i 为 /i/；最后 e 不另成音节。
+y|i|在那里（il y a：有）|point|y 在这个小词中为 /i/；不读字母名。
+à|a|在；到；给|at|à 读 /a/，符号用于与动词 a 区分，不另加声音。
+ça|sa|这；这个|point|ç 在 a 前仍读 /s/。
+élevé|elve|高的|big|采用常见中间弱 e 省去的 /elve/；保留时可为 /eləve/，首尾 é 都为 /e/。
+épelle|epɛl|拼写字母（我）|write|é 为 /e/，elle 为 /ɛl/；双 l 不发两遍。
+était|etɛ|曾是；当时是|equal|é 为 /e/，-ait 为 /ɛ/，词尾 t 单独不读。
+œufs|ø|鸡蛋（复数）|egg|常见复数读音为 /ø/，f、s 均不读；单数 œuf 通常为 /œf/。

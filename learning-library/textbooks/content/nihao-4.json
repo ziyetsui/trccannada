@@ -1,0 +1,2207 @@
+{
+  "id": "nihao-4",
+  "title": "你好！法语4 · B1续篇中文伴学",
+  "subtitle": "原书第25—48课、六次综合实践与两次阶段检验",
+  "level": "B1（后半）",
+  "role": "A1—A2之后的可选进阶；承接法语3，非B2教材或考试认证",
+  "source_slugs": [
+    "nihao-4-student"
+  ],
+  "source_structure": "据物理第4页版权页：2016年8月第1版，ISBN978-7-5135-7960-5。物理第7页前言明确原版B1内容分册，本册含单元7—12，非B2；物理第5—6页目录为第25—48课、6 Savoir-faire、Évaluation3/4。保留原编号；附录转录、语法概要、词汇表按课参考，不复制原文或编造原音频答案。",
+  "lessons": [
+    {
+      "id": "N425",
+      "number": 25,
+      "title": "给工作理想加上有根据的意见",
+      "source_title": "Leçon 25 — Un monde idéal...",
+      "minutes": 25,
+      "goal": "用八句提出理想工作环境：三项条件、两条理由、一个可能的代价和一个核实问题。",
+      "prerequisites": [
+        "NB124",
+        "NB1R06"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0014.md",
+          "label": "物理第14页（印刷第8页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0016.md",
+          "label": "补充核对：物理第16页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "谈理想工作环境，先区分可观察条件与个人评价：工作时长、通勤方式与合同安排是条件，满意或失望是态度。je pense que 通常引出自己认可的判断，à mon avis 标明个人立场。不要把公司宣传的“大家庭”自动等同于员工真实体验，读漫画或宣传时要找画面与说话内容是否一致。\n\n意见不是把好坏形容词连在一起，而是提出标准和证据。例如希望团队友善，可以补充怎样分工、怎样处理加班。赞成、怀疑与情绪表达之后的语式并不完全相同，应先确认整个句型。讨论时先复述对方观点，再提出一个核实条件的问题，能让理想从口号变成具体可比较的方案。\n\n观点语式对照：Je crois que cette organisation est utile（我相信它有用），肯定 croyance 用直陈式；Je ne crois pas que cette organisation soit utile（我不认为它有用），本课采用通常的否定信念+虚拟式。否定不是只往原句加 ne…pas 而保持 est 不动；从句的呈现方式也变了。否定观点在特殊确信或反驳语境可保留直陈式，但当前练习先学最常见的怀疑表达，不把语式说成事实真假开关。",
+      "analogy": "工作宣传像漂亮饭盒：盒盖好看，还要看看里面究竟有什么菜。",
+      "teaching_points": [
+        "谈理想工作环境，先区分可观察条件与个人评价：工作时长、通勤方式与合同安排是条件，满意或失望是态度。",
+        "意见不是把好坏形容词连在一起，而是提出标准和证据。",
+        "本课默认对照：penser/croire肯定+直陈式；否定表达疑虑时+虚拟式。"
+      ],
+      "anchor": {
+        "fr": "Je pense qu'un bon emploi doit laisser du temps pour la famille.",
+        "zh": "我认为好工作应当给家庭生活留出时间。",
+        "sound": "热庞斯，拉法米耶",
+        "movie": "一位成年员工把公文包放下，腾出餐桌位置，与家人一起坐下吃饭。画面不出现文字、标签或字幕。",
+        "pronunciation": "pense /pɑ̃s/，emploi /ɑ̃plwa/；famille /famij/ 的 ll 不读普通 /l/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "明确为个人判断而非人人认可的事实：",
+          "choices": [
+            "Tout le monde sait forcément que…",
+            "Je pense que…",
+            "Il est interdit de penser que…"
+          ],
+          "answer": 1,
+          "reason": "Je pense que 标示个人意见；其余夸大共识或变成禁止。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "好工作必须把所有家庭时间都取消。",
+            "我的家庭已经给我找到一份新工作。",
+            "我认为好工作应当给家庭生活留出时间。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：我认为好工作应当给家庭生活留出时间。"
+        },
+        {
+          "prompt": "用否定 croyance 表怀疑：Je ne crois pas que cette mesure ___ utile.",
+          "choices": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "reason": "在本课的怀疑语境 ne pas croire que 通常接虚拟式 soit；est/sera 是直陈式。"
+        }
+      ],
+      "application": "用八句提出理想工作环境：三项条件、两条理由、一个可能的代价和一个核实问题。\n\n补充迁移：写两组对照，每组同一工作安排先用 Je crois que+直陈式肯定，再用 Je ne crois pas que+虚拟式表示怀疑，并给一个理由。",
+      "self_check": [
+        "完成并保存本课规定的输出：用八句提出理想工作环境：三项条件、两条理由、一个可能的代价和一个核实问题。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。",
+        "两组肯定/否定观点分别采用对应语式，并解释说话者态度变化。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N426",
+      "number": 26,
+      "title": "表达远程工作的愿望与要求",
+      "source_title": "Leçon 26 — Travailler autrement",
+      "minutes": 25,
+      "goal": "写九十词远程工作申请：一项愿望、两项可核实好处、一项限制，以及可协商的交付与联系安排。",
+      "prerequisites": [
+        "N425"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0018.md",
+          "label": "物理第18页（印刷第12页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论远程工作要分别观察通勤、家庭安排与产出要求，不能只用“自由”概括。表达必要性、愿望或情绪时，il faut que、je souhaite que 等结构常接虚拟式。虚拟式并非“不真实”的同义词，它显示说话者怎样对待从句内容；一个真实发生的事实，也可能成为情绪评价的对象。\n\n当两个动作的执行者相同时，je souhaite travailler 可直接接不定式；若希望另一个人采取行动，je souhaite que 后需要带主语的分句。请求工作安排还应写明频次、可联系时段和任务交付方式。提出好处后承认一项限制，才能讨论实际协作。教材的国家和企业例子属于当时资料，不当作当前雇佣政策或税务说明。",
+      "analogy": "虚拟式像愿望框：把想让别人做到的事情放进去，但不替别人宣布已经做到。",
+      "teaching_points": [
+        "讨论远程工作要分别观察通勤、家庭安排与产出要求，不能只用“自由”概括。",
+        "当两个动作的执行者相同时，je souhaite travailler 可直接接不定式；若希望另一个人采取行动，je souhaite que 后需要带主语的分句。"
+      ],
+      "anchor": {
+        "fr": "Je souhaite que mon employeur me permette de travailler chez moi.",
+        "zh": "我希望雇主允许我在家工作。",
+        "sound": "热苏埃特，珀尔梅特",
+        "movie": "一位员工把家中书桌的照片递给经理，旁边放着待批准的工作安排，经理正在思考。画面不出现文字、标签或字幕。",
+        "pronunciation": "permette /pɛʁmɛt/ 与 permet /pɛʁmɛ/ 区分；employeur /ɑ̃plwajœʁ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "Je souhaite que mon chef me ___ travailler chez moi.",
+          "choices": [
+            "permet de",
+            "permettra de",
+            "permette de"
+          ],
+          "answer": 2,
+          "reason": "souhaiter que 引出愿望，采用虚拟式 permette；permettre de 后接不定式。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我希望雇主允许我在家工作。",
+            "我的雇主已经禁止任何人在办公室工作。",
+            "雇主希望我立刻辞职回家。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：我希望雇主允许我在家工作。"
+        }
+      ],
+      "application": "写九十词远程工作申请：一项愿望、两项可核实好处、一项限制，以及可协商的交付与联系安排。",
+      "self_check": [
+        "完成并保存本课规定的输出：写九十词远程工作申请：一项愿望、两项可核实好处、一项限制，以及可协商的交付与联系安排。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N427",
+      "number": 27,
+      "title": "用时间从句安排休假项目",
+      "source_title": "Leçon 27 — Pause",
+      "minutes": 25,
+      "goal": "画出六步个人休假项目时间线，写四句带时间关系的法语句子，并说明两个待确认的安排。",
+      "prerequisites": [
+        "N426"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0022.md",
+          "label": "物理第22页（印刷第16页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0023.md",
+          "label": "补充核对：物理第23页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讲休假项目时，先把准备、出发与返回排在时间线上。avant de 加不定式用于主语相同的两个动作；avant que 加带主语的分句，通常用虚拟式。après avoir 加过去分词表示同一主语先完成一件事，不能照中文顺序把每个“之后”都换成一个普通动词。\n\n尚未发生的时间关系也要按法语规则选择语式：avant que 强调尚待发生，après que 按规范用直陈式，不能因为都有 que 就一律用虚拟式。咨询休假先问适用条件、时长和申请程序，而不是把历史教材的数字直接用于现实手续。输出时自己拟一个非法律性计划，把每一步由谁完成、先后关系和待确认事项说清。\n\n终点表达 jusqu'à ce que 表一直持续到另一件事发生，接虚拟式：Je resterai disponible jusqu'à ce que l'équipe revienne（我会保持可联系，直到团队回来）。它与 avant que 不同：avant que 定位在事件之前，jusqu'à ce que 强调前项延续到终点；pendant que 表同时，不能替代终点。不同主语时保留 ce que+完整分句，不要把它压成 jusqu'à ce qu'elle revenir。",
+      "analogy": "时间连接词像排队绳：先给每个动作一个位置，再让大家按顺序通过。",
+      "teaching_points": [
+        "讲休假项目时，先把准备、出发与返回排在时间线上。",
+        "尚未发生的时间关系也要按法语规则选择语式：avant que 强调尚待发生，après que 按规范用直陈式，不能因为都有 que 就一律用虚拟式。",
+        "jusqu'à ce que+虚拟式标出持续行动的终点，与 avant que、pendant que 区分。"
+      ],
+      "anchor": {
+        "fr": "Avant de partir, je vérifierai que mon équipe dispose des documents.",
+        "zh": "出发前，我会确认团队有需要的文件。",
+        "sound": "阿旺德帕尔蒂尔，韦里菲耶",
+        "movie": "准备出发的成年人把行李放在门边，先回到办公桌检查团队共享的文件夹。画面不出现文字、标签或字幕。",
+        "pronunciation": "avant /avɑ̃/；partir /paʁtiʁ/ 不加额外音节；vérifierai 末尾 /ʁe/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "同一主语，出发之前：Avant ___ partir…",
+          "choices": [
+            "de",
+            "que",
+            "à"
+          ],
+          "answer": 0,
+          "reason": "avant de 接不定式；avant que 需完整分句与相应语式。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我离开之后才会第一次给团队准备文件。",
+            "出发前，我会确认团队有需要的文件。",
+            "团队将在我出发前销毁所有文件。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：出发前，我会确认团队有需要的文件。"
+        },
+        {
+          "prompt": "保持联系直到同事回来：Je resterai joignable jusqu'à ce qu'elle ___.",
+          "choices": [
+            "revient",
+            "reviendra",
+            "revienne"
+          ],
+          "answer": 2,
+          "reason": "jusqu'à ce que 后采用虚拟式 revienne；强调联系持续到回来这个终点。"
+        }
+      ],
+      "application": "画出六步个人休假项目时间线，写四句带时间关系的法语句子，并说明两个待确认的安排。\n\n补充迁移：为休假交接添加一组配对句：一句用 avant de 表出发前准备，一句用 jusqu'à ce que 表保持某安排到团队接手；画出两个动作的时间范围。",
+      "self_check": [
+        "完成并保存本课规定的输出：画出六步个人休假项目时间线，写四句带时间关系的法语句子，并说明两个待确认的安排。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。",
+        "终点句使用虚拟式，并与“之前”和“同时”的时间关系区分。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N428",
+      "number": 28,
+      "title": "核对团体休闲方案是否包含所需服务",
+      "source_title": "Leçon 28 — Le Futuroscope",
+      "minutes": 25,
+      "goal": "编一个十二人两日休闲方案，列包含项目与可选项目，再写五个与人数、预约和费用有关的咨询问题。",
+      "prerequisites": [
+        "N427"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0026.md",
+          "label": "物理第26页（印刷第20页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "阅读团体出游方案，先区分基本套餐、需预约服务和另收费选项。sur demande 不等于人人自动享有，selon disponibilités 说明受供应情况限制。按天整理餐饮、住宿、导览和自由活动，能避免把第二天的安排误读成第一天也包含。\n\n给组织者的咨询先说人数与日期，再问尚未明确的条件。价格比较要放在同一基准上，按人、按团和按模块的费用不可直接相加后就下结论。介绍推荐时说明它适合怎样的团体，也承认一个不适合的情况。旧宣传上的价格和电话号码只用于来源定位，本课采用自拟预算训练信息整合，不把它们当作当前报价。",
+      "analogy": "套餐像午餐托盘：托盘里的、可加购的、需要先预留的，要分开看。",
+      "teaching_points": [
+        "阅读团体出游方案，先区分基本套餐、需预约服务和另收费选项。",
+        "给组织者的咨询先说人数与日期，再问尚未明确的条件。"
+      ],
+      "anchor": {
+        "fr": "Le guide est inclus, à condition de le réserver à l'avance.",
+        "zh": "导游服务已包含，前提是提前预约。",
+        "sound": "吉德，雷泽尔韦",
+        "movie": "一位团体组织者先把导游预约卡放入旅行托盘，导游随后带着一组成人游客进入园区。画面不出现文字、标签或字幕。",
+        "pronunciation": "guide /ɡid/ 的 u 不另发音；inclus /ɛ̃kly/ 不读 s。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "sur demande 表示？",
+          "choices": [
+            "自动适用于所有游客",
+            "需要提出请求",
+            "已经全部售罄"
+          ],
+          "answer": 1,
+          "reason": "sur demande 是按要求提供，不保证自动包含，也不表示售罄。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "导游不需要预约而且一律收费。",
+            "导游已经取消所有团体游览。",
+            "导游服务已包含，前提是提前预约。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：导游服务已包含，前提是提前预约。"
+        }
+      ],
+      "application": "编一个十二人两日休闲方案，列包含项目与可选项目，再写五个与人数、预约和费用有关的咨询问题。",
+      "self_check": [
+        "完成并保存本课规定的输出：编一个十二人两日休闲方案，列包含项目与可选项目，再写五个与人数、预约和费用有关的咨询问题。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N429",
+      "number": 29,
+      "title": "用复合关系代词说明网购选择",
+      "source_title": "Leçon 29 — Cyberacheteurs",
+      "minutes": 25,
+      "goal": "为虚构网店写六句使用体验，至少两句含不同介词加复合关系代词，并列三项下单前检查。",
+      "prerequisites": [
+        "N428"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0032.md",
+          "label": "物理第32页（印刷第26页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "谈网购时先说明买什么，再说明你凭哪些信息选择。带介词的关系从句常使用 lequel 系列，它与先行词性数配合；à 加 lequel 可缩合成 auquel，de 加 lequel 可形成 duquel。选代词前先确定动词或介词搭配，不能只因先行词是商品就统一用 que。\n\n如果关系从句中介词是 sur，描述网站可说 sur lequel；若表示 avec、pour、sans，也要保留原介词。关系从句不是为了显得高级，而是把购买条件说得准确。比较网页资料与用户评价时标出信息来源，评论不自动等于已核实事实。最终推荐应给可执行的检查步骤，例如确认规格、付款条件和送达方式。\n\n先行词第一次出现时保留完整名称，之后再用关系从句补充购买条件。",
+      "analogy": "关系代词像转接头：原来的介词插头要留下，性数决定接头形状。",
+      "teaching_points": [
+        "谈网购时先说明买什么，再说明你凭哪些信息选择。",
+        "如果关系从句中介词是 sur，描述网站可说 sur lequel；若表示 avec、pour、sans，也要保留原介词。"
+      ],
+      "anchor": {
+        "fr": "Le site sur lequel je commande affiche clairement les frais de livraison.",
+        "zh": "我下单的网站清楚列明运费。",
+        "sound": "叙尔勒凯勒，利夫雷宗",
+        "movie": "一位成年买家用放大镜查看电脑上的购物页面，货物与运送费用以清楚的图形分栏呈现。画面不出现文字、标签或字幕。",
+        "pronunciation": "lequel /ləkɛl/；frais /fʁɛ/ 末尾 s 不发音。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "un site ___ je commande",
+          "choices": [
+            "sur laquelle",
+            "dont sur",
+            "sur lequel"
+          ],
+          "answer": 2,
+          "reason": "site 阳性单数，用 sur lequel；不要同时叠 dont 与 sur。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我下单的网站清楚列明运费。",
+            "我下单的网站把运费完全藏起来。",
+            "我只在没有运送服务的网站下单。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：我下单的网站清楚列明运费。"
+        }
+      ],
+      "application": "为虚构网店写六句使用体验，至少两句含不同介词加复合关系代词，并列三项下单前检查。",
+      "self_check": [
+        "完成并保存本课规定的输出：为虚构网店写六句使用体验，至少两句含不同介词加复合关系代词，并列三项下单前检查。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N430",
+      "number": 30,
+      "title": "把服务差异放到句子焦点",
+      "source_title": "Leçon 30 — Service compris",
+      "minutes": 25,
+      "goal": "写一段餐馆咨询对话，核实账单是否包含服务费；分别用 c'est…qui 和 c'est…que 强调一个不同成分。",
+      "prerequisites": [
+        "N429"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0038.md",
+          "label": "物理第38页（印刷第32页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0040.md",
+          "label": "补充核对：物理第40页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论小费与服务费时，先分清已计入价格的项目和个人另行给出的金额。读历史文化文章时可以了解习惯差异，但不能把单个例子当成所有地区当前规则。表达重点可用 c'est…qui 或 c'est…que：被强调成分在从句作主语用 qui，作其他常见成分时用 que。\n\n强调句不是简单地在句首加 c'est，再把后面照抄。先写出普通句，找要凸显的是服务质量、某个人还是时间，然后重新连接其余成分。c'est le service qui compte 里 service 是 compte 的主语，因此用 qui。讨论支付安排时用询问来确认，不凭礼貌习惯猜金额，才能把文化理解转成准确交流。\n\n把句子还原成普通语序再检查主谓关系，可以发现大多数强调句错误。\n\n本课另一种强调框架是 Ce qui / ce que / ce dont…, c'est / ce sont…，先用中性 ce 引出“……的事/东西”，再给答案。Ce qui compte, c'est la clarté：qui 是 compte 的主语；Ce que je demande, c'est une facture：que 是 demande 的直接宾语；Ce dont j'ai besoin, c'est d'une explication：dont 对应 avoir besoin de。对照 C'est la clarté qui compte，后者直接突出 la clarté，两种外框不要拼成 Ce que compte。答案是复数名词组时，规范书面表达常用 ce sont：Ce que je préfère, ce sont les visites guidées；不定式答案可用 c'est de+不定式。",
+      "analogy": "强调句像手电筒：照向哪一块，那一块就成为大家先看的地方。",
+      "teaching_points": [
+        "讨论小费与服务费时，先分清已计入价格的项目和个人另行给出的金额。",
+        "强调句不是简单地在句首加 c'est，再把后面照抄。",
+        "Ce qui/ce que/ce dont 按从句功能选择；c'est…qui/que 是另一种强调外框。"
+      ],
+      "anchor": {
+        "fr": "C'est la qualité du service qui compte pour moi.",
+        "zh": "对我来说，重要的是服务质量。",
+        "sound": "塞拉卡利泰，孔特",
+        "movie": "一位成年顾客拿着小手电照亮服务员认真处理问题的动作，背景价格标签没有被突出。画面不出现文字、标签或字幕。",
+        "pronunciation": "qualité /kalite/ 的 qu 发 /k/；compte /kɔ̃t/ 的 p 不发音。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "C'est la qualité ___ compte.",
+          "choices": [
+            "qui",
+            "que",
+            "dont"
+          ],
+          "answer": 0,
+          "reason": "la qualité 在从句作 compte 的主语，因此用 qui。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "对我而言，服务好坏完全不重要。",
+            "对我来说，重要的是服务质量。",
+            "顾客的姓名决定服务质量。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：对我来说，重要的是服务质量。"
+        },
+        {
+          "prompt": "把 J'ai besoin d'une facture 改为先说“我需要的东西”，正确的是？",
+          "choices": [
+            "Ce que j'ai besoin, c'est une facture.",
+            "Ce dont j'ai besoin, c'est d'une facture.",
+            "C'est une facture que j'ai besoin."
+          ],
+          "answer": 1,
+          "reason": "avoir besoin de 需要 de，前半由 ce dont 接住，后半保留 d'une facture；不能用直接宾语 que 代替。"
+        },
+        {
+          "prompt": "“我喜欢的是这些导览”规范书面完成：Ce que je préfère, ___.",
+          "choices": [
+            "ce sont les visites guidées",
+            "ce qui les visites guidées",
+            "dont les visites guidées"
+          ],
+          "answer": 0,
+          "reason": "后半答案是复数名词组，可用 ce sont；ce qui/dont 不能代替系词结构。"
+        }
+      ],
+      "application": "写一段餐馆咨询对话，核实账单是否包含服务费；分别用 c'est…qui 和 c'est…que 强调一个不同成分。\n\n补充迁移：先写三句普通句，分别有主语、直接宾语、de补语，再改为 Ce qui/ce que/ce dont…, c'est…；其中一句另改为 C'est…qui/que，解释焦点相同而结构不同。",
+      "self_check": [
+        "完成并保存本课规定的输出：写一段餐馆咨询对话，核实账单是否包含服务费；分别用 c'est…qui 和 c'est…que 强调一个不同成分。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。",
+        "三种 ce 结构均完整，dont 对应 de；能区分两种强调框架。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N431",
+      "number": 31,
+      "title": "用名词化概括消费行为",
+      "source_title": "Leçon 31 — Moins c'est cher, plus on dépense !",
+      "minutes": 25,
+      "goal": "设计三项虚构消费观察，写一条含 moins…plus… 的谨慎结论，再用两个名词化词概括结果。",
+      "prerequisites": [
+        "N430"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0043.md",
+          "label": "物理第43页（印刷第37页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "谈消费心理时，便宜不一定等于总支出更少。moins…plus… 把两个变化联系起来，但必须说明比较的维度和观察范围，不能把一句口号当作普遍规律。avare、économe、dépensier 等词带有不同评价，形容一个行为时最好给具体例子，避免直接给人物贴永久标签。\n\n名词化可把行为压缩为一个主题，例如从 acheter 转为 achat，从 augmenter 转为 augmentation。名词后的补语通常需要介词，不能只把动词词尾改掉而照搬原句结构。写调查摘要时，名词化适合标题和概括；解释原因仍需要完整句子。把一项支出与真实预算对照，才能讨论促销是否符合自己的需要。\n\n判断一个名词化是否合适时，还要检查它指行为本身还是实施行为的人。",
+      "analogy": "促销像小糖罐：每颗便宜，抓满一大把仍可能超过原来准备的钱。",
+      "teaching_points": [
+        "谈消费心理时，便宜不一定等于总支出更少。",
+        "名词化可把行为压缩为一个主题，例如从 acheter 转为 achat，从 augmenter 转为 augmentation。"
+      ],
+      "anchor": {
+        "fr": "La baisse des prix encourage parfois l'achat de produits inutiles.",
+        "zh": "降价有时会鼓励购买不需要的产品。",
+        "sound": "拉贝斯，拉沙",
+        "movie": "一位成年购物者看到价格向下的箭头，购物篮却堆起许多家里已经有的物品。画面不出现文字、标签或字幕。",
+        "pronunciation": "baisse /bɛs/；achat /aʃa/ 不读末尾 t。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "acheter 的名词化是？",
+          "choices": [
+            "l'acheté",
+            "l'achat",
+            "l'acheteur（表示购买行为）"
+          ],
+          "answer": 1,
+          "reason": "achat 是购买行为；acheteur 是购买者，acheté 是过去分词。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "所有降价都必然减少每个人的总支出。",
+            "人们从不因为促销购买多余产品。",
+            "降价有时会鼓励购买不需要的产品。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：降价有时会鼓励购买不需要的产品。"
+        }
+      ],
+      "application": "设计三项虚构消费观察，写一条含 moins…plus… 的谨慎结论，再用两个名词化词概括结果。",
+      "self_check": [
+        "完成并保存本课规定的输出：设计三项虚构消费观察，写一条含 moins…plus… 的谨慎结论，再用两个名词化词概括结果。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N432",
+      "number": 32,
+      "title": "拆解促销信中的承诺与成本",
+      "source_title": "Leçon 32 — Vendre à tout prix",
+      "minutes": 25,
+      "goal": "编一项透明订阅方案，列频次、次数、总费用和终止方式；写四句说服与两句回应疑虑，不隐藏成本。",
+      "prerequisites": [
+        "N431"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0048.md",
+          "label": "物理第48页（印刷第42页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "促销信常先制造受重视的感觉，再强调限时、礼物与节省金额。阅读时把情绪性措辞和可计算条件分开：分期频次、总次数、总价、续订与终止方式，才决定实际承担什么。每四周扣费不一定等于每自然月一次，不能只看一个看似很小的数字。\n\n自己写商业建议时，要说清适合对象、解决的问题与完整条件，避免把免费赠品当作产品价值的唯一依据。说服可以用 car、en effet 解释理由，但理由必须与需求相连。回应对方疑虑时先确认问题，再给具体答复。原书订阅广告属于历史材料，练习使用新写价格，不把原例视为当前商品或可购买报价。",
+      "analogy": "促销像一条亮丝带：先解开丝带，里面真正的账单才看得清。",
+      "teaching_points": [
+        "促销信常先制造受重视的感觉，再强调限时、礼物与节省金额。",
+        "自己写商业建议时，要说清适合对象、解决的问题与完整条件，避免把免费赠品当作产品价值的唯一依据。"
+      ],
+      "anchor": {
+        "fr": "Avant de m'abonner, je veux connaître le coût total de l'offre.",
+        "zh": "订阅之前，我想知道这个方案的总费用。",
+        "sound": "马博内，库托塔勒",
+        "movie": "成年读者把赠品挪到一旁，用计算器将几次扣款合成一张总账单。画面不出现文字、标签或字幕。",
+        "pronunciation": "m'abonner /mabɔne/；coût /ku/ 不读 t；offre /ɔfʁ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "每四周9欧，26次扣款，总计？",
+          "choices": [
+            "108欧",
+            "9欧",
+            "234欧"
+          ],
+          "answer": 2,
+          "reason": "9乘26等于234；不能把四周直接当一个自然月而只乘12。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "订阅之前，我想知道这个方案的总费用。",
+            "我先订阅，再拒绝了解任何费用。",
+            "订阅方案只有礼物，没有费用。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：订阅之前，我想知道这个方案的总费用。"
+        }
+      ],
+      "application": "编一项透明订阅方案，列频次、次数、总费用和终止方式；写四句说服与两句回应疑虑，不隐藏成本。",
+      "self_check": [
+        "完成并保存本课规定的输出：编一项透明订阅方案，列频次、次数、总费用和终止方式；写四句说服与两句回应疑虑，不隐藏成本。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N433",
+      "number": 33,
+      "title": "谈技术未来并区分预测与计划",
+      "source_title": "Leçon 33 — Vie privée, vie publique",
+      "minutes": 25,
+      "goal": "设计一种虚构通信工具，用八句分别说明当前问题、未来两项好处、两项风险和一个隐私条件。",
+      "prerequisites": [
+        "N432"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0054.md",
+          "label": "物理第54页（印刷第48页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论通信技术将怎样改变生活，应区分已有事实、个人预测和自己的计划。将来时可以说明未来发生的事，peut-être 或 probablement 调整确信程度；预计可能出现，不等于已经发生。隐私讨论也需要定义收集什么资料、谁能看见、保存多久，而不是只说技术危险或方便。\n\n一个观点最好同时给利益与风险，再指出适用条件。用 d'un côté…de l'autre… 安排两面，但结论不必平均折中，可以明确你更看重哪一项。描述将来可先给时间标记，再给行为和后果。教材对旧设备的预测是阅读对象，不能作为今天产品能力的事实；原创练习可以设计虚构设备，并清楚标为设想。",
+      "analogy": "未来预测像天气窗：看到云可以推测下雨，但不能说窗外已经全是水。",
+      "teaching_points": [
+        "讨论通信技术将怎样改变生活，应区分已有事实、个人预测和自己的计划。",
+        "一个观点最好同时给利益与风险，再指出适用条件。"
+      ],
+      "anchor": {
+        "fr": "À l'avenir, nous partagerons moins de données personnelles en ligne.",
+        "zh": "未来，我们会在网上分享更少的个人数据。",
+        "sound": "阿拉沃尼尔，多内",
+        "movie": "成年人在家中电脑前，把相册、地址与生日三个私人信息盒留在自己身边，只发出少量公开资料。画面不出现文字、标签或字幕。",
+        "pronunciation": "avenir /avəniʁ/；données /dɔne/，不把复数 s 读出。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "将来时：Nous ___ moins de données.",
+          "choices": [
+            "partagerons",
+            "partagions",
+            "avons partagé"
+          ],
+          "answer": 0,
+          "reason": "partagerons 为简单将来时；其他分别为未完成过去时与复合过去时。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我们过去已经公开了更多个人数据。",
+            "未来，我们会在网上分享更少的个人数据。",
+            "未来我们将把所有私人数据无限量公开。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：未来，我们会在网上分享更少的个人数据。"
+        }
+      ],
+      "application": "设计一种虚构通信工具，用八句分别说明当前问题、未来两项好处、两项风险和一个隐私条件。",
+      "self_check": [
+        "完成并保存本课规定的输出：设计一种虚构通信工具，用八句分别说明当前问题、未来两项好处、两项风险和一个隐私条件。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N434",
+      "number": 34,
+      "title": "用先将来时安排环保行动",
+      "source_title": "Leçon 34 — Un défi à relever",
+      "minutes": 25,
+      "goal": "为家庭设计七日减废计划，写两句先将来时加将来时，给一项可记录指标和一项限制。",
+      "prerequisites": [
+        "N433"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0058.md",
+          "label": "物理第58页（印刷第52页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "环保行动要从可观察的小步骤说起：关机、分类、减少不必要包装，比“保护地球”更容易检查。把两件未来行动排序时，先将来时表示在另一个未来时刻之前已经完成，由 avoir 或 être 的将来时加过去分词构成。不是所有未来动作都要用先将来时，只有强调先完成才需要。\n\n例如先完成讨论，再启动计划，quand 后的完成动作可用先将来时，主句用简单将来时。行动倡议应写清负责人、频次和记录方式，并承认一项成本或限制。不要把一次选择夸张成必然解决整体环境问题；将结果写成待观察的指标，才能知道方案有没有做到它承诺的事。",
+      "analogy": "先将来时像两张明天的待办卡：第一张盖好完成章，第二张才开始。",
+      "teaching_points": [
+        "环保行动要从可观察的小步骤说起：关机、分类、减少不必要包装，比“保护地球”更容易检查。",
+        "例如先完成讨论，再启动计划，quand 后的完成动作可用先将来时，主句用简单将来时。"
+      ],
+      "anchor": {
+        "fr": "Quand nous aurons réduit les déchets, nous comparerons les résultats.",
+        "zh": "等我们减少了垃圾之后，我们会比较结果。",
+        "sound": "欧龙雷迪，雷祖尔塔",
+        "movie": "成年人先把明显变少的垃圾袋放上秤记录，再转到桌边比较前后两组数值。画面不出现文字、标签或字幕。",
+        "pronunciation": "aurons /oʁɔ̃/；réduit /ʁedɥi/ 的 uit 发 /ɥi/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "未来先完成：Quand nous ___ le tri, nous sortirons.",
+          "choices": [
+            "avions terminé",
+            "aurons terminé",
+            "terminerions"
+          ],
+          "answer": 1,
+          "reason": "aurons terminé 是先将来时，与未来主句 sortirons 配合。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我们已比较完结果，因此以后不再减少垃圾。",
+            "我们还没做任何改变就知道所有结果。",
+            "等我们减少了垃圾之后，我们会比较结果。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：等我们减少了垃圾之后，我们会比较结果。"
+        }
+      ],
+      "application": "为家庭设计七日减废计划，写两句先将来时加将来时，给一项可记录指标和一项限制。",
+      "self_check": [
+        "完成并保存本课规定的输出：为家庭设计七日减废计划，写两句先将来时加将来时，给一项可记录指标和一项限制。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N435",
+      "number": 35,
+      "title": "按时间线介绍科学变化",
+      "source_title": "Leçon 35 — Révolutions",
+      "minutes": 25,
+      "goal": "选择一项你能核实背景的科学发明，用六个时间点写摘要，分开事实、某方意见与一个仍需查证的问题。",
+      "prerequisites": [
+        "N434"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0063.md",
+          "label": "物理第63页（印刷第57页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "阅读科学争论时，先分清发现、解释、用途和立场。海报口号可以显示组织者态度，却不能代替证据。用 avant、après、depuis 等词说明事件关系，先把时间线确定，再讨论一项进步带来的可能影响，避免把发生先后直接等同于因果。\n\n叙述重要科学事件可以先交代背景，再说新变化，最后指出仍有疑问的地方。lorsque 与 quand 引出事件时点，pendant que 常强调同时进行的背景；同一个“当……时”在法语里要看关系。资料里无法验证的结论要标明是谁的说法。原创表达重在准确转述与提出问题，不以教材旧宣传提供当代科学或健康结论。\n\n时间线中没有明确记录的日期，可以留空并说明尚未核实，不以常识补齐。",
+      "analogy": "科学新闻像拼地图：先把发现放在正确位置，不能用口号把未知地方涂满。",
+      "teaching_points": [
+        "阅读科学争论时，先分清发现、解释、用途和立场。",
+        "叙述重要科学事件可以先交代背景，再说新变化，最后指出仍有疑问的地方。"
+      ],
+      "anchor": {
+        "fr": "Pendant que les chercheurs débattaient, le public demandait plus d'informations.",
+        "zh": "研究人员讨论时，公众要求得到更多信息。",
+        "sound": "庞当克，德巴泰",
+        "movie": "一边是成年研究者围桌讨论，另一边是公众举手索取解释，两组动作同时进行。画面不出现文字、标签或字幕。",
+        "pronunciation": "pendant /pɑ̃dɑ̃/ 两个鼻化音；chercheurs /ʃɛʁʃœʁ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "强调两个背景动作同时进行：",
+          "choices": [
+            "avant de",
+            "après avoir",
+            "pendant que"
+          ],
+          "answer": 2,
+          "reason": "pendant que 接分句表示同时；其他表达先后并接不定式结构。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "研究人员讨论时，公众要求得到更多信息。",
+            "研究者讨论结束后，公众才第一次消失。",
+            "公众和研究人员从来没有同时提出问题。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：研究人员讨论时，公众要求得到更多信息。"
+        }
+      ],
+      "application": "选择一项你能核实背景的科学发明，用六个时间点写摘要，分开事实、某方意见与一个仍需查证的问题。",
+      "self_check": [
+        "完成并保存本课规定的输出：选择一项你能核实背景的科学发明，用六个时间点写摘要，分开事实、某方意见与一个仍需查证的问题。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N436",
+      "number": 36,
+      "title": "用功能和限制介绍数字设备",
+      "source_title": "Leçon 36 — L'ère du numérique",
+      "minutes": 25,
+      "goal": "为一台虚构家用设备写七句说明：三项功能、连接条件、两个操作步骤和一项明确限制。",
+      "prerequisites": [
+        "N435"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0068.md",
+          "label": "物理第68页（印刷第62页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "介绍数字设备先回答它是什么、能做什么、需要什么条件。拟人化外观或有趣名称可以吸引注意，但不能代替功能说明。按输入、处理、输出解释一次操作，比连续堆叠“智能”“先进”更清楚。读评论时还要区分作者实际体验、厂商宣传和个人推测。\n\n推荐设备可采用功能、适合对象、限制与使用条件四步。若某项操作需要网络或账户，要在说明动作时同时交代，不放在最后小字里。时间表达能帮助说明启动后的步骤；代词则减少重复，但多台设备同场时应保留足够名词。教材的旧数码产品可用来训练描述，不把旧价格或功能当作今天的购机信息。",
+      "analogy": "设备说明像教人用水壶：先说加水、通电和出水，颜色好看不是操作步骤。",
+      "teaching_points": [
+        "介绍数字设备先回答它是什么、能做什么、需要什么条件。",
+        "推荐设备可采用功能、适合对象、限制与使用条件四步。"
+      ],
+      "anchor": {
+        "fr": "Cet appareil lit les messages dès qu'il est connecté à Internet.",
+        "zh": "这个设备一连上互联网就能读出消息。",
+        "sound": "塞塔帕雷伊，科内克泰",
+        "movie": "成年人把一个家用消息设备连接网络，随后设备发声，旁边的人听见家人的简短留言。画面不出现文字、标签或字幕。",
+        "pronunciation": "appareil /apaʁɛj/ 的结尾为 /ɛj/；connecté /kɔnɛkte/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "表示一……就……：",
+          "choices": [
+            "dès que",
+            "même si",
+            "à cause de"
+          ],
+          "answer": 0,
+          "reason": "dès que 引出时间触发；même si 表让步，à cause de 后接名词。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "这个设备必须断网后才开始读消息。",
+            "这个设备一连上互联网就能读出消息。",
+            "设备一联网就会删除所有消息。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：这个设备一连上互联网就能读出消息。"
+        }
+      ],
+      "application": "为一台虚构家用设备写七句说明：三项功能、连接条件、两个操作步骤和一项明确限制。",
+      "self_check": [
+        "完成并保存本课规定的输出：为一台虚构家用设备写七句说明：三项功能、连接条件、两个操作步骤和一项明确限制。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N437",
+      "number": 37,
+      "title": "转述电影经历并调整时态",
+      "source_title": "Leçon 37 — Du rire aux larmes",
+      "minutes": 25,
+      "goal": "自拟三句朋友的电影感受原话，再在第二天转述，检查人称、时间标记和三个时态关系。",
+      "prerequisites": [
+        "N436"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0078.md",
+          "label": "物理第78页（印刷第72页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "转述别人看电影的经历，先明确谁在什么时候说了什么。当转述动词位于过去，原话中的现在状态常转成未完成过去时，已经发生的事情常用愈过去时，未来安排可变成条件式现在时。转换以时间参照和实际意义为依据，不是把每个动词机械往过去退一格。\n\n人称、物主词和时间副词也要随着说话者改变，原话里的“我”不一定还是转述者本人。先写出原话，再标明报告日期，有助于判断 demain 是否需要改为 le lendemain。情绪叙述可以引用个人反应，但不把他人感受冒充自己的体验。转述后让伙伴指出谁哭了、何时看过，能检验代词与时态是否清楚。",
+      "analogy": "转述像换一台摄像机：景物还在，但观看的位置和时间标签换了。",
+      "teaching_points": [
+        "转述别人看电影的经历，先明确谁在什么时候说了什么。",
+        "人称、物主词和时间副词也要随着说话者改变，原话里的“我”不一定还是转述者本人。"
+      ],
+      "anchor": {
+        "fr": "Elle m'a dit qu'elle avait pleuré à la fin du film.",
+        "zh": "她告诉我，她在电影结尾时哭了。",
+        "sound": "埃勒马迪，普勒雷",
+        "movie": "两位成年朋友交谈，一人回忆电影院里擦眼泪的经历，另一人认真听并稍后转告。画面不出现文字、标签或字幕。",
+        "pronunciation": "avait pleuré /avɛ plœʁe/；fin /fɛ̃/ 鼻化，不加 n。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "在告诉我之前已经哭过：elle ___ à la fin.",
+          "choices": [
+            "pleurera",
+            "avait pleuré",
+            "pleurerait demain"
+          ],
+          "answer": 1,
+          "reason": "avait pleuré 为愈过去时，先于 a dit；其他不能表达该已完成事件。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "她告诉我，电影结尾时我一定会哭。",
+            "她还没看电影，却说自己永远不哭。",
+            "她告诉我，她在电影结尾时哭了。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：她告诉我，她在电影结尾时哭了。"
+        }
+      ],
+      "application": "自拟三句朋友的电影感受原话，再在第二天转述，检查人称、时间标记和三个时态关系。",
+      "self_check": [
+        "完成并保存本课规定的输出：自拟三句朋友的电影感受原话，再在第二天转述，检查人称、时间标记和三个时态关系。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N438",
+      "number": 38,
+      "title": "解释文化参与障碍的后果",
+      "source_title": "Leçon 38 — Un monde à part",
+      "minutes": 25,
+      "goal": "为虚构展览列两项参与障碍，写两句原因与后果，再提出分别对应的改进办法。",
+      "prerequisites": [
+        "N437"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0082.md",
+          "label": "物理第82页（印刷第76页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论博物馆是否容易接近，要把价格、说明方式、空间安排与个人兴趣分别观察。一个人觉得无聊，不代表所有公众都排斥艺术。说明后果时，可以用 donc、c'est pourquoi 或 si…que 等结构；先确认前一事实是否足以支持后一结果，而不是把同时出现的现象都说成因果。\n\nsi 加形容词或副词再加 que 表示程度达到某种结果，例如说明太复杂以致读者放弃。与表示目的的 pour que 不同，结果是在说明已经产生或预期产生的影响。提出改进方案时指出它解决哪一项障碍，例如增加简明说明，而不是只说“让艺术属于大家”。结尾承认不同参观者需求，能避免另一种以偏概全。",
+      "analogy": "后果像多米诺骨牌：要看第一块真的能碰到第二块，不能隔很远也说它推倒了。",
+      "teaching_points": [
+        "讨论博物馆是否容易接近，要把价格、说明方式、空间安排与个人兴趣分别观察。",
+        "si 加形容词或副词再加 que 表示程度达到某种结果，例如说明太复杂以致读者放弃。"
+      ],
+      "anchor": {
+        "fr": "Les explications sont si complexes que certains visiteurs renoncent.",
+        "zh": "说明太复杂，以至于有些参观者放弃了。",
+        "sound": "西孔普莱克斯，勒农斯",
+        "movie": "成年参观者面对层层纠缠的说明图，走到一半困惑停步，转向更清楚的导览台。画面不出现文字、标签或字幕。",
+        "pronunciation": "complexes /kɔ̃plɛks/；renoncent /ʁənɔ̃s/ 不读 ent。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "表达复杂程度导致结果：si complexes ___…",
+          "choices": [
+            "pour",
+            "dont",
+            "que"
+          ],
+          "answer": 2,
+          "reason": "si+形容词+que 引出结果；pour 后不直接接该从句结构。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "说明太复杂，以至于有些参观者放弃了。",
+            "说明越复杂，所有参观者就必定越满意。",
+            "参观者要求关闭一切博物馆。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：说明太复杂，以至于有些参观者放弃了。"
+        }
+      ],
+      "application": "为虚构展览列两项参与障碍，写两句原因与后果，再提出分别对应的改进办法。",
+      "self_check": [
+        "完成并保存本课规定的输出：为虚构展览列两项参与障碍，写两句原因与后果，再提出分别对应的改进办法。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N439",
+      "number": 39,
+      "title": "说明文化开放活动的目标",
+      "source_title": "Leçon 39 — Journées portes ouvertes",
+      "minutes": 25,
+      "goal": "设计一次包容性开放日，写一百词邀请，包含两项具体可参与安排，并用 pour que 说明各自目的。",
+      "prerequisites": [
+        "N438"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0086.md",
+          "label": "物理第86页（印刷第80页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "介绍开放日要分清哪些场所开放、哪些人能参加，以及特别安排服务于谁。无障碍导览不是一句“欢迎所有人”就完成，需要具体说明触觉、语言或路线安排。表达目的时，pour 加不定式通常适合同一主语，pour que 加分句可引出不同执行者，并采用虚拟式。\n\nafin que 与 pour que 都可说明目的，但目的不保证实现。应把“为了让更多人参与”与“已经有更多人参与”分开表达。活动说明中的历史年份和举办范围用于理解资料，不自动成为今年安排。自拟邀请时提供时间、预约条件与联系方式，并把需要读者采取的一步行动写在结尾，让介绍真正能够用于出行。",
+      "analogy": "目的像门外的坡道：希望大家进来，还要说清坡道为谁铺、怎样走。",
+      "teaching_points": [
+        "介绍开放日要分清哪些场所开放、哪些人能参加，以及特别安排服务于谁。",
+        "afin que 与 pour que 都可说明目的，但目的不保证实现。"
+      ],
+      "anchor": {
+        "fr": "Le musée propose des visites tactiles pour que chacun puisse participer.",
+        "zh": "博物馆提供触觉导览，让每个人都能参与。",
+        "sound": "塔克蒂勒，皮伊斯",
+        "movie": "成年导览员引导不同参观者用手触摸可触模型，一条平缓路线通向展厅。画面不出现文字、标签或字幕。",
+        "pronunciation": "tactiles /taktil/；puisse /pɥis/ 为 pouvoir 的虚拟式。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "pour que chacun ___ participer",
+          "choices": [
+            "puisse",
+            "peut",
+            "pourra"
+          ],
+          "answer": 0,
+          "reason": "pour que 表目的，后用虚拟式 puisse，而非直陈式 peut/pourra。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "博物馆设置触觉导览，是为了阻止公众进入。",
+            "博物馆提供触觉导览，让每个人都能参与。",
+            "每位参观者都必须独自制作展品。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：博物馆提供触觉导览，让每个人都能参与。"
+        }
+      ],
+      "application": "设计一次包容性开放日，写一百词邀请，包含两项具体可参与安排，并用 pour que 说明各自目的。",
+      "self_check": [
+        "完成并保存本课规定的输出：设计一次包容性开放日，写一百词邀请，包含两项具体可参与安排，并用 pour que 说明各自目的。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N440",
+      "number": 40,
+      "title": "为不同读者介绍艺术杂志",
+      "source_title": "Leçon 40 — De l'art pour le Petit Léonard",
+      "minutes": 25,
+      "goal": "为一份虚构艺术月刊写两版各五句推荐：一版给家长，一版给孩子；都包含一个可观察的阅读活动。",
+      "prerequisites": [
+        "N439"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0090.md",
+          "label": "物理第90页（印刷第84页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "介绍儿童艺术杂志，不只复述封面主题，还要解释读者能做什么：观察作品、找细节、认识时代或参加活动。把内容与活动分开，才能判断它适合独立阅读还是需要陪伴。每月出版与每篇文章适合所有年龄不是同一件事，推荐必须说明自己的判断依据。\n\n面向家长时强调阅读支持与活动方式，面向孩子时用简短问题和可做的动作。pour 加不定式可说明阅读目的，permettre de 则说明材料提供的可能性。不要把“有游戏”直接等同于“学会艺术史”；设计一项可观察的小任务，例如指出画中的两处细节，能更诚实地表达学习收益。所选例子应独立原创，不复制原刊文案。",
+      "analogy": "杂志像一扇小门：先让孩子看见一幅画，再给他一个能自己推开的把手。",
+      "teaching_points": [
+        "介绍儿童艺术杂志，不只复述封面主题，还要解释读者能做什么：观察作品、找细节、认识时代或参加活动。",
+        "面向家长时强调阅读支持与活动方式，面向孩子时用简短问题和可做的动作。"
+      ],
+      "anchor": {
+        "fr": "Ce magazine propose des jeux pour découvrir les œuvres en détail.",
+        "zh": "这本杂志提供游戏，让读者细看艺术作品。",
+        "sound": "马加津，昂代塔伊",
+        "movie": "一位成人与孩子一起翻艺术杂志，用无字的观察卡找出画中两处细节。画面不出现文字、标签或字幕。",
+        "pronunciation": "œuvres /œvʁ/；détail /detaj/ 的末尾为 /j/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“细看作品”的目的结构是？",
+          "choices": [
+            "parce que découvrir",
+            "pour découvrir les œuvres",
+            "malgré découvrir"
+          ],
+          "answer": 1,
+          "reason": "pour+不定式表示目的；parce que 要分句，malgré 通常接名词。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "这本杂志只有广告，要求读者不看作品。",
+            "杂志保证做一个游戏就掌握全部艺术史。",
+            "这本杂志提供游戏，让读者细看艺术作品。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：这本杂志提供游戏，让读者细看艺术作品。"
+        }
+      ],
+      "application": "为一份虚构艺术月刊写两版各五句推荐：一版给家长，一版给孩子；都包含一个可观察的阅读活动。",
+      "self_check": [
+        "完成并保存本课规定的输出：为一份虚构艺术月刊写两版各五句推荐：一版给家长，一版给孩子；都包含一个可观察的阅读活动。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N441",
+      "number": 41,
+      "title": "描述行为与数据而不夸大",
+      "source_title": "Leçon 41 — Restons zen !",
+      "minutes": 25,
+      "goal": "写六句驾驶观察与倡议，分别用两个频率副词、两个方式副词，并区分自评与可见行为。",
+      "prerequisites": [
+        "N440"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0096.md",
+          "label": "物理第96页（印刷第90页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论道路行为时，副词能说明怎样、多久或多频繁，但不同类型的位置并不相同。souvent、parfois、rarement 说明频率，prudemment 说明方式。短副词在复合时态中常位于助动词与过去分词之间，但较长的方式副词也常在动词组后，不要只背一个位置规则套遍全部。\n\n描述调查结果要同时保留比例、调查对象与所问的问题。自评开车很好，不等于实际违章较少；比较时要指出两项指标不是同一件事。写倡议可使用温和祈使句，并给具体动作如提前示意或保持距离。原书旧调查的百分比只作阅读材料，不用于声称今天驾驶者的真实比例。",
+      "analogy": "副词像给动作调旋钮：怎样做和多久做一次，是两个不同旋钮。",
+      "teaching_points": [
+        "讨论道路行为时，副词能说明怎样、多久或多频繁，但不同类型的位置并不相同。",
+        "描述调查结果要同时保留比例、调查对象与所问的问题。"
+      ],
+      "anchor": {
+        "fr": "Il conduit généralement prudemment, même quand il est pressé.",
+        "zh": "他通常开车很谨慎，即使赶时间也是如此。",
+        "sound": "热内拉勒芒，普吕达芒",
+        "movie": "一位成年司机看见手表显示时间紧，仍保持车距并礼让行人，动作平稳。画面不出现文字、标签或字幕。",
+        "pronunciation": "prudemment /pʁydamɑ̃/，-emment 在此读 /amɑ̃/；conduit /kɔ̃dɥi/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "哪个词说明方式而非频率？",
+          "choices": [
+            "souvent",
+            "rarement",
+            "prudemment"
+          ],
+          "answer": 2,
+          "reason": "prudemment 表谨慎地；souvent/rarement 表发生频率。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "他通常开车很谨慎，即使赶时间也是如此。",
+            "他只在不赶时间时才愿意谨慎开车。",
+            "他总是为了赶时间而危险驾驶。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：他通常开车很谨慎，即使赶时间也是如此。"
+        }
+      ],
+      "application": "写六句驾驶观察与倡议，分别用两个频率副词、两个方式副词，并区分自评与可见行为。",
+      "self_check": [
+        "完成并保存本课规定的输出：写六句驾驶观察与倡议，分别用两个频率副词、两个方式副词，并区分自评与可见行为。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N442",
+      "number": 42,
+      "title": "用比例与范围修正刻板印象",
+      "source_title": "Leçon 42 — Cliché ou réalité ?",
+      "minutes": 25,
+      "goal": "自拟十人的语言调查结果，用三项比例写摘要，明确样本，并写一句不能从这些数据推出的结论。",
+      "prerequisites": [
+        "N441"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0100.md",
+          "label": "物理第100页（印刷第94页）",
+          "review_status": "ocr_text_checked"
+        },
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0102.md",
+          "label": "补充核对：物理第102页",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "评论国民形象时，要把广告的幽默、调查的回答与群体事实分开。la moitié、un tiers、la plupart 等表达范围不同，不能把大多数说成所有人。带 de 的数量结构还要检查后面名词的冠词与动词配合，先确定说的是哪一组受访者。\n\n驳斥刻板印象可以先引用一个有限的判断，再用反例或资料缩小范围，不必以另一个全称断言对抗它。说 selon cette enquête 能交代来源，可能性与确信度则用 sembler、peut-être 等说明。谈外语习惯要避免把不熟练等同于不愿交流；解释一种行为时列出多个可能因素，并明确哪些仍需要调查。\n\n陈述比例之后，再用一句话说明这项调查没有问到什么，能进一步限定结论。\n\n数量级与精确比例不能互换：une centaine de personnes 是约一百人，un millier de personnes 是约一千人，均需 de，性取决于 centaine / millier。les deux tiers = 2/3，les trois quarts = 3/4，un sur trois = 三人中一人；une centaine 不等于一百中的一人。例：Sur douze réponses, neuf sont favorables，即 les trois quarts；若只有大约总人数，就不能据此捏造精确百分比。先问基数多少、是在说人数规模还是占比，再选词。",
+      "analogy": "比例像切蛋糕：切到三分之一，就别把盘里所有蛋糕都说成已经吃完。",
+      "teaching_points": [
+        "评论国民形象时，要把广告的幽默、调查的回答与群体事实分开。",
+        "驳斥刻板印象可以先引用一个有限的判断，再用反例或资料缩小范围，不必以另一个全称断言对抗它。",
+        "une centaine/un millier 为大约数量级；les deux tiers、les trois quarts、un sur trois 为有基数的比例。"
+      ],
+      "anchor": {
+        "fr": "Selon cette enquête, la moitié des personnes interrogées parlent deux langues.",
+        "zh": "根据这项调查，一半受访者会说两种语言。",
+        "sound": "拉穆瓦捷，安泰罗热",
+        "movie": "成年调查员把受访者卡片分成相等两组，其中一组每人拿着两张不同语言的交流图卡。画面不出现文字、标签或字幕。",
+        "pronunciation": "moitié /mwatje/；interrogées /ɛ̃tɛʁɔʒe/；此处 personnes 复数作配合依据。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "la moitié 表示？",
+          "choices": [
+            "二分之一",
+            "三分之一",
+            "全部"
+          ],
+          "answer": 0,
+          "reason": "moitié 是一半；tiers 才是三分之一，全部为 totalité 等。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "调查证明所有国民都会三种语言。",
+            "根据这项调查，一半受访者会说两种语言。",
+            "受访者中没有任何人会第二种语言。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：根据这项调查，一半受访者会说两种语言。"
+        },
+        {
+          "prompt": "12位受访者中9位赞成，用哪项精确表达？",
+          "choices": [
+            "un millier",
+            "les deux tiers",
+            "les trois quarts"
+          ],
+          "answer": 2,
+          "reason": "9/12=3/4，为 les trois quarts；2/3对应8/12，un millier是约千人而非比例。"
+        },
+        {
+          "prompt": "“约一千位参加者”是？",
+          "choices": [
+            "un millier de participants",
+            "un sur mille participants（想表达约千人）",
+            "une moitié de participants"
+          ],
+          "answer": 0,
+          "reason": "un millier de 表约千人的规模；un sur mille 是千人中一人的比例。"
+        }
+      ],
+      "application": "自拟十人的语言调查结果，用三项比例写摘要，明确样本，并写一句不能从这些数据推出的结论。\n\n补充迁移：写一条约百人、一条约千人的规模说明，再自拟12人调查，用8/12、9/12、4/12分别写 deux tiers、trois quarts、un sur trois。",
+      "self_check": [
+        "完成并保存本课规定的输出：自拟十人的语言调查结果，用三项比例写摘要，明确样本，并写一句不能从这些数据推出的结论。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。",
+        "规模与占比各有明确基数/单位，不从约数伪造精确比例。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N443",
+      "number": 43,
+      "title": "在交通中断中清楚转告与归还",
+      "source_title": "Leçon 43 — En grève",
+      "minutes": 25,
+      "goal": "模拟拾物电话和归还便条，先明确人物与物品，再分别使用陈述句双代词与肯定祈使句双代词。",
+      "prerequisites": [
+        "N442"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0104.md",
+          "label": "物理第104页（印刷第98页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "交通中断叙述容易出现多人、多件物品，代词顺序会直接影响听者理解。常见陈述句中，me、te、se、nous、vous 通常在 le、la、les 前，后面再是 lui、leur、y、en；遇到两个代词先找每个代替什么，不要凭中文先后排列。\n\n肯定祈使句的顺序会变化，例如 donnez-le-moi，否定祈使句则回到动词前的常见次序。转告拾物消息时先说明物品、所有者、发现地点和联系方式，再使用代词简化，避免一开口就是“请把它给他”。讲述罢工造成的经历可用背景和事件层次，但不推断所有参与者的动机；把可见过程与个人感受分清。\n\n写完后分别圈出两个代词的先行词，确认物品和收件人始终没有互换。",
+      "analogy": "双代词像两张快递贴纸：一张写物品，一张写收件人，贴反就送错地方。",
+      "teaching_points": [
+        "交通中断叙述容易出现多人、多件物品，代词顺序会直接影响听者理解。",
+        "肯定祈使句的顺序会变化，例如 donnez-le-moi，否定祈使句则回到动词前的常见次序。"
+      ],
+      "anchor": {
+        "fr": "J'ai retrouvé votre dossier et je vais vous le rendre demain.",
+        "zh": "我找到了您的文件夹，明天会归还给您。",
+        "sound": "武勒朗德尔，德曼",
+        "movie": "成年人捡起一个遗失文件夹，联系失主并把文件夹放进明天交还的手提袋。画面不出现文字、标签或字幕。",
+        "pronunciation": "dossier /dosje/；rendre /ʁɑ̃dʁ/；demain /dəmɛ̃/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "陈述句：Je vais ___ rendre.",
+          "choices": [
+            "le vous",
+            "vous le",
+            "vous lui le"
+          ],
+          "answer": 1,
+          "reason": "vous 在 le 前；两个代词放在对应不定式 rendre 前。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我会把自己的文件夹借给别人，永不归还。",
+            "我还没找到文件夹，明天就要销毁它。",
+            "我找到了您的文件夹，明天会归还给您。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：我找到了您的文件夹，明天会归还给您。"
+        }
+      ],
+      "application": "模拟拾物电话和归还便条，先明确人物与物品，再分别使用陈述句双代词与肯定祈使句双代词。",
+      "self_check": [
+        "完成并保存本课规定的输出：模拟拾物电话和归还便条，先明确人物与物品，再分别使用陈述句双代词与肯定祈使句双代词。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N444",
+      "number": 44,
+      "title": "比较数据来源并修正旧印象",
+      "source_title": "Leçon 44 — Les vraies-fausses idées reçues",
+      "minutes": 25,
+      "goal": "编两份不同年份、不同问题的微型调查，用八句指出可比与不可比之处，提出一个补充问题和一个有限结论。",
+      "prerequisites": [
+        "N443"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0108.md",
+          "label": "物理第108页（印刷第102页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "两篇谈同一群体的文章可能引用不同年份、问题和测量方式。先找各自资料来源，再比较它们真正测量了什么。自述习惯与产品销售不能直接视为同一种证据，出现差异时先列可能解释，不急着选一篇当作全部真相。\n\n复述数字要保留对象、单位和时段，par semaine 与 par an 不可混读。表达谨慎结论可以用 ces chiffres suggèrent que，不把 suggest 当作证明。旧资料适合训练辨别论断范围，不用来评价今天某国居民的卫生习惯。输出时先描述一项差异，再提出一个能帮助核实的问题，最后给有限结论，避免让刻板印象披上数字外衣。\n\n若来源没有给出样本大小，摘要里就明确说明缺少该信息，而不自行估计。",
+      "analogy": "两份数据像两把秤：先看一把称苹果、一把称果汁，不能直接说谁坏了。",
+      "teaching_points": [
+        "两篇谈同一群体的文章可能引用不同年份、问题和测量方式。",
+        "复述数字要保留对象、单位和时段，par semaine 与 par an 不可混读。"
+      ],
+      "anchor": {
+        "fr": "Ces deux enquêtes ne portent pas sur la même période.",
+        "zh": "这两项调查针对的不是同一时期。",
+        "sound": "昂凯特，佩里奥德",
+        "movie": "成年研究者把两份调查报告放在两条不同年份的时间线上，手指各自覆盖的范围。画面不出现文字、标签或字幕。",
+        "pronunciation": "enquête /ɑ̃kɛt/；période /peʁjɔd/；même 的 ê 为 /ɛ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "比较调查前最该核实的是？",
+          "choices": [
+            "标题字体是否漂亮",
+            "是否赞同自己的印象",
+            "对象、问题和时期"
+          ],
+          "answer": 2,
+          "reason": "样本、测量问题与时期决定可比性；排版和既有喜好不能支持比较。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "这两项调查针对的不是同一时期。",
+            "两项调查的时期、对象和问题必然完全一样。",
+            "两项调查都没有任何时间范围。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：这两项调查针对的不是同一时期。"
+        }
+      ],
+      "application": "编两份不同年份、不同问题的微型调查，用八句指出可比与不可比之处，提出一个补充问题和一个有限结论。",
+      "self_check": [
+        "完成并保存本课规定的输出：编两份不同年份、不同问题的微型调查，用八句指出可比与不可比之处，提出一个补充问题和一个有限结论。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N445",
+      "number": 45,
+      "title": "把模糊梦想变成明确愿望",
+      "source_title": "Leçon 45 — Aller au bout de ses rêves",
+      "minutes": 25,
+      "goal": "用一分钟陈述一个学习旅行愿望：未定地点、两个选择条件、一个现实阻碍及一个可立即做的准备。",
+      "prerequisites": [
+        "N444"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0114.md",
+          "label": "物理第114页（印刷第108页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "表达旅行或挑战梦想时，quelque part 表某个地方，n'importe où 表任何地方，nulle part 在否定结构中表示哪里都不。它们不是同义替换：前者保留未知位置，后者强调地点不受限制。类似的不定代词还可指人或事，但要先判断所指类别。\n\n愿望可用 j'aimerais 加不定式表达，再说明阻碍、条件和第一步。rien 与 personne 的否定用法不再机械加 pas；tout、tous、toutes 的读音与功能也需结合句子。把“想去某处”细化为时间、目的和可接受条件，会让梦想可以讨论。原创情境不要求冒险行为，普通文化交流或学习旅行同样能训练这些表达。\n\n愿望说完之后让伙伴复述你的条件，检查对方是否误听成任何地方都可以。",
+      "analogy": "不定地点像地图上的圈：某处是一个未定的圈，任何地方是整张地图，哪里都不是空白。",
+      "teaching_points": [
+        "表达旅行或挑战梦想时，quelque part 表某个地方，n'importe où 表任何地方，nulle part 在否定结构中表示哪里都不。",
+        "愿望可用 j'aimerais 加不定式表达，再说明阻碍、条件和第一步。"
+      ],
+      "anchor": {
+        "fr": "J'aimerais partir quelque part où je pourrais apprendre autrement.",
+        "zh": "我想去一个能以不同方式学习的地方。",
+        "sound": "凯尔克帕尔，欧特勒芒",
+        "movie": "成年旅人把学习笔记和背包放在一张留有未定目的地的地图旁，想象参加一场手作课堂。画面不出现文字、标签或字幕。",
+        "pronunciation": "quelque part /kɛlkə paʁ/；autrement /otʁəmɑ̃/；pourrais 末尾 /ʁɛ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "“某个尚未确定的地方”用？",
+          "choices": [
+            "quelque part",
+            "nulle part",
+            "personne"
+          ],
+          "answer": 0,
+          "reason": "quelque part 指某处；nulle part 是否定地点，personne 指人。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我想任何地方都不去，停止所有学习。",
+            "我想去一个能以不同方式学习的地方。",
+            "我已经决定所有地方都完全相同。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：我想去一个能以不同方式学习的地方。"
+        }
+      ],
+      "application": "用一分钟陈述一个学习旅行愿望：未定地点、两个选择条件、一个现实阻碍及一个可立即做的准备。",
+      "self_check": [
+        "完成并保存本课规定的输出：用一分钟陈述一个学习旅行愿望：未定地点、两个选择条件、一个现实阻碍及一个可立即做的准备。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N446",
+      "number": 46,
+      "title": "承认反方事实仍坚持立场",
+      "source_title": "Leçon 46 — La roue de la fortune",
+      "minutes": 25,
+      "goal": "写一百词公益方案评论：承认一项优点、提出一项疑问、说明标准，并给一个具体可替代的办法。",
+      "prerequisites": [
+        "N445"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0118.md",
+          "label": "物理第118页（印刷第112页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论有争议的公益方案，先区分目标与手段：帮助某人是目标，竞赛、宣传或资助是方法。赞同目标不等于赞同每一种做法。bien que 常接虚拟式，引入被承认的让步事实；même si 通常接直陈式，二者不能只因为都译为“虽然”就使用同一语式。\n\n对比观点可用 contrairement à 加名词或代词，au lieu de 表示替代行为，pourtant 则在承认前项后强调出乎预料的结果。提出立场时至少复述一条反方理由，再解释自己更看重的原则。用事实描述受益方式，不把宣传效果直接等同于长期帮助。结尾可以提出替代方案，使争论从情绪对立走向可比较的选择。\n\n反方论据必须先准确复述，不能故意改得荒唐再轻易反驳。",
+      "analogy": "让步像过小桥时让一步：承认对方站着的位置，自己仍可以沿原方向走。",
+      "teaching_points": [
+        "讨论有争议的公益方案，先区分目标与手段：帮助某人是目标，竞赛、宣传或资助是方法。",
+        "对比观点可用 contrairement à 加名词或代词，au lieu de 表示替代行为，pourtant 则在承认前项后强调出乎预料的结果。"
+      ],
+      "anchor": {
+        "fr": "Bien que ce projet soit populaire, je doute de son efficacité.",
+        "zh": "虽然这个项目受欢迎，我仍怀疑它的成效。",
+        "sound": "比安克，索瓦波皮莱尔",
+        "movie": "两位成年讨论者看见热闹的公益活动，一人点头承认受欢迎，同时查看尚未证明的长期效果图。画面不出现文字、标签或字幕。",
+        "pronunciation": "bien que /bjɛ̃ kə/；soit /swa/；efficacité /efikasite/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "Bien que ce projet ___ populaire…",
+          "choices": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "reason": "bien que 后通常用虚拟式 soit；est/sera 是直陈式。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "项目不受欢迎，所以所有人都已证明它有效。",
+            "我认为只要受欢迎就绝不需要评估。",
+            "虽然这个项目受欢迎，我仍怀疑它的成效。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：虽然这个项目受欢迎，我仍怀疑它的成效。"
+        }
+      ],
+      "application": "写一百词公益方案评论：承认一项优点、提出一项疑问、说明标准，并给一个具体可替代的办法。",
+      "self_check": [
+        "完成并保存本课规定的输出：写一百词公益方案评论：承认一项优点、提出一项疑问、说明标准，并给一个具体可替代的办法。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N447",
+      "number": 47,
+      "title": "用虚拟式过去时回应已经发生的事",
+      "source_title": "Leçon 47 — Coup de cœur, coup de gueule",
+      "minutes": 25,
+      "goal": "写三组对比句：一组愿望中的动作，一组对已经完成动作的情绪评价，再写八十词有理由的活动反馈。",
+      "prerequisites": [
+        "N446"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0122.md",
+          "label": "物理第122页（印刷第116页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "表达对已经发生之事的喜悦、失望或惊讶，情绪或评价结构之后可使用虚拟式过去时。它由 avoir 或 être 的虚拟式现在时加过去分词构成，强调从句行动在评价时之前已经完成。不要把虚拟式只理解为未来愿望，也不要因为事情真实发生就一律改用直陈式。\n\n比较 je suis content qu'il vienne 与 je suis content qu'il soit venu，前者关注来这件事，后者强调已经来过。公共讨论中的愤怒也应指向具体行为与后果，避免只用夸张形容词。讨论作品传播等旧材料时，练习的是立场和语式，不把教材中的历史法案当作今天适用规则。\n\n评价的时刻与事件完成的时刻要分开标在时间线上，再决定是否采用复合形式。",
+      "analogy": "虚拟式过去时像给已经收到的礼物写心情卡：礼物先到，评价随后。",
+      "teaching_points": [
+        "表达对已经发生之事的喜悦、失望或惊讶，情绪或评价结构之后可使用虚拟式过去时。",
+        "比较 je suis content qu'il vienne 与 je suis content qu'il soit venu，前者关注来这件事，后者强调已经来过。"
+      ],
+      "anchor": {
+        "fr": "Je suis déçu que le débat ait été interrompu si tôt.",
+        "zh": "辩论这么早就被中断，我很失望。",
+        "sound": "德叙，艾泰安泰朗普",
+        "movie": "一位成年观众看着讨论会话筒刚开始就被收起，露出失望神情，椅子上的资料还没展开。画面不出现文字、标签或字幕。",
+        "pronunciation": "ait été /ɛt‿ete/（连贯读作 /ɛ.te.te/，助动词与过去分词间作 /t/ 联诵）；déçu /desy/ 的 u 为圆唇 /y/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "情绪评价已发生事件：que le débat ___ interrompu.",
+          "choices": [
+            "a été",
+            "sera",
+            "ait été"
+          ],
+          "answer": 2,
+          "reason": "déçu que 触发虚拟式；ait été 标明之前已发生的被动事件。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "辩论这么早就被中断，我很失望。",
+            "我希望将来的所有辩论都越早中断越好。",
+            "辩论从未开始，因此我很满意。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：辩论这么早就被中断，我很失望。"
+        }
+      ],
+      "application": "写三组对比句：一组愿望中的动作，一组对已经完成动作的情绪评价，再写八十词有理由的活动反馈。",
+      "self_check": [
+        "完成并保存本课规定的输出：写三组对比句：一组愿望中的动作，一组对已经完成动作的情绪评价，再写八十词有理由的活动反馈。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N448",
+      "number": 48,
+      "title": "写出有证据和边界的影评",
+      "source_title": "Leçon 48 — L'esprit critique",
+      "minutes": 25,
+      "goal": "写一百二十词原创影评：一句背景、两个有细节的评价、一项让步与适合的观众，不复述全部剧情。",
+      "prerequisites": [
+        "N447"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0126.md",
+          "label": "物理第126页（印刷第120页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "影评先给读者必要背景，再描述一项能支持判断的细节，不必把全部剧情讲完。ambitieux 说明创作意图，réussi 评价实现程度，二者可以同时不同；说作品有雄心，不等于承认它每一处都成功。评价演员、节奏、画面时各给可观察的依据，避免把个人厌恶写成客观定论。\n\n连贯影评可以按简述、优点、限制、适合对象组织。pourtant、cependant 连接预期与实际差异，malgré 加名词则压缩让步。结尾推荐给特定观众，而不是宣称人人必看。为了让别人自主判断，保留内容提示并避免不必要剧透；文字的目标是说明你的观看经验，不替所有人决定感受。",
+      "analogy": "影评像给朋友看一张旅行照片：挑能说明感受的细节，不用把整条路全部搬来。",
+      "teaching_points": [
+        "影评先给读者必要背景，再描述一项能支持判断的细节，不必把全部剧情讲完。",
+        "连贯影评可以按简述、优点、限制、适合对象组织。"
+      ],
+      "anchor": {
+        "fr": "Malgré quelques longueurs, ce film mérite d'être vu pour ses acteurs.",
+        "zh": "尽管有几处拖沓，这部电影仍值得为演员表现一看。",
+        "sound": "马尔格雷，隆格尔",
+        "movie": "成年观众看了一眼走得很慢的时钟，却又被银幕上演员细腻的表情吸引，准备推荐给朋友。画面不出现文字、标签或字幕。",
+        "pronunciation": "longueurs /lɔ̃ɡœʁ/；mérite /meʁit/；vu /vy/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "malgré 后接哪个形式？",
+          "choices": [
+            "quelques longueurs",
+            "que le film est long",
+            "être long"
+          ],
+          "answer": 0,
+          "reason": "malgré 接名词组；让步分句可用 bien que 等其他结构。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "电影毫无拖沓，因此演员表现不值得关注。",
+            "尽管有几处拖沓，这部电影仍值得为演员表现一看。",
+            "电影演员全部缺席，所以无法观看。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：尽管有几处拖沓，这部电影仍值得为演员表现一看。"
+        }
+      ],
+      "application": "写一百二十词原创影评：一句背景、两个有细节的评价、一项让步与适合的观众，不复述全部剧情。",
+      "self_check": [
+        "完成并保存本课规定的输出：写一百二十词原创影评：一句背景、两个有细节的评价、一项让步与适合的观众，不复述全部剧情。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "已能用A2基础句表达个人经历；B1为后续选修，不代替缺失A2。"
+    },
+    {
+      "id": "N4R01",
+      "number": "R01",
+      "title": "综合实践：工作需求与休闲协商",
+      "source_title": "Savoir-faire — Unité 7",
+      "minutes": 35,
+      "goal": "写一封七十词活动询问信，再录一段志愿时间协商；列三项已知条件与三项待确认内容。",
+      "prerequisites": [
+        "N425",
+        "N426",
+        "N427",
+        "N428"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0030.md",
+          "label": "物理第30页（印刷第24页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "活动承办询价与求职准备看似不同，都需要先明确对方需求。询价应先给活动对象、人数、日期和预算范围，再问缺少的条件；求职问答则把自己的经历连接到岗位任务。不能只说“请介绍所有情况”，因为对方不知道你要作什么决定。\n\n志愿服务的讨论涉及时间分配与个人选择，可以赞成帮助他人，也可以提出精力与休息的限制。先复述对方理由，再用一条具体经历支持自己的立场。综合输出分成事实、愿望和条件三层，分别检查直陈式、虚拟式和时间结构。原书听力未提供可播放核查时不猜答案，原创任务用新写资料练信息转换。",
+      "analogy": "需求像装箱清单：先知道要装什么，才知道问别人要多大的箱子。",
+      "teaching_points": [
+        "活动承办询价与求职准备看似不同，都需要先明确对方需求。",
+        "志愿服务的讨论涉及时间分配与个人选择，可以赞成帮助他人，也可以提出精力与休息的限制。"
+      ],
+      "anchor": {
+        "fr": "Pour répondre à votre demande, nous avons besoin de précisions sur le public.",
+        "zh": "为回应您的需求，我们需要了解参加者的具体情况。",
+        "sound": "贝祖安，普雷西雄",
+        "movie": "成年活动策划人看着空白座位图，向客户询问参加者的年龄与人数，再选择合适活动。画面不出现文字、标签或字幕。",
+        "pronunciation": "besoin /bəzwɛ̃/；précisions /pʁesizjɔ̃/；public /pyblik/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "besoin 的常用补语结构是？",
+          "choices": [
+            "besoin à précisions",
+            "besoin de précisions",
+            "besoin que précisions"
+          ],
+          "answer": 1,
+          "reason": "avoir besoin de 后接名词；需要分句时可用 besoin que 加完整结构。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我们已经完全了解参加者，不需要任何问题。",
+            "参加者必须先回应我们的求职申请。",
+            "为回应您的需求，我们需要了解参加者的具体情况。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：为回应您的需求，我们需要了解参加者的具体情况。"
+        }
+      ],
+      "application": "写一封七十词活动询问信，再录一段志愿时间协商；列三项已知条件与三项待确认内容。",
+      "self_check": [
+        "完成并保存本课规定的输出：写一封七十词活动询问信，再录一段志愿时间协商；列三项已知条件与三项待确认内容。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4R02",
+      "number": "R02",
+      "title": "综合实践：比较套餐并解释金钱选择",
+      "source_title": "Savoir-faire — Unité 8",
+      "minutes": 35,
+      "goal": "自拟两种月度套餐，列总费用、承诺期、限制和用户需求，用八句推荐并回应一项反对理由。",
+      "prerequisites": [
+        "N429",
+        "N430",
+        "N431",
+        "N432"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0052.md",
+          "label": "物理第52页（印刷第46页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "推荐通信或消费套餐，必须先知道使用者需求，再比较同一计费基准下的费用、承诺期与限制。最低标价不一定是最低总成本，无承诺期也不等于包含所有功能。把已知条件填进表格，资料没写清的地方标待确认，避免为了给出漂亮答案而补造细则。\n\n讲金钱如何影响生活，则要把收入、选择与价值判断分开。高收入不必然意味着满意，低支出也不证明生活质量下降。使用具体事件说明决定，再用强调句突出真正重要的因素。对历史套餐只作阅读训练，不当作今天可购买产品。原创练习自行设置两种透明方案，让听者能从你的解释独立核算并作决定。",
+      "analogy": "套餐像两只不同大小的杯子：先换成同一容量，才能比较每杯究竟花多少钱。",
+      "teaching_points": [
+        "推荐通信或消费套餐，必须先知道使用者需求，再比较同一计费基准下的费用、承诺期与限制。",
+        "讲金钱如何影响生活，则要把收入、选择与价值判断分开。"
+      ],
+      "anchor": {
+        "fr": "Ce n'est pas le prix annoncé qui détermine le coût final.",
+        "zh": "决定最终费用的并不是宣传价格。",
+        "sound": "普里阿农塞，库菲纳勒",
+        "movie": "成年消费者把醒目的小金额广告移开，展开包含多次扣款的完整账单再比较。画面不出现文字、标签或字幕。",
+        "pronunciation": "annoncé /anɔ̃se/；final /final/；ce n'est pas 的否定范围覆盖强调成分。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "强调句主语用？Ce n'est pas le prix ___ détermine…",
+          "choices": [
+            "que",
+            "où",
+            "qui"
+          ],
+          "answer": 2,
+          "reason": "prix 是 détermine 的主语，用 qui；que 用于直接宾语等成分。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "决定最终费用的并不是宣传价格。",
+            "宣传标价永远等于最终费用。",
+            "最终费用与任何付款条件都无关。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：决定最终费用的并不是宣传价格。"
+        }
+      ],
+      "application": "自拟两种月度套餐，列总费用、承诺期、限制和用户需求，用八句推荐并回应一项反对理由。",
+      "self_check": [
+        "完成并保存本课规定的输出：自拟两种月度套餐，列总费用、承诺期、限制和用户需求，用八句推荐并回应一项反对理由。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4R03",
+      "number": "R03",
+      "title": "综合实践：设备说明、环保判断与隐私论坛",
+      "source_title": "Savoir-faire — Unité 9",
+      "minutes": 35,
+      "goal": "写一张虚构设备信息卡，再写八十词隐私论坛意见；至少区分两项事实、一项预测和一个有条件的建议。",
+      "prerequisites": [
+        "N433",
+        "N434",
+        "N435",
+        "N436"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0072.md",
+          "label": "物理第72页（印刷第66页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "产品信息卡要先定义设备类别，再说明三项功能、使用条件与限制。名称和外形不能代替功能解释，厂商声称与本人验证也要分开。环保判断尤其需要看到产品整个使用情境，不凭一个关键词就给绝对结论；无法核实的说法先列为需要查证。\n\n隐私论坛发言可以按担心什么、为什么、接受什么条件、建议怎样改进组织。把技术可能带来的结果用适当程度表达，不把所有未来设想写成必然事实。若提出行动时间表，可用先将来时标出完成节点。原材料中的环保判断与旧设备不等同于当前科学结论，原创自测考查证据意识与表达，实际知识需另查来源。",
+      "analogy": "信息卡像工具抽屉：功能、条件、限制各有格子，不能把漂亮名字当作工具本身。",
+      "teaching_points": [
+        "产品信息卡要先定义设备类别，再说明三项功能、使用条件与限制。",
+        "隐私论坛发言可以按担心什么、为什么、接受什么条件、建议怎样改进组织。"
+      ],
+      "anchor": {
+        "fr": "Nous vérifierons les réglages avant de partager nos informations.",
+        "zh": "分享信息之前，我们会检查设置。",
+        "sound": "雷格拉热，帕尔塔热",
+        "movie": "成年人先在设备上逐项检查隐私开关，再把少量公开照片发送给朋友。画面不出现文字、标签或字幕。",
+        "pronunciation": "réglages /ʁeɡlaʒ/；informations /ɛ̃fɔʁmasjɔ̃/；vérifierons 是将来时。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "判断一项设备宣传是否可用，最重要的是？",
+          "choices": [
+            "具体功能、条件及可核实证据",
+            "名字是否有趣",
+            "只看宣传中的最高级形容词"
+          ],
+          "answer": 0,
+          "reason": "功能与条件决定能否满足任务，名字和夸张评价不能代替证据。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我们先公开所有信息，然后永不检查设置。",
+            "分享信息之前，我们会检查设置。",
+            "检查设置只能在分享信息之后进行。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：分享信息之前，我们会检查设置。"
+        }
+      ],
+      "application": "写一张虚构设备信息卡，再写八十词隐私论坛意见；至少区分两项事实、一项预测和一个有条件的建议。",
+      "self_check": [
+        "完成并保存本课规定的输出：写一张虚构设备信息卡，再写八十词隐私论坛意见；至少区分两项事实、一项预测和一个有条件的建议。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4R04",
+      "number": "R04",
+      "title": "综合实践：文化推荐与调查摘要",
+      "source_title": "Savoir-faire — Unité 10",
+      "minutes": 35,
+      "goal": "为十二位虚构读者做微型调查，写三项比例摘要并推荐三种杂志；为每项推荐给一个读者需求依据。",
+      "prerequisites": [
+        "N437",
+        "N438",
+        "N439",
+        "N440"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0094.md",
+          "label": "物理第94页（印刷第88页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "文化推荐需要把活动特色和听者需求接起来。家庭周末要考虑年龄、兴趣、预算与交通；图书馆订刊要说明每种读者能从内容得到什么，而不是只挑自己喜欢的封面。推荐前先问一项需求，再给两条相关理由和一项限制。\n\n调查摘要要保留样本范围、提问方式和比例，不能把一小组儿童结果说成所有人的阅读习惯。转述访谈时检查人称与过去时关系，数字与个人引语分开写。结论应落在资料支持的范围内，例如建议增加某类杂志，而非断言某类读者永远不阅读。综合练习让伙伴按推荐选择，观察你的依据是否足以帮助决定。",
+      "analogy": "推荐像图书馆书架：不是把最喜欢的书放满，而是让不同人找到合适的一层。",
+      "teaching_points": [
+        "文化推荐需要把活动特色和听者需求接起来。",
+        "调查摘要要保留样本范围、提问方式和比例，不能把一小组儿童结果说成所有人的阅读习惯。"
+      ],
+      "anchor": {
+        "fr": "Cette enquête nous aide à choisir des magazines adaptés aux lecteurs.",
+        "zh": "这项调查帮助我们选择适合读者的杂志。",
+        "sound": "昂凯特，阿达普泰",
+        "movie": "成年图书管理员把不同读者的需求卡与几类杂志分别配对，摆到合适的书架上。画面不出现文字、标签或字幕。",
+        "pronunciation": "adaptés /adapte/；lecteurs /lɛktœʁ/；magazines /maɡazin/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "调查三十名读者后，合理结论应是？",
+          "choices": [
+            "所有国民都…",
+            "在这组受访者中…",
+            "未来每个人必然…"
+          ],
+          "answer": 1,
+          "reason": "调查范围限制可推出的结论；不能将小样本自动推广为全体或未来。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "调查要求我们停止考虑读者需要。",
+            "所有杂志都同样适合每个读者。",
+            "这项调查帮助我们选择适合读者的杂志。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：这项调查帮助我们选择适合读者的杂志。"
+        }
+      ],
+      "application": "为十二位虚构读者做微型调查，写三项比例摘要并推荐三种杂志；为每项推荐给一个读者需求依据。",
+      "self_check": [
+        "完成并保存本课规定的输出：为十二位虚构读者做微型调查，写三项比例摘要并推荐三种杂志；为每项推荐给一个读者需求依据。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4R05",
+      "number": "R05",
+      "title": "综合实践：报告身份调查并回应刻板印象",
+      "source_title": "Savoir-faire — Unité 11",
+      "minutes": 35,
+      "goal": "只依据本课虚构六人调查，报告两项不同态度的比例并说明样本限制，再有依据地回应刻板印象。",
+      "prerequisites": [
+        "N441",
+        "N442",
+        "N443",
+        "N444"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0112.md",
+          "label": "物理第112页（印刷第106页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "报告身份或习惯调查时，先说明问题与受访者，再呈现比例，最后谨慎解释。favorable 与 fier 表示不同维度，不能把支持某项教学自动解释成强烈的身份自豪。即使数字都正确，混合提问维度仍会制造错误结论。\n\n回应引起争议的幽默图像，先描述自己看到的内容，再解释为何不舒服，同时听取对方认为好笑的理由。表达同意或反对可以针对一个具体观点，无需把讨论变成人身判断。旧资料的消费数字只作来源阅读，不当作今天社会现状。原创输出用新写的小调查，检查数量表达、范围限定和清楚回应三种能力。\n\n本站虚构微型调查输入（不是原书或现实调查；仅六名匿名成年人，两道问题独立回答）。表头：受访者｜自述对本国身份自豪？｜支持在学校学国歌？\nA｜是｜支持\nB｜是｜反对\nC｜是｜支持\nD｜否｜支持\nE｜否｜反对\nF｜是｜未定\n读法：自豪为4/6＝三分之二；支持教学为3/6＝一半，反对为2/6，未定为1/6。D 不自豪却支持教学，B 自豪却反对教学，所以两种态度不能互推。人数极少且抽样方法未设定，只能描述这六人的答案，不能推断某国真实民意。先按列计数、再检查每行交叉关系，最后写结论。",
+      "analogy": "调查题像不同抽屉：支持某事和喜欢某身份是两格，不能把一格答案倒进另一格。",
+      "teaching_points": [
+        "报告身份或习惯调查时，先说明问题与受访者，再呈现比例，最后谨慎解释。",
+        "回应引起争议的幽默图像，先描述自己看到的内容，再解释为何不舒服，同时听取对方认为好笑的理由。",
+        "虚构六人数据：4/6自豪、3/6支持教学；两题不可等同，样本不得外推。"
+      ],
+      "anchor": {
+        "fr": "Je comprends l'humour, mais je n'accepte pas cette généralisation.",
+        "zh": "我理解这种幽默，但不能接受这种一概而论。",
+        "sound": "热内拉利扎雄",
+        "movie": "两位成年朋友看一张夸张漫画，一人微笑，另一人指向把所有人画成相同模样的部分，平静说明异议。画面不出现文字、标签或字幕。",
+        "pronunciation": "généralisation /ʒeneʁalizasjɔ̃/；accepte /aksɛpt/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "遇到刻板印象，最精确的回应是？",
+          "choices": [
+            "用相反的全称断言回击",
+            "断言对方所有经历都不存在",
+            "说明哪一项概括超出证据"
+          ],
+          "answer": 2,
+          "reason": "指出概括范围才能针对论证；用另一种全称或否认经历并不提供证据。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "我理解这种幽默，但不能接受这种一概而论。",
+            "我因为理解幽默就必然接受全部概括。",
+            "我拒绝听懂任何笑话或不同观点。"
+          ],
+          "answer": 0,
+          "reason": "句意应保留动作、时间、否定或条件关系：我理解这种幽默，但不能接受这种一概而论。"
+        },
+        {
+          "prompt": "只根据虚构表，哪项正确？",
+          "choices": [
+            "所有自豪者都支持教学。",
+            "四人自豪，三人支持教学。",
+            "三人自豪，四人支持教学。"
+          ],
+          "answer": 1,
+          "reason": "A/B/C/F共4人自豪；A/C/D共3人支持。B是自豪而反对的明确反例。"
+        },
+        {
+          "prompt": "哪项能反驳“只要不自豪就必定反对教学”？",
+          "choices": [
+            "F自豪且未定。",
+            "C自豪且支持。",
+            "D不自豪但支持。"
+          ],
+          "answer": 2,
+          "reason": "D同时满足前件“不自豪”和与后件相反的“支持”，构成直接反例；C/F不满足不自豪条件。"
+        }
+      ],
+      "application": "只用本课虚构六人表，写80—100法语词摘要（约90词）：开头说明这是虚构的六人样本；报告自豪4/6＝les deux tiers、支持教学3/6＝la moitié；选B或D说明两题不能等同；结尾说明不能代表全国。然后录60秒回应刻板印象：复述一个概括、指出一项范围错误、给一个反例、提出一个继续讨论问题。无原书音频时，消费习惯听力记“未测”，不计入已完成。",
+      "self_check": [
+        "调查摘要80—100法语词；明确虚构及n=6，正确报告4/6与3/6并分别写比例，举B或D说明两题不同，写一项不可外推的限制。",
+        "附加60秒回应仍需复述对方、具体异议、反例与继续讨论问题；原教材消费听力无音频时标未测。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4R06",
+      "number": "R06",
+      "title": "综合实践：文化反馈、公共发言与志愿介绍",
+      "source_title": "Savoir-faire — Unité 12",
+      "minutes": 35,
+      "goal": "写一百词演出反馈并录一分钟数字生活建议；最后用四句介绍自拟协会的宗旨、参与方式和一项必要条件。",
+      "prerequisites": [
+        "N445",
+        "N446",
+        "N447",
+        "N448"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0130.md",
+          "label": "物理第130页（印刷第124页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "观后反馈、公民意见和志愿介绍都需要让对方知道你希望发生什么。反馈先描述一项具体体验再评价；公共发言说明问题、理由和建议；介绍协会则区分宗旨、参与方式与条件。把三种文体混成口号，会让听者难以采取下一步。\n\n讨论希望与遗憾时，注意动作是否已经发生。对已发生结果的情绪可用虚拟式过去时，未来愿望则按对应结构选择语式。转交协会信息要保留条件，不能只说“他们需要所有人”。原书网页与活动数量属于资料当时背景，本课使用自拟协会与活动，要求每项主张有一条明确依据、每个请求有可回应内容。",
+      "analogy": "公共表达像给人递钥匙：说清哪扇门、为什么开、拿到钥匙后怎样做。",
+      "teaching_points": [
+        "观后反馈、公民意见和志愿介绍都需要让对方知道你希望发生什么。",
+        "讨论希望与遗憾时，注意动作是否已经发生。"
+      ],
+      "anchor": {
+        "fr": "Bien que le spectacle ait été court, il m'a donné envie d'en parler.",
+        "zh": "虽然演出很短，却让我想谈谈它。",
+        "sound": "比安克，斯佩克塔克勒",
+        "movie": "成年观众看完短演出后仍站在剧场门口，拿出笔记与朋友交流被触动的一幕。画面不出现文字、标签或字幕。",
+        "pronunciation": "ait été /ɛt‿ete/（连贯读作 /ɛ.te.te/，助动词与过去分词间作 /t/ 联诵）；spectacle /spɛktakl/；envie /ɑ̃vi/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "让步评价已经结束的演出：bien qu'il ___ court",
+          "choices": [
+            "ait été",
+            "a été",
+            "sera"
+          ],
+          "answer": 0,
+          "reason": "bien que 用虚拟式，ait été 表已完成；a été 是直陈式。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "演出因为短而让我完全不想提起它。",
+            "虽然演出很短，却让我想谈谈它。",
+            "演出还未开始，我就知道全部内容。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：虽然演出很短，却让我想谈谈它。"
+        }
+      ],
+      "application": "写一百词演出反馈并录一分钟数字生活建议；最后用四句介绍自拟协会的宗旨、参与方式和一项必要条件。",
+      "self_check": [
+        "完成并保存本课规定的输出：写一百词演出反馈并录一分钟数字生活建议；最后用四句介绍自拟协会的宗旨、参与方式和一项必要条件。",
+        "让伙伴根据输出说出人物、动作与条件；若无法复述，标出并改写一处歧义。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4E03",
+      "number": "E03",
+      "title": "阶段检验：远程工作与技术变化",
+      "source_title": "Évaluation 3 — DELF B1（原书栏目）",
+      "minutes": 35,
+      "goal": "读懂本课本站原创短文，准确限定资料范围，完成有具体依据的法语意见；教材原声听力另记未测。",
+      "prerequisites": [
+        "N4R01",
+        "N4R02",
+        "N4R03"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0073.md",
+          "label": "物理第73页（印刷第67页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "阶段检验关注如何从资料形成判断：先找远程工作的好处、风险与尚未明确的影响，再分别归类。效能、成本、孤立与安全属于不同角度，不应拿单一优势替代整体结论。转述资料时保留“可能”等限定，不能把推测改成已经确定的结果。\n\n输出可用一个立场、两条依据、一个反面情况和一项适用条件组织。若要设计改进方案，把责任与时间写清；若谈新技术，把功能与未来想象分开。本课原创自测不是原书考试复制，缺少真实音频的听力记录为未测，不由阅读答案替代。完成这次任务只证明本次表达，不自动构成任何考试或移民等级证明。\n\n本站原创阅读输入（虚构工作试行，非原书报道）：\nUne petite agence a testé le travail à domicile pendant six semaines. Les huit salariés volontaires travaillaient chez eux deux jours par semaine. La plupart ont apprécié de gagner du temps sur les trajets. Deux personnes ont toutefois signalé un sentiment d'isolement. La directrice ne veut pas généraliser tout de suite : certains documents exigent une connexion protégée. Elle propose de définir des objectifs communs, puis de refaire un bilan dans un mois.\n\n完成范围：下面新增两题与写作只针对这段本站原创文字。设备法语合成朗读可以帮助练读，但不是教材原录音；原教材听力没有真实音频并实际作答时一律记“未测”，不计该能力已检验。",
+      "analogy": "综合检验像试走一条路：看到哪一段能独立走、哪一段还需要路标。",
+      "teaching_points": [
+        "阶段检验关注如何从资料形成判断：先找远程工作的好处、风险与尚未明确的影响，再分别归类。",
+        "输出可用一个立场、两条依据、一个反面情况和一项适用条件组织。"
+      ],
+      "anchor": {
+        "fr": "Le télétravail peut être efficace, à condition que les objectifs soient clairs.",
+        "zh": "远程工作可能有效，前提是目标明确。",
+        "sound": "特莱特拉瓦伊，奥布热克蒂夫",
+        "movie": "成年员工在家中书桌前，与屏幕里的同事共同指向一份清楚分工的任务图。画面不出现文字、标签或字幕。",
+        "pronunciation": "télétravail /teletʁavaj/；soient /swa/；clairs /klɛʁ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "à condition que les objectifs ___ clairs",
+          "choices": [
+            "soient",
+            "sont",
+            "seront"
+          ],
+          "answer": 0,
+          "reason": "à condition que 通常用虚拟式 soient；条件不是无条件已证事实。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "远程工作无论目标是否明确都必然最有效。",
+            "远程工作可能有效，前提是目标明确。",
+            "只有目标完全混乱时远程工作才有效。"
+          ],
+          "answer": 1,
+          "reason": "句意应保留动作、时间、否定或条件关系：远程工作可能有效，前提是目标明确。"
+        },
+        {
+          "prompt": "这项试行中已观察到的风险是哪项？",
+          "choices": [
+            "两人感到孤立。",
+            "全体员工丢失文件。",
+            "公司已禁止远程工作。"
+          ],
+          "answer": 0,
+          "reason": "两人 signalé un sentiment d'isolement；连接保护是条件，并未说文件丢失，也未宣布禁止。"
+        },
+        {
+          "prompt": "负责人接下来打算怎样做？",
+          "choices": [
+            "立即给全体员工永久远程工作。",
+            "先定共同目标，一个月后再评估。",
+            "不设目标并永久停止评估。"
+          ],
+          "answer": 1,
+          "reason": "最后一句给出定义共同目标及一月后再做总结；不能把暂不推广读成永久禁止。"
+        }
+      ],
+      "application": "仅依据本站原创试行文本，写110—130法语词评论：说明六周、八名志愿员工和每周两日的范围；分别写通勤收益、两人孤立与安全连接条件；评价先定目标再复评；结尾用 à condition que+虚拟式给一条适用条件。录两分钟说明建议。教材原声听力无音频时记“未测”，不得计作已完成。",
+      "self_check": [
+        "110—130词；三项范围数字正确；收益、已报告风险、技术条件不混为一类；有一项有限结论及正确虚拟式条件。",
+        "两道新增阅读题都能指出短文依据；若答错，改写相关概括后再写作。",
+        "分项记录：本站阅读与输出已经练习；教材原声听力未实际作答则保持未测，不用合成朗读替代。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    },
+    {
+      "id": "N4E04",
+      "number": "E04",
+      "title": "阶段检验：旅行价值与文化判断",
+      "source_title": "Évaluation 4 — DELF B1（原书栏目）",
+      "minutes": 35,
+      "goal": "读懂本课本站原创短文，准确限定资料范围，完成有具体依据的法语意见；教材原声听力另记未测。",
+      "prerequisites": [
+        "N4R04",
+        "N4R05",
+        "N4R06"
+      ],
+      "sources": [
+        {
+          "book": "nihao-4-student",
+          "location": "pages/0131.md",
+          "label": "物理第131页（印刷第125页）",
+          "review_status": "ocr_text_checked"
+        }
+      ],
+      "explanation": "讨论旅行为何有价值，先把自己的期待、材料作者的观点和可观察经历分开。见到新地方可能带来改变，但不能推出所有旅人都会自动更开放。说明旅行与日常单调的关系时，用一个具体对比和一个例子，比重复“开阔眼界”更有内容。\n\n综合论述可先概括主题，再赞同一部分、提出一项限制，最后给出个人选择及条件。引用经历时用过去时组织事件，表达未实现愿望时用条件式，评价已发生行为时检查虚拟式过去时。自测把理解、衔接、时态和可理解度分别记录；没有音频的听力未测，不编原书答案，也不把练习完成视为获得某种认证。\n\n本站原创阅读输入（虚构人物见证，非原书作者意见）：\nAvant son voyage, Lina pensait que tous les habitants du village vivaient de la même façon. Pendant son séjour, elle a parlé avec une agricultrice, un professeur et deux étudiants. Leurs projets étaient très différents. Elle a donc changé d'avis sur ce village, mais elle refuse d'en tirer une règle pour tout le pays. À son retour, elle souhaite continuer ces échanges en ligne. Pour elle, voyager est utile si l'on écoute et si l'on remet ses idées en question.\n\n完成范围：下面新增两题与写作只针对这段本站原创文字。设备法语合成朗读可以帮助练读，但不是教材原录音；原教材听力没有真实音频并实际作答时一律记“未测”，不计该能力已检验。",
+      "analogy": "旅行像换一扇窗：风景会变，愿不愿认真看仍然取决于自己。",
+      "teaching_points": [
+        "讨论旅行为何有价值，先把自己的期待、材料作者的观点和可观察经历分开。",
+        "综合论述可先概括主题，再赞同一部分、提出一项限制，最后给出个人选择及条件。"
+      ],
+      "anchor": {
+        "fr": "Voyager ne suffit pas ; il faut aussi accepter de remettre ses idées en question.",
+        "zh": "光旅行还不够，还需要愿意重新审视自己的想法。",
+        "sound": "勒梅特尔，安凯斯雄",
+        "movie": "成年旅人坐在旅途中，把原先的一张简单地图摊开，听当地人说明后重新调整路线与想法。画面不出现文字、标签或字幕。",
+        "pronunciation": "suffit /syfi/；question /kɛstjɔ̃/；remettre /ʁəmɛtʁ/。近音只帮助回忆，法语发音以设备朗读和发音要点核对。",
+        "reuse_id": null
+      },
+      "quiz": [
+        {
+          "prompt": "句子的论证关系是？",
+          "choices": [
+            "证明所有旅行毫无价值",
+            "承认旅行有用但提出进一步条件",
+            "断言旅行必然改变所有人"
+          ],
+          "answer": 1,
+          "reason": "ne suffit pas 不等于完全无用，而是指出单凭旅行不足，仍需反思。"
+        },
+        {
+          "prompt": "结合完整句，哪项解释准确？",
+          "choices": [
+            "旅行本身必然足以保证每个人都思想开放。",
+            "旅行者绝不应质疑自己的任何观念。",
+            "光旅行还不够，还需要愿意重新审视自己的想法。"
+          ],
+          "answer": 2,
+          "reason": "句意应保留动作、时间、否定或条件关系：光旅行还不够，还需要愿意重新审视自己的想法。"
+        },
+        {
+          "prompt": "什么使Lina改变对村庄的看法？",
+          "choices": [
+            "她只看了同一张广告。",
+            "她证明了全国居民完全一样。",
+            "她听见几个不同居民有不同计划。"
+          ],
+          "answer": 2,
+          "reason": "文中农民、老师和两学生的计划不同，促成改观；没有全国调查，也不只是看广告。"
+        },
+        {
+          "prompt": "她对旅行价值的结论是什么？",
+          "choices": [
+            "旅行自动使每个人开放。",
+            "旅行结合倾听和反思才有价值。",
+            "回来后应立即停止全部交流。"
+          ],
+          "answer": 1,
+          "reason": "结尾的 si l'on écoute / remet ses idées en question 给出条件；她还想继续在线交流。"
+        }
+      ],
+      "application": "只用本站原创Lina见证，写110—130法语词：用两句复述旅行前看法和促成改变的具体交谈；解释为何不能推广至全国；提出一个你赞同的条件及一条可继续交流的行动。再用两分钟谈一次真实或明确标虚构的经历，对比一个改变与一个未改变之处。原教材听力未经实际音频作答记“未测”，不计已完成。",
+      "self_check": [
+        "110—130词；两阶段看法与具体交谈对应，保留不可全国外推的范围；个人评价和见证事实区分；口语同时给改变、未变与条件。",
+        "两道新增阅读题都能指出短文依据；若答错，改写相关概括后再写作。",
+        "分项记录：本站阅读与输出已经练习；教材原声听力未实际作答则保持未测，不用合成朗读替代。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成对应单元四课，再独立完成本次迁移。"
+    }
+  ]
+}

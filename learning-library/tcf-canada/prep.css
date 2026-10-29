@@ -1,0 +1,48 @@
+/* Extend the existing learning-library palette and theme tokens. */
+[hidden]{display:none!important}
+.prep-shell{max-width:1160px;margin:auto;padding:30px 32px 64px}
+.prep-top{display:flex;justify-content:space-between;align-items:center;gap:18px;padding-bottom:22px;border-bottom:1px solid var(--line)}
+.prep-top a{text-decoration:none;font-size:13px}
+.prep-hero{padding:52px 0 30px;max-width:800px}
+.prep-hero h1{font-size:clamp(36px,6vw,64px);letter-spacing:-2px;margin:12px 0 18px}
+.prep-hero .lead{font-size:19px;max-width:680px;line-height:1.85}
+.prep-hero .eyebrow{margin-bottom:0}
+.prep-nav{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0 34px}
+.prep-nav a{border:1px solid var(--line);border-radius:24px;padding:7px 15px;text-decoration:none;font-size:13px;background:var(--white)}
+.prep-section{scroll-margin-top:20px;margin:48px 0}
+.prep-section>h2{font-size:27px}
+.prep-note{padding:18px 22px;border-left:3px solid var(--green);border-radius:0 12px 12px 0;background:var(--soft);font-size:13px}
+.prep-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.prep-card{background:var(--white);border:1px solid var(--line);border-radius:14px;padding:24px;min-width:0}
+.prep-card h3{margin:10px 0}
+.prep-card p,.prep-card li{font-size:14px}
+.prep-card ol{padding-left:20px}
+.prep-card p:last-child{margin-bottom:0}
+.prep-card a{overflow-wrap:anywhere}
+.resource-meta{font-size:11px;color:var(--muted);margin-bottom:12px}
+.prep-tag{display:inline-block;color:var(--green);font-weight:650;font-size:11px;background:var(--soft);padding:3px 9px;border-radius:20px}
+.prep-skills{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:24px 0}
+.skill{padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--white)}
+.skill strong,.skill span{display:block}
+.skill strong{font-size:22px;color:var(--ink);margin-bottom:8px}
+.skill span{font-size:12px;color:var(--muted)}
+.practice-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:24px 0}
+.memory-card{padding:0;overflow:hidden}
+.memory-card img{display:block;width:100%;height:auto;aspect-ratio:1264/848;object-fit:contain;background:#fff5d9}
+.memory-content{padding:20px}
+.memory-content h3{font-size:16px}
+.memory-content .memory-fr{font:21px/1.65 Georgia,serif;color:var(--ink);margin:18px 0 8px;overflow-wrap:anywhere}
+.memory-content .muted{font-size:12px}
+.memory-controls{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 10px}
+.memory-controls button{font-size:12px;padding:8px 11px}
+.voice-controls{display:flex;align-items:center;flex-wrap:wrap;gap:12px;font-size:13px;margin:20px 0}
+.voice-controls select{padding:7px;max-width:100%;border:1px solid var(--line);border-radius:7px;background:var(--white);color:var(--text)}
+.route-list{padding-left:24px}
+.route-list li{padding:8px 0 14px 8px}
+.route-list strong{display:block;color:var(--ink)}
+.route-list p{margin:4px 0;font-size:14px}
+.prep-footer{display:block;border-top:1px solid var(--line);padding-top:24px;font-size:12px}
+.prep-footer p{margin:5px 0}
+.prep-shell button:disabled{opacity:.6}
+@media(max-width:800px){.practice-grid{grid-template-columns:1fr}.memory-card{display:grid;grid-template-columns:1fr 1fr}.memory-card img{align-self:start}.prep-skills{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:580px){.prep-shell{padding:20px 18px 44px}.prep-top{align-items:flex-start}.prep-hero{padding:32px 0 14px}.prep-hero .lead{font-size:17px}.prep-grid{grid-template-columns:1fr}.prep-card{padding:20px}.memory-card{display:block;padding:0}.memory-content{padding:20px}.prep-nav{gap:8px}.prep-nav a{padding:6px 11px}.prep-section{margin:34px 0}}

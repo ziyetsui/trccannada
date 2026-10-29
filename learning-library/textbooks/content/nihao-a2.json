@@ -1,0 +1,3119 @@
+{
+  "id": "nihao-a2",
+  "title": "你好！法语2 · A2中文伴学",
+  "subtitle": "36课＋9次综合实践＋3次阶段检验；按教师书主题独立编写",
+  "level": "A2",
+  "role": "A1到B1的衔接主线；原书为教师用书，本站为原创学习辅助",
+  "source_slugs": [
+    "nihao-a2-teacher"
+  ],
+  "source_structure": "242个物理页。原教师书9单元36课、9 Savoir-faire、3 Évaluation逐一映射；后半视频教学、复印练习及答案作为教师参考，不另冒充学生课。配套A2学生书与原音频未提供。",
+  "lessons": [
+    {
+      "id": "NA201",
+      "number": 1,
+      "title": "介绍自己，并向对方追问",
+      "source_title": "Leçon 1 — Je me présente",
+      "minutes": 25,
+      "goal": "写五个个人信息问句，和伙伴轮流问答，录满六十秒。",
+      "prerequisites": [],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0017.md",
+          "label": "PDF物理第17页；Leçon 1 — Je me présente",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "quel随被询问名词变化：quel âge、quelle adresse。口语可用升调或est-ce que；正式倒装先看懂，不必每句都强行使用。\n\n小例子：Quel âge avez-vous ? — J’ai trente ans. / Quelle est votre adresse ? — J’habite au 12, rue des Lilas.\n\n操作步骤：先写需要的信息，接着选quel的形式，最后用完整答案回一轮。不要把âge的词性按被问者的性别改变。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "问句像找拼图缺口：先知道缺的是年龄、地点还是姓名，再选问词。",
+      "teaching_points": [
+        "本课检查点：âge为阳性单数，quel与名词而非回答者性别一致。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+        "zh": "我叫林，拼作L-I-N。",
+        "sound": "热，马佩儿，Lin林；撒，塞克里，L-I-N。",
+        "movie": "我抱着小马介绍自己叫林，再把L、I、N三块积木按顺序摆好；小马一边点头，一边看清名字怎么拼。",
+        "reuse_id": "T05:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "询问年龄应选哪项？",
+          "choices": [
+            "Quel âge avez-vous ?",
+            "Quelle âge avez-vous ?",
+            "Quels âge avez-vous ?"
+          ],
+          "answer": 0,
+          "reason": "âge为阳性单数，quel与名词而非回答者性别一致。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我叫林，拼作L-I-N。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：我叫林，拼作L-I-N。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写五个个人信息问句，和伙伴轮流问答，录满六十秒。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写五个个人信息问句，和伙伴轮流问答，录满六十秒。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA202",
+      "number": 2,
+      "title": "介绍家庭与刚发生的事",
+      "source_title": "Leçon 2 — De mère en fille",
+      "minutes": 25,
+      "goal": "画三代关系图，介绍三位家人，再各说一句刚发生与即将发生的事。",
+      "prerequisites": [
+        "NA201"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0020.md",
+          "label": "PDF物理第20页；Leçon 2 — De mère en fille",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "venir de＋不定式表达刚刚做完；aller＋不定式表达即将或打算做。时间方向不同，不能只看到动词原形就混为将来。tout、toute、tous、toutes随所修饰名词变化。\n\n小例子：Ma sœur vient de rentrer. 她刚回来。/ Elle va préparer le dîner. 她打算做晚饭。\n\n操作步骤：把刚完成与接下来分成两列，每列写一句。再用toute la famille指全家，核对toute跟famille一致。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "时间像三格照片：刚拍完、正在看、下一张；先把事件放对格子。",
+      "teaching_points": [
+        "本课检查点：vient de指最近过去，另外两句指将来。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Sa mère travaille dans une école.",
+        "zh": "他/她的母亲在学校工作。",
+        "sound": "撒，梅儿，特拉瓦伊；当，une，诶科勒。",
+        "movie": "妈妈放好梅子点心，拉开学校办公室的门开始工作；孩子看见她忙着整理课本，知道母亲在学校上班。",
+        "reuse_id": "T06:4",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“她刚刚离开”是哪句？",
+          "choices": [
+            "Elle partira demain.",
+            "Elle vient de partir.",
+            "Elle va partir."
+          ],
+          "answer": 1,
+          "reason": "vient de指最近过去，另外两句指将来。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "他/她的母亲在学校工作。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：他/她的母亲在学校工作。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "画三代关系图，介绍三位家人，再各说一句刚发生与即将发生的事。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "画三代关系图，介绍三位家人，再各说一句刚发生与即将发生的事。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA203",
+      "number": 3,
+      "title": "写可读的个人主页",
+      "source_title": "Leçon 3 — Blog",
+      "minutes": 25,
+      "goal": "写六十到八十词个人主页，包含居住地、两种语言、两项活动频率。",
+      "prerequisites": [
+        "NA202"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0023.md",
+          "label": "PDF物理第23页；Leçon 3 — Blog",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "moi、toi、lui、elle等重读代词可接介词或用于强调。城市前常用à；阴性国家前常用en，如en France。频率词souvent、parfois、jamais表达不同习惯，别把偶尔写成总是。\n\n小例子：Moi, j’habite à Montréal. 我住在蒙特利尔。/ Je fais souvent du vélo. 我经常骑车。\n\n操作步骤：依次填身份、地点、活动与频率四格。读完后遮掉稿子，只看四个关键词介绍自己。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "主页像三个抽屉：我是谁、我在哪里、我常做什么；一条信息放一个抽屉。",
+      "teaching_points": [
+        "本课检查点：France为阴性国家名，通常用en；城市如Paris用à。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Mon amie parle trois langues.",
+        "zh": "我的女性朋友说三种语言。",
+        "sound": "蒙，阿米，帕儿勒，特鲁瓦，朗格。",
+        "movie": "我的女性朋友抱着米袋聊天，三个不同颜色的话泡轮流蹦出；她能说三种语言，连米袋都听得点头。",
+        "reuse_id": "T06:7",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“在法国”应选？",
+          "choices": [
+            "à France",
+            "au France",
+            "en France"
+          ],
+          "answer": 2,
+          "reason": "France为阴性国家名，通常用en；城市如Paris用à。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我的女性朋友说三种语言。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我的女性朋友说三种语言。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写六十到八十词个人主页，包含居住地、两种语言、两项活动频率。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写六十到八十词个人主页，包含居住地、两种语言、两项活动频率。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA204",
+      "number": 4,
+      "title": "把家庭信息组织成短文",
+      "source_title": "Leçon 4 — Une famille en or",
+      "minutes": 25,
+      "goal": "自编一家三口的介绍，写八句；让伙伴据此画出关系图并回答三个问题。",
+      "prerequisites": [
+        "NA203"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0026.md",
+          "label": "PDF物理第26页；Leçon 4 — Une famille en or",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "本课是家庭主题的整合阅读。先识别谁和谁的关系，再找职业、居住地与日常安排。ma sœur是我的姐妹，sa sœur是他或她的姐妹；物主形容词跟后面的名词配合。\n\n小例子：Voici ma tante. Elle est infirmière. 这是我的阿姨，她是护士。/ Son fils habite à Lyon. 她的儿子住在里昂。\n\n操作步骤：把人物画成三张卡片，在两张卡之间标明亲属关系。用代词之前先确认读者知道你指的是谁。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "家庭树像地铁换乘图：先认清人物之间的线，再往站点添信息。",
+      "teaching_points": [
+        "本课检查点：être后直接说明职业通常不用不定冠词：Elle est architecte。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Ma sœur est architecte.",
+        "zh": "我姐姐是建筑师。",
+        "sound": "马，瑟儿，诶，阿儿希泰克特。",
+        "movie": "我姐姐戴着建筑师帽，小马帮她搬尺子；她画出房屋图纸，一栋小屋照着图慢慢搭起来。",
+        "reuse_id": "T09:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“我的姐妹是建筑师”中职业前通常怎样？",
+          "choices": [
+            "不加不定冠词",
+            "必须加une",
+            "必须加la"
+          ],
+          "answer": 0,
+          "reason": "être后直接说明职业通常不用不定冠词：Elle est architecte。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我姐姐是建筑师。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：我姐姐是建筑师。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "自编一家三口的介绍，写八句；让伙伴据此画出关系图并回答三个问题。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "自编一家三口的介绍，写八句；让伙伴据此画出关系图并回答三个问题。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R01",
+      "number": "R1",
+      "title": "单元1综合实践",
+      "source_title": "Unité 1 — Savoir-faire",
+      "minutes": 35,
+      "goal": "不看稿介绍一位家人六十秒；写八十词个人主页，再请伙伴追问三个信息。",
+      "prerequisites": [
+        "NA204"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0028.md",
+          "label": "PDF物理第28页；Unité 1 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Ma sœur est architecte.",
+        "zh": "我姐姐是建筑师。",
+        "sound": "马，瑟儿，诶，阿儿希泰克特。",
+        "movie": "我姐姐戴着建筑师帽，小马帮她搬尺子；她画出房屋图纸，一栋小屋照着图慢慢搭起来。",
+        "reuse_id": "T09:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "只核对花了多久",
+            "让伙伴复述关键信息，并标出没听懂的一处",
+            "只统计写了几个难词"
+          ],
+          "answer": 1,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "直接算作掌握",
+            "背下答案并当作即兴表达",
+            "回到对应课练错点，再重录一次"
+          ],
+          "answer": 2,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "不看稿介绍一位家人六十秒；写八十词个人主页，再请伙伴追问三个信息。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "不看稿介绍一位家人六十秒；写八十词个人主页，再请伙伴追问三个信息。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA205",
+      "number": 5,
+      "title": "用关系从句辨认人物",
+      "source_title": "Leçon 5 — Parisiens, qui êtes-vous ?",
+      "minutes": 25,
+      "goal": "用qui写两句人物介绍，用que写两句喜欢的人或物，再朗读比较。",
+      "prerequisites": [
+        "NA2R01"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0029.md",
+          "label": "PDF物理第29页；Leçon 5 — Parisiens, qui êtes-vous ?",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "qui在关系从句里做主语，后面通常直接接动词；que做宾语，后面需要主语。先还原两个短句，再把重复的名词接起来。celui、celle可以替代已经说过的人或物，并由后文限定。\n\n小例子：C’est une voisine qui travaille ici. 这是一位在这里工作的女邻居。/ C’est le livre que je cherche. 这是我要找的书。\n\n操作步骤：把关系从句拆回两个小句：une voisine travaille；je cherche le livre。先找动词主语，再选qui或que。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "qui像自己推车的人；que像被人推的车。先问谁在做动作。",
+      "teaching_points": [
+        "本课检查点：艺术家是expose的主语，因此用qui。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Voici l’artiste qui expose ici.",
+        "zh": "这是在这里办展的艺术家。",
+        "sound": "哇西，拉儿蒂斯特，基，诶克斯波兹，衣西。",
+        "movie": "我哇地指给朋友看，这位就是在这里办展的艺术家；他站在自己的画旁，画框里还探出一只调皮小猫。",
+        "reuse_id": "T15:7",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "合并“这是艺术家；他在这里展出”用？",
+          "choices": [
+            "que expose ici",
+            "où expose ici",
+            "qui expose ici"
+          ],
+          "answer": 2,
+          "reason": "艺术家是expose的主语，因此用qui。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "这是在这里办展的艺术家。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：这是在这里办展的艺术家。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "用qui写两句人物介绍，用que写两句喜欢的人或物，再朗读比较。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "用qui写两句人物介绍，用que写两句喜欢的人或物，再朗读比较。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA206",
+      "number": 6,
+      "title": "说明你选哪件衣服",
+      "source_title": "Leçon 6 — Question de mode",
+      "minutes": 25,
+      "goal": "描述两套衣服的颜色和大小，用celle-ci与celle-là作一次选择并给理由。",
+      "prerequisites": [
+        "NA205"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0033.md",
+          "label": "PDF物理第33页；Leçon 6 — Question de mode",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "多数描述性形容词置名词后，常见短词如beau、petit有前置用法。celui、celle、ceux、celles替代名词，-ci、-là帮助区分近远或前后所指。不能只按中文语序放置所有形容词。\n\n小例子：Je préfère la veste bleue. 我更喜欢蓝色外套。/ Je prends celle-là. 我选那件。\n\n操作步骤：先完整说物品，再用指示代词替代。注意une belle veste和une veste bleue中形容词位置不同。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "衣架上两件裙子都在，celle-là就是手指指向的那一件，不必把裙子再说一遍。",
+      "teaching_points": [
+        "本课检查点：代词须与被替代名词的性数一致，robes为阴性复数。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Ces robes sont belles ; je prends celle-là.",
+        "zh": "这些连衣裙很漂亮；我选那件。",
+        "sound": "塞，罗布，松，贝勒；热，普朗，塞拉。",
+        "movie": "漂亮连衣裙挂成一排，裙摆像贝壳闪光；我看了一圈伸手选那一件，把它拉到自己身前比一比。",
+        "reuse_id": "T07:3",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "替代阴性复数robes应使用？",
+          "choices": [
+            "celles",
+            "celui",
+            "ceux"
+          ],
+          "answer": 0,
+          "reason": "代词须与被替代名词的性数一致，robes为阴性复数。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "这些连衣裙很漂亮；我选那件。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：这些连衣裙很漂亮；我选那件。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "描述两套衣服的颜色和大小，用celle-ci与celle-là作一次选择并给理由。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "描述两套衣服的颜色和大小，用celle-ci与celle-là作一次选择并给理由。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA207",
+      "number": 7,
+      "title": "一分钟说清一个计划",
+      "source_title": "Leçon 7 — Une minute pour un projet",
+      "minutes": 25,
+      "goal": "做六十秒项目介绍：目标、两个步骤、截止日期，再写四句配套邮件。",
+      "prerequisites": [
+        "NA206"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0035.md",
+          "label": "PDF物理第35页；Leçon 7 — Une minute pour un projet",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "介绍计划先交代目标，再说明准备做什么、何时做、还需要什么。将来行动可以用aller＋不定式。求职或项目消息应把附件与下一步行动写明，不要把一串愿望当作可执行计划。\n\n小例子：Je vais suivre un cours en janvier. 我打算一月上课。/ Je vous envoie mon CV. 我把简历发给您。\n\n操作步骤：用目标、日期、准备工作和需要帮助四格组织一分钟陈述。最后一句给对方一个可回应的问题。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "计划像给朋友画藏宝图：目的地、路、时间都要标出来。",
+      "teaching_points": [
+        "本课检查点：CV是简历，ci-joint说明附件位置；应放在实际附有材料的求职邮件。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Vous trouverez mon CV ci-joint.",
+        "zh": "附件中有我的简历。",
+        "sound": "乌，特鲁弗雷，蒙，CV塞韦，西抓安。",
+        "movie": "我的简历跟着邮件夹在附件里，小乌龟负责托住；您一打开附件就能找到CV，像掀开书包看见整齐的纸。",
+        "reuse_id": "T17:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“附件里有我的简历”适合放在哪种消息？",
+          "choices": [
+            "介绍天气的日记",
+            "发送求职材料的邮件",
+            "询问餐厅菜价"
+          ],
+          "answer": 1,
+          "reason": "CV是简历，ci-joint说明附件位置；应放在实际附有材料的求职邮件。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "附件中有我的简历。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：附件中有我的简历。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "做六十秒项目介绍：目标、两个步骤、截止日期，再写四句配套邮件。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "做六十秒项目介绍：目标、两个步骤、截止日期，再写四句配套邮件。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA208",
+      "number": 8,
+      "title": "阅读观点并给出回应",
+      "source_title": "Leçon 8 — Les ados",
+      "minutes": 25,
+      "goal": "写五句回应一个周末邀约，包含赞同、限制、原因和替代时间。",
+      "prerequisites": [
+        "NA207"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0039.md",
+          "label": "PDF物理第39页；Leçon 8 — Les ados",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "先区分人物说的事实、偏好与理由，再写自己的回应。想参加但有冲突时，先表达意愿，再用mais给限制。用短而明确的理由比堆砌态度词更容易让对方理解。\n\n小例子：Je comprends ton idée, mais je préfère rester ici. 我理解你的想法，但更愿意留在这里。\n\n操作步骤：先找对方原话中的立场，再给自己的选择和一个原因。没有读到的观点不要自行补成原文事实。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "回应像接球：先接住对方的提议，再把自己的限制传回去。",
+      "teaching_points": [
+        "本课检查点：条件式表达委婉愿望，mais后说明不能照办的限制。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "J’aimerais bien, mais je dois travailler.",
+        "zh": "我很想去，但我得工作。",
+        "sound": "热姆雷，边，梅，热，杜瓦，特拉瓦耶。",
+        "movie": "我很想去赴约，脚尖已经朝门口；但梅子形工作钟响起，工具箱拉住我，我还得工作。",
+        "reuse_id": "T18:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "J’aimerais bien, mais…通常引出？",
+          "choices": [
+            "已经参加完毕",
+            "完全不理解邀请",
+            "有意愿但存在限制"
+          ],
+          "answer": 2,
+          "reason": "条件式表达委婉愿望，mais后说明不能照办的限制。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我很想去，但我得工作。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我很想去，但我得工作。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写五句回应一个周末邀约，包含赞同、限制、原因和替代时间。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写五句回应一个周末邀约，包含赞同、限制、原因和替代时间。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R02",
+      "number": "R2",
+      "title": "单元2综合实践",
+      "source_title": "Unité 2 — Savoir-faire",
+      "minutes": 35,
+      "goal": "写一份八十词人物与计划简介；用qui／que各一句，再做一次一分钟口头介绍。",
+      "prerequisites": [
+        "NA208"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0041.md",
+          "label": "PDF物理第41页；Unité 2 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "J’aimerais bien, mais je dois travailler.",
+        "zh": "我很想去，但我得工作。",
+        "sound": "热姆雷，边，梅，热，杜瓦，特拉瓦耶。",
+        "movie": "我很想去赴约，脚尖已经朝门口；但梅子形工作钟响起，工具箱拉住我，我还得工作。",
+        "reuse_id": "T18:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "让伙伴复述关键信息，并标出没听懂的一处",
+            "只统计写了几个难词",
+            "只核对花了多久"
+          ],
+          "answer": 0,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "背下答案并当作即兴表达",
+            "回到对应课练错点，再重录一次",
+            "直接算作掌握"
+          ],
+          "answer": 1,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "写一份八十词人物与计划简介；用qui／que各一句，再做一次一分钟口头介绍。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写一份八十词人物与计划简介；用qui／que各一句，再做一次一分钟口头介绍。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA209",
+      "number": 9,
+      "title": "描述理想住处的位置与需求",
+      "source_title": "Leçon 9 — Le logement idéal",
+      "minutes": 25,
+      "goal": "写八十词租房需求，包含位置、预算、两个房间条件和一项交通要求。",
+      "prerequisites": [
+        "NA2R02"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0042.md",
+          "label": "PDF物理第42页；Leçon 9 — Le logement idéal",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "où在关系从句中指地点或时间；dont常替代带de的成分，如le logement dont j’ai besoin。先确认原表达是否要求de，再决定用dont。描述住所先说位置，再补面积、价格和交通。\n\n小例子：C’est le quartier où je travaille. 这是我工作的街区。/ Voilà l’appartement dont je parle. 这就是我谈到的公寓。\n\n操作步骤：分别还原为je travaille dans ce quartier和je parle de cet appartement。où回应地点，dont回应de的关系。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "où是地图上的图钉，dont是把“需要的东西”挂到前面那个名词上的钩子。",
+      "teaching_points": [
+        "本课检查点：avoir besoin de含de，关系从句替代de＋名词用dont。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Il y a une pharmacie près de la gare.",
+        "zh": "车站附近有一家药店。",
+        "sound": "衣里啊，une，法儿马西；普雷，德拉，嘎儿。",
+        "movie": "我沿着小马留下的蹄印找药店，发现它就在车站附近；药瓶们在门口排队，小火车还在旁边鸣笛。",
+        "reuse_id": "T02:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "合并“这是我需要的房子”应选？",
+          "choices": [
+            "le logement où j’ai besoin",
+            "le logement dont j’ai besoin",
+            "le logement que j’ai besoin"
+          ],
+          "answer": 1,
+          "reason": "avoir besoin de含de，关系从句替代de＋名词用dont。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "车站附近有一家药店。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：车站附近有一家药店。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写八十词租房需求，包含位置、预算、两个房间条件和一项交通要求。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写八十词租房需求，包含位置、预算、两个房间条件和一项交通要求。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA210",
+      "number": 10,
+      "title": "比较交通方案与物品",
+      "source_title": "Leçon 10 — À bicyclette",
+      "minutes": 25,
+      "goal": "比较骑车与坐公交的时间、费用和方便程度，写六句并选一种方式。",
+      "prerequisites": [
+        "NA209"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0044.md",
+          "label": "PDF物理第44页；Leçon 10 — À bicyclette",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "比较形容词用plus／aussi／moins＋形容词＋que。bon的比较级是meilleur，bien的比较级是mieux。物主代词如le mien、la mienne替代我的某物，须跟替代名词的性数配合。\n\n小例子：Le vélo est moins cher que le bus. 骑车比坐公交便宜。/ Mon trajet est plus court que le tien. 我的路线比你的短。\n\n操作步骤：每次只比一个尺度。交通时间与费用分开写，le tien替代阳性单数trajet，不能直接接在名词前当限定词。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "比较像天平：两边放同类东西，中间只比较同一个尺度。",
+      "teaching_points": [
+        "本课检查点：两者比较用plus＋形容词＋que，最高级不适用于这个结构。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Votre cuisine est plus claire que la mienne.",
+        "zh": "您的厨房比我的明亮。",
+        "sound": "沃特儿，屈伊兹讷，诶，噗吕，克莱儿，克，拉，米耶讷。",
+        "movie": "您的厨房亮得像开了小太阳，我的厨房在对面暗一点；两只小锅互相照照，您的那边明显更明亮。",
+        "reuse_id": "T14:4",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "比较两个厨房的明亮程度应用？",
+          "choices": [
+            "plus mieux que",
+            "le plus claire de",
+            "plus claire que"
+          ],
+          "answer": 2,
+          "reason": "两者比较用plus＋形容词＋que，最高级不适用于这个结构。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "您的厨房比我的明亮。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：您的厨房比我的明亮。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "比较骑车与坐公交的时间、费用和方便程度，写六句并选一种方式。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "比较骑车与坐公交的时间、费用和方便程度，写六句并选一种方式。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA211",
+      "number": 11,
+      "title": "在几个目的地中做选择",
+      "source_title": "Leçon 11 — Destination soleil",
+      "minutes": 25,
+      "goal": "选三个假日目的地，按价格、温度与安静程度各写一句最高级，再作选择。",
+      "prerequisites": [
+        "NA210"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0047.md",
+          "label": "PDF物理第47页；Leçon 11 — Destination soleil",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "最高级用le／la／les＋plus或moins＋形容词，通常还要说明比较范围。le meilleur修饰名词，le mieux常描述动作方式。先列出两个以上选项，再确定你说的“最好”具体好在哪里。\n\n小例子：C’est la ville la moins chère de la liste. 这是列表中最便宜的城市。/ Ce restaurant est le meilleur du quartier. 这是街区里最好的餐馆。\n\n操作步骤：先给三个候选再评选，说明“最”是在哪个范围内。bon的最高级用le meilleur，不能机械写le plus bon。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "最高级像给比赛发奖牌：先说是哪场比赛，再说谁拿第一。",
+      "teaching_points": [
+        "本课检查点：最高级应交代范围，la plus calme de la maison表示全屋中最安静。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Cette pièce est la plus calme de la maison.",
+        "zh": "这个房间是家里最安静的。",
+        "sound": "塞特，皮耶丝，诶，拉，噗吕，卡勒姆，德拉，梅宗。",
+        "movie": "这个房间里连小卡车都轻轻滚，家中其他房间还在叮当响；我放下梅子枕头，这里是全家最安静的一间。",
+        "reuse_id": "T14:5",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“家里最安静的房间”需要表达？",
+          "choices": [
+            "比较范围de la maison",
+            "只说比邻居安静",
+            "必须用mieux修饰pièce"
+          ],
+          "answer": 0,
+          "reason": "最高级应交代范围，la plus calme de la maison表示全屋中最安静。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "这个房间是家里最安静的。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：这个房间是家里最安静的。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "选三个假日目的地，按价格、温度与安静程度各写一句最高级，再作选择。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "选三个假日目的地，按价格、温度与安静程度各写一句最高级，再作选择。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA212",
+      "number": 12,
+      "title": "读懂并说明生活选择",
+      "source_title": "Leçon 12 — Choix de vie",
+      "minutes": 25,
+      "goal": "写八句生活变化：三句过去习惯、三句现在安排、两句选择理由。",
+      "prerequisites": [
+        "NA211"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0050.md",
+          "label": "PDF物理第50页；Leçon 12 — Choix de vie",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "生活选择常通过过去与现在的对照展开。avant引出过去的习惯，可配未完成过去时；aujourd’hui说明现在的状态。读材料时分别列出变化、原因、好处与代价，再给自己的判断。\n\n小例子：Avant, je vivais en ville. 以前我住在城里。/ Maintenant, j’habite près d’un lac. 现在我住在湖边。\n\n操作步骤：一条变化配一个理由：因为费用、交通、空间或家人。读完后检查旧状态和现在状态没有被同一个时间词覆盖。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "变化像翻页相册：上一页是什么样，这一页改了什么，要分开说。",
+      "teaching_points": [
+        "本课检查点：未完成过去时结合avant描述过去的习惯背景。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Avant, je prenais toujours le bus.",
+        "zh": "以前我总乘公交车。",
+        "sound": "阿旺，热，普勒内，图入儿，勒，bü丝。",
+        "movie": "以前我总拿好公交卡去坐车，娃娃司机天天同一站等我；旧日历翻了一页又一页，我一直坐公交。",
+        "reuse_id": "T13:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Avant, je prenais…表示？",
+          "choices": [
+            "刚刚完成一次",
+            "过去经常如此",
+            "明天一定发生"
+          ],
+          "answer": 1,
+          "reason": "未完成过去时结合avant描述过去的习惯背景。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "以前我总乘公交车。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：以前我总乘公交车。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写八句生活变化：三句过去习惯、三句现在安排、两句选择理由。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写八句生活变化：三句过去习惯、三句现在安排、两句选择理由。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R03",
+      "number": "R3",
+      "title": "单元3综合实践",
+      "source_title": "Unité 3 — Savoir-faire",
+      "minutes": 35,
+      "goal": "设计租房比较表，列三套住房的价格与交通；写八十词选择理由并口头解释。",
+      "prerequisites": [
+        "NA212"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0052.md",
+          "label": "PDF物理第52页；Unité 3 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Avant, je prenais toujours le bus.",
+        "zh": "以前我总乘公交车。",
+        "sound": "阿旺，热，普勒内，图入儿，勒，bü丝。",
+        "movie": "以前我总拿好公交卡去坐车，娃娃司机天天同一站等我；旧日历翻了一页又一页，我一直坐公交。",
+        "reuse_id": "T13:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "只统计写了几个难词",
+            "只核对花了多久",
+            "让伙伴复述关键信息，并标出没听懂的一处"
+          ],
+          "answer": 2,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "回到对应课练错点，再重录一次",
+            "直接算作掌握",
+            "背下答案并当作即兴表达"
+          ],
+          "answer": 0,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "设计租房比较表，列三套住房的价格与交通；写八十词选择理由并口头解释。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "设计租房比较表，列三套住房的价格与交通；写八十词选择理由并口头解释。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA2E01",
+      "number": "E1",
+      "title": "阶段1检验与补课",
+      "source_title": "Évaluation 1 — 本站独立检验",
+      "minutes": 45,
+      "goal": "阶段1自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+      "prerequisites": [
+        "NA2R03"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0053.md",
+          "label": "PDF物理第53页；Évaluation 1 — 本站独立检验",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "这是按原书阶段节点安排的独立练习，并非DELF或TCF模拟计分。写作和口语的输入由前面三个单元的任务情景提供：人物与住房、工作与生活、旅行与观点。任选一个情景，先列受众和目的，再限时完成。\n\n四项自评每项0分表示未做到、1分表示需提示、2分表示可独立做到。任一项0分时回到对应课；所有项至少1分后，再换题重做。合成朗读不能代替教材原录音或独立听力测评。",
+      "analogy": "像试骑自行车：先看能否独立走完一小段，再决定下一次练哪一个动作。",
+      "teaching_points": [
+        "本课检查点：任务、评分尺度和考试条件不同，本站自评没有官方等级效力。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Avant, je prenais toujours le bus.",
+        "zh": "以前我总乘公交车。",
+        "sound": "阿旺，热，普勒内，图入儿，勒，bü丝。",
+        "movie": "以前我总拿好公交卡去坐车，娃娃司机天天同一站等我；旧日历翻了一页又一页，我一直坐公交。",
+        "reuse_id": "T13:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "八分自评分可直接换成TCF分数吗？",
+          "choices": [
+            "不能；只是本站输出复盘指标",
+            "可以按比例换算",
+            "达到六分就获得A2证书"
+          ],
+          "answer": 0,
+          "reason": "任务、评分尺度和考试条件不同，本站自评没有官方等级效力。"
+        },
+        {
+          "prompt": "没有原音频的听力结果应记录？",
+          "choices": [
+            "参照阅读分补上",
+            "未测",
+            "自动通过"
+          ],
+          "answer": 1,
+          "reason": "缺少测评输入就没有听力结果，不应编造分数。"
+        }
+      ],
+      "application": "阶段1自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "阶段1自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA213",
+      "number": 13,
+      "title": "提出可执行的改变建议",
+      "source_title": "Leçon 13 — De bonnes résolutions",
+      "minutes": 25,
+      "goal": "列三项生活改进，每项说明一个行动和一个执行条件，并录音一分钟。",
+      "prerequisites": [
+        "NA2E01"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0055.md",
+          "label": "PDF物理第55页；Leçon 13 — De bonnes résolutions",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "条件式可表达较委婉的建议与愿望，如je pourrais。谈假设时可用si＋未完成过去时，主句用条件式；不要在此类si从句里直接套条件式。quelques、plusieurs等不定限定词说明不精确数量。\n\n小例子：Je pourrais marcher après le déjeuner. 我可以午饭后散步。/ Si j’avais plus de temps, je ferais du sport. 如果时间更多，我会运动。\n\n操作步骤：建议要可执行：动作、频率和条件都写出来。si j’avais先给假设，je ferais再给假设下的行动。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "建议像可选择的岔路牌：告诉对方还有哪条路，而不是替他下命令。",
+      "teaching_points": [
+        "本课检查点：pourrais是不确定或委婉的条件式；第二句缺正确不定式，第三句不是这里的标准假设结构。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je pourrais venir vendredi.",
+        "zh": "我周五可以来。",
+        "sound": "Je pourrais venir vendredi：这，周五也许能来。",
+        "movie": "我看看周五那格日历，说那天也许可以来；小车先把路线画好，还要等安排确定，这只是能来的可能。",
+        "reuse_id": "T20:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“我周五可以来”更委婉的形式是？",
+          "choices": [
+            "Si je pourrais venir vendredi.",
+            "Je pourrais venir vendredi.",
+            "Je pourrai venu vendredi."
+          ],
+          "answer": 1,
+          "reason": "pourrais是不确定或委婉的条件式；第二句缺正确不定式，第三句不是这里的标准假设结构。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我周五可以来。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我周五可以来。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "列三项生活改进，每项说明一个行动和一个执行条件，并录音一分钟。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "列三项生活改进，每项说明一个行动和一个执行条件，并录音一分钟。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA214",
+      "number": 14,
+      "title": "用en和y避免重复",
+      "source_title": "Leçon 14 — Manger mieux, bouger plus",
+      "minutes": 25,
+      "goal": "做四轮食物问答，用en保留数量；再用y说两句运动地点。",
+      "prerequisites": [
+        "NA213"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0058.md",
+          "label": "PDF物理第58页；Leçon 14 — Manger mieux, bouger plus",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "en常替代de＋名词或带数量的成分，数量保留：J’en prends trois。y常替代地点或à＋事物的成分。先画出被替代的部分，再放代词；变位动词前的位置和不定式结构应分别观察。\n\n小例子：Tu manges des légumes ? — Oui, j’en mange tous les jours. / Tu vas au parc ? — Oui, j’y vais.\n\n操作步骤：先划出des légumes和au parc，再用en或y替换。不要只凭“东西”和“地方”的中文标签，仍需核对原动词搭配。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "代词像书签：en指回前面那些东西，数字留在外面告诉你拿几个。",
+      "teaching_points": [
+        "本课检查点：en替代poires，trois保留数量；y不替代此处食物。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Vous avez des poires ? J’en prends trois.",
+        "zh": "你们有梨吗？我买三个。",
+        "sound": "乌，阿韦，德，普哇儿？让，普朗，特鲁瓦。",
+        "movie": "我问摊主有没有梨，梨子扑哇地探出篮子；我伸手挑出三个，让它们排成一列，准备买这三个。",
+        "reuse_id": "T07:5",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Vous avez des poires ? J’___ prends trois.",
+          "choices": [
+            "y",
+            "lui",
+            "en"
+          ],
+          "answer": 2,
+          "reason": "en替代poires，trois保留数量；y不替代此处食物。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "你们有梨吗？我买三个。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：你们有梨吗？我买三个。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "做四轮食物问答，用en保留数量；再用y说两句运动地点。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "做四轮食物问答，用en保留数量；再用y说两句运动地点。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA215",
+      "number": 15,
+      "title": "区分义务与必要的行动",
+      "source_title": "Leçon 15 — Demain, j’arrête…",
+      "minutes": 25,
+      "goal": "为一项习惯写四条行动要求，两条用il faut＋不定式，两条用il faut que。",
+      "prerequisites": [
+        "NA214"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0061.md",
+          "label": "PDF物理第61页；Leçon 15 — Demain, j’arrête…",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "devoir＋不定式说明义务；il faut＋不定式可提出一般必要性。il faut que＋主语后使用虚拟式，如il faut que tu fasses。先掌握常见必要表达，别把所有que后的动词都改成虚拟式。\n\n小例子：Tu dois te reposer. 你必须休息。/ Il faut que tu dormes davantage. 你需要多睡一些。\n\n操作步骤：同一要求换两个结构表达。devoir后保持不定式，il faut que之后补主语并核对虚拟式，不能漏掉执行人。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "规则像出门前的检查单：要做什么写清楚；换了执行人就需要完整的小句。",
+      "teaching_points": [
+        "本课检查点：il faut后可直接接不定式；que后则需要带主语的从句。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Il faut demander conseil au pharmacien.",
+        "zh": "需要向药剂师咨询。",
+        "sound": "衣儿，福，德芒德，孔塞伊，哦，法儿马香。",
+        "movie": "我捧着药盒需要咨询药剂师，小福娃带路；到药房后把问题一条条问清，药剂师扶着小马眼镜听。",
+        "reuse_id": "T11:7",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "哪项表达“必须咨询”？",
+          "choices": [
+            "Il faut demander conseil.",
+            "Il faut demandes conseil.",
+            "Il faut que demander conseil."
+          ],
+          "answer": 0,
+          "reason": "il faut后可直接接不定式；que后则需要带主语的从句。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "需要向药剂师咨询。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：需要向药剂师咨询。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "为一项习惯写四条行动要求，两条用il faut＋不定式，两条用il faut que。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "为一项习惯写四条行动要求，两条用il faut＋不定式，两条用il faut que。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA216",
+      "number": 16,
+      "title": "安排一场可参与的运动日",
+      "source_title": "Leçon 16 — La journée du sport",
+      "minutes": 25,
+      "goal": "写八十词运动日通知，列两个项目、集合点、时间和一条安全提醒。",
+      "prerequisites": [
+        "NA215"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0064.md",
+          "label": "PDF物理第64页；Leçon 16 — La journée du sport",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "活动安排要让别人能据此行动：项目、集合点、开始与结束时间、所需用品缺一不可。用现在时配明确时间可说明已安排的事项；涉及个人限制时给出替代方案。\n\n小例子：Le rendez-vous est à neuf heures devant la piscine. 九点在游泳池前集合。/ Apportez une bouteille d’eau. 带一瓶水。\n\n操作步骤：把通知给一个没参与筹备的人看；让他只凭通知说出到达时间、地点和携带物，缺项就补写。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "活动通知像接力棒：拿到的人应该知道去哪里、几点去、带什么。",
+      "teaching_points": [
+        "本课检查点：参加者需要具体安排，情绪形容词不能替代行动信息。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Nous finissons à dix-huit heures.",
+        "zh": "我们十八点结束。",
+        "sound": "努，菲尼松，啊，迪兹üit，儿。",
+        "movie": "我们努着嘴收好工具，松鼠把最后一颗果放好；钟到十八点，大家一起结束工作，拍掌回家。",
+        "reuse_id": "T03:5",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "一份可执行通知最需要哪组信息？",
+          "choices": [
+            "只有漂亮标题",
+            "时间、地点与参加方式",
+            "只有“非常好玩”"
+          ],
+          "answer": 1,
+          "reason": "参加者需要具体安排，情绪形容词不能替代行动信息。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我们十八点结束。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我们十八点结束。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写八十词运动日通知，列两个项目、集合点、时间和一条安全提醒。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写八十词运动日通知，列两个项目、集合点、时间和一条安全提醒。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R04",
+      "number": "R4",
+      "title": "单元4综合实践",
+      "source_title": "Unité 4 — Savoir-faire",
+      "minutes": 35,
+      "goal": "做七天健康行动表，列饮食与运动各三项；录一分钟建议并核对必要表达。",
+      "prerequisites": [
+        "NA216"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0067.md",
+          "label": "PDF物理第67页；Unité 4 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Nous finissons à dix-huit heures.",
+        "zh": "我们十八点结束。",
+        "sound": "努，菲尼松，啊，迪兹üit，儿。",
+        "movie": "我们努着嘴收好工具，松鼠把最后一颗果放好；钟到十八点，大家一起结束工作，拍掌回家。",
+        "reuse_id": "T03:5",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "只统计写了几个难词",
+            "只核对花了多久",
+            "让伙伴复述关键信息，并标出没听懂的一处"
+          ],
+          "answer": 2,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "回到对应课练错点，再重录一次",
+            "直接算作掌握",
+            "背下答案并当作即兴表达"
+          ],
+          "answer": 0,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "做七天健康行动表，列饮食与运动各三项；录一分钟建议并核对必要表达。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "做七天健康行动表，列饮食与运动各三项；录一分钟建议并核对必要表达。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA217",
+      "number": 17,
+      "title": "讲述职业经历",
+      "source_title": "Leçon 17 — Au chômage",
+      "minutes": 25,
+      "goal": "写八句职业小故事：两句背景、三个已完成事件、一句现状和两句下一步。",
+      "prerequisites": [
+        "NA2R04"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0069.md",
+          "label": "PDF物理第69页；Leçon 17 — Au chômage",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "复合过去时推进完成的事件，未完成过去时提供背景、持续状态或习惯。现在时交代目前情况。先把时间线分成背景与事件，再选时态；不要把所有过去事情都套同一个形式。\n\n小例子：Je cherchais un emploi quand j’ai reçu votre message. 我找工作时收到了您的消息。/ Aujourd’hui, je travaille à temps partiel. 现在我做兼职。\n\n操作步骤：将背景框画得长一些，具体事件画成一个点。用这张时间线核对过去时，不按中文有没有“了”来机械选择。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "故事像舞台：未完成过去时搭背景，复合过去时让演员完成动作。",
+      "teaching_points": [
+        "本课检查点：lisais铺背景，a téléphoné表示发生并推进故事的事件。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je lisais quand il a téléphoné.",
+        "zh": "他打电话来时我正在读书。",
+        "sound": "热，利泽，康，衣儿，啊，忒雷佛内。",
+        "movie": "我正立着书读得入迷，他的电话突然响起来；书页还夹在手指里，另一只手已经伸向电话。",
+        "reuse_id": "T12:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Je lisais quand il a téléphoné中电话是？",
+          "choices": [
+            "打断阅读的已发生事件",
+            "每天的固定习惯",
+            "将来的计划"
+          ],
+          "answer": 0,
+          "reason": "lisais铺背景，a téléphoné表示发生并推进故事的事件。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "他打电话来时我正在读书。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：他打电话来时我正在读书。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写八句职业小故事：两句背景、三个已完成事件、一句现状和两句下一步。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写八句职业小故事：两句背景、三个已完成事件、一句现状和两句下一步。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA218",
+      "number": 18,
+      "title": "说明兼职安排与限制",
+      "source_title": "Leçon 18 — À mi-temps",
+      "minutes": 25,
+      "goal": "列一周兼职表，用ne…que说明两项限制，再说两句做事方式。",
+      "prerequisites": [
+        "NA217"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0072.md",
+          "label": "PDF物理第72页；Leçon 18 — À mi-temps",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "许多副词由形容词阴性形式加-ment构成，但有特殊形式，应连同例词记忆。ne…que表示只有，不能按ne…pas理解。说工作安排时，le mercredi常指每周三，而mercredi可指具体这个周三。\n\n小例子：Je ne travaille que trois jours par semaine. 我每周只工作三天。/ Elle répond rapidement. 她回复得很快。\n\n操作步骤：限制结构把剩下的范围说清楚，副词则描述做事方式。先写数量，再写工作表现，两者承担的信息不同。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "ne…que像筛子：只留下一项；ne…pas则把这项排除。",
+      "teaching_points": [
+        "本课检查点：ne…que表示限制“只有”，并非完全否定。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je ne travaille pas le mercredi.",
+        "zh": "我每周三不工作。",
+        "sound": "热，讷，特拉瓦伊，帕，勒，梅儿克勒迪。",
+        "movie": "每周三，娃娃拉我去工作，我都拿帕子盖好电脑；日历上的每个周三都有梅子，我这天固定不工作。",
+        "reuse_id": "T03:4",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Je ne travaille que le lundi.意思是？",
+          "choices": [
+            "我每天都工作。",
+            "我只在周一工作。",
+            "我周一不工作。"
+          ],
+          "answer": 1,
+          "reason": "ne…que表示限制“只有”，并非完全否定。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我每周三不工作。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我每周三不工作。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "列一周兼职表，用ne…que说明两项限制，再说两句做事方式。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "列一周兼职表，用ne…que说明两项限制，再说两句做事方式。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA219",
+      "number": 19,
+      "title": "把时间起点说清楚",
+      "source_title": "Leçon 19 — Souvenirs d’école",
+      "minutes": 25,
+      "goal": "录一分钟学校回忆，至少使用两句未完成过去时，并对照写depuis与il y a各一句。",
+      "prerequisites": [
+        "NA218"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0075.md",
+          "label": "PDF物理第75页；Leçon 19 — Souvenirs d’école",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "depuis说明过去开始、到参照时仍持续；il y a可说某个事件距今多久。时间长度相同，持续状态与过去事件并不相同。回忆学校生活可先说当时习惯，再说一件具体事情。\n\n小例子：J’étudie le français depuis janvier. 我从一月开始学法语，仍在学。/ J’ai commencé il y a deux mois. 我两个月前开始。\n\n操作步骤：前句强调持续状态，后句把开始定位到过去。即使描述同一经历，时态和时间表达也不能随意互换。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "depuis像还在延长的绳子，il y a像时间线上的一个钉子。",
+      "teaching_points": [
+        "本课检查点：depuis标记持续到现在的时段；il y a更常定位距今多久的事件。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je joue du violon depuis un an.",
+        "zh": "我拉小提琴已有一年了。",
+        "sound": "热，入， dü，维哦隆，德 pü伊，un，昂。",
+        "movie": "我拉小提琴已经一年，一颗米粒从去年日历跑到今年；琴弓每天继续唱，整整一年连成一条旋律。",
+        "reuse_id": "T12:4",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“我拉小提琴已有一年且还在拉”用？",
+          "choices": [
+            "il y a un an作为现在持续标记",
+            "demain",
+            "depuis un an"
+          ],
+          "answer": 2,
+          "reason": "depuis标记持续到现在的时段；il y a更常定位距今多久的事件。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我拉小提琴已有一年了。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我拉小提琴已有一年了。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "录一分钟学校回忆，至少使用两句未完成过去时，并对照写depuis与il y a各一句。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录一分钟学校回忆，至少使用两句未完成过去时，并对照写depuis与il y a各一句。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA220",
+      "number": 20,
+      "title": "询问海外学习安排",
+      "source_title": "Leçon 20 — Les études à l’étranger",
+      "minutes": 25,
+      "goal": "写一封八十词咨询信，问四个问题并给两个可联系时间。",
+      "prerequisites": [
+        "NA219"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0078.md",
+          "label": "PDF物理第78页；Leçon 20 — Les études à l’étranger",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "咨询留学先分清已知信息与待确认事项。询问课程、费用、住宿和日期应各自形成问题；不把过去经历与未来安排混在一串时态里。委婉提问可用条件式，如conviendrait。\n\n小例子：Quels documents faut-il fournir ? 需要提交哪些材料？/ Pourriez-vous préciser le prix ? 您能说明费用吗？\n\n操作步骤：咨询信先写目的，四个问题各问一件事，再写可联系的时间。发送之前检查对方是否能逐条回答。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "咨询像收拾四个盒子：课程、费用、住处、时间，每盒至少一个明确问题。",
+      "teaching_points": [
+        "本课检查点：conviendrait用条件式缓和询问，不表示预约已经确认。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Quel jour vous conviendrait ?",
+        "zh": "哪一天对您合适？",
+        "sound": "凯儿，入儿，乌，孔维安德雷？",
+        "movie": "我把日历摊给您看，问哪一天对您合适；小乌龟拿着圈圈笔等答复，先不急着圈下日期。",
+        "reuse_id": "T17:7",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Quel jour vous conviendrait ?的作用是？",
+          "choices": [
+            "委婉询问合适日期",
+            "断言对方已同意",
+            "描述去年经历"
+          ],
+          "answer": 0,
+          "reason": "conviendrait用条件式缓和询问，不表示预约已经确认。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "哪一天对您合适？",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：哪一天对您合适？；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写一封八十词咨询信，问四个问题并给两个可联系时间。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写一封八十词咨询信，问四个问题并给两个可联系时间。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R05",
+      "number": "R5",
+      "title": "单元5综合实践",
+      "source_title": "Unité 5 — Savoir-faire",
+      "minutes": 35,
+      "goal": "写八十词职业经历，再写一封四问题留学咨询信；分别核对过去、现在、将来。",
+      "prerequisites": [
+        "NA220"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0080.md",
+          "label": "PDF物理第80页；Unité 5 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Quel jour vous conviendrait ?",
+        "zh": "哪一天对您合适？",
+        "sound": "凯儿，入儿，乌，孔维安德雷？",
+        "movie": "我把日历摊给您看，问哪一天对您合适；小乌龟拿着圈圈笔等答复，先不急着圈下日期。",
+        "reuse_id": "T17:7",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "只核对花了多久",
+            "让伙伴复述关键信息，并标出没听懂的一处",
+            "只统计写了几个难词"
+          ],
+          "answer": 1,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "直接算作掌握",
+            "背下答案并当作即兴表达",
+            "回到对应课练错点，再重录一次"
+          ],
+          "answer": 2,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "写八十词职业经历，再写一封四问题留学咨询信；分别核对过去、现在、将来。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写八十词职业经历，再写一封四问题留学咨询信；分别核对过去、现在、将来。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA221",
+      "number": 21,
+      "title": "准确说出不再、从不与没有",
+      "source_title": "Leçon 21 — Internet et vous",
+      "minutes": 25,
+      "goal": "记录网络习惯，分别用jamais、plus、rien写一句，再录六十秒总结。",
+      "prerequisites": [
+        "NA2R05"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0082.md",
+          "label": "PDF物理第82页；Leçon 21 — Internet et vous",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "ne…jamais表示从不，ne…plus表示不再，ne…rien表示什么也不。否定复合过去时时，pas通常围住助动词。写作保留ne；常见口语省略不等于书面可以随意省略。\n\n小例子：Je ne regarde plus cette émission. 我不再看这个节目。/ Je ne publie jamais mon adresse. 我从不公开地址。\n\n操作步骤：先判断是“以前做现在不做”还是“一直不做”，再选择plus或jamais。不要为了多用否定而加入互相矛盾的信息。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "否定像三块门牌：从没住过、不再住、屋里没东西，含义不能互换。",
+      "teaching_points": [
+        "本课检查点：plus强调以前与现在的变化；jamais表示从不，rien否定事物。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je ne vais jamais au stade.",
+        "zh": "我从不去体育场。",
+        "sound": "热，讷，韦，扎梅，哦，斯塔德。",
+        "movie": "我从来不去体育场，扎着梅子辫的小球向我招手；我每次都摇头，沿着自己的散步路走开。",
+        "reuse_id": "T12:6",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“过去用，现在不用了”应选？",
+          "choices": [
+            "ne…jamais",
+            "ne…rien",
+            "ne…plus"
+          ],
+          "answer": 2,
+          "reason": "plus强调以前与现在的变化；jamais表示从不，rien否定事物。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我从不去体育场。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我从不去体育场。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "记录网络习惯，分别用jamais、plus、rien写一句，再录六十秒总结。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "记录网络习惯，分别用jamais、plus、rien写一句，再录六十秒总结。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA222",
+      "number": 22,
+      "title": "解释为什么选一个地方",
+      "source_title": "Leçon 22 — À chacun son café",
+      "minutes": 25,
+      "goal": "比较两家咖啡馆，写三句原因并选择一家，至少区分parce que与grâce à。",
+      "prerequisites": [
+        "NA221"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0085.md",
+          "label": "PDF物理第85页；Leçon 22 — À chacun son café",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "parce que后接有主语和动词的原因句；à cause de后接名词或代词，常引出不利原因；grâce à通常引出有利原因。comme作原因背景时常置句首。不要只按中文“因为”逐字替换。\n\n小例子：Je choisis ce café parce qu’il est calme. 我选这家咖啡馆，因为安静。/ Grâce au métro, le trajet est facile. 多亏地铁，路程方便。\n\n操作步骤：删去连接词后，检查后面是名词组还是完整小句。换连接词时往往也得改结构，不能只替换单个词。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "理由像接口：完整句与一个名词是不同插头，连接词要接对。",
+      "teaching_points": [
+        "本课检查点：parce que引导原因从句；名词原因可用à cause de等表达。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je ne peux pas venir ; je dois travailler.",
+        "zh": "我不能来，我得工作。",
+        "sound": "热，讷，peux，帕，弗尼儿；热，杜瓦，特拉瓦耶。",
+        "movie": "我拿着帕子摇头，没法前来参加；工具箱拉住我的袖口，我必须工作，只好把邀约放到一旁。",
+        "reuse_id": "T15:6",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "parce que之后通常接？",
+          "choices": [
+            "主语＋变位动词的从句",
+            "单独一个名词且永远不带动词",
+            "必须接不定式"
+          ],
+          "answer": 0,
+          "reason": "parce que引导原因从句；名词原因可用à cause de等表达。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我不能来，我得工作。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：我不能来，我得工作。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "比较两家咖啡馆，写三句原因并选择一家，至少区分parce que与grâce à。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "比较两家咖啡馆，写三句原因并选择一家，至少区分parce que与grâce à。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA223",
+      "number": 23,
+      "title": "说明同时进行的活动",
+      "source_title": "Leçon 23 — Week-end",
+      "minutes": 25,
+      "goal": "说一段周末计划，写三句同一主语的伴随动作，并对照一项交通方式。",
+      "prerequisites": [
+        "NA222"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0088.md",
+          "label": "PDF物理第88页；Leçon 23 — Week-end",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "en＋现在分词构成副动词，常表达同一主语的伴随动作或方式，如en marchant。一般要求主语与主句一致。交通方式à vélo本身不是副动词，不要看到en就自动当成同一结构。\n\n小例子：J’écoute de la musique en marchant. 我一边走路一边听音乐。/ Nous préparons le repas en discutant. 我们边聊天边准备饭菜。\n\n操作步骤：把两个动作各写一句，确认主语相同后再合并。主语不同则保留两个从句，不用副动词模糊执行者。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "副动词像同一个人同时拿的两件工具，不能偷偷换成另一个人做第二件事。",
+      "teaching_points": [
+        "本课检查点：en lisant、en marchant是副动词；需核对动作主体一致。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Nous y allons à vélo.",
+        "zh": "我们骑自行车去那里。",
+        "sound": "努，衣，阿隆，啊，韦洛。",
+        "movie": "我们努着嘴骑自行车去那里，衣角被风吹成小旗；车轮沿路咕噜转，目的地就在前方。",
+        "reuse_id": "T10:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "副动词常用哪种形式？",
+          "choices": [
+            "y＋不定式",
+            "en＋现在分词",
+            "en＋过去分词一律"
+          ],
+          "answer": 1,
+          "reason": "en lisant、en marchant是副动词；需核对动作主体一致。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我们骑自行车去那里。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我们骑自行车去那里。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "说一段周末计划，写三句同一主语的伴随动作，并对照一项交通方式。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "说一段周末计划，写三句同一主语的伴随动作，并对照一项交通方式。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA224",
+      "number": 24,
+      "title": "邀请邻居并协调分工",
+      "source_title": "Leçon 24 — La fête des voisins",
+      "minutes": 25,
+      "goal": "写一张聚会邀请，准备接受与拒绝各一段回复，再列三人分工表。",
+      "prerequisites": [
+        "NA223"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0091.md",
+          "label": "PDF物理第91页；Leçon 24 — La fête des voisins",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "邀请先给活动、地点与时间，再询问是否能来。回复可接受、拒绝或提出替代；拒绝时补一个真实理由。组织聚会还要记录谁带什么，避免邀请说完却没人知道下一步。\n\n小例子：Tu peux venir samedi à dix-huit heures ? 你周六十八点能来吗？/ Je peux apporter une salade. 我可以带一份沙拉。\n\n操作步骤：邀请负责给时间地点，回复负责确认出席，分工负责落实物品。三种消息都写清楚，才算完成组织任务。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "聚会像拼盘：每个人的时间和负责的一块都要放到桌上。",
+      "teaching_points": [
+        "本课检查点：veux在这里询问邀请意愿，vendredi说明时间，chez nous说明地点。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Tu veux dîner chez nous vendredi ?",
+        "zh": "周五你想来我们家吃晚饭吗？",
+        "sound": "Tu veux dîner chez nous vendredi：玉兔，周五来我们家晚饭吗？",
+        "movie": "我指着我们家餐桌问朋友，周五想来吃晚饭吗；玉兔在日历旁抱着碗，周五那格还等朋友点头。",
+        "reuse_id": "T18:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Tu veux dîner chez nous vendredi ?询问的是？",
+          "choices": [
+            "周五已经吃过什么",
+            "每天在哪里工作",
+            "周五来我家吃晚饭的意愿"
+          ],
+          "answer": 2,
+          "reason": "veux在这里询问邀请意愿，vendredi说明时间，chez nous说明地点。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "周五你想来我们家吃晚饭吗？",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：周五你想来我们家吃晚饭吗？；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写一张聚会邀请，准备接受与拒绝各一段回复，再列三人分工表。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写一张聚会邀请，准备接受与拒绝各一段回复，再列三人分工表。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R06",
+      "number": "R6",
+      "title": "单元6综合实践",
+      "source_title": "Unité 6 — Savoir-faire",
+      "minutes": 35,
+      "goal": "组织一次邻里聚会：发邀请、回复一次拒绝、列出三人分工和两个场地选择理由。",
+      "prerequisites": [
+        "NA224"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0093.md",
+          "label": "PDF物理第93页；Unité 6 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Tu veux dîner chez nous vendredi ?",
+        "zh": "周五你想来我们家吃晚饭吗？",
+        "sound": "Tu veux dîner chez nous vendredi：玉兔，周五来我们家晚饭吗？",
+        "movie": "我指着我们家餐桌问朋友，周五想来吃晚饭吗；玉兔在日历旁抱着碗，周五那格还等朋友点头。",
+        "reuse_id": "T18:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "让伙伴复述关键信息，并标出没听懂的一处",
+            "只统计写了几个难词",
+            "只核对花了多久"
+          ],
+          "answer": 0,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "背下答案并当作即兴表达",
+            "回到对应课练错点，再重录一次",
+            "直接算作掌握"
+          ],
+          "answer": 1,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "组织一次邻里聚会：发邀请、回复一次拒绝、列出三人分工和两个场地选择理由。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "组织一次邻里聚会：发邀请、回复一次拒绝、列出三人分工和两个场地选择理由。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA2E02",
+      "number": "E2",
+      "title": "阶段2检验与补课",
+      "source_title": "Évaluation 2 — 本站独立检验",
+      "minutes": 45,
+      "goal": "阶段2自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+      "prerequisites": [
+        "NA2R06"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0094.md",
+          "label": "PDF物理第94页；Évaluation 2 — 本站独立检验",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "这是按原书阶段节点安排的独立练习，并非DELF或TCF模拟计分。写作和口语的输入由前面三个单元的任务情景提供：人物与住房、工作与生活、旅行与观点。任选一个情景，先列受众和目的，再限时完成。\n\n四项自评每项0分表示未做到、1分表示需提示、2分表示可独立做到。任一项0分时回到对应课；所有项至少1分后，再换题重做。合成朗读不能代替教材原录音或独立听力测评。",
+      "analogy": "像试骑自行车：先看能否独立走完一小段，再决定下一次练哪一个动作。",
+      "teaching_points": [
+        "本课检查点：任务、评分尺度和考试条件不同，本站自评没有官方等级效力。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Tu veux dîner chez nous vendredi ?",
+        "zh": "周五你想来我们家吃晚饭吗？",
+        "sound": "Tu veux dîner chez nous vendredi：玉兔，周五来我们家晚饭吗？",
+        "movie": "我指着我们家餐桌问朋友，周五想来吃晚饭吗；玉兔在日历旁抱着碗，周五那格还等朋友点头。",
+        "reuse_id": "T18:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "八分自评分可直接换成TCF分数吗？",
+          "choices": [
+            "达到六分就获得A2证书",
+            "不能；只是本站输出复盘指标",
+            "可以按比例换算"
+          ],
+          "answer": 1,
+          "reason": "任务、评分尺度和考试条件不同，本站自评没有官方等级效力。"
+        },
+        {
+          "prompt": "没有原音频的听力结果应记录？",
+          "choices": [
+            "自动通过",
+            "参照阅读分补上",
+            "未测"
+          ],
+          "answer": 2,
+          "reason": "缺少测评输入就没有听力结果，不应编造分数。"
+        }
+      ],
+      "application": "阶段2自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "阶段2自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA225",
+      "number": 25,
+      "title": "用三种形式谈未来",
+      "source_title": "Leçon 25 — La télé de demain",
+      "minutes": 25,
+      "goal": "写六句：两句已安排事项、两句打算、两句预测，并标出时间词。",
+      "prerequisites": [
+        "NA2E02"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0097.md",
+          "label": "PDF物理第97页；Leçon 25 — La télé de demain",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "现在时配明确时间可表示确定安排；aller＋不定式常表达打算或临近行动；简单将来时谈将来发生的事。不要机械认为近将来只能指几分钟后，选择还取决于语境与说话者视角。\n\n小例子：Demain, je travaille à la maison. 明天我在家办公。/ Je vais appeler Léa. 我打算给莱娅打电话。/ Il fera froid. 天气将会冷。\n\n操作步骤：分别标成安排、打算和预测。三个形式可以在某些语境交叠，选择理由应结合上下文，不是只按距离几小时决定。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "未来像日历：已经圈好的、正在准备的、对以后作出的预测，三种笔迹各有用处。",
+      "teaching_points": [
+        "本课检查点：rappellerai以-ai结尾，表示我将在明天上午再打来。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je rappellerai demain matin.",
+        "zh": "我明天上午会再打来。",
+        "sound": "热，拉佩儿雷，德曼，马坦。",
+        "movie": "我把电话轻轻放下，约好明天上午再打来；日历明早那一格放着小马，提醒我到时重新拿起听筒。",
+        "reuse_id": "T17:5",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Je rappellerai demain matin.中的rappellerai是？",
+          "choices": [
+            "未完成过去时",
+            "命令式",
+            "简单将来时"
+          ],
+          "answer": 2,
+          "reason": "rappellerai以-ai结尾，表示我将在明天上午再打来。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我明天上午会再打来。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我明天上午会再打来。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写六句：两句已安排事项、两句打算、两句预测，并标出时间词。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写六句：两句已安排事项、两句打算、两句预测，并标出时间词。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA226",
+      "number": 26,
+      "title": "把先后顺序讲清楚",
+      "source_title": "Leçon 26 — Allô ! Tu es où ?",
+      "minutes": 25,
+      "goal": "用avant de与après avoir各写两句工作日流程，再录一段电话说明当前位置。",
+      "prerequisites": [
+        "NA225"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0100.md",
+          "label": "PDF物理第100页；Leçon 26 — Allô ! Tu es où ?",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "avant de＋不定式表示做某事之前；après＋过去不定式表示做完之后，如après avoir mangé。主语一致时可用不定式简化。venir de＋不定式则表示刚刚做完，并非après结构。\n\n小例子：Avant de partir, je ferme les fenêtres. 出门前我关窗。/ Après avoir fini, je vous appelle. 完成后我给您电话。\n\n操作步骤：先写两个步骤并排顺序，确认都是同一执行人，再把先完成的一步变成过去不定式。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "先后顺序像穿衣：先穿袜子再穿鞋，把两个步骤倒过来就不对了。",
+      "teaching_points": [
+        "本课检查点：过去不定式avoir mangé标记先完成；avant de后应接不定式manger。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Elle vient de partir en réunion.",
+        "zh": "她刚去开会了。",
+        "sound": "Elle vient de partir en réunion：她刚啪地出门去开会。",
+        "movie": "她刚刚出发去开会，椅子还带着一点温度；抱着会议资料的身影才走到门外，会议室的桌椅在等她。",
+        "reuse_id": "T17:4",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“吃完之后”应选？",
+          "choices": [
+            "après avoir mangé",
+            "après mangeré",
+            "avant de mangé"
+          ],
+          "answer": 0,
+          "reason": "过去不定式avoir mangé标记先完成；avant de后应接不定式manger。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "她刚去开会了。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：她刚去开会了。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "用avant de与après avoir各写两句工作日流程，再录一段电话说明当前位置。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "用avant de与après avoir各写两句工作日流程，再录一段电话说明当前位置。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA227",
+      "number": 27,
+      "title": "说清问题导致的后果",
+      "source_title": "Leçon 27 — Situation de crise",
+      "minutes": 25,
+      "goal": "写三段故障求助，每段三句：问题、后果、请求，至少使用一次donc。",
+      "prerequisites": [
+        "NA226"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0104.md",
+          "label": "PDF物理第104页；Leçon 27 — Situation de crise",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "donc引出推论或结果，c’est pourquoi可连接“因此”。parce que回答原因；把原因和结果箭头反过来会改变句意。描述故障时先说事实，再说明影响，最后提出具体请求。\n\n小例子：Le train est annulé, donc je prends le bus. 火车取消了，所以我坐公交。/ Je prends le bus parce que le train est annulé. 我坐公交因为火车取消。\n\n操作步骤：两句可描述同一因果链，但连接词后的信息角色不同。用箭头标明取消是原因、换车是结果。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "因果像骨牌：先是哪张倒下，再是哪张被推倒，箭头有方向。",
+      "teaching_points": [
+        "本课检查点：donc引出由前述事实导致的结果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Ma voiture est en panne près du pont.",
+        "zh": "我的车在桥附近坏了。",
+        "sound": "马，哇叙儿，诶，昂，潘，普雷， dü，蓬。",
+        "movie": "我的车在桥附近坏了，发动机噗地停住；小马从车窗探头，望着近处蓬蓬的桥，怎么推都走不了。",
+        "reuse_id": "T10:6",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“车坏了，所以我要迟到”中donc后面应是？",
+          "choices": [
+            "完全无关的天气",
+            "迟到这个结果",
+            "车坏这个原因再重复一次"
+          ],
+          "answer": 1,
+          "reason": "donc引出由前述事实导致的结果。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我的车在桥附近坏了。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我的车在桥附近坏了。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写三段故障求助，每段三句：问题、后果、请求，至少使用一次donc。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写三段故障求助，每段三句：问题、后果、请求，至少使用一次donc。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA228",
+      "number": 28,
+      "title": "分清新闻信息与个人意见",
+      "source_title": "Leçon 28 — La presse magazine",
+      "minutes": 25,
+      "goal": "用一篇短新闻列四项事实，再另写两句个人意见；标出一处需要核实的信息。",
+      "prerequisites": [
+        "NA227"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0107.md",
+          "label": "PDF物理第107页；Leçon 28 — La presse magazine",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "读杂志先看标题与导语，找人物、事件、地点与时间。事实和评价要分别记录；提取词义时回到句子核对。只能从标题推测主题，不能据此编造正文或听力细节。\n\n小例子：Le titre annonce une grève. 标题提到一次罢工。/ L’article précise la date. 正文说明日期。\n\n操作步骤：把原文明确提供的信息和自己的推断分两列。概述时不能把推断写成记者已确认的事实。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "新闻像侦探卡片：看见的证据放一边，你自己的猜想放另一边。",
+      "teaching_points": [
+        "本课检查点：预测是阅读准备，不能替代证据与核实。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je vérifie le sens dans la phrase.",
+        "zh": "我在句中核对词义。",
+        "sound": "热，韦里菲，勒桑丝，当，拉，弗拉兹。",
+        "movie": "我把词放回句子里核对意思，桑叶形放大镜沿着整句滑；看清前后内容，再检查这个词该怎样理解。",
+        "reuse_id": "T21:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "只看到新闻标题时，哪种做法合适？",
+          "choices": [
+            "直接补出未读过的细节",
+            "把自己意见记成原文事实",
+            "先预测主题，再读正文验证"
+          ],
+          "answer": 2,
+          "reason": "预测是阅读准备，不能替代证据与核实。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我在句中核对词义。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我在句中核对词义。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "用一篇短新闻列四项事实，再另写两句个人意见；标出一处需要核实的信息。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "用一篇短新闻列四项事实，再另写两句个人意见；标出一处需要核实的信息。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R07",
+      "number": "R7",
+      "title": "单元7综合实践",
+      "source_title": "Unité 7 — Savoir-faire",
+      "minutes": 35,
+      "goal": "写一则八十词活动安排和一段故障通知；用将来表达及一个结果连接词。",
+      "prerequisites": [
+        "NA228"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0110.md",
+          "label": "PDF物理第110页；Unité 7 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je vérifie le sens dans la phrase.",
+        "zh": "我在句中核对词义。",
+        "sound": "热，韦里菲，勒桑丝，当，拉，弗拉兹。",
+        "movie": "我把词放回句子里核对意思，桑叶形放大镜沿着整句滑；看清前后内容，再检查这个词该怎样理解。",
+        "reuse_id": "T21:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "让伙伴复述关键信息，并标出没听懂的一处",
+            "只统计写了几个难词",
+            "只核对花了多久"
+          ],
+          "answer": 0,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "背下答案并当作即兴表达",
+            "回到对应课练错点，再重录一次",
+            "直接算作掌握"
+          ],
+          "answer": 1,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "写一则八十词活动安排和一段故障通知；用将来表达及一个结果连接词。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写一则八十词活动安排和一段故障通知；用将来表达及一个结果连接词。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA229",
+      "number": 29,
+      "title": "旅行叙述中检查过去分词",
+      "source_title": "Leçon 29 — Ailleurs",
+      "minutes": 25,
+      "goal": "写六句旅行经历，含两个être和两个avoir结构；逐句圈出助动词及配合对象。",
+      "prerequisites": [
+        "NA2R07"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0111.md",
+          "label": "PDF物理第111页；Leçon 29 — Ailleurs",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "以être构成的常见移动动词复合过去时，过去分词通常与主语性数一致：elle est arrivée。以avoir构成时一般不随主语变化；宾语前置等情形另行处理。自反结构不能机械套“全都随主语”。\n\n小例子：Mes amies sont arrivées lundi. 我的几位女性朋友周一到了。/ Elles ont visité le musée. 她们参观了博物馆。\n\n操作步骤：前句être结构配合阴性复数加-es，后句avoir结构不因主语elles就加-es。先认助动词，再决定配合。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "过去分词像衣服尺码：先看跟谁配合，再决定是否加e或s。",
+      "teaching_points": [
+        "本课检查点：sœur为阴性单数，此处être结构过去分词加e。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Ma sœur est arrivée hier.",
+        "zh": "我姐姐昨天到了。",
+        "sound": "马，瑟儿，诶，阿里韦，耶儿。",
+        "movie": "我姐姐昨天到了，小马拉着她的行李进门；昨天那页日历还留在桌上，姐姐已经把外套挂好。",
+        "reuse_id": "T12:1",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Ma sœur est ___ hier.",
+          "choices": [
+            "arrivés",
+            "arrivée",
+            "arrivé"
+          ],
+          "answer": 1,
+          "reason": "sœur为阴性单数，此处être结构过去分词加e。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我姐姐昨天到了。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我姐姐昨天到了。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写六句旅行经历，含两个être和两个avoir结构；逐句圈出助动词及配合对象。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写六句旅行经历，含两个être和两个avoir结构；逐句圈出助动词及配合对象。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA230",
+      "number": 30,
+      "title": "按时间讲旅行经过",
+      "source_title": "Leçon 30 — Souvenir de voyage",
+      "minutes": 25,
+      "goal": "写八十词游记，包含四个顺序词、旅行时长和回来时间。",
+      "prerequisites": [
+        "NA229"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0113.md",
+          "label": "PDF物理第113页；Leçon 30 — Souvenir de voyage",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "d’abord、puis、ensuite、enfin帮助排列事件。pendant说明一段时长，depuis连接起点到仍持续的状态，il y a把过去事件定位到距今多久。先画时间线，再写游记。\n\n小例子：D’abord, nous avons pris le train. 首先我们坐火车。/ Puis, nous sommes restés deux jours à Lyon. 随后我们在里昂住了两天。\n\n操作步骤：事件顺序和停留时长分别标出。写完遮住原稿，只看四个顺序词向伙伴复述，不靠逐句背诵。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "游记像串珠子：时间词是线，事件是珠子，没有线听者就找不到顺序。",
+      "teaching_points": [
+        "本课检查点：il y a＋时长将已完成的回来事件定位到四天前。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je suis rentré il y a quatre jours.",
+        "zh": "我四天前回来了（说话者为男性）。",
+        "sound": "热，suis，朗特雷，衣里啊，卡特儿，入儿。",
+        "movie": "我这个男孩四天前已经回来，行李箱旁排着四只小卡车；四张日历从回来那天一路翻到今天。",
+        "reuse_id": "T16:3",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "Je suis rentré il y a quatre jours.说明？",
+          "choices": [
+            "我还要四天才回来",
+            "我在此住了四天且仍住着",
+            "我四天前回来了"
+          ],
+          "answer": 2,
+          "reason": "il y a＋时长将已完成的回来事件定位到四天前。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我四天前回来了（说话者为男性）。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我四天前回来了（说话者为男性）。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写八十词游记，包含四个顺序词、旅行时长和回来时间。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写八十词游记，包含四个顺序词、旅行时长和回来时间。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA231",
+      "number": 31,
+      "title": "用代词讲照片里的故事",
+      "source_title": "Leçon 31 — Album photos",
+      "minutes": 25,
+      "goal": "选三张自己的照片，每张写两句，再用le／la／les或lui替代重复人物。",
+      "prerequisites": [
+        "NA230"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0116.md",
+          "label": "PDF物理第116页；Leçon 31 — Album photos",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "直接宾语代词le、la、les回答谁或什么；间接宾语代词lui、leur常替代à＋人。先核对动词搭配：téléphoner à quelqu’un用lui，不直接用le。复合过去时中代词通常放在助动词前。\n\n小例子：Je regarde cette photo. — Je la regarde. 我看这张照片。/ Je parle à ma sœur. — Je lui parle. 我跟姐姐说话。\n\n操作步骤：先划动词后的宾语，再判断是否有à。代词放在变位动词前，不把lui、la当作可互换的“她”。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "代词像照片背面的标签：标的是那个人，但要先分清他在句里扮演什么角色。",
+      "teaching_points": [
+        "本课检查点：téléphoner à要求间接宾语；lui置于助动词前。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je lui ai téléphoné hier.",
+        "zh": "我昨天给他/她打电话了。",
+        "sound": "热，吕伊，诶，忒雷佛内，耶儿。",
+        "movie": "昨天我已经给他打过电话，耳边还像有嘟嘟声；把昨天的电话记录收好，小话筒终于安静下来。",
+        "reuse_id": "T16:6",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“我昨天给她打电话”应使用？",
+          "choices": [
+            "Je lui ai téléphoné hier.",
+            "Je la ai téléphoné hier.",
+            "Je ai lui téléphoné hier."
+          ],
+          "answer": 0,
+          "reason": "téléphoner à要求间接宾语；lui置于助动词前。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我昨天给他/她打电话了。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：我昨天给他/她打电话了。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "选三张自己的照片，每张写两句，再用le／la／les或lui替代重复人物。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "选三张自己的照片，每张写两句，再用le／la／les或lui替代重复人物。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA232",
+      "number": 32,
+      "title": "描写一座城市的感受",
+      "source_title": "Leçon 32 — La poésie des villes",
+      "minutes": 25,
+      "goal": "写六句城市小诗，至少包含一个季节、两个地点细节和一种感受；读两遍比较节奏。",
+      "prerequisites": [
+        "NA231"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0119.md",
+          "label": "PDF物理第119页；Leçon 32 — La poésie des villes",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "城市描写可先写可观察的地点、声音与天气，再写自己的感受。具体细节比单说“很美”更能让听者想象。诗意表达是语言练习，可使用短句和重复节奏，不必堆叠生词。\n\n小例子：Au printemps, les rues sont calmes. 春天街道安静。/ Près de la gare, j’entends les trains. 车站附近能听见火车。\n\n操作步骤：每句写一个能看见或听见的细节，再用一句感受收束。朗读时按意义停顿，不把每一行都读成相同曲调。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "描写像给没去过的人画窗外：先让他看到一棵树，再让他听到一阵风。",
+      "teaching_points": [
+        "本课检查点：细节使描写可感知；难词数量不能代替清楚表达。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Au printemps, je marche dans le parc.",
+        "zh": "春天我在公园散步。",
+        "sound": "哦，普兰坦，热，马儿什，当，勒，帕儿克。",
+        "movie": "春天我像小马一样慢慢走进公园，新芽从地里探头；小帕子被暖风吹起，我边散步边看春花。",
+        "reuse_id": "T15:3",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "让城市描写更清楚的办法是？",
+          "choices": [
+            "写出无法解释的长词",
+            "加入可观察的声音与地点细节",
+            "只重复très beau五遍"
+          ],
+          "answer": 1,
+          "reason": "细节使描写可感知；难词数量不能代替清楚表达。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "春天我在公园散步。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：春天我在公园散步。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写六句城市小诗，至少包含一个季节、两个地点细节和一种感受；读两遍比较节奏。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写六句城市小诗，至少包含一个季节、两个地点细节和一种感受；读两遍比较节奏。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R08",
+      "number": "R8",
+      "title": "单元8综合实践",
+      "source_title": "Unité 8 — Savoir-faire",
+      "minutes": 35,
+      "goal": "准备四张旅行照片，按时间讲两分钟；写八十词游记，核对代词与过去分词。",
+      "prerequisites": [
+        "NA232"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0121.md",
+          "label": "PDF物理第121页；Unité 8 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Au printemps, je marche dans le parc.",
+        "zh": "春天我在公园散步。",
+        "sound": "哦，普兰坦，热，马儿什，当，勒，帕儿克。",
+        "movie": "春天我像小马一样慢慢走进公园，新芽从地里探头；小帕子被暖风吹起，我边散步边看春花。",
+        "reuse_id": "T15:3",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "只统计写了几个难词",
+            "只核对花了多久",
+            "让伙伴复述关键信息，并标出没听懂的一处"
+          ],
+          "answer": 2,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "回到对应课练错点，再重录一次",
+            "直接算作掌握",
+            "背下答案并当作即兴表达"
+          ],
+          "answer": 0,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "准备四张旅行照片，按时间讲两分钟；写八十词游记，核对代词与过去分词。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "准备四张旅行照片，按时间讲两分钟；写八十词游记，核对代词与过去分词。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA233",
+      "number": 33,
+      "title": "转述别人的话",
+      "source_title": "Leçon 33 — C’est quoi le bonheur ?",
+      "minutes": 25,
+      "goal": "自编三条短消息，分别转述陈述、是非问句和请求；核对人称与时间。",
+      "prerequisites": [
+        "NA2R08"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0123.md",
+          "label": "PDF物理第123页；Leçon 33 — C’est quoi le bonheur ?",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "现在时引述可用il／elle dit que…。把原说话者的je换成对应人称，物主词也要随视角变化。疑问转述常用demande si或疑问词；不要把原问句的所有结构照搬进去。\n\n小例子：Léa dit : « Je suis libre. » → Léa dit qu’elle est libre. / Paul demande : « Tu viens ? » → Paul demande si je viens.\n\n操作步骤：在原话上圈人物指向，再换成转述者视角。si引出是非问题内容，不保留原来直接问句的整套倒装。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "转述像换摄像机位置：说的仍是同一件事，但“我”和“你”的指向会变。",
+      "teaching_points": [
+        "本课检查点：转述中的je须按原说话者换成elle，并使用陈述语序。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Pouvez-vous lui dire que j’ai appelé ?",
+        "zh": "您能告诉他/她我打过电话吗？",
+        "sound": "普韦乌，吕伊，迪儿，克，热，阿普莱？",
+        "movie": "我拿着电话，请乌龟转告他我打过电话；乌龟捧起绿话筒准备传话，别让他以为我没有联系。",
+        "reuse_id": "T18:7",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "她说“我很忙”，转述为？",
+          "choices": [
+            "Elle dit qu’elle est occupée.",
+            "Elle dit que je est occupée.",
+            "Elle dit est-elle occupée."
+          ],
+          "answer": 0,
+          "reason": "转述中的je须按原说话者换成elle，并使用陈述语序。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "您能告诉他/她我打过电话吗？",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：您能告诉他/她我打过电话吗？；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "自编三条短消息，分别转述陈述、是非问句和请求；核对人称与时间。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "自编三条短消息，分别转述陈述、是非问句和请求；核对人称与时间。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA234",
+      "number": 34,
+      "title": "表达相反观点并作让步",
+      "source_title": "Leçon 34 — A voté !",
+      "minutes": 25,
+      "goal": "写两段对同一提议的不同观点，各四句；至少一句承认对方的合理之处。",
+      "prerequisites": [
+        "NA233"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0126.md",
+          "label": "PDF物理第126页；Leçon 34 — A voté !",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "mais连接对立；même si可先承认一个条件再给另一结论。ce qui在从句中做主语，ce que做宾语，含义接近“……的事”。谈公共话题先清楚表达观点与一条理由，不需要扮演专家。\n\n小例子：Même s’il pleut, je vais voter. 即使下雨我也去投票。/ Ce qui compte, c’est de participer. 重要的是参与。\n\n操作步骤：先承认一个不利条件，再陈述自己的决定。ce qui中的qui承担从句主语，不能因为看见中文“什么”就总用ce que。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "让步像雨伞：承认下雨这个事实，仍然可以解释为何要出门。",
+      "teaching_points": [
+        "本课检查点：mais连接方向不同的信息，不表示时间顺序。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "J’aimerais bien, mais je dois travailler.",
+        "zh": "我很想去，但我得工作。",
+        "sound": "热姆雷，边，梅，热，杜瓦，特拉瓦耶。",
+        "movie": "我很想去赴约，脚尖已经朝门口；但梅子形工作钟响起，工具箱拉住我，我还得工作。",
+        "reuse_id": "T18:2",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "“我想来，但是要工作”中的mais表示？",
+          "choices": [
+            "数量增加",
+            "意愿与现实限制的转折",
+            "事件先后顺序"
+          ],
+          "answer": 1,
+          "reason": "mais连接方向不同的信息，不表示时间顺序。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我很想去，但我得工作。"
+          ],
+          "answer": 2,
+          "reason": "按句中的人物、动作、时间与数量核对：我很想去，但我得工作。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写两段对同一提议的不同观点，各四句；至少一句承认对方的合理之处。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写两段对同一提议的不同观点，各四句；至少一句承认对方的合理之处。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA235",
+      "number": 35,
+      "title": "区分确定信息和主观要求",
+      "source_title": "Leçon 35 — Votre avis nous intéresse",
+      "minutes": 25,
+      "goal": "写四组句子：每组一句事实或看法、另一句要求；用两种颜色标出动词。",
+      "prerequisites": [
+        "NA234"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0128.md",
+          "label": "PDF物理第128页；Leçon 35 — Votre avis nous intéresse",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "肯定的je pense que常用直陈式；il faut que常用虚拟式。虚拟式并不等于“未来”或“可能”，而是和要求、愿望、判断等结构有关。先学固定触发结构，再比较相同主题的不同表达。\n\n小例子：Je pense qu’il est utile de participer. 我认为参与有用。/ Je souhaite que tu participes. 我希望你参与。\n\n操作步骤：先问主句在陈述看法还是表达愿望，再检查后句形式。participes的虚拟式与直陈式同形，结构判断仍然重要。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "动词形式像信封颜色：事实陈述与要求愿望装进不同信封，不能只看有没有que。",
+      "teaching_points": [
+        "本课检查点：il faut que表达必要要求，触发虚拟式viennes；另两句为肯定陈述。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je ne peux pas venir ; je dois travailler.",
+        "zh": "我不能来，我得工作。",
+        "sound": "热，讷，peux，帕，弗尼儿；热，杜瓦，特拉瓦耶。",
+        "movie": "我拿着帕子摇头，没法前来参加；工具箱拉住我的袖口，我必须工作，只好把邀约放到一旁。",
+        "reuse_id": "T15:6",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "哪句中que后的动词使用虚拟式？",
+          "choices": [
+            "Je pense que tu viens.",
+            "Il dit que tu viens.",
+            "Il faut que tu viennes."
+          ],
+          "answer": 2,
+          "reason": "il faut que表达必要要求，触发虚拟式viennes；另两句为肯定陈述。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "我不能来，我得工作。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。",
+            "它明确表示说话者已经完成本课所有学习任务。"
+          ],
+          "answer": 0,
+          "reason": "按句中的人物、动作、时间与数量核对：我不能来，我得工作。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "写四组句子：每组一句事实或看法、另一句要求；用两种颜色标出动词。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写四组句子：每组一句事实或看法、另一句要求；用两种颜色标出动词。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA236",
+      "number": 36,
+      "title": "有礼貌地同意或反对",
+      "source_title": "Leçon 36 — Une question de valeurs",
+      "minutes": 25,
+      "goal": "围绕周日购物写八十词观点，包含立场、两个理由、一个让步与一个替代方案。",
+      "prerequisites": [
+        "NA235"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0131.md",
+          "label": "PDF物理第131页；Leçon 36 — Une question de valeurs",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "讨论价值选择先复述对方主张，再说明同意或不同意，给出一个例子和一个限制。可以批评方案而不评价对方的人格。书中关于社会习惯的材料属于出版时情境，不能当作今天的政策或法规。\n\n小例子：Je suis d’accord sur ce point, mais je préfère une autre solution. 这一点我同意，但更倾向另一方案。\n\n操作步骤：用“立场—理由—例子—让步—方案”五张关键词卡发言。能换一个题目照此组织，才比背下一段范文更接近迁移。 核心图句用于情景热身；新结构同时用本段例子、专项题和输出任务练习。",
+      "analogy": "讨论像两个人搭桥：先承认对面在哪里，再把自己的理由一块块接过去。",
+      "teaching_points": [
+        "本课检查点：清楚理由可被讨论；人身评价和未核实规则都不能支持论证。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je pourrais venir vendredi.",
+        "zh": "我周五可以来。",
+        "sound": "Je pourrais venir vendredi：这，周五也许能来。",
+        "movie": "我看看周五那格日历，说那天也许可以来；小车先把路线画好，还要等安排确定，这只是能来的可能。",
+        "reuse_id": "T20:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "回应不同观点时哪项更有效？",
+          "choices": [
+            "复述观点后给理由和例子",
+            "只说“你错了”",
+            "把旧教材故事当成现行规定"
+          ],
+          "answer": 0,
+          "reason": "清楚理由可被讨论；人身评价和未核实规则都不能支持论证。"
+        },
+        {
+          "prompt": "核心图句完整表达了什么？",
+          "choices": [
+            "它明确表示说话者已经完成本课所有学习任务。",
+            "我周五可以来。",
+            "它只表达一个未确定的可能性，没有给出任何具体信息。"
+          ],
+          "answer": 1,
+          "reason": "按句中的人物、动作、时间与数量核对：我周五可以来。；不能额外补上原句没有表达的完成或推测。"
+        }
+      ],
+      "application": "围绕周日购物写八十词观点，包含立场、两个理由、一个让步与一个替代方案。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "围绕周日购物写八十词观点，包含立场、两个理由、一个让步与一个替代方案。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "教师书用于核对主题与教学步骤。本站题目及输出要求为原创；未取得配套A2学生书、练习册与原音频，不把教师书答案当作听力完成证据。",
+      "status": "original-companion-draft",
+      "prerequisite_note": "先完成A1基础表达，再学本课。原书A2包含少量向更复杂表达过渡的结构；按本课目标练习，不把刷课视为等级认证。"
+    },
+    {
+      "id": "NA2R09",
+      "number": "R9",
+      "title": "单元9综合实践",
+      "source_title": "Unité 9 — Savoir-faire",
+      "minutes": 35,
+      "goal": "转述两条消息，再对一个公共生活提议讲两分钟：立场、两条理由、一个让步。",
+      "prerequisites": [
+        "NA236"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0133.md",
+          "label": "PDF物理第133页；Unité 9 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "综合实践把刚学的四课放到同一个任务里。先准备信息清单，再录音或写作，最后根据清单检查：信息是否够用、关系是否明确、别人是否能据此行动。\n\n第一次允许看关键词，第二次只看图或题目。保留两次作品，标出一处修正；若必须逐句读稿才能完成，先重练相关课再重做。本站任务为新编，未复刻原书题目。",
+      "analogy": "像把四块积木拼成能使用的小屋：每块认识还不够，要检查拼起来能否站稳。",
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je pourrais venir vendredi.",
+        "zh": "我周五可以来。",
+        "sound": "Je pourrais venir vendredi：这，周五也许能来。",
+        "movie": "我看看周五那格日历，说那天也许可以来；小车先把路线画好，还要等安排确定，这只是能来的可能。",
+        "reuse_id": "T20:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "完成后最有用的检查是？",
+          "choices": [
+            "只核对花了多久",
+            "让伙伴复述关键信息，并标出没听懂的一处",
+            "只统计写了几个难词"
+          ],
+          "answer": 1,
+          "reason": "复述能检验信息是否真的传达；投入和生词数不能替代表达效果。"
+        },
+        {
+          "prompt": "不看稿仍无法完成时怎样做？",
+          "choices": [
+            "直接算作掌握",
+            "背下答案并当作即兴表达",
+            "回到对应课练错点，再重录一次"
+          ],
+          "answer": 2,
+          "reason": "保留修正前后证据有助于确认可迁移能力。"
+        }
+      ],
+      "application": "转述两条消息，再对一个公共生活提议讲两分钟：立场、两条理由、一个让步。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "转述两条消息，再对一个公共生活提议讲两分钟：立场、两条理由、一个让步。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    },
+    {
+      "id": "NA2E03",
+      "number": "E3",
+      "title": "阶段3检验与补课",
+      "source_title": "Évaluation 3 — 本站独立检验",
+      "minutes": 45,
+      "goal": "阶段3自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+      "prerequisites": [
+        "NA2R09"
+      ],
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0134.md",
+          "label": "PDF物理第134页；Évaluation 3 — 本站独立检验",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "这是按原书阶段节点安排的独立练习，并非DELF或TCF模拟计分。写作和口语的输入由前面三个单元的任务情景提供：人物与住房、工作与生活、旅行与观点。任选一个情景，先列受众和目的，再限时完成。\n\n四项自评每项0分表示未做到、1分表示需提示、2分表示可独立做到。任一项0分时回到对应课；所有项至少1分后，再换题重做。合成朗读不能代替教材原录音或独立听力测评。",
+      "analogy": "像试骑自行车：先看能否独立走完一小段，再决定下一次练哪一个动作。",
+      "teaching_points": [
+        "本课检查点：任务、评分尺度和考试条件不同，本站自评没有官方等级效力。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ],
+      "anchor": {
+        "fr": "Je pourrais venir vendredi.",
+        "zh": "我周五可以来。",
+        "sound": "Je pourrais venir vendredi：这，周五也许能来。",
+        "movie": "我看看周五那格日历，说那天也许可以来；小车先把路线画好，还要等安排确定，这只是能来的可能。",
+        "reuse_id": "T20:8",
+        "pronunciation": "先听整句，再按意义分块。保留词尾是否发音、鼻化和节奏；近音只用来唤起记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "八分自评分可直接换成TCF分数吗？",
+          "choices": [
+            "可以按比例换算",
+            "达到六分就获得A2证书",
+            "不能；只是本站输出复盘指标"
+          ],
+          "answer": 2,
+          "reason": "任务、评分尺度和考试条件不同，本站自评没有官方等级效力。"
+        },
+        {
+          "prompt": "没有原音频的听力结果应记录？",
+          "choices": [
+            "未测",
+            "自动通过",
+            "参照阅读分补上"
+          ],
+          "answer": 0,
+          "reason": "缺少测评输入就没有听力结果，不应编造分数。"
+        }
+      ],
+      "application": "阶段3自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "阶段3自测：限时20分钟写80—100词，另用10分钟准备并录两分钟口语；按信息完整、时态、衔接、可理解度各0—2分自评。缺原音频的听力栏记“未测”，不要补写估分。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft"
+    }
+  ]
+}
