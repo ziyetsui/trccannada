@@ -9,11 +9,12 @@ function storageWarning(){ $('#storage-status').hidden=false;$('#storage-status'
 try{saved=JSON.parse(localStorage.getItem(KEY)||'{}');if(!saved||typeof saved!=='object'||Array.isArray(saved))saved={};}catch(e){storageWarning();}
 let done=new Set((Array.isArray(saved.done)?saved.done:[]).filter(id=>byId.has(id)));
 let last=byId.has(saved.last)?saved.last:null;
+const taskChecks=new Set((Array.isArray(saved.tasks)?saved.tasks:[]).filter(k=>typeof k==='string'&&/^([A-Z0-9]+):([0-9]+)$/.test(k)&&byId.has(k.split(':')[0])&&Number(k.split(':')[1])<byId.get(k.split(':')[0]).self_check.length));
 let reviews=saved.reviews&&typeof saved.reviews==='object'&&!Array.isArray(saved.reviews)?saved.reviews:{};
 let rate=typeof saved.rate==='number'&&saved.rate>=.65&&saved.rate<=1.1?saved.rate:.85;
 let voiceURI=typeof saved.voice==='string'?saved.voice:'',voices=[],current=null,recalling=false;
 let timer=null,generation=0,filterBook='all',filterStatus='all',search='';
-function persist(){try{localStorage.setItem(KEY,JSON.stringify({done:[...done],last,reviews,rate,voice:voiceURI}));}catch(e){storageWarning();}}
+function persist(){try{localStorage.setItem(KEY,JSON.stringify({done:[...done],last,reviews,rate,voice:voiceURI,tasks:[...taskChecks]}));}catch(e){storageWarning();}}
 function announce(text){$('#live').textContent=text;}
 function theme(){const dark=document.documentElement.dataset.theme==='dark';$('#theme-toggle').textContent=dark?'☀ 明色':'☾ 暗色';$('#theme-toggle').setAttribute('aria-pressed',String(dark));document.querySelector('meta[name="theme-color"]').content=dark?'#171f1c':'#f7f5ef';}
 theme();$('#theme-toggle').onclick=()=>{document.documentElement.dataset.theme=document.documentElement.dataset.theme==='dark'?'light':'dark';theme();try{localStorage.setItem('francais.theme.v1',document.documentElement.dataset.theme);}catch(e){storageWarning();}};
@@ -30,6 +31,10 @@ updateProgress();
 function go(id=''){if(location.hash.slice(1)===id)route();else location.hash=id;}
 function paragraphs(target,text){target.replaceChildren();for(const part of String(text).split(/\n\s*\n/)){const p=node('p',part);target.append(p);}}
 function list(target,items){target.replaceChildren(...items.map(t=>node('li',t)));}
+function renderTasks(){
+const target=$('#self-check');target.replaceChildren();const lid=current.id;
+current.self_check.forEach((text,i)=>{const li=node('li'),label=node('label'),input=node('input');input.type='checkbox';input.checked=taskChecks.has(lid+':'+i);input.onchange=()=>{const key=lid+':'+i;if(input.checked)taskChecks.add(key);else taskChecks.delete(key);persist();announce('任务完成状态已更新。');};label.append(input,node('span',text));li.append(label);target.append(li);});
+}
 function stop(){generation++;clearTimeout(timer);timer=null;try{window.speechSynthesis?.cancel();}catch(e){}}
 function refreshVoices(){
 try{voices=(window.speechSynthesis?.getVoices()||[]).filter(v=>/^fr(?:[-_]|$)/i.test(v.lang));}catch(e){voices=[];}
@@ -73,7 +78,7 @@ if(a.illustration){img.hidden=false;img.src=a.illustration.src;img.alt=a.illustr
 $('#anchor-fr').textContent=a.fr;$('#anchor-zh').textContent=a.zh;$('#sound').textContent=a.sound;$('#movie').textContent=a.movie;$('#pronunciation').textContent=a.pronunciation;
 $('#words').replaceChildren();for(const word of a.fr.match(/[A-Za-zÀ-ÖØ-öø-ÿŒœÆæ]+(?:[’'’-][A-Za-zÀ-ÖØ-öø-ÿŒœÆæ]+)*/g)||[]){const b=node('button',word,'word');b.type='button';b.lang='fr';b.setAttribute('aria-label','听词 '+word);b.onclick=()=>speak(word,.75);$('#words').append(b);}
 $('#answer-content').hidden=false;$('#recall-instruction').hidden=true;$('#recall').hidden=false;$('#reveal').hidden=true;$('#retry').hidden=true;$('#remembered').hidden=true;$('#review-status').textContent='';
-renderQuiz();$('#application').textContent=l.application;list($('#self-check'),l.self_check);$('#sources').replaceChildren();
+renderQuiz();$('#application').textContent=l.application;renderTasks();$('#sources').replaceChildren();
 for(const s of l.sources){const label=data.source_names[s.book]||s.book;$('#sources').append(node('li',label+'：'+s.label+'。本机定位 '+s.book+'/'+s.location+'；'+(/ocr/i.test(s.review_status||'')?'OCR来源，精确内容需回看页图。':'按原书章节读取，音标与图表仍需核对。')));}
 $('#teacher-notes').replaceChildren();if(l.teacher_notes)$('#teacher-notes').append(node('h3','配套教师资料辅助'),node('p',l.teacher_notes));
 $('#mark').textContent=done.has(l.id)?'已学 · 点击取消':'标记学过';const siblings=lessons.filter(x=>x.book===l.book),i=siblings.findIndex(x=>x.id===l.id);$('#position').textContent=`本册 ${i+1} / ${siblings.length} 课`;

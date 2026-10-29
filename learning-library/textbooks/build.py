@@ -15,18 +15,24 @@ SOURCE_NAMES = {
     'nihao-a1-student': '你好！法语1·A1学生用书',
     'nihao-b1-student': '你好法语3·B1学生用书',
     'nihao-b1-teacher': '你好法语3·B1教师用书',
+    'nihao-a2-teacher': '你好！法语2·A2教师用书',
+    'pronunciation-correction': '法语发音与纠音',
+    'pronunciation-quickstart': '法语发音快速入门',
     'nihao-4-student': '你好法语4·B1续篇学生用书',
 }
 EXPECTED_IDS={
+    'pronunciation-quickstart':{f'PQ{i:02}' for i in range(41)},
     'nihao-a1':{f'NA0{c}' for c in 'ABCD'}|{f'NA1{i:02d}' for i in range(1,37)}|{f'NA1R{i:02d}' for i in range(1,10)},
     'jianming-1':{f'JM1{i:02d}' for i in range(1,31)}|{'JM1R01','JM1R02'},
     'jianming-2':{f'JM2{i:02d}' for i in range(1,29)}|{f'JM2R{i:02d}' for i in range(1,4)},
+    'nihao-a2':{f'NA2{i:02}' for i in range(1,37)}|{f'NA2R{i:02}' for i in range(1,10)}|{f'NA2E{i:02}' for i in range(1,4)},
+    'pronunciation-correction':{f'PC{i:02}' for i in range(1,25)},
     'nihao-b1':{f'NB1{i:02d}' for i in range(1,25)}|{f'NB1R{i:02d}' for i in range(1,7)}|{'NB1E01','NB1E02'},
     'nihao-4':{f'N4{i}' for i in range(25,49)}|{f'N4R{i:02d}' for i in range(1,7)}|{'N4E03','N4E04'},
 }
 def validate_coverage(books):
     if {b['id'] for b in books}!=set(EXPECTED_IDS):
-        raise ValueError('source coverage: expected all five learner tracks')
+        raise ValueError('source coverage: expected all configured learner tracks')
     for book in books:
         actual={l['id'] for l in book['lessons']};expected=EXPECTED_IDS[book['id']]
         if actual!=expected:
@@ -152,7 +158,7 @@ def lesson_markdown(lesson,book):
     parts+=['## 答案与原因','']
     for i,q in enumerate(lesson['quiz'],1):
         parts += [f'{i}. {chr(65+q["answer"])} — {q["reason"]}','']
-    parts+=['## 一分钟应用','',lesson['application'],'',*['- '+x for x in lesson['self_check']],
+    parts+=['## 输出任务','',lesson['application'],'',*['- [ ] '+x for x in lesson['self_check']],
             '','## 相关学习','', '先听 → 看图理解 → 分组跟读 → 隐藏文字看图说 → 揭晓回听；隔天、三天后、一周后再回忆。','',
             '## 参考资料','']
     for source in lesson['sources']:
@@ -162,7 +168,7 @@ def lesson_markdown(lesson,book):
     return '\n'.join(parts)+'\n'
 
 def build(allow_pending=False):
-    names=('nihao-a1','jianming-1','jianming-2','nihao-b1','nihao-4')
+    names=('nihao-a1','pronunciation-quickstart','nihao-a2','pronunciation-correction','jianming-1','jianming-2','nihao-b1','nihao-4')
     books=[read_json(ROOT/'content'/f'{name}.json') for name in names]
     validate_coverage(books)
     validate_books(books,allow_pending=allow_pending)
