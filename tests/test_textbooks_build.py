@@ -76,6 +76,22 @@ class BuildTests(unittest.TestCase):
             self.assertIn(value, text)
         self.assertNotIn('/Users/', text)
 
+    def test_a2_teacher_scope_and_new_source_locators(self):
+        content=ROOT/'learning-library/textbooks/content'
+        a2=self.module.read_json(content/'nihao-a2.json')
+        self.assertEqual(len([l for l in a2['lessons'] if type(l['number']) is int]),36)
+        self.assertIn('原音频未提供',self.module.read_json(content/'pronunciation-quickstart.json')['source_structure'])
+        bounds={'nihao-a2':242,'pronunciation-quickstart':149,'pronunciation-correction':123}
+        for name,bound in bounds.items():
+            book=self.module.read_json(content/(name+'.json'))
+            for l in book['lessons']:
+                for source in l['sources']:
+                    page=int(Path(source['location']).stem)
+                    self.assertGreaterEqual(page,1);self.assertLessEqual(page,bound)
+                self.assertGreaterEqual(len(l['self_check']),4)
+                self.assertIn('- [ ]',self.module.lesson_markdown(l,book))
+        self.assertIn('未取得配套A2学生书',a2['lessons'][0]['teacher_notes'])
+
     def test_corrupt_webp_is_decoded_even_with_matching_checksum(self):
         book=self.book();book['lessons'][0]['anchor']['reuse_id']=None
         raw=bytearray((ROOT/'learning-library/textbooks/assets/N433.webp').read_bytes())

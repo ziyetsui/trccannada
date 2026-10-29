@@ -1,0 +1,1571 @@
+{
+  "id": "pronunciation-correction",
+  "title": "法语发音与纠音 · 按错点练",
+  "subtitle": "24个专题：口型、清浊、鼻音、节奏、母语迁移与个人纠音卡",
+  "level": "A1—B1语音维护",
+  "role": "按录音暴露的问题选修；与入门发音线对应，避免重复刷书",
+  "source_slugs": [
+    "pronunciation-correction"
+  ],
+  "source_structure": "123个物理页；7章及附录按难点重组为24专题，保留原页定位。原书特殊音标需回图核对，本站采用独立重写的IPA与练习。小诗、50短句和规则表作迁移／参考，不全文复刻。",
+  "lessons": [
+    {
+      "id": "PC01",
+      "number": 1,
+      "title": "字母名不是词音",
+      "source_title": "字母、音素、音标",
+      "minutes": 20,
+      "goal": "把自己的姓名用法语字母名拼两次，再用完整词音介绍自己，录成对比。",
+      "prerequisites": [],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0012.md",
+          "label": "PDF物理第12页；字母、音素、音标",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "同一个声音可有不同拼写，同一个字母在不同位置也可能换音。拼写姓名使用字母名，读姓名使用词音；两种任务要分别练习。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：字母、音素、音标",
+        "纠错检查：字母的名称不是它在词中的唯一发音。"
+      ],
+      "anchor": {
+        "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+        "zh": "我叫林，拼作L-I-N。",
+        "sound": "热，马佩儿，Lin林；撒，塞克里，L-I-N。",
+        "movie": "我抱着小马介绍自己叫林，再把L、I、N三块积木按顺序摆好；小马一边点头，一边看清名字怎么拼。",
+        "reuse_id": "T05:2",
+        "pronunciation": "同一个声音可有不同拼写，同一个字母在不同位置也可能换音。拼写姓名使用字母名，读姓名使用词音；两种任务要分别练习。"
+      },
+      "quiz": [
+        {
+          "prompt": "拼写名字和读名字应怎样区分？",
+          "choices": [
+            "前者用字母名，后者按词音",
+            "两者完全一样",
+            "都只读汉字"
+          ],
+          "answer": 0,
+          "reason": "字母的名称不是它在词中的唯一发音。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "把自己的姓名用法语字母名拼两次，再用完整词音介绍自己，录成对比。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "把自己的姓名用法语字母名拼两次，再用完整词音介绍自己，录成对比。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ00。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC02",
+      "number": 2,
+      "title": "口型坐标与元音自检",
+      "source_title": "元音开口度、舌位与圆唇",
+      "minutes": 20,
+      "goal": "用镜子录i—y—u五轮，并指出每次改变的是唇形还是舌位。",
+      "prerequisites": [
+        "PC01"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0020.md",
+          "label": "PDF物理第20页；元音开口度、舌位与圆唇",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "用镜子先检查开口与圆唇，再听声音；不要只看嘴形就认定音值。/i y u/可以通过改变舌位或唇形形成对比，每次只改一个变量。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：元音开口度、舌位与圆唇",
+        "纠错检查：/y/为高前圆唇元音，与/i/主要有圆唇区别。"
+      ],
+      "anchor": {
+        "fr": "Une soupe et un thé, s’il vous plaît.",
+        "zh": "请给我一份汤和一杯茶。",
+        "sound": "Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。",
+        "movie": "我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+        "reuse_id": "T01:3",
+        "pronunciation": "用镜子先检查开口与圆唇，再听声音；不要只看嘴形就认定音值。/i y u/可以通过改变舌位或唇形形成对比，每次只改一个变量。"
+      },
+      "quiz": [
+        {
+          "prompt": "/i/到/y/最直接要调整？",
+          "choices": [
+            "增加尾n",
+            "嘴唇由展开变圆，舌位仍靠前",
+            "舌位完全移到后面"
+          ],
+          "answer": 1,
+          "reason": "/y/为高前圆唇元音，与/i/主要有圆唇区别。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "用镜子录i—y—u五轮，并指出每次改变的是唇形还是舌位。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "用镜子录i—y—u五轮，并指出每次改变的是唇形还是舌位。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ01。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC03",
+      "number": 3,
+      "title": "把/y/与/u/拆开练",
+      "source_title": "闭元音i、y、u",
+      "minutes": 20,
+      "goal": "录une soupe五遍，逐遍核对une与soupe的元音是否不同。",
+      "prerequisites": [
+        "PC02"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0022.md",
+          "label": "PDF物理第22页；闭元音i、y、u",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "先读/y/再读/u/，同样圆唇但舌位前后不同。une与soupe可放在同一句中比较；英语you还带/j/起始，不是法语u的直接模板。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：闭元音i、y、u",
+        "纠错检查：前后舌位使两类圆唇高元音可区分。"
+      ],
+      "anchor": {
+        "fr": "Une soupe et un thé, s’il vous plaît.",
+        "zh": "请给我一份汤和一杯茶。",
+        "sound": "Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。",
+        "movie": "我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+        "reuse_id": "T01:3",
+        "pronunciation": "先读/y/再读/u/，同样圆唇但舌位前后不同。une与soupe可放在同一句中比较；英语you还带/j/起始，不是法语u的直接模板。"
+      },
+      "quiz": [
+        {
+          "prompt": "/y/与/u/都圆唇时主要比较？",
+          "choices": [
+            "汉语声调",
+            "词的长短",
+            "舌位前后"
+          ],
+          "answer": 2,
+          "reason": "前后舌位使两类圆唇高元音可区分。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录une soupe五遍，逐遍核对une与soupe的元音是否不同。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录une soupe五遍，逐遍核对une与soupe的元音是否不同。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ09。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC04",
+      "number": 4,
+      "title": "开闭元音分组，不靠字母猜",
+      "source_title": "半闭与半开元音",
+      "minutes": 20,
+      "goal": "录les—lait、deux—heure、beau—bol各三组，为最不清楚的一组加练五次。",
+      "prerequisites": [
+        "PC03"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0023.md",
+          "label": "PDF物理第23页；半闭与半开元音",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "把/e ɛ/、/ø œ/、/o ɔ/分别成对练习，开口度有变化。拼写只能提供线索，词中具体音值应连同声音记忆；不要把所有e都读成同一个音。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：半闭与半开元音",
+        "纠错检查：/e ɛ/为相近位置而开口不同的元音对比。"
+      ],
+      "anchor": {
+        "fr": "Le frère de Nora est infirmier.",
+        "zh": "诺拉的哥哥是护士。",
+        "sound": "勒，弗雷儿，德，Nora，诶，昂菲儿米耶。",
+        "movie": "Nora的哥哥把护理帽戴正，温柔地递来一杯米汤；他是护士，连玩具熊的绷带也包得整整齐齐。",
+        "reuse_id": "T06:3",
+        "pronunciation": "把/e ɛ/、/ø œ/、/o ɔ/分别成对练习，开口度有变化。拼写只能提供线索，词中具体音值应连同声音记忆；不要把所有e都读成同一个音。"
+      },
+      "quiz": [
+        {
+          "prompt": "最适合观察开口度的一组是？",
+          "choices": [
+            "/e/与/ɛ/",
+            "/p/与/b/",
+            "/m/与/n/"
+          ],
+          "answer": 0,
+          "reason": "/e ɛ/为相近位置而开口不同的元音对比。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录les—lait、deux—heure、beau—bol各三组，为最不清楚的一组加练五次。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录les—lait、deux—heure、beau—bol各三组，为最不清楚的一组加练五次。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ06。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC05",
+      "number": 5,
+      "title": "鼻化不等于加一个n",
+      "source_title": "鼻化元音与口元音",
+      "minutes": 20,
+      "goal": "录beau—bon五组、bonjour三次；圈出录音里多出的尾n或g。",
+      "prerequisites": [
+        "PC04"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0026.md",
+          "label": "PDF物理第26页；鼻化元音与口元音",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "鼻化元音是一个元音的口鼻共鸣，不需要在结尾额外堵舌发/n/。先比较beau和bon，再比较短词与整句；现代变体可能合流部分鼻化类别，先记录实际声音。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：鼻化元音与口元音",
+        "纠错检查：鼻化在元音内部完成，不需要额外鼻辅音。"
+      ],
+      "anchor": {
+        "fr": "Bonjour, Madame Chen.",
+        "zh": "陈女士，您好。",
+        "sound": "蹦入儿（bonjour），马达姆，Chen陈女士！",
+        "movie": "我蹦进咖啡馆，陈女士正扶着打转的马达杯；我赶忙站稳，笑着向她说您好，杯里的咖啡也晃着打招呼。",
+        "reuse_id": "T01:1",
+        "pronunciation": "鼻化元音是一个元音的口鼻共鸣，不需要在结尾额外堵舌发/n/。先比较beau和bon，再比较短词与整句；现代变体可能合流部分鼻化类别，先记录实际声音。"
+      },
+      "quiz": [
+        {
+          "prompt": "bon常见读法应避免？",
+          "choices": [
+            "气流部分经过鼻腔",
+            "在鼻化元音后再加/n/或/ŋɡ/",
+            "保持圆唇"
+          ],
+          "answer": 1,
+          "reason": "鼻化在元音内部完成，不需要额外鼻辅音。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录beau—bon五组、bonjour三次；圈出录音里多出的尾n或g。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录beau—bon五组、bonjour三次；圈出录音里多出的尾n或g。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ13。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC06",
+      "number": 6,
+      "title": "清浊成对纠错",
+      "source_title": "p/b、t/d、k/g",
+      "minutes": 20,
+      "goal": "摸喉部录pas—bas、tôt—dos、cou—goût各三组，选最难一组再录。",
+      "prerequisites": [
+        "PC05"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0036.md",
+          "label": "PDF物理第36页；p/b、t/d、k/g",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "同部位的清浊辅音用喉部振动作对比；同时避免把法语清塞音读成强烈送气的汉语音。先放在元音之间再回到词首，录短组比连续读一长串更易定位。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：p/b、t/d、k/g",
+        "纠错检查：有声辅音通常伴随声带振动，大小写和字数无关。"
+      ],
+      "anchor": {
+        "fr": "Bonjour, Madame Chen.",
+        "zh": "陈女士，您好。",
+        "sound": "蹦入儿（bonjour），马达姆，Chen陈女士！",
+        "movie": "我蹦进咖啡馆，陈女士正扶着打转的马达杯；我赶忙站稳，笑着向她说您好，杯里的咖啡也晃着打招呼。",
+        "reuse_id": "T01:1",
+        "pronunciation": "同部位的清浊辅音用喉部振动作对比；同时避免把法语清塞音读成强烈送气的汉语音。先放在元音之间再回到词首，录短组比连续读一长串更易定位。"
+      },
+      "quiz": [
+        {
+          "prompt": "清浊对比时可增加哪个观察？",
+          "choices": [
+            "只看书写大小写",
+            "只看字母多少",
+            "喉部振动"
+          ],
+          "answer": 2,
+          "reason": "有声辅音通常伴随声带振动，大小写和字数无关。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "摸喉部录pas—bas、tôt—dos、cou—goût各三组，选最难一组再录。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "摸喉部录pas—bas、tôt—dos、cou—goût各三组，选最难一组再录。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ17。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC07",
+      "number": 7,
+      "title": "唇齿摩擦与声带振动",
+      "source_title": "f/v",
+      "minutes": 20,
+      "goal": "录fou—vous五组，再录Tu vas bien，回听/v/是否有摩擦。",
+      "prerequisites": [
+        "PC06"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0038.md",
+          "label": "PDF物理第38页；f/v",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "上齿轻触下唇形成摩擦，/v/增加声带振动。不要把/v/改成双唇圆起的/w/，也不要咬得过紧阻断气流。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：f/v",
+        "纠错检查：二者发音方式不同，不能互换。"
+      ],
+      "anchor": {
+        "fr": "Salut, Zoé ! Tu vas bien ?",
+        "zh": "嗨，佐伊！你好吗？",
+        "sound": "Salut Zoé，Tu vas bien：撒手招呼，玉兔也问好吗？",
+        "movie": "我向Zoé撒开手打招呼，玉兔也抱着小瓦罐探出头；我笑着问她最近好吗，她把笑脸贴到瓦罐边。",
+        "reuse_id": "T04:1",
+        "pronunciation": "上齿轻触下唇形成摩擦，/v/增加声带振动。不要把/v/改成双唇圆起的/w/，也不要咬得过紧阻断气流。"
+      },
+      "quiz": [
+        {
+          "prompt": "/v/与/w/的区别可从哪里看？",
+          "choices": [
+            "/v/唇齿摩擦，/w/以圆唇滑动为主",
+            "两者完全相同",
+            "/w/必须上齿咬下唇"
+          ],
+          "answer": 0,
+          "reason": "二者发音方式不同，不能互换。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录fou—vous五组，再录Tu vas bien，回听/v/是否有摩擦。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录fou—vous五组，再录Tu vas bien，回听/v/是否有摩擦。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ31。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC08",
+      "number": 8,
+      "title": "s/z与ch/j不能都读“滋”",
+      "source_title": "s/z、ʃ/ʒ",
+      "minutes": 20,
+      "goal": "持续发s—z、ch—j各三轮，再录nous avons与Je travaille作句中比较。",
+      "prerequisites": [
+        "PC07"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0038.md",
+          "label": "PDF物理第38页；s/z、ʃ/ʒ",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "先区分摩擦部位，再区分清浊。/z/和/ʒ/不需要额外/d/起始；汉字近音容易把连续摩擦误变成塞擦音，必须回到声音目标核对。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：s/z、ʃ/ʒ",
+        "纠错检查：/z/是连续的浊擦音，前导塞音并非该音的组成部分。"
+      ],
+      "anchor": {
+        "fr": "Nous avons deux belles chambres.",
+        "zh": "我们有两个漂亮的卧室。",
+        "sound": "努，阿翁，德，贝勒，香布儿。",
+        "movie": "我们努着嘴推开两间漂亮卧室，贝壳灯一间一个；柔软床铺香香的，大家得意地介绍这两个卧室。",
+        "reuse_id": "T05:5",
+        "pronunciation": "先区分摩擦部位，再区分清浊。/z/和/ʒ/不需要额外/d/起始；汉字近音容易把连续摩擦误变成塞擦音，必须回到声音目标核对。"
+      },
+      "quiz": [
+        {
+          "prompt": "法语/z/是否必须带/d/起始？",
+          "choices": [
+            "必须读/ts/",
+            "不需要",
+            "必须读/dz/"
+          ],
+          "answer": 1,
+          "reason": "/z/是连续的浊擦音，前导塞音并非该音的组成部分。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "持续发s—z、ch—j各三轮，再录nous avons与Je travaille作句中比较。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "持续发s—z、ch—j各三轮，再录nous avons与Je travaille作句中比较。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ32。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC09",
+      "number": 9,
+      "title": "鼻辅音与gn",
+      "source_title": "m/n/ɲ",
+      "minutes": 20,
+      "goal": "录ma、na、ligne三组，再录nuit；请伙伴辨认每组属于哪一种。",
+      "prerequisites": [
+        "PC08"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0039.md",
+          "label": "PDF物理第39页；m/n/ɲ",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "/m/闭双唇，/n/用舌尖，/ɲ/舌面更靠近硬腭。鼻辅音与鼻化元音不同：一个有阻塞辅音，一个仍是元音。核心图句练/n/，再用ligne单独检验/ɲ/。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：m/n/ɲ",
+        "纠错检查：不能把鼻化元音都替换成元音加鼻辅音。"
+      ],
+      "anchor": {
+        "fr": "Bonne nuit, Léa. À demain !",
+        "zh": "晚安，莱娅。明天见！",
+        "sound": "波讷，nuit；Léa，啊，德曼！",
+        "movie": "我抱着波点睡帽祝Léa晚安，她缩进软被子；门外的小熊慢慢挥手，约好明天再见。",
+        "reuse_id": "T01:6",
+        "pronunciation": "/m/闭双唇，/n/用舌尖，/ɲ/舌面更靠近硬腭。鼻辅音与鼻化元音不同：一个有阻塞辅音，一个仍是元音。核心图句练/n/，再用ligne单独检验/ɲ/。"
+      },
+      "quiz": [
+        {
+          "prompt": "鼻辅音/n/与鼻化元音的区别是？",
+          "choices": [
+            "两者完全一样",
+            "后者必须加/n/",
+            "前者有口腔阻塞，后者仍是元音"
+          ],
+          "answer": 2,
+          "reason": "不能把鼻化元音都替换成元音加鼻辅音。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录ma、na、ligne三组，再录nuit；请伙伴辨认每组属于哪一种。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录ma、na、ligne三组，再录nuit；请伙伴辨认每组属于哪一种。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ33。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC10",
+      "number": 10,
+      "title": "l与r各归其位",
+      "source_title": "l/r",
+      "minutes": 20,
+      "goal": "录la—ra五组，再录tout droit；若r引起疼痛，停止发声改听辨。",
+      "prerequisites": [
+        "PC09"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0040.md",
+          "label": "PDF物理第40页；l/r",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "/l/是舌尖边音，常见法语r在较后位置；不要靠卷舌“儿”来替代所有r。先稳定/l/接元音，再轻声练r，避免喉部紧张。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：l/r",
+        "纠错检查：疼痛不是正确发音证据，放松与可理解性更重要。"
+      ],
+      "anchor": {
+        "fr": "Continuez tout droit jusqu’au pont.",
+        "zh": "一直走到桥边。",
+        "sound": "孔蒂涅，图，杜瓦， ü斯科，蓬。",
+        "movie": "我沿路继续一直走，小兔用长胡萝卜指着正前方；直到蓬松小桥出现才停，途中一步也没拐弯。",
+        "reuse_id": "T02:3",
+        "pronunciation": "/l/是舌尖边音，常见法语r在较后位置；不要靠卷舌“儿”来替代所有r。先稳定/l/接元音，再轻声练r，避免喉部紧张。"
+      },
+      "quiz": [
+        {
+          "prompt": "遇到r练习疼痛时应怎样？",
+          "choices": [
+            "停止用力，改听辨或请教师指导",
+            "继续刮嗓直到响",
+            "把所有r删掉"
+          ],
+          "answer": 0,
+          "reason": "疼痛不是正确发音证据，放松与可理解性更重要。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录la—ra五组，再录tout droit；若r引起疼痛，停止发声改听辨。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录la—ra五组，再录tout droit；若r引起疼痛，停止发声改听辨。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ28。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC11",
+      "number": 11,
+      "title": "半辅音与辅音群不插音",
+      "source_title": "j/ɥ/w与辅音群",
+      "minutes": 20,
+      "goal": "拍手读soir、nuit、bien各三次，再读trois、frère，记录是否多出音节。",
+      "prerequisites": [
+        "PC10"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0041.md",
+          "label": "PDF物理第41页；j/ɥ/w与辅音群",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "滑音迅速通向后面的元音，不单独拉成一拍；辅音群则连续协调阻塞或摩擦。先比较oui与huit，再比较trois与frère，别把两类现象混成逐字母朗读。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：j/ɥ/w与辅音群",
+        "纠错检查：/ɥ/是滑音，不单独构成完整元音音节。"
+      ],
+      "anchor": {
+        "fr": "Bonne nuit, Léa. À demain !",
+        "zh": "晚安，莱娅。明天见！",
+        "sound": "波讷，nuit；Léa，啊，德曼！",
+        "movie": "我抱着波点睡帽祝Léa晚安，她缩进软被子；门外的小熊慢慢挥手，约好明天再见。",
+        "reuse_id": "T01:6",
+        "pronunciation": "滑音迅速通向后面的元音，不单独拉成一拍；辅音群则连续协调阻塞或摩擦。先比较oui与huit，再比较trois与frère，别把两类现象混成逐字母朗读。"
+      },
+      "quiz": [
+        {
+          "prompt": "nuit常见音节数是？",
+          "choices": [
+            "按四个字母读四拍",
+            "一个",
+            "三个"
+          ],
+          "answer": 1,
+          "reason": "/ɥ/是滑音，不单独构成完整元音音节。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "拍手读soir、nuit、bien各三次，再读trois、frère，记录是否多出音节。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "拍手读soir、nuit、bien各三次，再读trois、frère，记录是否多出音节。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ34。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC12",
+      "number": 12,
+      "title": "音节按声音，不按字母数",
+      "source_title": "音节与划分",
+      "minutes": 20,
+      "goal": "给soir、demain、pharmacie拍节奏并录音；在词下按声音画分段。",
+      "prerequisites": [
+        "PC11"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0053.md",
+          "label": "PDF物理第53页；音节与划分",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "音节核心通常是元音声音，字母数量不是音节数量。无声词尾不新增一拍，滑音也不一定单独占拍。先听整词，再用手拍节奏，最后检查是否误加尾元音。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：音节与划分",
+        "纠错检查：法语书写包含组合字母与不发音字母，不能按字母或汉字数数。"
+      ],
+      "anchor": {
+        "fr": "Il est six heures et demie.",
+        "zh": "现在六点半。",
+        "sound": "衣儿，诶，西瑟儿，诶，德米。",
+        "movie": "六只小西瓜围着钟表，半块米糕躺在旁边；大钟指向六点半，我赶紧把六只瓜和半块糕记在一起。",
+        "reuse_id": "T03:1",
+        "pronunciation": "音节核心通常是元音声音，字母数量不是音节数量。无声词尾不新增一拍，滑音也不一定单独占拍。先听整词，再用手拍节奏，最后检查是否误加尾元音。"
+      },
+      "quiz": [
+        {
+          "prompt": "数法语音节时优先依据？",
+          "choices": [
+            "字母数量",
+            "汉字谐音个数",
+            "听到的元音核心"
+          ],
+          "answer": 2,
+          "reason": "法语书写包含组合字母与不发音字母，不能按字母或汉字数数。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "给soir、demain、pharmacie拍节奏并录音；在词下按声音画分段。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "给soir、demain、pharmacie拍节奏并录音；在词下按声音画分段。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ34。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC13",
+      "number": 13,
+      "title": "重音落在意义组末",
+      "source_title": "重音、长音与节奏组",
+      "minutes": 20,
+      "goal": "把时间句和一段三句自我介绍划成意义组，各录慢速与自然速度一次。",
+      "prerequisites": [
+        "PC12"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0054.md",
+          "label": "PDF物理第54页；重音、长音与节奏组",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "连续表达里按意义组织节奏，通常组末更突出；不要给每个单词都加相同的强重音。先在标点和意义边界分组，再跟读，逐渐减少词间停顿。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：重音、长音与节奏组",
+        "纠错检查：意义组能维持信息流，机械逐词停顿会破坏表达。"
+      ],
+      "anchor": {
+        "fr": "Il est six heures et demie.",
+        "zh": "现在六点半。",
+        "sound": "衣儿，诶，西瑟儿，诶，德米。",
+        "movie": "六只小西瓜围着钟表，半块米糕躺在旁边；大钟指向六点半，我赶紧把六只瓜和半块糕记在一起。",
+        "reuse_id": "T03:1",
+        "pronunciation": "连续表达里按意义组织节奏，通常组末更突出；不要给每个单词都加相同的强重音。先在标点和意义边界分组，再跟读，逐渐减少词间停顿。"
+      },
+      "quiz": [
+        {
+          "prompt": "连续说话时更合适的节奏是？",
+          "choices": [
+            "按意义组突出组末",
+            "每个字母一样重读",
+            "每词后停两秒"
+          ],
+          "answer": 0,
+          "reason": "意义组能维持信息流，机械逐词停顿会破坏表达。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "把时间句和一段三句自我介绍划成意义组，各录慢速与自然速度一次。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "把时间句和一段三句自我介绍划成意义组，各录慢速与自然速度一次。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ39。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC14",
+      "number": 14,
+      "title": "分清联诵、连音与省音",
+      "source_title": "liaison、enchaînement、élision",
+      "minutes": 20,
+      "goal": "录nous avons、une amie、l’ami，分别注明联诵、连音和省音，不给et后随便加/t/。",
+      "prerequisites": [
+        "PC13"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0055.md",
+          "label": "PDF物理第55页；liaison、enchaînement、élision",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "联诵让特定环境下原本不读的词末辅音出现；连音把本来读出的辅音接到后面的元音；省音则改变书写，如l’ami。三者相关但不能混称，且联诵有必要、可选与禁止位置。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：liaison、enchaînement、élision",
+        "纠错检查：une单独读本来就含/n/，接元音是连音接续。"
+      ],
+      "anchor": {
+        "fr": "Nous avons deux belles chambres.",
+        "zh": "我们有两个漂亮的卧室。",
+        "sound": "努，阿翁，德，贝勒，香布儿。",
+        "movie": "我们努着嘴推开两间漂亮卧室，贝壳灯一间一个；柔软床铺香香的，大家得意地介绍这两个卧室。",
+        "reuse_id": "T05:5",
+        "pronunciation": "联诵让特定环境下原本不读的词末辅音出现；连音把本来读出的辅音接到后面的元音；省音则改变书写，如l’ami。三者相关但不能混称，且联诵有必要、可选与禁止位置。"
+      },
+      "quiz": [
+        {
+          "prompt": "une amie中的/n/属于什么？",
+          "choices": [
+            "省略/n/",
+            "本来发音的辅音接续",
+            "把无声末字母强行读出"
+          ],
+          "answer": 1,
+          "reason": "une单独读本来就含/n/，接元音是连音接续。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录nous avons、une amie、l’ami，分别注明联诵、连音和省音，不给et后随便加/t/。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录nous avons、une amie、l’ami，分别注明联诵、连音和省音，不给et后随便加/t/。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ40。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC15",
+      "number": 15,
+      "title": "问句与陈述别只靠标点",
+      "source_title": "陈述、疑问、感叹与插入语调",
+      "minutes": 20,
+      "goal": "录Tu vas bien ?与Où sont les toilettes ?各三次，再把前句改成陈述并比较。",
+      "prerequisites": [
+        "PC14"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0063.md",
+          "label": "PDF物理第63页；陈述、疑问、感叹与插入语调",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "语调协助表达陈述、询问和态度，但并非所有问句最后都上扬。先区分是非问句与带疑问词的问句，再听具体声音；读稿时标点只是提示，不是完整语调曲线。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：陈述、疑问、感叹与插入语调",
+        "纠错检查：疑问词问句与是非问句的常见语调可能不同，需按实际目标模仿。"
+      ],
+      "anchor": {
+        "fr": "Salut, Zoé ! Tu vas bien ?",
+        "zh": "嗨，佐伊！你好吗？",
+        "sound": "Salut Zoé，Tu vas bien：撒手招呼，玉兔也问好吗？",
+        "movie": "我向Zoé撒开手打招呼，玉兔也抱着小瓦罐探出头；我笑着问她最近好吗，她把笑脸贴到瓦罐边。",
+        "reuse_id": "T04:1",
+        "pronunciation": "语调协助表达陈述、询问和态度，但并非所有问句最后都上扬。先区分是非问句与带疑问词的问句，再听具体声音；读稿时标点只是提示，不是完整语调曲线。"
+      },
+      "quiz": [
+        {
+          "prompt": "所有法语问句都必须句末上扬吗？",
+          "choices": [
+            "是，任何问句都一样",
+            "问句完全不用语调",
+            "不是，问句类型和语境不同"
+          ],
+          "answer": 2,
+          "reason": "疑问词问句与是非问句的常见语调可能不同，需按实际目标模仿。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录Tu vas bien ?与Où sont les toilettes ?各三次，再把前句改成陈述并比较。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录Tu vas bien ?与Où sont les toilettes ?各三次，再把前句改成陈述并比较。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ00。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC16",
+      "number": 16,
+      "title": "汉语迁移：r与前圆唇元音",
+      "source_title": "普通话没有的声音与误替换",
+      "minutes": 20,
+      "goal": "选自己最常混淆的一组，录最小对比五轮，再放回图句读三遍。",
+      "prerequisites": [
+        "PC15"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0072.md",
+          "label": "PDF物理第72页；普通话没有的声音与误替换",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "母语没有的发音容易被最相近的母语音替代。把/y/误读成/u/、把/ø/误读成/o/，都应拆成舌位和圆唇分别调整；r则轻声寻找后部摩擦，不用卷舌替代一切。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：普通话没有的声音与误替换",
+        "纠错检查：两类可控制的口腔动作比笼统模仿更易找到错误。"
+      ],
+      "anchor": {
+        "fr": "Une soupe et un thé, s’il vous plaît.",
+        "zh": "请给我一份汤和一杯茶。",
+        "sound": "Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。",
+        "movie": "我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+        "reuse_id": "T01:3",
+        "pronunciation": "母语没有的发音容易被最相近的母语音替代。把/y/误读成/u/、把/ø/误读成/o/，都应拆成舌位和圆唇分别调整；r则轻声寻找后部摩擦，不用卷舌替代一切。"
+      },
+      "quiz": [
+        {
+          "prompt": "前圆唇元音纠错更有效的方法是？",
+          "choices": [
+            "分开检查舌位与圆唇",
+            "只重复汉字谐音",
+            "越用力越正确"
+          ],
+          "answer": 0,
+          "reason": "两类可控制的口腔动作比笼统模仿更易找到错误。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "选自己最常混淆的一组，录最小对比五轮，再放回图句读三遍。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "选自己最常混淆的一组，录最小对比五轮，再放回图句读三遍。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ09。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC17",
+      "number": 17,
+      "title": "方言迁移：n与l",
+      "source_title": "n/l与z的纠错",
+      "minutes": 20,
+      "goal": "录na—la、ni—li各五组，再录Lin与nuit，给自己最混的一组加练。",
+      "prerequisites": [
+        "PC16"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0075.md",
+          "label": "PDF物理第75页；n/l与z的纠错",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "若母语或方言常混淆n、l，先通过气流感受区别：/n/经鼻腔，/l/从舌两侧出气。不要一次加十个生词，先稳定一个元音环境，再扩展到词。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：n/l与z的纠错",
+        "纠错检查：发音部位相近但气流路径不同，需用声音动作区分。"
+      ],
+      "anchor": {
+        "fr": "Je m’appelle Lin. Ça s’écrit L-I-N.",
+        "zh": "我叫林，拼作L-I-N。",
+        "sound": "热，马佩儿，Lin林；撒，塞克里，L-I-N。",
+        "movie": "我抱着小马介绍自己叫林，再把L、I、N三块积木按顺序摆好；小马一边点头，一边看清名字怎么拼。",
+        "reuse_id": "T05:2",
+        "pronunciation": "若母语或方言常混淆n、l，先通过气流感受区别：/n/经鼻腔，/l/从舌两侧出气。不要一次加十个生词，先稳定一个元音环境，再扩展到词。"
+      },
+      "quiz": [
+        {
+          "prompt": "/n/和/l/的纠错应优先观察？",
+          "choices": [
+            "汉语声调高低",
+            "鼻腔与口腔侧向气流",
+            "字母是大写还是小写"
+          ],
+          "answer": 1,
+          "reason": "发音部位相近但气流路径不同，需用声音动作区分。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录na—la、ni—li各五组，再录Lin与nuit，给自己最混的一组加练。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录na—la、ni—li各五组，再录Lin与nuit，给自己最混的一组加练。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ26。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC18",
+      "number": 18,
+      "title": "英语迁移：u、r与无声词尾",
+      "source_title": "英语发音干扰",
+      "minutes": 20,
+      "goal": "录une、rue、petit，圈出最像英语的部分；听法语目标后每词重录三次。",
+      "prerequisites": [
+        "PC17"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0077.md",
+          "label": "PDF物理第77页；英语发音干扰",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "看到熟悉字母时，先暂停英语读音联想。u常为/y/而非/ju/；法语r不等同英语r；许多词末字母也不发音。相同拼写仍要作为法语词重新建立声音记忆。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：英语发音干扰",
+        "纠错检查：u常见/y/没有英语you的前导/j/。"
+      ],
+      "anchor": {
+        "fr": "Une soupe et un thé, s’il vous plaît.",
+        "zh": "请给我一份汤和一杯茶。",
+        "sound": "Une soupe et un thé，s’il vous plaît：苏普汤，忒香茶，乌龟托盘请。",
+        "movie": "我指着汤碗说苏普，再指茶杯说忒；用小乌龟托盘礼貌点单，请给我一份汤和一杯茶。",
+        "reuse_id": "T01:3",
+        "pronunciation": "看到熟悉字母时，先暂停英语读音联想。u常为/y/而非/ju/；法语r不等同英语r；许多词末字母也不发音。相同拼写仍要作为法语词重新建立声音记忆。"
+      },
+      "quiz": [
+        {
+          "prompt": "避免把u读成英语you应怎样？",
+          "choices": [
+            "照英语字母名读",
+            "给每个u加/j/",
+            "建立/y/舌位与圆唇目标"
+          ],
+          "answer": 2,
+          "reason": "u常见/y/没有英语you的前导/j/。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录une、rue、petit，圈出最像英语的部分；听法语目标后每词重录三次。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录une、rue、petit，圈出最像英语的部分；听法语目标后每词重录三次。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ09。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC19",
+      "number": 19,
+      "title": "组合字母与词尾例外",
+      "source_title": "组合字母及读音基本规则",
+      "minutes": 20,
+      "goal": "把eau、ou、oi各找两个词，再列三个不读末辅音和两个读末辅音的例词。",
+      "prerequisites": [
+        "PC18"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0079.md",
+          "label": "PDF物理第79页；组合字母及读音基本规则",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "eau、ou、oi等应作为常见组合识别，但不要推成“所有相邻字母都固定一音”。末辅音是否读出要连同词学；例如sac常读/k/，petit独读常不读末t。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：组合字母及读音基本规则",
+        "纠错检查：法语常见字母组合可对应单个音素，要在整词中核对。"
+      ],
+      "anchor": {
+        "fr": "Le gâteau, c’est combien ?",
+        "zh": "这块蛋糕多少钱？",
+        "sound": "勒，嘎托；塞，孔边（combien）？",
+        "movie": "蛋糕嘎地托起自己，我凑近看它有多大；手指摸到钱包的小孔，问老板这块蛋糕要多少钱。",
+        "reuse_id": "T01:4",
+        "pronunciation": "eau、ou、oi等应作为常见组合识别，但不要推成“所有相邻字母都固定一音”。末辅音是否读出要连同词学；例如sac常读/k/，petit独读常不读末t。"
+      },
+      "quiz": [
+        {
+          "prompt": "gâteau中的eau应怎样处理？",
+          "choices": [
+            "作为一个/o/的拼写组合",
+            "每个字母念一次",
+            "一律按英语读音"
+          ],
+          "answer": 0,
+          "reason": "法语常见字母组合可对应单个音素，要在整词中核对。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "把eau、ou、oi各找两个词，再列三个不读末辅音和两个读末辅音的例词。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "把eau、ou、oi各找两个词，再列三个不读末辅音和两个读末辅音的例词。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ11。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC20",
+      "number": 20,
+      "title": "数字读音随上下文变化",
+      "source_title": "基数词",
+      "minutes": 20,
+      "goal": "读six、six personnes、six amis三组，录价格句，再写出各处实际听见的末音。",
+      "prerequisites": [
+        "PC19"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0083.md",
+          "label": "PDF物理第83页；基数词",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "先分清说数字本身、接辅音名词、接元音名词三种环境。six、dix等末辅音在不同环境下可能变化；不要把“独读”的词音无条件贴到所有短语里。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：基数词",
+        "纠错检查：six、dix等需要结合后接环境核对发音。"
+      ],
+      "anchor": {
+        "fr": "Deux jus, ça fait huit euros.",
+        "zh": "两杯果汁合计八欧元。",
+        "sound": "德，橘（jus）；撒，费，üit，欧罗。",
+        "movie": "两杯果汁橘香扑鼻，老板把八枚一欧元的钱摆成花；撒开的硬币告诉我，两杯总共八欧元。",
+        "reuse_id": "T01:5",
+        "pronunciation": "先分清说数字本身、接辅音名词、接元音名词三种环境。six、dix等末辅音在不同环境下可能变化；不要把“独读”的词音无条件贴到所有短语里。"
+      },
+      "quiz": [
+        {
+          "prompt": "数字读音训练为什么要放进短语？",
+          "choices": [
+            "只需看阿拉伯数字",
+            "末辅音可能随后接词环境变化",
+            "数字没有独立读法"
+          ],
+          "answer": 1,
+          "reason": "six、dix等需要结合后接环境核对发音。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "读six、six personnes、six amis三组，录价格句，再写出各处实际听见的末音。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "读six、six personnes、six amis三组，录价格句，再写出各处实际听见的末音。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ14。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC21",
+      "number": 21,
+      "title": "借词、星期与月份",
+      "source_title": "借词、特殊词与日期",
+      "minutes": 20,
+      "goal": "写出三个约会日期，朗读星期、日期和月份；挑一个借词单独查证词音。",
+      "prerequisites": [
+        "PC20"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0084.md",
+          "label": "PDF物理第84页；借词、特殊词与日期",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "借词读法可能保留外来痕迹，也可能已按法语习惯变化；不能对所有借词用同一规则。星期、月份与日期应放入真实预约句，听清数字和时间信息。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：借词、特殊词与日期",
+        "纠错检查：词汇化程度不同，不能用统一的外语读音替代核对。"
+      ],
+      "anchor": {
+        "fr": "Je travaille mercredi.",
+        "zh": "我这周三工作。",
+        "sound": "热，特拉瓦伊，梅儿克勒迪。",
+        "movie": "我穿好工作围裙，拉着玩具娃娃走进办公室；桌上的周三格子放着梅子，提醒我这周三要工作。",
+        "reuse_id": "T03:3",
+        "pronunciation": "借词读法可能保留外来痕迹，也可能已按法语习惯变化；不能对所有借词用同一规则。星期、月份与日期应放入真实预约句，听清数字和时间信息。"
+      },
+      "quiz": [
+        {
+          "prompt": "遇到陌生借词最稳妥的做法是？",
+          "choices": [
+            "一律按英语读",
+            "一律逐字母拼读",
+            "查该词法语词音再练"
+          ],
+          "answer": 2,
+          "reason": "词汇化程度不同，不能用统一的外语读音替代核对。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "写出三个约会日期，朗读星期、日期和月份；挑一个借词单独查证词音。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "写出三个约会日期，朗读星期、日期和月份；挑一个借词单独查证词音。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ03。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC22",
+      "number": 22,
+      "title": "趣味练习：先准确再加速",
+      "source_title": "趣味语音练习与绕口令",
+      "minutes": 20,
+      "goal": "挑本周最难的两个词，组成五到八词短句，录三轮；只在清楚时加速。",
+      "prerequisites": [
+        "PC21"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0088.md",
+          "label": "PDF物理第88页；趣味语音练习与绕口令",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "绕口练习先选择自己确实混淆的音，短组慢读，准确后才增加速度。每次只比较一个指标，例如有无插音或清浊稳定；一次读完很多遍却不回听，难以知道错误是否改变。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：趣味语音练习与绕口令",
+        "纠错检查：速度建立在准确基础上，盲目加速会重复错误。"
+      ],
+      "anchor": {
+        "fr": "Le frère de Nora est infirmier.",
+        "zh": "诺拉的哥哥是护士。",
+        "sound": "勒，弗雷儿，德，Nora，诶，昂菲儿米耶。",
+        "movie": "Nora的哥哥把护理帽戴正，温柔地递来一杯米汤；他是护士，连玩具熊的绷带也包得整整齐齐。",
+        "reuse_id": "T06:3",
+        "pronunciation": "绕口练习先选择自己确实混淆的音，短组慢读，准确后才增加速度。每次只比较一个指标，例如有无插音或清浊稳定；一次读完很多遍却不回听，难以知道错误是否改变。"
+      },
+      "quiz": [
+        {
+          "prompt": "绕口练习最先追求？",
+          "choices": [
+            "目标音清楚且稳定",
+            "越快越好",
+            "越长越好"
+          ],
+          "answer": 0,
+          "reason": "速度建立在准确基础上，盲目加速会重复错误。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数"
+          ],
+          "answer": 1,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "挑本周最难的两个词，组成五到八词短句，录三轮；只在清楚时加速。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "挑本周最难的两个词，组成五到八词短句，录三轮；只在清楚时加速。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ37。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC23",
+      "number": 23,
+      "title": "诗句与实用短句迁移",
+      "source_title": "小诗与实用短语50句",
+      "minutes": 20,
+      "goal": "录晚安与明天见，再自编四句问候或感谢；标出一个节奏组并隔天看图再说。",
+      "prerequisites": [
+        "PC22"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0098.md",
+          "label": "PDF物理第98页；小诗与实用短语50句",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "把已练的音放进有意义的节奏片段，再用于日常短句。诗句可以帮助节奏，却不等于日常对话语调；实用句要换人物、时间和场景，避免只会背唯一版本。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：小诗与实用短语50句",
+        "纠错检查：新的语境更能检验是否理解并能提取表达。"
+      ],
+      "anchor": {
+        "fr": "Bonne nuit, Léa. À demain !",
+        "zh": "晚安，莱娅。明天见！",
+        "sound": "波讷，nuit；Léa，啊，德曼！",
+        "movie": "我抱着波点睡帽祝Léa晚安，她缩进软被子；门外的小熊慢慢挥手，约好明天再见。",
+        "reuse_id": "T01:6",
+        "pronunciation": "把已练的音放进有意义的节奏片段，再用于日常短句。诗句可以帮助节奏，却不等于日常对话语调；实用句要换人物、时间和场景，避免只会背唯一版本。"
+      },
+      "quiz": [
+        {
+          "prompt": "背熟一句后怎样检验迁移？",
+          "choices": [
+            "看中文跟着读",
+            "换人物或场景再说一次",
+            "只从头背到尾"
+          ],
+          "answer": 1,
+          "reason": "新的语境更能检验是否理解并能提取表达。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "只统计浏览页数",
+            "立即宣布已纠正口音",
+            "比较同一目标的前后录音，并隔天复测"
+          ],
+          "answer": 2,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "录晚安与明天见，再自编四句问候或感谢；标出一个节奏组并隔天看图再说。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "录晚安与明天见，再自编四句问候或感谢；标出一个节奏组并隔天看图再说。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ39。不必把两本发音书从头重复刷完。"
+    },
+    {
+      "id": "PC24",
+      "number": 24,
+      "title": "个人纠音复测与查表",
+      "source_title": "实用短句、附录及基本规则表",
+      "minutes": 20,
+      "goal": "做三张个人纠音卡，每张保留两次录音；隔天请伙伴听辨，仍混淆的卡回到对应入门课。",
+      "prerequisites": [
+        "PC23"
+      ],
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0110.md",
+          "label": "PDF物理第110页；实用短句、附录及基本规则表",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "explanation": "建立个人纠音卡：错误声音、目标词、第一次录音、纠错动作、第二次录音、隔天复测结果。规则表只作为查找工具，不必每天从头背。本站不自动打口音分，也不用选择题代替声音检验。\n\n先听图句建立完整声音，再回到本课的短词对比。把第一次和第二次录音都保存，比较一个具体变化；如果无法分辨，向教师或能可靠辨音的伙伴要一次反馈，别只凭“听起来很顺”判定过关。",
+      "analogy": "纠音像调相机焦点：先找到模糊的一小处，只调那一处，再拍整幅画。",
+      "teaching_points": [
+        "原书专题：实用短句、附录及基本规则表",
+        "纠错检查：可回听的证据和下一次复测有助于判断错误是否改善。"
+      ],
+      "anchor": {
+        "fr": "Nous avons deux belles chambres.",
+        "zh": "我们有两个漂亮的卧室。",
+        "sound": "努，阿翁，德，贝勒，香布儿。",
+        "movie": "我们努着嘴推开两间漂亮卧室，贝壳灯一间一个；柔软床铺香香的，大家得意地介绍这两个卧室。",
+        "reuse_id": "T05:5",
+        "pronunciation": "建立个人纠音卡：错误声音、目标词、第一次录音、纠错动作、第二次录音、隔天复测结果。规则表只作为查找工具，不必每天从头背。本站不自动打口音分，也不用选择题代替声音检验。"
+      },
+      "quiz": [
+        {
+          "prompt": "一张有效纠音卡应包含？",
+          "choices": [
+            "只有学过的勾",
+            "只有总共花了几小时",
+            "具体目标、前后录音和复测"
+          ],
+          "answer": 2,
+          "reason": "可回听的证据和下一次复测有助于判断错误是否改善。"
+        },
+        {
+          "prompt": "哪项最能检验本课纠音效果？",
+          "choices": [
+            "比较同一目标的前后录音，并隔天复测",
+            "只统计浏览页数",
+            "立即宣布已纠正口音"
+          ],
+          "answer": 0,
+          "reason": "同一目标的可比较录音和延迟复测比浏览量更能说明变化。"
+        }
+      ],
+      "application": "做三张个人纠音卡，每张保留两次录音；隔天请伙伴听辨，仍混淆的卡回到对应入门课。",
+      "self_check": [
+        "听范例两遍，标出本课要核对的词或声音。",
+        "关闭文字，录下本课图句；揭晓后重录一遍。",
+        "做三张个人纠音卡，每张保留两次录音；隔天请伙伴听辨，仍混淆的卡回到对应入门课。",
+        "隔天不看答案再做两题；仍错的地方记到错题本。"
+      ],
+      "teacher_notes": "",
+      "status": "original-companion-draft",
+      "prerequisite_note": "按难点选修；先看入门课PQ40。不必把两本发音书从头重复刷完。"
+    }
+  ]
+}

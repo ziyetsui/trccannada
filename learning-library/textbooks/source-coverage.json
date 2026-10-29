@@ -5,10 +5,16 @@
     "nihao-a1-student": "你好！法语1·A1学生用书",
     "nihao-b1-student": "你好法语3·B1学生用书",
     "nihao-b1-teacher": "你好法语3·B1教师用书",
+    "nihao-a2-teacher": "你好！法语2·A2教师用书",
+    "pronunciation-correction": "法语发音与纠音",
+    "pronunciation-quickstart": "法语发音快速入门",
     "nihao-4-student": "你好法语4·B1续篇学生用书"
   },
   "course_counts": {
     "nihao-a1": 49,
+    "pronunciation-quickstart": 41,
+    "nihao-a2": 48,
+    "pronunciation-correction": 24,
     "jianming-1": 32,
     "jianming-2": 31,
     "nihao-b1": 32,
@@ -1603,6 +1609,1927 @@
       "teaching_points": [
         "未来计划需有时点与条件，并保留对方确认的环节。",
         "A1课程完成与能力掌握分开；A2缺书应如实记录。"
+      ]
+    },
+    {
+      "id": "PQ00",
+      "number": 0,
+      "source_title": "发音简介、字母表与器官图",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0005.md",
+          "label": "PDF物理第5页；发音简介、字母表与器官图",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：先分清字母、音标与声音",
+        "易错点：字母名不能直接拼出词音；汉字近音只帮助回忆。"
+      ]
+    },
+    {
+      "id": "PQ01",
+      "number": 1,
+      "source_title": "母音1 /a/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0014.md",
+          "label": "PDF物理第14页；母音1 /a/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音1 /a/",
+        "易错点：/a/是开口元音，不是由两个音拼成的滑音。"
+      ]
+    },
+    {
+      "id": "PQ02",
+      "number": 2,
+      "source_title": "母音2 /ɑ/与/a/变体",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0017.md",
+          "label": "PDF物理第17页；母音2 /ɑ/与/a/变体",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音2 /ɑ/与/a/变体",
+        "易错点：这个区别在法语变体间不同，教材分列不等于所有人都保留。"
+      ]
+    },
+    {
+      "id": "PQ03",
+      "number": 3,
+      "source_title": "母音3 /ɑ̃/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0020.md",
+          "label": "PDF物理第20页；母音3 /ɑ̃/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音3 /ɑ̃/",
+        "易错点：dans通常为/dɑ̃/，n不是额外辅音。"
+      ]
+    },
+    {
+      "id": "PQ04",
+      "number": 4,
+      "source_title": "母音4 /e/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0023.md",
+          "label": "PDF物理第23页；母音4 /e/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音4 /e/",
+        "易错点：常见é读/e/，保持单一元音而不是滑音。"
+      ]
+    },
+    {
+      "id": "PQ05",
+      "number": 5,
+      "source_title": "母音5 /ə/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0026.md",
+          "label": "PDF物理第26页；母音5 /ə/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音5 /ə/",
+        "易错点：e的音值和省略受到词形及语境影响。"
+      ]
+    },
+    {
+      "id": "PQ06",
+      "number": 6,
+      "source_title": "母音6 /ɛ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0029.md",
+          "label": "PDF物理第29页；母音6 /ɛ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音6 /ɛ/",
+        "易错点：/ɛ/通常比/e/更开；法语元音不依靠汉语声调区别。"
+      ]
+    },
+    {
+      "id": "PQ07",
+      "number": 7,
+      "source_title": "母音7 /ɛ̃/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0032.md",
+          "label": "PDF物理第32页；母音7 /ɛ̃/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音7 /ɛ̃/",
+        "易错点：ain常标记/ɛ̃/，应按拼写组合读。"
+      ]
+    },
+    {
+      "id": "PQ08",
+      "number": 8,
+      "source_title": "母音8 /i/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0035.md",
+          "label": "PDF物理第35页；母音8 /i/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音8 /i/",
+        "易错点：/i/靠前且不圆唇，和/u/的舌位及唇形不同。"
+      ]
+    },
+    {
+      "id": "PQ09",
+      "number": 9,
+      "source_title": "母音9 /y/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0038.md",
+          "label": "PDF物理第38页；母音9 /y/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音9 /y/",
+        "易错点：u常读/y/；ou才常读/u/，不能按英语字母名迁移。"
+      ]
+    },
+    {
+      "id": "PQ10",
+      "number": 10,
+      "source_title": "母音10 /u/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0041.md",
+          "label": "PDF物理第41页；母音10 /u/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音10 /u/",
+        "易错点：ou是常见/u/拼写组合，不逐字母分读。"
+      ]
+    },
+    {
+      "id": "PQ11",
+      "number": 11,
+      "source_title": "母音11 /o/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0044.md",
+          "label": "PDF物理第44页；母音11 /o/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音11 /o/",
+        "易错点：eau是拼写组合，通常对应一个/o/。"
+      ]
+    },
+    {
+      "id": "PQ12",
+      "number": 12,
+      "source_title": "母音12 /ɔ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0047.md",
+          "label": "PDF物理第47页；母音12 /ɔ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音12 /ɔ/",
+        "易错点：二者都是元音；/ɔ/通常比/o/更开。"
+      ]
+    },
+    {
+      "id": "PQ13",
+      "number": 13,
+      "source_title": "母音13 /ɔ̃/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0050.md",
+          "label": "PDF物理第50页；母音13 /ɔ̃/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音13 /ɔ̃/",
+        "易错点：这里的鼻化元音不需要额外的鼻辅音尾。"
+      ]
+    },
+    {
+      "id": "PQ14",
+      "number": 14,
+      "source_title": "母音14 /ø/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0053.md",
+          "label": "PDF物理第53页；母音14 /ø/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音14 /ø/",
+        "易错点：eu在deux中对应前圆唇元音/ø/。"
+      ]
+    },
+    {
+      "id": "PQ15",
+      "number": 15,
+      "source_title": "母音15 /œ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0056.md",
+          "label": "PDF物理第56页；母音15 /œ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音15 /œ/",
+        "易错点：heure的h不发音，目标从元音开始。"
+      ]
+    },
+    {
+      "id": "PQ16",
+      "number": 16,
+      "source_title": "母音16 /œ̃/及变体",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0059.md",
+          "label": "PDF物理第59页；母音16 /œ̃/及变体",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：母音16 /œ̃/及变体",
+        "易错点：/œ̃/与/ɛ̃/的区别并非所有法语变体都保留。"
+      ]
+    },
+    {
+      "id": "PQ17",
+      "number": 17,
+      "source_title": "子音1 /b/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0064.md",
+          "label": "PDF物理第64页；子音1 /b/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音1 /b/",
+        "易错点：/b/是双唇塞音，阻塞后释放，并有声带振动。"
+      ]
+    },
+    {
+      "id": "PQ18",
+      "number": 18,
+      "source_title": "子音2 /d/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0067.md",
+          "label": "PDF物理第67页；子音2 /d/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音2 /d/",
+        "易错点：二者是相近部位的塞音，清浊是主要对立之一。"
+      ]
+    },
+    {
+      "id": "PQ19",
+      "number": 19,
+      "source_title": "子音3 /f/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0070.md",
+          "label": "PDF物理第70页；子音3 /f/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音3 /f/",
+        "易错点：/f/是清唇齿擦音，靠摩擦而非爆破。"
+      ]
+    },
+    {
+      "id": "PQ20",
+      "number": 20,
+      "source_title": "子音4 /ɡ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0073.md",
+          "label": "PDF物理第73页；子音4 /ɡ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音4 /ɡ/",
+        "易错点：g在这里位于a前，读/ɡ/，不是整个字母名。"
+      ]
+    },
+    {
+      "id": "PQ21",
+      "number": 21,
+      "source_title": "子音5 /ʒ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0076.md",
+          "label": "PDF物理第76页；子音5 /ʒ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音5 /ʒ/",
+        "易错点：/ʒ/为浊擦音，/ʃ/为清擦音；不需额外塞音。"
+      ]
+    },
+    {
+      "id": "PQ22",
+      "number": 22,
+      "source_title": "子音6 /ʃ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0079.md",
+          "label": "PDF物理第79页；子音6 /ʃ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音6 /ʃ/",
+        "易错点：chambre的ch读/ʃ/，英语拼写习惯不能直接套用。"
+      ]
+    },
+    {
+      "id": "PQ23",
+      "number": 23,
+      "source_title": "子音7 /k/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0082.md",
+          "label": "PDF物理第82页；子音7 /k/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音7 /k/",
+        "易错点：qui常读/ki/，qu在这里整体表示/k/。"
+      ]
+    },
+    {
+      "id": "PQ24",
+      "number": 24,
+      "source_title": "子音8 /l/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0085.md",
+          "label": "PDF物理第85页；子音8 /l/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音8 /l/",
+        "易错点：/l/是边音，/n/是鼻音，不能靠加汉语声调区别。"
+      ]
+    },
+    {
+      "id": "PQ25",
+      "number": 25,
+      "source_title": "子音9 /m/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0088.md",
+          "label": "PDF物理第88页；子音9 /m/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音9 /m/",
+        "易错点：/m/是双唇鼻音，鼻腔气流是关键。"
+      ]
+    },
+    {
+      "id": "PQ26",
+      "number": 26,
+      "source_title": "子音10 /n/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0091.md",
+          "label": "PDF物理第91页；子音10 /n/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音10 /n/",
+        "易错点：词首n是辅音，后面的on整体标记鼻化。"
+      ]
+    },
+    {
+      "id": "PQ27",
+      "number": 27,
+      "source_title": "子音11 /p/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0094.md",
+          "label": "PDF物理第94页；子音11 /p/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音11 /p/",
+        "易错点：两者部位相同，主要清浊不同，不是鼻音。"
+      ]
+    },
+    {
+      "id": "PQ28",
+      "number": 28,
+      "source_title": "子音12 /ʁ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0097.md",
+          "label": "PDF物理第97页；子音12 /ʁ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音12 /ʁ/",
+        "易错点：r有变体；用力疼痛不是正确发音的证据。"
+      ]
+    },
+    {
+      "id": "PQ29",
+      "number": 29,
+      "source_title": "子音13 /s/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0100.md",
+          "label": "PDF物理第100页；子音13 /s/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音13 /s/",
+        "易错点：常见词maison中单s位于元音之间，读/z/。"
+      ]
+    },
+    {
+      "id": "PQ30",
+      "number": 30,
+      "source_title": "子音14 /t/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0103.md",
+          "label": "PDF物理第103页；子音14 /t/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音14 /t/",
+        "易错点：法语thé的th表示/t/，不是英语th的读法。"
+      ]
+    },
+    {
+      "id": "PQ31",
+      "number": 31,
+      "source_title": "子音15 /v/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0106.md",
+          "label": "PDF物理第106页；子音15 /v/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音15 /v/",
+        "易错点：/v/是浊唇齿擦音，与/w/不同。"
+      ]
+    },
+    {
+      "id": "PQ32",
+      "number": 32,
+      "source_title": "子音16 /z/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0109.md",
+          "label": "PDF物理第109页；子音16 /z/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音16 /z/",
+        "易错点：此处nous末s在联诵中读/z/；不要逐字母读成/s/。"
+      ]
+    },
+    {
+      "id": "PQ33",
+      "number": 33,
+      "source_title": "子音17 /ɲ/与/n/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0112.md",
+          "label": "PDF物理第112页；子音17 /ɲ/与/n/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音17 /ɲ/与/n/",
+        "易错点：ligne通常以/ɲ/为目标；不能机械逐字母拼读。"
+      ]
+    },
+    {
+      "id": "PQ34",
+      "number": 34,
+      "source_title": "半母音1 /w/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0118.md",
+          "label": "PDF物理第118页；半母音1 /w/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：半母音1 /w/",
+        "易错点：oi常对应/wa/，soir一般为一音节。"
+      ]
+    },
+    {
+      "id": "PQ35",
+      "number": 35,
+      "source_title": "半母音2 /j/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0121.md",
+          "label": "PDF物理第121页；半母音2 /j/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：半母音2 /j/",
+        "易错点：/j/是滑音，不独占一个元音音节；末d通常不读。"
+      ]
+    },
+    {
+      "id": "PQ36",
+      "number": 36,
+      "source_title": "半母音3 /ɥ/",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0124.md",
+          "label": "PDF物理第124页；半母音3 /ɥ/",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：半母音3 /ɥ/",
+        "易错点：nuit通常一个音节，含/ɥ/滑音，末t不读。"
+      ]
+    },
+    {
+      "id": "PQ37",
+      "number": 37,
+      "source_title": "子音群：不插入多余元音",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0128.md",
+          "label": "PDF物理第128页；子音群：不插入多余元音",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：子音群：不插入多余元音",
+        "易错点：辅音群难点是协调接续，插音或删音都会改变词形。"
+      ]
+    },
+    {
+      "id": "PQ38",
+      "number": 38,
+      "source_title": "重音符号与省文符",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0132.md",
+          "label": "PDF物理第132页；重音符号与省文符",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：重音符号与省文符",
+        "易错点：省文符记录元音省略，不是重音号或停顿号。"
+      ]
+    },
+    {
+      "id": "PQ39",
+      "number": 39,
+      "source_title": "长音与节奏：先清楚再自然",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0136.md",
+          "label": "PDF物理第136页；长音与节奏：先清楚再自然",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：长音与节奏：先清楚再自然",
+        "易错点：法语时长和节奏依语境变化，机械拉长会影响理解。"
+      ]
+    },
+    {
+      "id": "PQ40",
+      "number": 40,
+      "source_title": "连音、联诵与回听",
+      "sources": [
+        {
+          "book": "pronunciation-quickstart",
+          "location": "pages/0140.md",
+          "label": "PDF物理第140页；连音、联诵与回听",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "声音目标：连音、联诵与回听",
+        "易错点：nous单独读不带/z/，une本来含/n/，机制不同。"
+      ]
+    },
+    {
+      "id": "NA201",
+      "number": 1,
+      "source_title": "Leçon 1 — Je me présente",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0017.md",
+          "label": "PDF物理第17页；Leçon 1 — Je me présente",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：âge为阳性单数，quel与名词而非回答者性别一致。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA202",
+      "number": 2,
+      "source_title": "Leçon 2 — De mère en fille",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0020.md",
+          "label": "PDF物理第20页；Leçon 2 — De mère en fille",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：vient de指最近过去，另外两句指将来。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA203",
+      "number": 3,
+      "source_title": "Leçon 3 — Blog",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0023.md",
+          "label": "PDF物理第23页；Leçon 3 — Blog",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：France为阴性国家名，通常用en；城市如Paris用à。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA204",
+      "number": 4,
+      "source_title": "Leçon 4 — Une famille en or",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0026.md",
+          "label": "PDF物理第26页；Leçon 4 — Une famille en or",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：être后直接说明职业通常不用不定冠词：Elle est architecte。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R01",
+      "number": "R1",
+      "source_title": "Unité 1 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0028.md",
+          "label": "PDF物理第28页；Unité 1 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA205",
+      "number": 5,
+      "source_title": "Leçon 5 — Parisiens, qui êtes-vous ?",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0029.md",
+          "label": "PDF物理第29页；Leçon 5 — Parisiens, qui êtes-vous ?",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：艺术家是expose的主语，因此用qui。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA206",
+      "number": 6,
+      "source_title": "Leçon 6 — Question de mode",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0033.md",
+          "label": "PDF物理第33页；Leçon 6 — Question de mode",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：代词须与被替代名词的性数一致，robes为阴性复数。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA207",
+      "number": 7,
+      "source_title": "Leçon 7 — Une minute pour un projet",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0035.md",
+          "label": "PDF物理第35页；Leçon 7 — Une minute pour un projet",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：CV是简历，ci-joint说明附件位置；应放在实际附有材料的求职邮件。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA208",
+      "number": 8,
+      "source_title": "Leçon 8 — Les ados",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0039.md",
+          "label": "PDF物理第39页；Leçon 8 — Les ados",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：条件式表达委婉愿望，mais后说明不能照办的限制。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R02",
+      "number": "R2",
+      "source_title": "Unité 2 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0041.md",
+          "label": "PDF物理第41页；Unité 2 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA209",
+      "number": 9,
+      "source_title": "Leçon 9 — Le logement idéal",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0042.md",
+          "label": "PDF物理第42页；Leçon 9 — Le logement idéal",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：avoir besoin de含de，关系从句替代de＋名词用dont。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA210",
+      "number": 10,
+      "source_title": "Leçon 10 — À bicyclette",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0044.md",
+          "label": "PDF物理第44页；Leçon 10 — À bicyclette",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：两者比较用plus＋形容词＋que，最高级不适用于这个结构。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA211",
+      "number": 11,
+      "source_title": "Leçon 11 — Destination soleil",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0047.md",
+          "label": "PDF物理第47页；Leçon 11 — Destination soleil",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：最高级应交代范围，la plus calme de la maison表示全屋中最安静。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA212",
+      "number": 12,
+      "source_title": "Leçon 12 — Choix de vie",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0050.md",
+          "label": "PDF物理第50页；Leçon 12 — Choix de vie",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：未完成过去时结合avant描述过去的习惯背景。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R03",
+      "number": "R3",
+      "source_title": "Unité 3 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0052.md",
+          "label": "PDF物理第52页；Unité 3 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2E01",
+      "number": "E1",
+      "source_title": "Évaluation 1 — 本站独立检验",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0053.md",
+          "label": "PDF物理第53页；Évaluation 1 — 本站独立检验",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：任务、评分尺度和考试条件不同，本站自评没有官方等级效力。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA213",
+      "number": 13,
+      "source_title": "Leçon 13 — De bonnes résolutions",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0055.md",
+          "label": "PDF物理第55页；Leçon 13 — De bonnes résolutions",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：pourrais是不确定或委婉的条件式；第二句缺正确不定式，第三句不是这里的标准假设结构。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA214",
+      "number": 14,
+      "source_title": "Leçon 14 — Manger mieux, bouger plus",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0058.md",
+          "label": "PDF物理第58页；Leçon 14 — Manger mieux, bouger plus",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：en替代poires，trois保留数量；y不替代此处食物。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA215",
+      "number": 15,
+      "source_title": "Leçon 15 — Demain, j’arrête…",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0061.md",
+          "label": "PDF物理第61页；Leçon 15 — Demain, j’arrête…",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：il faut后可直接接不定式；que后则需要带主语的从句。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA216",
+      "number": 16,
+      "source_title": "Leçon 16 — La journée du sport",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0064.md",
+          "label": "PDF物理第64页；Leçon 16 — La journée du sport",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：参加者需要具体安排，情绪形容词不能替代行动信息。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R04",
+      "number": "R4",
+      "source_title": "Unité 4 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0067.md",
+          "label": "PDF物理第67页；Unité 4 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA217",
+      "number": 17,
+      "source_title": "Leçon 17 — Au chômage",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0069.md",
+          "label": "PDF物理第69页；Leçon 17 — Au chômage",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：lisais铺背景，a téléphoné表示发生并推进故事的事件。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA218",
+      "number": 18,
+      "source_title": "Leçon 18 — À mi-temps",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0072.md",
+          "label": "PDF物理第72页；Leçon 18 — À mi-temps",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：ne…que表示限制“只有”，并非完全否定。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA219",
+      "number": 19,
+      "source_title": "Leçon 19 — Souvenirs d’école",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0075.md",
+          "label": "PDF物理第75页；Leçon 19 — Souvenirs d’école",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：depuis标记持续到现在的时段；il y a更常定位距今多久的事件。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA220",
+      "number": 20,
+      "source_title": "Leçon 20 — Les études à l’étranger",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0078.md",
+          "label": "PDF物理第78页；Leçon 20 — Les études à l’étranger",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：conviendrait用条件式缓和询问，不表示预约已经确认。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R05",
+      "number": "R5",
+      "source_title": "Unité 5 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0080.md",
+          "label": "PDF物理第80页；Unité 5 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA221",
+      "number": 21,
+      "source_title": "Leçon 21 — Internet et vous",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0082.md",
+          "label": "PDF物理第82页；Leçon 21 — Internet et vous",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：plus强调以前与现在的变化；jamais表示从不，rien否定事物。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA222",
+      "number": 22,
+      "source_title": "Leçon 22 — À chacun son café",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0085.md",
+          "label": "PDF物理第85页；Leçon 22 — À chacun son café",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：parce que引导原因从句；名词原因可用à cause de等表达。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA223",
+      "number": 23,
+      "source_title": "Leçon 23 — Week-end",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0088.md",
+          "label": "PDF物理第88页；Leçon 23 — Week-end",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：en lisant、en marchant是副动词；需核对动作主体一致。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA224",
+      "number": 24,
+      "source_title": "Leçon 24 — La fête des voisins",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0091.md",
+          "label": "PDF物理第91页；Leçon 24 — La fête des voisins",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：veux在这里询问邀请意愿，vendredi说明时间，chez nous说明地点。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R06",
+      "number": "R6",
+      "source_title": "Unité 6 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0093.md",
+          "label": "PDF物理第93页；Unité 6 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2E02",
+      "number": "E2",
+      "source_title": "Évaluation 2 — 本站独立检验",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0094.md",
+          "label": "PDF物理第94页；Évaluation 2 — 本站独立检验",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：任务、评分尺度和考试条件不同，本站自评没有官方等级效力。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA225",
+      "number": 25,
+      "source_title": "Leçon 25 — La télé de demain",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0097.md",
+          "label": "PDF物理第97页；Leçon 25 — La télé de demain",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：rappellerai以-ai结尾，表示我将在明天上午再打来。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA226",
+      "number": 26,
+      "source_title": "Leçon 26 — Allô ! Tu es où ?",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0100.md",
+          "label": "PDF物理第100页；Leçon 26 — Allô ! Tu es où ?",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：过去不定式avoir mangé标记先完成；avant de后应接不定式manger。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA227",
+      "number": 27,
+      "source_title": "Leçon 27 — Situation de crise",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0104.md",
+          "label": "PDF物理第104页；Leçon 27 — Situation de crise",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：donc引出由前述事实导致的结果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA228",
+      "number": 28,
+      "source_title": "Leçon 28 — La presse magazine",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0107.md",
+          "label": "PDF物理第107页；Leçon 28 — La presse magazine",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：预测是阅读准备，不能替代证据与核实。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R07",
+      "number": "R7",
+      "source_title": "Unité 7 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0110.md",
+          "label": "PDF物理第110页；Unité 7 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA229",
+      "number": 29,
+      "source_title": "Leçon 29 — Ailleurs",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0111.md",
+          "label": "PDF物理第111页；Leçon 29 — Ailleurs",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：sœur为阴性单数，此处être结构过去分词加e。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA230",
+      "number": 30,
+      "source_title": "Leçon 30 — Souvenir de voyage",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0113.md",
+          "label": "PDF物理第113页；Leçon 30 — Souvenir de voyage",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：il y a＋时长将已完成的回来事件定位到四天前。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA231",
+      "number": 31,
+      "source_title": "Leçon 31 — Album photos",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0116.md",
+          "label": "PDF物理第116页；Leçon 31 — Album photos",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：téléphoner à要求间接宾语；lui置于助动词前。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA232",
+      "number": 32,
+      "source_title": "Leçon 32 — La poésie des villes",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0119.md",
+          "label": "PDF物理第119页；Leçon 32 — La poésie des villes",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：细节使描写可感知；难词数量不能代替清楚表达。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R08",
+      "number": "R8",
+      "source_title": "Unité 8 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0121.md",
+          "label": "PDF物理第121页；Unité 8 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA233",
+      "number": 33,
+      "source_title": "Leçon 33 — C’est quoi le bonheur ?",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0123.md",
+          "label": "PDF物理第123页；Leçon 33 — C’est quoi le bonheur ?",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：转述中的je须按原说话者换成elle，并使用陈述语序。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA234",
+      "number": 34,
+      "source_title": "Leçon 34 — A voté !",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0126.md",
+          "label": "PDF物理第126页；Leçon 34 — A voté !",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：mais连接方向不同的信息，不表示时间顺序。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA235",
+      "number": 35,
+      "source_title": "Leçon 35 — Votre avis nous intéresse",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0128.md",
+          "label": "PDF物理第128页；Leçon 35 — Votre avis nous intéresse",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：il faut que表达必要要求，触发虚拟式viennes；另两句为肯定陈述。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA236",
+      "number": 36,
+      "source_title": "Leçon 36 — Une question de valeurs",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0131.md",
+          "label": "PDF物理第131页；Leçon 36 — Une question de valeurs",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：清楚理由可被讨论；人身评价和未核实规则都不能支持论证。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2R09",
+      "number": "R9",
+      "source_title": "Unité 9 — Savoir-faire",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0133.md",
+          "label": "PDF物理第133页；Unité 9 — Savoir-faire",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：复述能检验信息是否真的传达；投入和生词数不能替代表达效果。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "NA2E03",
+      "number": "E3",
+      "source_title": "Évaluation 3 — 本站独立检验",
+      "sources": [
+        {
+          "book": "nihao-a2-teacher",
+          "location": "pages/0134.md",
+          "label": "PDF物理第134页；Évaluation 3 — 本站独立检验",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "本课检查点：任务、评分尺度和考试条件不同，本站自评没有官方等级效力。",
+        "先看本课例子，再换成自己的人物、时间或地点；按任务要求保存可复查的表达。"
+      ]
+    },
+    {
+      "id": "PC01",
+      "number": 1,
+      "source_title": "字母、音素、音标",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0012.md",
+          "label": "PDF物理第12页；字母、音素、音标",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：字母、音素、音标",
+        "纠错检查：字母的名称不是它在词中的唯一发音。"
+      ]
+    },
+    {
+      "id": "PC02",
+      "number": 2,
+      "source_title": "元音开口度、舌位与圆唇",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0020.md",
+          "label": "PDF物理第20页；元音开口度、舌位与圆唇",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：元音开口度、舌位与圆唇",
+        "纠错检查：/y/为高前圆唇元音，与/i/主要有圆唇区别。"
+      ]
+    },
+    {
+      "id": "PC03",
+      "number": 3,
+      "source_title": "闭元音i、y、u",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0022.md",
+          "label": "PDF物理第22页；闭元音i、y、u",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：闭元音i、y、u",
+        "纠错检查：前后舌位使两类圆唇高元音可区分。"
+      ]
+    },
+    {
+      "id": "PC04",
+      "number": 4,
+      "source_title": "半闭与半开元音",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0023.md",
+          "label": "PDF物理第23页；半闭与半开元音",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：半闭与半开元音",
+        "纠错检查：/e ɛ/为相近位置而开口不同的元音对比。"
+      ]
+    },
+    {
+      "id": "PC05",
+      "number": 5,
+      "source_title": "鼻化元音与口元音",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0026.md",
+          "label": "PDF物理第26页；鼻化元音与口元音",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：鼻化元音与口元音",
+        "纠错检查：鼻化在元音内部完成，不需要额外鼻辅音。"
+      ]
+    },
+    {
+      "id": "PC06",
+      "number": 6,
+      "source_title": "p/b、t/d、k/g",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0036.md",
+          "label": "PDF物理第36页；p/b、t/d、k/g",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：p/b、t/d、k/g",
+        "纠错检查：有声辅音通常伴随声带振动，大小写和字数无关。"
+      ]
+    },
+    {
+      "id": "PC07",
+      "number": 7,
+      "source_title": "f/v",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0038.md",
+          "label": "PDF物理第38页；f/v",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：f/v",
+        "纠错检查：二者发音方式不同，不能互换。"
+      ]
+    },
+    {
+      "id": "PC08",
+      "number": 8,
+      "source_title": "s/z、ʃ/ʒ",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0038.md",
+          "label": "PDF物理第38页；s/z、ʃ/ʒ",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：s/z、ʃ/ʒ",
+        "纠错检查：/z/是连续的浊擦音，前导塞音并非该音的组成部分。"
+      ]
+    },
+    {
+      "id": "PC09",
+      "number": 9,
+      "source_title": "m/n/ɲ",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0039.md",
+          "label": "PDF物理第39页；m/n/ɲ",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：m/n/ɲ",
+        "纠错检查：不能把鼻化元音都替换成元音加鼻辅音。"
+      ]
+    },
+    {
+      "id": "PC10",
+      "number": 10,
+      "source_title": "l/r",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0040.md",
+          "label": "PDF物理第40页；l/r",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：l/r",
+        "纠错检查：疼痛不是正确发音证据，放松与可理解性更重要。"
+      ]
+    },
+    {
+      "id": "PC11",
+      "number": 11,
+      "source_title": "j/ɥ/w与辅音群",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0041.md",
+          "label": "PDF物理第41页；j/ɥ/w与辅音群",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：j/ɥ/w与辅音群",
+        "纠错检查：/ɥ/是滑音，不单独构成完整元音音节。"
+      ]
+    },
+    {
+      "id": "PC12",
+      "number": 12,
+      "source_title": "音节与划分",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0053.md",
+          "label": "PDF物理第53页；音节与划分",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：音节与划分",
+        "纠错检查：法语书写包含组合字母与不发音字母，不能按字母或汉字数数。"
+      ]
+    },
+    {
+      "id": "PC13",
+      "number": 13,
+      "source_title": "重音、长音与节奏组",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0054.md",
+          "label": "PDF物理第54页；重音、长音与节奏组",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：重音、长音与节奏组",
+        "纠错检查：意义组能维持信息流，机械逐词停顿会破坏表达。"
+      ]
+    },
+    {
+      "id": "PC14",
+      "number": 14,
+      "source_title": "liaison、enchaînement、élision",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0055.md",
+          "label": "PDF物理第55页；liaison、enchaînement、élision",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：liaison、enchaînement、élision",
+        "纠错检查：une单独读本来就含/n/，接元音是连音接续。"
+      ]
+    },
+    {
+      "id": "PC15",
+      "number": 15,
+      "source_title": "陈述、疑问、感叹与插入语调",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0063.md",
+          "label": "PDF物理第63页；陈述、疑问、感叹与插入语调",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：陈述、疑问、感叹与插入语调",
+        "纠错检查：疑问词问句与是非问句的常见语调可能不同，需按实际目标模仿。"
+      ]
+    },
+    {
+      "id": "PC16",
+      "number": 16,
+      "source_title": "普通话没有的声音与误替换",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0072.md",
+          "label": "PDF物理第72页；普通话没有的声音与误替换",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：普通话没有的声音与误替换",
+        "纠错检查：两类可控制的口腔动作比笼统模仿更易找到错误。"
+      ]
+    },
+    {
+      "id": "PC17",
+      "number": 17,
+      "source_title": "n/l与z的纠错",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0075.md",
+          "label": "PDF物理第75页；n/l与z的纠错",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：n/l与z的纠错",
+        "纠错检查：发音部位相近但气流路径不同，需用声音动作区分。"
+      ]
+    },
+    {
+      "id": "PC18",
+      "number": 18,
+      "source_title": "英语发音干扰",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0077.md",
+          "label": "PDF物理第77页；英语发音干扰",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：英语发音干扰",
+        "纠错检查：u常见/y/没有英语you的前导/j/。"
+      ]
+    },
+    {
+      "id": "PC19",
+      "number": 19,
+      "source_title": "组合字母及读音基本规则",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0079.md",
+          "label": "PDF物理第79页；组合字母及读音基本规则",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：组合字母及读音基本规则",
+        "纠错检查：法语常见字母组合可对应单个音素，要在整词中核对。"
+      ]
+    },
+    {
+      "id": "PC20",
+      "number": 20,
+      "source_title": "基数词",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0083.md",
+          "label": "PDF物理第83页；基数词",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：基数词",
+        "纠错检查：six、dix等需要结合后接环境核对发音。"
+      ]
+    },
+    {
+      "id": "PC21",
+      "number": 21,
+      "source_title": "借词、特殊词与日期",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0084.md",
+          "label": "PDF物理第84页；借词、特殊词与日期",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：借词、特殊词与日期",
+        "纠错检查：词汇化程度不同，不能用统一的外语读音替代核对。"
+      ]
+    },
+    {
+      "id": "PC22",
+      "number": 22,
+      "source_title": "趣味语音练习与绕口令",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0088.md",
+          "label": "PDF物理第88页；趣味语音练习与绕口令",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：趣味语音练习与绕口令",
+        "纠错检查：速度建立在准确基础上，盲目加速会重复错误。"
+      ]
+    },
+    {
+      "id": "PC23",
+      "number": 23,
+      "source_title": "小诗与实用短语50句",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0098.md",
+          "label": "PDF物理第98页；小诗与实用短语50句",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：小诗与实用短语50句",
+        "纠错检查：新的语境更能检验是否理解并能提取表达。"
+      ]
+    },
+    {
+      "id": "PC24",
+      "number": 24,
+      "source_title": "实用短句、附录及基本规则表",
+      "sources": [
+        {
+          "book": "pronunciation-correction",
+          "location": "pages/0110.md",
+          "label": "PDF物理第110页；实用短句、附录及基本规则表",
+          "review_status": "toc_verified_body_ocr_unverified"
+        }
+      ],
+      "teaching_points": [
+        "原书专题：实用短句、附录及基本规则表",
+        "纠错检查：可回听的证据和下一次复测有助于判断错误是否改善。"
       ]
     },
     {

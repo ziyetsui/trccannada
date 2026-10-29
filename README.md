@@ -14,3 +14,7 @@ GitHub Pages从 `publish/website` 分支根目录发布；更新PR应以此分�
 [独立备考页](learning-library/tcf-canada/) 提供官方考试与样题入口、听说读写训练方法、Oxford 图句基础热身和第一周起步安排。资料核验范围与日期在页面逐项标明。
 
 后续开发先读 [Oxford 起飞最佳实践](docs/french-learning-best-practices.md) 与 [可复用任务和插图提示词](docs/prompts/french-learning-task.md)。
+
+## 教材学习室
+
+[九份教材、八条学习线](learning-library/textbooks/)共289节原创辅助微课、648道练习。新增A2衔接与发音入门／纠音，每课提供来源定位、Markdown、图句回忆和可保存任务勾选。原书全文仅保留本机。

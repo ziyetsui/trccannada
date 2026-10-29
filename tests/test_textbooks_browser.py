@@ -38,12 +38,31 @@ class BrowserTests(unittest.TestCase):
         self.assertEqual(response.status,200,'Textbook route is missing')
     def test_catalogue_search_and_mobile(self):
         self.open()
-        self.assertEqual(self.page.locator('.book-card').count(),5)
+        self.assertEqual(self.page.locator('.book-card').count(),8)
         self.assertGreaterEqual(self.page.locator('.lesson-card').count(),160)
         self.assertIn('A2',self.page.locator('#roadmap').inner_text())
         self.page.locator('#search').fill('JM101')
         self.assertEqual(self.page.locator('.lesson-card').count(),1)
         self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth<=innerWidth'))
+    def test_new_tracks_task_checks_and_legacy_progress_survive_reload(self):
+        self.context.add_init_script("if(!localStorage.getItem('francais.textbooks.v1'))localStorage.setItem('francais.textbooks.v1',JSON.stringify({done:['NA101'],last:'NA101',reviews:{NA101:{step:1,due:1}},tasks:['invalid:0',null]}));")
+        self.open()
+        self.assertIn('NA101',self.page.locator('#continue').inner_text())
+        self.page.goto(self.url+'#NA201')
+        task=self.page.locator('#self-check input').first
+        self.assertFalse(task.is_checked());task.check();self.page.reload()
+        self.assertTrue(self.page.locator('#self-check input').first.is_checked())
+        self.page.goto(self.url+'#PQ09')
+        self.assertFalse(self.page.locator('#self-check input').first.is_checked())
+        self.assertIn('/y/',self.page.locator('#lesson-title').inner_text())
+        self.page.goto(self.url+'#PC03')
+        self.assertIn('/y/',self.page.locator('#lesson-title').inner_text())
+        self.page.goto(self.url+'#NA101')
+        self.assertIn('已学',self.page.locator('#mark').inner_text())
+        self.page.goto(self.url+'#NA201')
+        self.assertTrue(self.page.locator('#self-check input').first.is_checked())
+        self.assertTrue(self.page.evaluate('document.documentElement.scrollWidth<=innerWidth'))
+
     def test_recall_hides_all_answer_hints_and_keeps_same_image(self):
         self.open(); self.page.locator('.lesson-card').first.click()
         self.page.locator('#anchor-fr').wait_for(state='visible')
