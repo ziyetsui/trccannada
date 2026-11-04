@@ -3,16 +3,19 @@ import copy
 import hashlib
 import importlib.util
 import json
+import os
 import tempfile
 import unittest
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(os.environ.get('TEXTBOOK_TEST_ROOT', Path(__file__).resolve().parents[1]))
 SCRIPT = ROOT / 'learning-library/textbooks/build.py'
 
 class BuildTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
+        if not SCRIPT.exists():
+            raise unittest.SkipTest('Plaintext builder is private; set TEXTBOOK_TEST_ROOT to the private source edition.')
         spec = importlib.util.spec_from_file_location('textbooks_build', SCRIPT)
         cls.module = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(cls.module)

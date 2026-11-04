@@ -1,0 +1,11 @@
+{
+  "name": "trccannada-publishing",
+  "private": true,
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests -p \"test_*.py\" -v",
+    "protect:textbooks": "python3 scripts/protect_textbooks.py"
+  },
+  "devDependencies": {
+    "staticrypt": "3.5.4"
+  }
+}

@@ -18,6 +18,8 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 class BrowserTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
+        if 'staticryptEncryptedMsgUniqueVariableName' in (ROOT/'learning-library/textbooks/index.html').read_text():
+            raise unittest.SkipTest('Use test_textbooks_access.py for the encrypted edition, or TEXTBOOK_TEST_ROOT for the private edition.')
         cls.server = http.server.ThreadingHTTPServer(('127.0.0.1',0),functools.partial(Handler,directory=str(ROOT)))
         threading.Thread(target=cls.server.serve_forever,daemon=True).start()
         cls.url = f'http://127.0.0.1:{cls.server.server_port}/trccannada/learning-library/textbooks/'

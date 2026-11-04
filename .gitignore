@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 *.baiduyun.uploading.cfg
+
+node_modules/
+.env
+.env.*
+.staticrypt.json
+.textbooks-encrypt-*/
