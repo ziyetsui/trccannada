@@ -84,6 +84,8 @@ with sync_playwright() as p:
     for path in ['lessons/NA0A.md','content/nihao-a2.json','template.html','app.js','build.py','illustrations.json','source-coverage.json']:
         assert context.request.get(url+path).status==404,path
     page.get_by_role('link',name='返回公开学习库 →').click()
+    page.wait_for_url(url.removesuffix('textbooks/'))
+    page.wait_for_function("document.querySelectorAll('.book-card').length===9")
     assert page.locator('.book-card').count()==9
     assert not errors,errors
     context.close()

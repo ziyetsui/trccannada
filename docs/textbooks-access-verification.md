@@ -11,3 +11,9 @@
 - 仓库扫描：教材目录147个文件，仅加密HTML与146个WebP；凭证不在仓库任何非Git/依赖文件中。`git diff --check`通过；npm安装审计0漏洞。
 
 已知边界：图片、公开Git历史及其他旧分支仍公开。本次未改写历史或改变仓库可见性。
+
+## 线上复验
+
+功能提交`92a7789`已推送到发布分支，GitHub Pages构建、部署和状态回报全部成功：[部署记录](https://github.com/ziyetsui/trccannada/actions/runs/41802914865)。
+
+对正式网址执行`tests/check_textbooks_access.py --url https://ziyetsui.github.io/trccannada/learning-library/textbooks/ --password-file <private-file>`全部通过，覆盖上面的289课实际页面检查；原始Markdown、JSON、模板、app.js、构建器和来源清单路径返回404。访问码未出现在传输HTML中。返回公开学习库的线上检查显式等待导航与目录呈现，避免用跳转前的卡片数误报；修正等待后正式网址检查通过。独立代码审查未发现需修复的问题。

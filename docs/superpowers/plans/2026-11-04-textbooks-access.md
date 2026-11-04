@@ -18,4 +18,4 @@
 - [x] Preserve the full editable edition privately, generate a strong local code, add failing access-gate browser and publishing tests.
 - [x] Add a pinned StatiCrypt dependency, Chinese template and a fail-closed publish script accepting a private source directory and environment password. Remove current plaintext textbook artifacts after successfully encrypting.
 - [x] Run the gate integration tests and existing source/build/browser checks against the private edition; inspect the exact public diff and scan for raw course content and credentials.
-- [ ] Commit and push the authorized publishing branch; wait for Pages deployment and repeat browser and raw-path checks against the live URL. Deliver the access code and private-source maintenance instructions.
+- [x] Commit and push the authorized publishing branch; wait for Pages deployment and repeat browser and raw-path checks against the live URL. Deliver the access code and private-source maintenance instructions.
